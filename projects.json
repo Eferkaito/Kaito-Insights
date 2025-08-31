@@ -1,0 +1,820 @@
+{
+  "data": [
+    {
+      "name": "0G",
+      "link": "0g",
+      "category": "preTGE",
+      "ticker": "0G",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252F0G%252F0G.jpg/w=64&q=90",
+      "id": 1
+    },
+    {
+      "name": "Thrive Protocol",
+      "link": "thrive",
+      "category": "preTGE",
+      "ticker": "THRIVE",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTHRIVE%252FTHRIVE.jpg/w=64&q=90",
+      "id": 2
+    },
+    {
+      "name": "Allora",
+      "link": "allora",
+      "category": "preTGE",
+      "ticker": "ALLORA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FALLORA%252FALLORA.jpg/w=64&q=90",
+      "id": 3
+    },
+    {
+      "name": "Virtuals Protocol",
+      "link": "virtual",
+      "category": "postTGE",
+      "ticker": "VIRTUALECOSYSTEM",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FVIRTUAL%252FVIRTUAL.png/w=64&q=90",
+      "id": 4
+    },
+    {
+      "name": "Polkadot",
+      "link": "polkadot",
+      "category": "postTGE",
+      "ticker": "DOT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FDOT%252FDOT.jpg/w=64&q=90",
+      "id": 5
+    },
+    {
+      "name": "MANTRA",
+      "link": "mantra",
+      "category": "postTGE",
+      "ticker": "OM",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FOM%252FOM_1.png/w=64&q=90",
+      "id": 6
+    },
+    {
+      "name": "Portal to BTC",
+      "link": "portaltobitcoin",
+      "category": "preTGE",
+      "ticker": "PORTALPORTAL",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPORTALPORTAL%252FPORTALPORTAL.png/w=64&q=90",
+      "id": 7
+    },
+    {
+      "name": "Soul Protocol",
+      "link": "soul",
+      "category": "preTGE",
+      "ticker": "SO",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSO%252FSO.png/w=64&q=90",
+      "id": 8
+    },
+    {
+      "name": "Berachain",
+      "link": "berachain",
+      "category": "postTGE",
+      "ticker": "BERA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fyapper%252Ficon%252FBerachain.svg/w=64&q=90",
+      "id": 9
+    },
+    {
+      "name": "Mantle",
+      "link": "mantle",
+      "category": "postTGE",
+      "ticker": "MNT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMNT%252FMNT.png/w=64&q=90",
+      "id": 10
+    },
+    {
+      "name": "Aptos",
+      "link": "aptos",
+      "category": "postTGE",
+      "ticker": "APT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FAPT%252F0698861d44f2b92255c827d10a6479f1/w=64&q=90",
+      "id": 11
+    },
+    {
+      "name": "Humanity Protocol",
+      "link": "humanity",
+      "category": "postTGE",
+      "ticker": "HUMANITY",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FHUMANITY%252FHUMANITY.jpg%253Fv%253D1/w=64&q=90",
+      "id": 12
+    },
+    {
+      "name": "Caldera",
+      "link": "caldera",
+      "category": "postTGE",
+      "ticker": "CALDERA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FCALDERA%252FCALDERA.png/w=64&q=90",
+      "id": 13
+    },
+    {
+      "name": "Eclipse",
+      "link": "eclipse",
+      "category": "postTGE",
+      "ticker": "ECLIPSE",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fyapper%252Fpng%252FEclipse.png/w=64&q=90",
+      "id": 14
+    },
+    {
+      "name": "Fogo",
+      "link": "fogo",
+      "category": "preTGE",
+      "ticker": "FOGO",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FFOGO%252FFOGO.png/w=64&q=90",
+      "id": 15
+    },
+    {
+      "name": "Camp Network",
+      "link": "camp",
+      "category": "preTGE",
+      "ticker": "CAMP",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FCAMP%252FCAMP.jpg/w=64&q=90",
+      "id": 16
+    },
+    {
+      "name": "Novastro",
+      "link": "novastro",
+      "category": "preTGE",
+      "ticker": "NYT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FNYT%252FNYT.png/w=64&q=90",
+      "id": 17
+    },
+    {
+      "name": "Defi App",
+      "link": "defidotapp",
+      "category": "postTGE",
+      "ticker": "DEFIAPP",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FDEFIAPP%252FDEFIAPP.jpg/w=64&q=90",
+      "id": 18
+    },
+    {
+      "name": "Boop",
+      "link": "boop",
+      "category": "postTGE",
+      "ticker": "BOOPBOOPFUN",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBOOPBOOPFUN%252FBOOPBOOPFUN.png/w=64&q=90",
+      "id": 20
+    },
+    {
+      "name": "MapleStory Universe",
+      "link": "msu",
+      "category": "postTGE",
+      "ticker": "MAPLESTORYUNIVERSE",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMAPLESTORYUNIVERSE%252FMAPLESTORYUNIVERSE.jpg/w=64&q=90",
+      "id": 21
+    },
+    {
+      "name": "Story",
+      "link": "story-protocol",
+      "category": "postTGE",
+      "ticker": "STORYPROTOCOL",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSTORYPROTOCOL%252FSTORYPROTOCOL.png/w=64&q=90",
+      "id": 22
+    },
+    {
+      "name": "Hyperbolic",
+      "link": "hyperbolic",
+      "category": "",
+      "ticker": "HYPERBOLIC",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FHYPERBOLIC%252FHYPERBOLIC.jpg/w=64&q=90",
+      "id": 23
+    },
+    {
+      "name": "Irys",
+      "link": "irys",
+      "category": "preTGE",
+      "ticker": "IRYS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FIRYS%252FIRYS.jpg/w=64&q=90",
+      "id": 24
+    },
+    {
+      "name": "MegaETH",
+      "link": "megaeth",
+      "category": "preTGE",
+      "ticker": "MEGAETH",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMEGAETH%252FMEGAETH.jpg/w=64&q=90",
+      "id": 25
+    },
+    {
+      "name": "Multibank",
+      "link": "multibank",
+      "category": "postTGE",
+      "ticker": "MULTIBANK",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMULTIBANK%252FMULTIBANK.jpg/w=64&q=90",
+      "id": 26
+    },
+    {
+      "name": "Newton",
+      "link": "newton",
+      "category": "postTGE",
+      "ticker": "NEWTON",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FNEWTON%252FNEWTON.jpg/w=64&q=90",
+      "id": 27
+    },
+    {
+      "name": "PARADEX",
+      "link": "paradex",
+      "category": "preTGE",
+      "ticker": "PARADEX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fyapper%252Ficon%252Fparadex.png%253Fv%253D1/w=64&q=90",
+      "id": 28
+    },
+    {
+      "name": "Sidekick",
+      "link": "sidekick",
+      "category": "preTGE",
+      "ticker": "SIDEKICK",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSIDEKICK%252FSIDEKICK.jpg/w=64&q=90",
+      "id": 29
+    },
+    {
+      "name": "Somnia",
+      "link": "somnia",
+      "category": "preTGE",
+      "ticker": "SOMNIA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSOMNIA%252FSOMNIA.jpg/w=64&q=90",
+      "id": 30
+    },
+    {
+      "name": "Symphony",
+      "link": "symphony",
+      "category": "preTGE",
+      "ticker": "SYMPHONY",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSYMPHONY%252FSYMPHONY.jpg/w=64&q=90",
+      "id": 31
+    },
+    {
+      "name": "YEET",
+      "link": "yeet",
+      "category": "preTGE",
+      "ticker": "YEET",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FYEET%252FYEET.jpg/w=64&q=90",
+      "id": 32
+    },
+    {
+      "name": "dYdX",
+      "link": "dydx",
+      "category": "postTGE",
+      "ticker": "DYDX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FDYDX%252FDYDX.jpg/w=64&q=90",
+      "id": 33
+    },
+    {
+      "name": "Initia",
+      "link": "initia",
+      "category": "postTGE",
+      "ticker": "INITIA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FINITIA%252FINITIA.jpg/w=64&q=90",
+      "id": 34
+    },
+    {
+      "name": "Kaia",
+      "link": "kaia",
+      "category": "postTGE",
+      "ticker": "KAIA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FKAIA%252FKAIA.png/w=64&q=90",
+      "id": 35
+    },
+    {
+      "name": "Pyth",
+      "link": "pyth",
+      "category": "postTGE",
+      "ticker": "PYTH",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPYTH%252FPYTH.png/w=64&q=90",
+      "id": 36
+    },
+    {
+      "name": "Sei",
+      "link": "sei",
+      "category": "postTGE",
+      "ticker": "SEI",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSEI%252Fec92adf7ddda0286110f4ee4adf4f722/w=64&q=90",
+      "id": 37
+    },
+    {
+      "name": "Sophon",
+      "link": "sophon",
+      "category": "postTGE",
+      "ticker": "SOPHON",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSOPHON%252FSOPHON.jpg/w=64&q=90",
+      "id": 38
+    },
+    {
+      "name": "XION",
+      "link": "xion",
+      "category": "postTGE",
+      "ticker": "XION",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fyapper%252Ficon%252Fxion.png/w=64&q=90",
+      "id": 39
+    },
+    {
+      "name": "Theoriq",
+      "link": "theoriq",
+      "category": "preTGE",
+      "ticker": "THEORIQ",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTHEORIQ%252FTHEORIQ.jpg/w=64&q=90",
+      "id": 40
+    },
+    {
+      "name": "Union",
+      "link": "union",
+      "category": "preTGE",
+      "ticker": "UNION",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FUNION%252FUNION.png/w=64&q=90",
+      "id": 41
+    },
+    {
+      "name": "PENGU",
+      "link": "pengu",
+      "category": "postTGE",
+      "ticker": "PENGU",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPENGU%252FPENGU.png/w=64&q=90",
+      "id": 42
+    },
+    {
+      "name": "Kaito",
+      "link": "kaito",
+      "category": "postTGE",
+      "ticker": "KAITO",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fwww.kaito.ai%252Fhead_pic-dark.png/w=64&q=90",
+      "id": 43
+    },
+    {
+      "name": "QUAI",
+      "link": "quai",
+      "category": "postTGE",
+      "ticker": "QUAI",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FQUAI%252FQUAI.jpg/w=64&q=90",
+      "id": 44
+    },
+    {
+      "name": "SOON",
+      "link": "soon",
+      "category": "postTGE",
+      "ticker": "SOON",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSOON%252FSOON.png/w=64&q=90",
+      "id": 45
+    },
+    {
+      "name": "Wayfinder",
+      "link": "wayfinder",
+      "category": "postTGE",
+      "ticker": "WAYFINDER",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FWAYFINDER%252FWAYFINDER.jpg/w=64&q=90",
+      "id": 46
+    },
+    {
+      "name": "Huma",
+      "link": "huma",
+      "category": "postTGE",
+      "ticker": "HUMAFINANCE",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FHUMAFINANCE%252FHUMAFINANCE.png/w=64&q=90",
+      "id": 47
+    },
+    {
+      "name": "ANIME",
+      "link": "anime",
+      "category": "postTGE",
+      "ticker": "ANIME",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANIME%252FANIME.jpg/w=64&q=90",
+      "id": 48
+    },
+    {
+      "name": "SatLayer",
+      "link": "satlayer",
+      "category": "preTGE",
+      "ticker": "SATLAYER",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSATLAYER%252FSATLAYER.png/w=64&q=90",
+      "id": 49
+    },
+    {
+      "name": "Succinct",
+      "link": "succinct",
+      "category": "postTGE",
+      "ticker": "SUCCINCT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSUCCINCT%252FSUCCINCT.jpg/w=64&q=90",
+      "id": 50
+    },
+    {
+      "name": "Arbitrum",
+      "link": "arbitrum",
+      "category": "postTGE",
+      "ticker": "ARB",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FARB%252FARB.png/w=64&q=90",
+      "id": 51
+    },
+    {
+      "name": "Near",
+      "link": "near",
+      "category": "postTGE",
+      "ticker": "NEAR",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FNEAR%252F5515f26bd8870ae5953ebac9067383ae/w=64&q=90",
+      "id": 52
+    },
+    {
+      "name": "Mitosis",
+      "link": "mitosis",
+      "category": "preTGE",
+      "ticker": "MITOSIS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMITOSIS%252FMITOSIS.jpg/w=64&q=90",
+      "id": 53
+    },
+    {
+      "name": "CT Leaderboard",
+      "link": "ct-leaderboard",
+      "category": "general",
+      "ticker": "",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fyapper%252Ficon%252Fct-leaderboard.svg/w=64&q=90",
+      "id": 54
+    },
+    {
+      "name": "Movement",
+      "link": "movement",
+      "category": "postTGE",
+      "ticker": "MOVEMENT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMOVEMENT%252FMOVEMENT.jpg/w=64&q=90",
+      "id": 55
+    },
+    {
+      "name": "IQ",
+      "link": "iq",
+      "category": "postTGE",
+      "ticker": "IQ",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FIQ%252F45a8f74e599aec431cf690f66d8d4b0d/w=64&q=90",
+      "id": 56
+    },
+    {
+      "name": "Corn",
+      "link": "corn",
+      "category": "postTGE",
+      "ticker": "CORN",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FCORN%252FCORN.png/w=64&q=90",
+      "id": 57
+    },
+    {
+      "name": "OpenLedger",
+      "link": "openledger",
+      "category": "preTGE",
+      "ticker": "OPENLEDGER",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FOPENLEDGER%252FOPENLEDGER.jpg/w=64&q=90",
+      "id": 58
+    },
+    {
+      "name": "Kinto",
+      "link": "kinto",
+      "category": "postTGE",
+      "ticker": "KINTO",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FKINTO%252FKINTO.png/w=64&q=90",
+      "id": 59
+    },
+    {
+      "name": "Skate",
+      "link": "skate",
+      "category": "postTGE",
+      "ticker": "SKATE",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSKATE%252FSKATE.jpg/w=64&q=90",
+      "id": 60
+    },
+    {
+      "name": "Lombard",
+      "link": "lombard",
+      "category": "preTGE",
+      "ticker": "LOMBARD",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FLOMBARD%252FLOMBARD.png/w=64&q=90",
+      "id": 61
+    },
+    {
+      "name": "Starknet",
+      "link": "starknet",
+      "category": "postTGE",
+      "ticker": "STARKNET",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSTARKNET%252FSTARKNET.png/w=64&q=90",
+      "id": 62
+    },
+    {
+      "name": "Infinex",
+      "link": "infinex",
+      "category": "preTGE",
+      "ticker": "INFINEX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FINFINEX%252FINFINEX.jpg/w=64&q=90",
+      "id": 64
+    },
+    {
+      "name": "Frax",
+      "link": "frax",
+      "category": "postTGE",
+      "ticker": "FRAX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FFRAX%252F6b6aaf014e21732d8fbc4592086a74e8/w=64&q=90",
+      "id": 65
+    },
+    {
+      "name": "FUEL",
+      "link": "fuel",
+      "category": "postTGE",
+      "ticker": "FUEL",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fyapper%252FFUEL.jpg/w=64&q=90",
+      "id": 66
+    },
+    {
+      "name": "Monad",
+      "link": "monad",
+      "category": "preTGE",
+      "ticker": "MONAD",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fyapper%252Ficon%252FMonad.png/w=64&q=90",
+      "id": 67
+    },
+    {
+      "name": "Multipli",
+      "link": "multipli",
+      "category": "preTGE",
+      "ticker": "MULTIPLI",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMULTIPLI%252FMULTIPLI.png/w=64&q=90",
+      "id": 68
+    },
+    {
+      "name": "PuffPaw",
+      "link": "puffpaw",
+      "category": "preTGE",
+      "ticker": "PUFFPAW",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPUFFPAW%252FPUFFPAW.png/w=64&q=90",
+      "id": 69
+    },
+    {
+      "name": "Injective",
+      "link": "injective",
+      "category": "postTGE",
+      "ticker": "INJ",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FINJ%252FINJ.png/w=64&q=90",
+      "id": 70
+    },
+    {
+      "name": "Zcash",
+      "link": "zcash",
+      "category": "postTGE",
+      "ticker": "ZEC",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FZEC%252F3e3b5d8d0c039a6e28075284a7d70862/w=64&q=90",
+      "id": 71
+    },
+    {
+      "name": "Katana",
+      "link": "katana",
+      "category": "preTGE",
+      "ticker": "KAT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FKAT%252FKAT.png/w=64&q=90",
+      "id": 72
+    },
+    {
+      "name": "Mira Network",
+      "link": "mira",
+      "category": "preTGE",
+      "ticker": "MIRA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMIRA%252FMIRA.jpg/w=64&q=90",
+      "id": 73
+    },
+    {
+      "name": "UXLINK",
+      "link": "uxlink",
+      "category": "postTGE",
+      "ticker": "UXLINK",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FUXLINK%252FUXLINK.jpg/w=64&q=90",
+      "id": 74
+    },
+    {
+      "name": "CreatorBid",
+      "link": "creatorbid",
+      "category": "postTGE",
+      "ticker": "CREATORBID",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FCREATORBID%252FCREATORBID.jpg/w=64&q=90",
+      "id": 75
+    },
+    {
+      "name": "Noya.ai",
+      "link": "noya",
+      "category": "preTGE",
+      "ticker": "NOYA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FNOYA%252FNOYA.jpg/w=64&q=90",
+      "id": 78
+    },
+    {
+      "name": "Hana",
+      "link": "hana",
+      "category": "preTGE",
+      "ticker": "HANAHANA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FHANAHANA%252FHANAHANA.jpg/w=64&q=90",
+      "id": 79
+    },
+    {
+      "name": "GOAT Network",
+      "link": "goatnetwork",
+      "category": "preTGE",
+      "ticker": "GOATNETWORK",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FGOATNETWORK%252FGOATNETWORK.jpg/w=64&q=90",
+      "id": 80
+    },
+    {
+      "name": "Warden Protocol",
+      "link": "warden",
+      "category": "preTGE",
+      "ticker": "WARP",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FWARP%252FWARP.png%253Fv%253D1/w=64&q=90",
+      "id": 81
+    },
+    {
+      "name": "PEAQ",
+      "link": "peaq",
+      "category": "postTGE",
+      "ticker": "PEAQ",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPEAQ%252FPEAQ.png/w=64&q=90",
+      "id": 82
+    },
+    {
+      "name": "Bless",
+      "link": "bless",
+      "category": "preTGE",
+      "ticker": "BLS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBLS%252FBLS.png%253Fv%253D1/w=64&q=90",
+      "id": 83
+    },
+    {
+      "name": "Boundless",
+      "link": "boundless",
+      "category": "preTGE",
+      "ticker": "BOUNDLESS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBOUNDLESS%252FBOUNDLESS.jpg/w=64&q=90",
+      "id": 84
+    },
+    {
+      "name": "Turtle Club",
+      "link": "turtleclub",
+      "category": "preTGE",
+      "ticker": "TURTLECLUB",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTURTLECLUB%252FTURTLECLUB.png/w=64&q=90",
+      "id": 85
+    },
+    {
+      "name": "Anoma",
+      "link": "anoma",
+      "category": "preTGE",
+      "ticker": "ANOMA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANOMA%252FANOMA.jpg/w=64&q=90",
+      "id": 86
+    },
+    {
+      "name": "Lumiterra",
+      "link": "lumiterra",
+      "category": "preTGE",
+      "ticker": "LUMITERRA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FLUMITERRA%252FLUMITERRA.png/w=64&q=90",
+      "id": 87
+    },
+    {
+      "name": "Orderly",
+      "link": "orderly",
+      "category": "postTGE",
+      "ticker": "ORDERLYNETWORK",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FORDERLYNETWORK%252FORDERLYNETWORK.jpg/w=64&q=90",
+      "id": 88
+    },
+    {
+      "name": "MemeX",
+      "link": "memex",
+      "category": "preTGE",
+      "ticker": "MEMEX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMEMEX%252FMEMEX.png%253Fv%253D1/w=64&q=90",
+      "id": 89
+    },
+    {
+      "name": "Sonic",
+      "link": "sonic",
+      "category": "postTGE",
+      "ticker": "S",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FS%252FS.png/w=64&q=90",
+      "id": 90
+    },
+    {
+      "name": "Surf",
+      "link": "surf",
+      "category": "preTGE",
+      "ticker": "SURF",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSURF%252FSURF.jpg/w=64&q=90",
+      "id": 91
+    },
+    {
+      "name": "INFINIT",
+      "link": "infinit",
+      "category": "postTGE",
+      "ticker": "INFINIT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FINFINIT%252FINFINIT.png/w=64&q=90",
+      "id": 92
+    },
+    {
+      "name": "Cysic",
+      "link": "cysic",
+      "category": "preTGE",
+      "ticker": "CYSIC",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FCYSIC%252FCYSIC.png/w=64&q=90",
+      "id": 94
+    },
+    {
+      "name": "Bybit",
+      "link": "bybit",
+      "category": "postTGE",
+      "ticker": "BYBITTRADFI",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBYBIT%252FBYBIT.jpg/w=64&q=90",
+      "id": 95
+    },
+    {
+      "name": "Polygon",
+      "link": "polygon",
+      "category": "postTGE",
+      "ticker": "POL",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPOL%252FPOL.png/w=64&q=90",
+      "id": 96
+    },
+    {
+      "name": "Bluefin",
+      "link": "bluefin",
+      "category": "postTGE",
+      "ticker": "BLUE",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBLUE%252FBLUE2.png/w=64&q=90",
+      "id": 97
+    },
+    {
+      "name": "Momentum",
+      "link": "momentum",
+      "category": "preTGE",
+      "ticker": "MOMENTUM",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMOMENTUM%252FMOMENTUM.png/w=64&q=90",
+      "id": 98
+    },
+    {
+      "name": "Billions Network",
+      "link": "billions",
+      "category": "preTGE",
+      "ticker": "BILLIONS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBILLIONS%252FBILLIONS.jpg/w=64&q=90",
+      "id": 99
+    },
+    {
+      "name": "Falcon Finance",
+      "link": "falcon",
+      "category": "preTGE",
+      "ticker": "FALCON",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FFALCON%252FFALCON.png/w=64&q=90",
+      "id": 100
+    },
+    {
+      "name": "Sapien",
+      "link": "sapien",
+      "category": "preTGE",
+      "ticker": "SAPIEN",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSAPIEN%252FSAPIEN.jpg/w=64&q=90",
+      "id": 101
+    },
+    {
+      "name": "Walrus",
+      "link": "walrus",
+      "category": "postTGE",
+      "ticker": "WAL",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FWAL%252FWAL.png/w=64&q=90",
+      "id": 102
+    },
+    {
+      "name": "EverlynAI",
+      "link": "everlyn",
+      "category": "preTGE",
+      "ticker": "EVERLYN",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FEVERLYN%252FEVERLYN.jpg/w=64&q=90",
+      "id": 103
+    },
+    {
+      "name": "Ethereum",
+      "link": "ethereum",
+      "category": "postTGE",
+      "ticker": "ETH",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FETH%252F31fdc17042186e3c6d95269281e06a94/w=64&q=90",
+      "id": 104
+    },
+    {
+      "name": "Mavryk",
+      "link": "mavryk",
+      "category": "preTGE",
+      "ticker": "MAVRYK",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMAVRYK%252FMAVRYK.jpg/w=64&q=90",
+      "id": 105
+    },
+    {
+      "name": "Moonbirds",
+      "link": "moonbirds",
+      "category": "preTGE",
+      "ticker": "MOONBIRDS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMOONBIRDS%252FMOONBIRDS.jpg/w=64&q=90",
+      "id": 106
+    },
+    {
+      "name": "PlayAI",
+      "link": "playai",
+      "category": "preTGE",
+      "ticker": "PLAYAI",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPLAYAI%252FPLAYAI.jpg/w=64&q=90",
+      "id": 107
+    }
+  ]
+}

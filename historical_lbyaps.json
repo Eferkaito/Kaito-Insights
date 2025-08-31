@@ -1,0 +1,272 @@
+{
+  "anoma": {
+    "7D": {
+      "smart_followers_min": [
+        28.0
+      ],
+      "smart_followers_min_users": [
+        "jeansonlau"
+      ],
+      "yaps_min": [
+        1.23
+      ],
+      "yaps_min_users": [
+        "sontanidonghei"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        28.0
+      ],
+      "smart_followers_min_users": [
+        "jeansonlau"
+      ],
+      "yaps_min": [
+        79.92
+      ],
+      "yaps_min_users": [
+        "jundeu00"
+      ]
+    }
+  },
+  "aptos": {
+    "7D": {
+      "smart_followers_min": [
+        6.0
+      ],
+      "smart_followers_min_users": [
+        "Ghosterx4x"
+      ],
+      "yaps_min": [
+        0.73
+      ],
+      "yaps_min_users": [
+        "MR_DONNY__"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        6.0
+      ],
+      "smart_followers_min_users": [
+        "Ghosterx4x"
+      ],
+      "yaps_min": [
+        2.69
+      ],
+      "yaps_min_users": [
+        "nobipinkboop"
+      ]
+    }
+  },
+  "arbitrum": {
+    "7D": {
+      "smart_followers_min": [
+        24.0
+      ],
+      "smart_followers_min_users": [
+        "defikadic"
+      ],
+      "yaps_min": [
+        214.1
+      ],
+      "yaps_min_users": [
+        "vec0zy"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        157.0
+      ],
+      "smart_followers_min_users": [
+        "chaozuoye"
+      ],
+      "yaps_min": [
+        148.82
+      ],
+      "yaps_min_users": [
+        "AgentChud"
+      ]
+    }
+  },
+  "ethereum": {
+    "7D": {
+      "smart_followers_min": [
+        219.0
+      ],
+      "smart_followers_min_users": [
+        "materkel"
+      ],
+      "yaps_min": [
+        608.12
+      ],
+      "yaps_min_users": [
+        "CryptoGucci"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        219.0
+      ],
+      "smart_followers_min_users": [
+        "materkel"
+      ],
+      "yaps_min": [
+        608.12
+      ],
+      "yaps_min_users": [
+        "CryptoGucci"
+      ]
+    }
+  },
+  "kaia": {
+    "7D": {
+      "smart_followers_min": [
+        137.0
+      ],
+      "smart_followers_min_users": [
+        "museowunsaram"
+      ],
+      "yaps_min": [
+        330.44
+      ],
+      "yaps_min_users": [
+        "bug4what"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        137.0
+      ],
+      "smart_followers_min_users": [
+        "museowunsaram"
+      ],
+      "yaps_min": [
+        234.46
+      ],
+      "yaps_min_users": [
+        "medo_NFP"
+      ]
+    }
+  },
+  "kaito": {
+    "7D": {
+      "smart_followers_min": [
+        55.0
+      ],
+      "smart_followers_min_users": [
+        "etrouble562"
+      ],
+      "yaps_min": [
+        101.15
+      ],
+      "yaps_min_users": [
+        "nftosmosis"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        69.0
+      ],
+      "smart_followers_min_users": [
+        "0xfarmed"
+      ],
+      "yaps_min": [
+        244.67
+      ],
+      "yaps_min_users": [
+        "doranmaul"
+      ]
+    }
+  },
+  "mitosis": {
+    "7D": {
+      "smart_followers_min": [
+        3.0
+      ],
+      "smart_followers_min_users": [
+        "beszedin"
+      ],
+      "yaps_min": [
+        0.32
+      ],
+      "yaps_min_users": [
+        "AntonioBen_"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        2.0
+      ],
+      "smart_followers_min_users": [
+        "benshi2k6"
+      ],
+      "yaps_min": [
+        0.32
+      ],
+      "yaps_min_users": [
+        "AntonioBen_"
+      ]
+    }
+  },
+  "polkadot": {
+    "7D": {
+      "smart_followers_min": [
+        38.0
+      ],
+      "smart_followers_min_users": [
+        "KarimJDDA"
+      ],
+      "yaps_min": [
+        52.11
+      ],
+      "yaps_min_users": [
+        "GldnCalf"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        38.0
+      ],
+      "smart_followers_min_users": [
+        "KarimJDDA"
+      ],
+      "yaps_min": [
+        28.44
+      ],
+      "yaps_min_users": [
+        "itsbirdo_"
+      ]
+    }
+  },
+  "sonic": {
+    "7D": {
+      "smart_followers_min": [
+        2.0
+      ],
+      "smart_followers_min_users": [
+        "De_Ciphera"
+      ],
+      "yaps_min": [
+        1.23
+      ],
+      "yaps_min_users": [
+        "sontanidonghei"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
+        3.0
+      ],
+      "smart_followers_min_users": [
+        "RandomBinarySEQ"
+      ],
+      "yaps_min": [
+        4.13
+      ],
+      "yaps_min_users": [
+        "acryptoniano"
+      ]
+    }
+  }
+}

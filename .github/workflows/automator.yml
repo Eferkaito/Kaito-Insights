@@ -1,0 +1,200 @@
+name: Daily data refresh
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 0,2,4,6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-data
+  cancel-in-progress: true
+
+jobs:
+  daily-data-refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Set GNUPGHOME (use runner temp)
+        run: |
+          echo "GNUPGHOME=$RUNNER_TEMP/gnupg" >> "$GITHUB_ENV"
+          mkdir -p "$RUNNER_TEMP/gnupg"
+          chmod 700 "$RUNNER_TEMP/gnupg"
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests python-dotenv
+          fi
+
+      - name: Create .env from secrets
+        run: |
+          {
+            echo "ENDPOINT_KAITO_LEADERBOARD=${{ secrets.ENDPOINT_KAITO_LEADERBOARD }}";
+            echo "ENDPOINT_YAP_BULK_ALLTIME=${{ secrets.ENDPOINT_YAP_BULK_ALLTIME }}";
+            # optional tunables
+            if [ -n "${{ secrets.YAP_BULK_BATCH_SIZE }}" ]; then echo "YAP_BULK_BATCH_SIZE=${{ secrets.YAP_BULK_BATCH_SIZE }}"; fi
+            if [ -n "${{ secrets.YAP_MAX_URL_LEN }}" ]; then echo "YAP_MAX_URL_LEN=${{ secrets.YAP_MAX_URL_LEN }}"; fi
+            if [ -n "${{ secrets.YAP_VERBOSE_SPLIT }}" ]; then echo "YAP_VERBOSE_SPLIT=${{ secrets.YAP_VERBOSE_SPLIT }}"; fi
+          } > .env
+
+      - name: Prepare folders
+        run: mkdir -p .github/scripts
+
+      - name: Generate timestamp (UTC)
+        id: timestamp
+        run: echo "now=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
+
+      - name: Skip if last commit was [Auto]
+        id: skip_auto
+        run: |
+          LAST_COMMIT=$(git log -1 --pretty=%B || echo "")
+          echo "Last commit: $LAST_COMMIT"
+          if echo "$LAST_COMMIT" | grep -q '\[Auto\]'; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Import GPG and configure git
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+          GPG_KEY_ID: ${{ secrets.GPG_KEY_ID }}
+          GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+        run: |
+          echo "🔐 Configuring GPG"
+          echo "use-agent" > "$GNUPGHOME/gpg.conf"
+          echo "pinentry-mode loopback" >> "$GNUPGHOME/gpg.conf"
+          echo "allow-loopback-pinentry" > "$GNUPGHOME/gpg-agent.conf"
+          echo "default-cache-ttl 600" >> "$GNUPGHOME/gpg-agent.conf"
+          echo "max-cache-ttl 7200" >> "$GNUPGHOME/gpg-agent.conf"
+          gpgconf --kill gpg-agent || true
+          gpgconf --launch gpg-agent || true
+
+          echo "$GPG_PRIVATE_KEY" | gpg --batch --yes --import
+          echo "$GPG_PASSPHRASE" | gpg --batch --yes --passphrase-fd 0 --pinentry-mode loopback --output /dev/null --sign /dev/null
+
+          git config user.name  "$GIT_USER_NAME"
+          git config user.email "$GIT_USER_EMAIL"
+          git config --global user.signingkey "$GPG_KEY_ID"
+          git config --global commit.gpgsign true
+          git config --global tag.gpgSign true
+          git config --global gpg.program gpg
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+
+      # --- helper script: signed push with cleanup + [skip ci] ---
+      - name: Create signed push helper
+        run: |
+          cat > .github/scripts/signed_push.sh <<'SH'
+          #!/usr/bin/env bash
+          set -euo pipefail
+          MSG="${1:-Auto commit}"
+
+          echo "🧹 Cleaning temp artifacts before commit..."
+          find . -path ./.git -prune -o -type d \
+            \( -name '__pycache__' -o -name '.pytest_cache' -o -name '.mypy_cache' -o -name '.ruff_cache' -o -name '.ipynb_checkpoints' \) \
+            -exec rm -rf {} +
+          find . -path ./.git -prune -o -type f \
+            \( -name '*.tmp' -o -name '*.temp' -o -name '*.log' -o -name '*.cache' \) \
+            -exec rm -f {} +
+
+          echo "➕ Staging changes..."
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "🟢 No changes to commit for: $MSG"
+            exit 0
+          fi
+
+          echo "🖊️ Committing (GPG-signed) with [skip ci] to avoid loops..."
+          git commit -S -m "[Auto][skip ci] ${MSG}"
+
+          echo "🚀 Pushing..."
+          git push origin HEAD
+          SH
+          chmod +x .github/scripts/signed_push.sh
+
+      # ------------------ Stage 1 ------------------
+      - name: Run projects.py
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        run: |
+          rm -rf projects.json
+          python projects.py
+
+      - name: Commit after Stage 1
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        run: .github/scripts/signed_push.sh "Stage 1 (projects.py) at ${{ steps.timestamp.outputs.now }}"
+
+      # ------------------ Stage 2 ------------------
+      - name: Run lbs.py
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        run: |
+          rm -rf leaderboards
+          python lbs.py
+
+      - name: Commit after Stage 2
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        run: .github/scripts/signed_push.sh "Stage 2 (lbs.py) at ${{ steps.timestamp.outputs.now }}"
+
+      # ------------------ Stage 3 ------------------
+      - name: Run yaps.py
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        run: |
+          rm -rf yaps.json
+          python yaps.py
+
+      - name: Commit after Stage 3
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        run: .github/scripts/signed_push.sh "Stage 3 (yaps.py) at ${{ steps.timestamp.outputs.now }}"
+
+      # ------------------ Stage 4 ------------------
+      - name: Run estimator.py
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        run: |
+          rm -rf historical_lbyaps.json
+          rm -rf statistics.json
+          rm -rf lbyaps
+          python estimator.py
+
+      - name: Commit after Stage 4 (final)
+        if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
+        run: .github/scripts/signed_push.sh "Stage 4 (estimator.py) at ${{ steps.timestamp.outputs.now }}"
+
+      # ------------------ Cleanup ------------------
+      - name: Final cleanup (GPG & temps)
+        if: always()
+        run: |
+          set -eux
+          gpgconf --kill gpg-agent || true
+          [ -n "${GNUPGHOME:-}" ] && rm -rf "$GNUPGHOME" || rm -rf ~/.gnupg || true
+          find . -path ./.git -prune -o -type d \
+            \( -name '__pycache__' -o -name '.pytest_cache' -o -name '.mypy_cache' -o -name '.ruff_cache' -o -name '.ipynb_checkpoints' \) \
+            -exec rm -rf {} + || true
+          find . -path ./.git -prune -o -type f \
+            \( -name '*.tmp' -o -name '*.temp' -o -name '*.log' -o -name '*.cache' \) \
+            -exec rm -f {} +

@@ -40,7 +40,8 @@ def iter_files_ordered() -> List[Tuple[str, str, Path]]:
     """
     if not LEADERBOARDS_DIR.exists():
         raise SystemExit(
-            f"leaderboards directory not found: {LEADERBOARDS_DIR}")
+            f"leaderboards directory not found: {LEADERBOARDS_DIR}"
+        )
 
     by_project: Dict[str, Dict[str, Path]] = {}
     for p in LEADERBOARDS_DIR.glob("*.json"):
@@ -60,25 +61,35 @@ def iter_files_ordered() -> List[Tuple[str, str, Path]]:
     return ordered
 
 
-def extract_usernames(payload: Any) -> List[str]:
+def extract_user_records(payload: Any) -> List[Tuple[str, Optional[float], Optional[float]]]:
     """
+    Returns list of (username, follower_count, smart_follower_count).
     Accepts:
-      - {"data": [ {"username": "..."} ]}
-      - [ {"username": "..."} ]
+      - {"data": [ {...} ]}
+      - [ {...} ]
     """
-    items: Iterable[Any]
     if isinstance(payload, dict) and isinstance(payload.get("data"), list):
         items = payload["data"]
     elif isinstance(payload, list):
         items = payload
     else:
         return []
-    out: List[str] = []
+    out: List[Tuple[str, Optional[float], Optional[float]]] = []
     for it in items:
         if isinstance(it, dict):
             u = it.get("username")
             if isinstance(u, str) and u:
-                out.append(u)
+                f = it.get("follower_count")
+                s = it.get("smart_follower_count")
+                try:
+                    f = float(f) if f is not None else None
+                except Exception:
+                    f = None
+                try:
+                    s = float(s) if s is not None else None
+                except Exception:
+                    s = None
+                out.append((u, f, s))
     return out
 
 
@@ -139,7 +150,8 @@ def fetch_yaps_bulk(
                 if url_len > max_url_len:
                     reasons.append(f"url>{max_url_len}")
                 print(
-                    f"↔️ split(pre) [{', '.join(reasons)}]: {len(group)} -> {len(left)} + {len(right)}")
+                    f"↔️ split(pre) [{', '.join(reasons)}]: {len(group)} -> {len(left)} + {len(right)}"
+                )
             process(left)
             process(right)
             return
@@ -166,7 +178,8 @@ def fetch_yaps_bulk(
                     left, right = group[:mid], group[mid:]
                     if verbose_split:
                         print(
-                            f"🧩 split(5xx {status}): {len(group)} -> {len(left)} + {len(right)}")
+                            f"🧩 split(5xx {status}): {len(group)} -> {len(left)} + {len(right)}"
+                        )
                     process(left)
                     process(right)
                     return
@@ -184,7 +197,8 @@ def fetch_yaps_bulk(
             left, right = group[:mid], group[mid:]
             if verbose_split:
                 print(
-                    f"🧩 split(fallback): {len(group)} -> {len(left)} + {len(right)}")
+                    f"🧩 split(fallback): {len(group)} -> {len(left)} + {len(right)}"
+                )
             process(left)
             process(right)
 
@@ -208,7 +222,7 @@ def main():
     if DB_PATH.exists():
         DB_PATH.unlink()
 
-    # in-memory DB: user -> {"yaps": float|None, "by_tf": {tf: set(projects)}}
+    # in-memory DB: user -> {"yaps": float|None, "by_tf": {tf: set(projects)}, "followers": float|None, "smart_followers": float|None}
     db: Dict[str, Dict[str, Any]] = {}
 
     # staging for new users (not yet fetched)
@@ -216,11 +230,18 @@ def main():
     staged_set: Set[str] = set()
     # user -> tf -> {projects}
     staged_projects: Dict[str, Dict[str, Set[str]]] = {}
+    # user -> {"followers": float|None, "smart": float|None} (first-seen values only)
+    staged_counts: Dict[str, Dict[str, Optional[float]]] = {}
 
     def ensure_entry(user: str) -> Dict[str, Any]:
-        entry = db.setdefault(user, {"yaps": None, "by_tf": {}})
+        entry = db.setdefault(
+            user, {"yaps": None, "by_tf": {}, "followers": None, "smart_followers": None})
         if "by_tf" not in entry or not isinstance(entry["by_tf"], dict):
             entry["by_tf"] = {}
+        if "followers" not in entry:
+            entry["followers"] = None
+        if "smart_followers" not in entry:
+            entry["smart_followers"] = None
         return entry
 
     def persist_db():
@@ -232,6 +253,11 @@ def main():
                 projs = by_tf.get(tf, set())
                 if projs:
                     row[tf] = sorted(projs)
+            # write single followers/smart_followers if available (from first-seen timeframe)
+            if isinstance(entry.get("followers"), (int, float)):
+                row["followers"] = float(entry["followers"])
+            if isinstance(entry.get("smart_followers"), (int, float)):
+                row["smart_followers"] = float(entry["smart_followers"])
             rows.append(row)
 
         def sort_key(r: Dict[str, Any]):
@@ -244,7 +270,7 @@ def main():
     bulk_runs = 0
 
     def flush_stage():
-        nonlocal staged_order, staged_set, staged_projects, db, bulk_runs
+        nonlocal staged_order, staged_set, staged_projects, staged_counts, db, bulk_runs
 
         if not staged_set:
             return
@@ -263,13 +289,23 @@ def main():
                 yaps_val = fetched.get(u, None)
                 entry = ensure_entry(u)
                 entry["yaps"] = yaps_val
+                # attach projects
                 for tf, proj_set in staged_projects.get(u, {}).items():
                     entry["by_tf"].setdefault(tf, set()).update(proj_set)
+                # attach first-seen counts (only if not already set)
+                counts = staged_counts.get(u, {})
+                f = counts.get("followers")
+                s = counts.get("smart")
+                if entry.get("followers") is None and isinstance(f, (int, float)):
+                    entry["followers"] = float(f)
+                if entry.get("smart_followers") is None and isinstance(s, (int, float)):
+                    entry["smart_followers"] = float(s)
 
         bulk_runs += 1
         added = len(db) - pre_count
         print(
-            f"📦 BULK #{bulk_runs}: fetched {total_users} users in {total_chunks} chunk(s) → +{added} new users (DB={len(db)})")
+            f"📦 BULK #{bulk_runs}: fetched {total_users} users in {total_chunks} chunk(s) → +{added} new users (DB={len(db)})"
+        )
 
         # persist incrementally after each bulk
         persist_db()
@@ -278,6 +314,7 @@ def main():
         staged_order = []
         staged_set.clear()
         staged_projects.clear()
+        staged_counts.clear()
 
     files = iter_files_ordered()
     processed_files = 0
@@ -288,21 +325,33 @@ def main():
         except Exception:
             continue
 
-        usernames = extract_usernames(payload)
-        if not usernames:
+        # [(username, followers, smart_followers)]
+        records = extract_user_records(payload)
+        if not records:
             processed_files += 1
             continue
 
-        for u in usernames:
+        for u, f, s in records:
             if u in db:
                 entry = ensure_entry(u)
                 entry["by_tf"].setdefault(tf, set()).add(project)
+                # set first-seen counts if not set yet
+                if entry.get("followers") is None and isinstance(f, (int, float)):
+                    entry["followers"] = float(f)
+                if entry.get("smart_followers") is None and isinstance(s, (int, float)):
+                    entry["smart_followers"] = float(s)
             else:
                 if u not in staged_set:
                     staged_set.add(u)
                     staged_order.append(u)
                 staged_projects.setdefault(
                     u, {}).setdefault(tf, set()).add(project)
+                # keep first-seen counts for this new user until flush
+                sc = staged_counts.setdefault(u, {})
+                if sc.get("followers") is None and isinstance(f, (int, float)):
+                    sc["followers"] = float(f)
+                if sc.get("smart") is None and isinstance(s, (int, float)):
+                    sc["smart"] = float(s)
 
                 if len(staged_set) >= BULK_BATCH_SIZE:
                     flush_stage()

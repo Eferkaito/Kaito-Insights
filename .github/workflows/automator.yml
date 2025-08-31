@@ -176,7 +176,6 @@ jobs:
       - name: Run estimator.py
         if: (steps.skip_auto.outputs.skip != 'true' && github.event_name == 'push') || github.event_name == 'schedule'
         run: |
-          rm -rf historical_lbyaps.json
           rm -rf statistics.json
           rm -rf lbyaps
           python estimator.py

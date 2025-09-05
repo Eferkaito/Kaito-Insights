@@ -1,0 +1,63 @@
+{
+  "user": "tedpillows",
+  "timeframes": {
+    "7D": {
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 0.3047
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.1585
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.1548
+        }
+      ],
+      "camp": [
+        {
+          "t": 1757107649419,
+          "mindshare": 0.583
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1428
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 0.143
+        }
+      ],
+      "mira": [
+        {
+          "t": 1757107576386,
+          "mindshare": 1.0662
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1757108033579,
+          "mindshare": 1.6374
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.194
+        }
+      ]
+    }
+  }
+}

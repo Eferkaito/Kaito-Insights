@@ -1,0 +1,33 @@
+{
+  "user": "capnjackbearow",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 1.5431
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107476424,
+          "mindshare": 33.5847
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.8156
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107479432,
+          "mindshare": 6.3935
+        }
+      ]
+    }
+  }
+}

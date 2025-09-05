@@ -1,0 +1,39 @@
+{
+  "user": "truunik",
+  "timeframes": {
+    "7D": {
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 0.0
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107033438,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 0.413
+        }
+      ],
+      "pyth": [
+        {
+          "t": 1757108396159,
+          "mindshare": 0.0602
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.1088
+        }
+      ]
+    }
+  }
+}

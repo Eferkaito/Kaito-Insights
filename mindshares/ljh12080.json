@@ -1,0 +1,33 @@
+{
+  "user": "ljh12080",
+  "timeframes": {
+    "7D": {
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 0.791
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.2891
+        }
+      ]
+    },
+    "30D": {
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.4692
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.2433
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "user": "fantardio",
+  "timeframes": {
+    "7D": {
+      "infinex": [
+        {
+          "t": 1757107428266,
+          "mindshare": 1.3545
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 0.1745
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 0.8055
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108471256,
+          "mindshare": 0.2163
+        }
+      ]
+    },
+    "30D": {
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.7674
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.3557
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 0.6574
+        }
+      ]
+    }
+  }
+}

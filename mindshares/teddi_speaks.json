@@ -1,0 +1,37 @@
+{
+  "user": "teddi_speaks",
+  "timeframes": {
+    "7D": {
+      "succinct": [
+        {
+          "t": 1755575790582,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757108080839,
+          "mindshare": 0.0
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.2886
+        }
+      ]
+    },
+    "30D": {
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.141
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.1818
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "user": "captain_kent",
+  "timeframes": {
+    "7D": {
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.3651
+        }
+      ]
+    },
+    "30D": {
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.4396
+        }
+      ],
+      "memex": [
+        {
+          "t": 1757106797874,
+          "mindshare": 0.4344
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1757107601065,
+          "mindshare": 0.0777
+        }
+      ]
+    }
+  }
+}

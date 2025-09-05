@@ -1,0 +1,51 @@
+{
+  "user": "scottmelker",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.2339
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.8163
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.0192
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1757108254431,
+          "mindshare": 1.0187
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1667
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 2.3358
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.2529
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "user": "pingsh1011",
+  "timeframes": {
+    "7D": {
+      "cysic": [
+        {
+          "t": 1757107818267,
+          "mindshare": 0.4918
+        }
+      ],
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.8066
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.3231
+        }
+      ]
+    },
+    "30D": {
+      "hana": [
+        {
+          "t": 1757107196384,
+          "mindshare": 0.6421
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.3345
+        }
+      ]
+    }
+  }
+}

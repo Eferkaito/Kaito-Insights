@@ -1,0 +1,51 @@
+{
+  "user": "siwonhuh",
+  "timeframes": {
+    "7D": {
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.629
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.0993
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 1.9784
+        }
+      ]
+    },
+    "30D": {
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.9026
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.6247
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 1.0367
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.5269
+        }
+      ]
+    }
+  }
+}

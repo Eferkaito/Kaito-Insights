@@ -1,0 +1,33 @@
+{
+  "user": "cryptobravehq",
+  "timeframes": {
+    "7D": {
+      "walrus": [
+        {
+          "t": 1757108496646,
+          "mindshare": 6.0751
+        }
+      ]
+    },
+    "30D": {
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.5515
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107406989,
+          "mindshare": 0.1926
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108499264,
+          "mindshare": 2.5617
+        }
+      ]
+    }
+  }
+}

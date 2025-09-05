@@ -1,0 +1,37 @@
+{
+  "user": "benmac_wiz",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757099368589,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757108985179,
+          "mindshare": 0.0
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107476424,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107479432,
+          "mindshare": 0.8526
+        }
+      ]
+    }
+  }
+}

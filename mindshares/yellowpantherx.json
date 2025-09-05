@@ -1,0 +1,51 @@
+{
+  "user": "yellowpantherx",
+  "timeframes": {
+    "7D": {
+      "lumiterra": [
+        {
+          "t": 1757106983387,
+          "mindshare": 0.3432
+        }
+      ],
+      "msu": [
+        {
+          "t": 1757107986113,
+          "mindshare": 0.0
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107033438,
+          "mindshare": 0.843
+        }
+      ]
+    },
+    "30D": {
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.1468
+        }
+      ],
+      "msu": [
+        {
+          "t": 1757107988241,
+          "mindshare": 0.0232
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.5435
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 0.4419
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "user": "pinenut777",
+  "timeframes": {
+    "7D": {
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.0905
+        }
+      ],
+      "irys": [
+        {
+          "t": 1757107747798,
+          "mindshare": 0.1479
+        }
+      ]
+    },
+    "30D": {
+      "goatnetwork": [
+        {
+          "t": 1757107382697,
+          "mindshare": 0.2266
+        }
+      ],
+      "hana": [
+        {
+          "t": 1757107196384,
+          "mindshare": 0.0842
+        }
+      ],
+      "irys": [
+        {
+          "t": 1757107750421,
+          "mindshare": 0.1206
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.3121
+        }
+      ]
+    }
+  }
+}

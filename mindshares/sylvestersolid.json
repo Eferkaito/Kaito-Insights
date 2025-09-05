@@ -1,0 +1,33 @@
+{
+  "user": "sylvestersolid",
+  "timeframes": {
+    "7D": {
+      "sonic": [
+        {
+          "t": 1757108447274,
+          "mindshare": 0.3205
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108080839,
+          "mindshare": 0.6329
+        }
+      ]
+    },
+    "30D": {
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.2245
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.0371
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "user": "anonvee_",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1755155007864,
+          "mindshare": 0.0019
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1757107818267,
+          "mindshare": 0.3128
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 0.9407
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.1783
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 1.3109
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.8638
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.002
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.1316
+        }
+      ],
+      "caldera": [
+        {
+          "t": 1757106723219,
+          "mindshare": 1.2566
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1757107820972,
+          "mindshare": 1.0817
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.6628
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.5825
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.18
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.5835
+        }
+      ]
+    }
+  }
+}

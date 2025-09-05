@@ -1,0 +1,39 @@
+{
+  "user": "eth_apple",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 2.307
+        }
+      ]
+    },
+    "30D": {
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 1.7226
+        }
+      ],
+      "msu": [
+        {
+          "t": 1757107988241,
+          "mindshare": 1.2527
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 1.1853
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 0.3232
+        }
+      ]
+    }
+  }
+}

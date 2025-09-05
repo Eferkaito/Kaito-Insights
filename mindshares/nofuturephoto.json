@@ -1,0 +1,93 @@
+{
+  "user": "nofuturephoto",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1755155007864,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1755473695591,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756108173910,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756131834995,
+          "mindshare": 0.0
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107428266,
+          "mindshare": 0.4024
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 2.9483
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 1.5513
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 1.3154
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0
+        }
+      ],
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.3756
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.0801
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 2.138
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.8344
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108421249,
+          "mindshare": 0.0681
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 1.407
+        }
+      ]
+    }
+  }
+}

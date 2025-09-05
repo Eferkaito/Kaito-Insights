@@ -1,0 +1,57 @@
+{
+  "user": "onyshchukinvest",
+  "timeframes": {
+    "7D": {
+      "cysic": [
+        {
+          "t": 1757107818267,
+          "mindshare": 1.7563
+        }
+      ],
+      "everlyn": [
+        {
+          "t": 1757107127179,
+          "mindshare": 0.8159
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.2474
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1755495226144,
+          "mindshare": 0.0035
+        }
+      ]
+    },
+    "30D": {
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.5172
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1757107820972,
+          "mindshare": 0.6901
+        }
+      ],
+      "everlyn": [
+        {
+          "t": 1757107129463,
+          "mindshare": 0.3808
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.0802
+        }
+      ]
+    }
+  }
+}

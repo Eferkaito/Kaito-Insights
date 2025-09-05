@@ -1,0 +1,141 @@
+{
+  "user": "thedefinvestor",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.5386
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1757109055643,
+          "mindshare": 0.3113
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.2043
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107671479,
+          "mindshare": 1.3847
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107428266,
+          "mindshare": 0.2032
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.3385
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 1.924
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.1757
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108447274,
+          "mindshare": 0.2274
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.3813
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.2828
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.7311
+        }
+      ],
+      "huma": [
+        {
+          "t": 1757106748194,
+          "mindshare": 0.3423
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.229
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.6962
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 0.0746
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.1594
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.4441
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 1.2821
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.3687
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.1286
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 1.0139
+        }
+      ]
+    }
+  }
+}

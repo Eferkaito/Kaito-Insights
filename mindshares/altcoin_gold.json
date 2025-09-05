@@ -1,0 +1,33 @@
+{
+  "user": "altcoin_gold",
+  "timeframes": {
+    "7D": {
+      "sonic": [
+        {
+          "t": 1757108447274,
+          "mindshare": 0.6168
+        }
+      ]
+    },
+    "30D": {
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.0839
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.1287
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108448798,
+          "mindshare": 0.9315
+        }
+      ]
+    }
+  }
+}

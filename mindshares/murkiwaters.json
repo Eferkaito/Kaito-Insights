@@ -1,0 +1,33 @@
+{
+  "user": "murkiwaters",
+  "timeframes": {
+    "7D": {
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 0.5132
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106817985,
+          "mindshare": 0.3736
+        }
+      ]
+    },
+    "30D": {
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.0031
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.2842
+        }
+      ]
+    }
+  }
+}

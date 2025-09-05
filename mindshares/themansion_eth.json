@@ -1,0 +1,45 @@
+{
+  "user": "themansion_eth",
+  "timeframes": {
+    "7D": {
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.0002
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1757108031740,
+          "mindshare": 2.2145
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.9967
+        }
+      ]
+    },
+    "30D": {
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.3276
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1757108033579,
+          "mindshare": 1.1649
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.9708
+        }
+      ]
+    }
+  }
+}

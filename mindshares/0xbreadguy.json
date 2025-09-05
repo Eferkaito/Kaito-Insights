@@ -1,0 +1,41 @@
+{
+  "user": "0xbreadguy",
+  "timeframes": {
+    "7D": {
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.9208
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.4913
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1756133863510,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756166982531,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757108767055,
+          "mindshare": 0.0
+        }
+      ]
+    }
+  }
+}

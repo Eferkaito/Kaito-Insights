@@ -1,0 +1,33 @@
+{
+  "user": "0x_kaelo",
+  "timeframes": {
+    "7D": {
+      "bless": [
+        {
+          "t": 1757107285185,
+          "mindshare": 0.3085
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 0.4109
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.2471
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.458
+        }
+      ]
+    }
+  }
+}

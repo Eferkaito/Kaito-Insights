@@ -1,0 +1,45 @@
+{
+  "user": "xincctnnq",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.5358
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 1.0765
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108471256,
+          "mindshare": 1.2483
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.2953
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.7728
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 0.4917
+        }
+      ]
+    }
+  }
+}

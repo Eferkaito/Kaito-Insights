@@ -1,0 +1,39 @@
+{
+  "user": "0xbenscrypto",
+  "timeframes": {
+    "7D": {
+      "lumiterra": [
+        {
+          "t": 1757106983387,
+          "mindshare": 0.5097
+        }
+      ],
+      "playai": [
+        {
+          "t": 1757107148608,
+          "mindshare": 0.3327
+        }
+      ]
+    },
+    "30D": {
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.609
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.2043
+        }
+      ],
+      "playai": [
+        {
+          "t": 1757107150262,
+          "mindshare": 0.655
+        }
+      ]
+    }
+  }
+}

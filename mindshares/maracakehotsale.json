@@ -1,0 +1,67 @@
+{
+  "user": "maracakehotsale",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.319
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.2373
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1756118054013,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756197210303,
+          "mindshare": 0.0
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 1.4373
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.2566
+        }
+      ],
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.2573
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.2852
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107844789,
+          "mindshare": 0.6575
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.7686
+        }
+      ]
+    }
+  }
+}

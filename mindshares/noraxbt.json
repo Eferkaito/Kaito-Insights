@@ -1,0 +1,39 @@
+{
+  "user": "noraxbt",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.326
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.2645
+        }
+      ]
+    },
+    "30D": {
+      "bless": [
+        {
+          "t": 1757107287794,
+          "mindshare": 0.2558
+        }
+      ],
+      "everlyn": [
+        {
+          "t": 1757107129463,
+          "mindshare": 0.3132
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.2795
+        }
+      ]
+    }
+  }
+}

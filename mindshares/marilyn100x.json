@@ -1,0 +1,69 @@
+{
+  "user": "marilyn100x",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1069
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.0519
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 0.4675
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.2785
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108129582,
+          "mindshare": 0.6946
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1755575790582,
+          "mindshare": 0.0362
+        }
+      ]
+    },
+    "30D": {
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.3469
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.0875
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108131635,
+          "mindshare": 0.4659
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.0382
+        }
+      ]
+    }
+  }
+}

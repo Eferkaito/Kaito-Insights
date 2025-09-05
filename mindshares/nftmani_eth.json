@@ -1,0 +1,33 @@
+{
+  "user": "nftmani_eth",
+  "timeframes": {
+    "7D": {
+      "everlyn": [
+        {
+          "t": 1757107127179,
+          "mindshare": 0.9681
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.2795
+        }
+      ]
+    },
+    "30D": {
+      "everlyn": [
+        {
+          "t": 1757107129463,
+          "mindshare": 0.9626
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.2384
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "user": "artificialsham1",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.1747
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 0.0
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.299
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107033438,
+          "mindshare": 0.3598
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 0.7482
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 0.1534
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.187
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 0.7917
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.2482
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.184
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.2147
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.4704
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.3313
+        }
+      ]
+    }
+  }
+}

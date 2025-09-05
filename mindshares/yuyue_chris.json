@@ -1,0 +1,63 @@
+{
+  "user": "yuyue_chris",
+  "timeframes": {
+    "7D": {
+      "falcon": [
+        {
+          "t": 1757107671479,
+          "mindshare": 2.7356
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.7808
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 2.5646
+        }
+      ]
+    },
+    "30D": {
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 1.1448
+        }
+      ],
+      "kaia": [
+        {
+          "t": 1757108307564,
+          "mindshare": 0.6984
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.3435
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.7417
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.6503
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107406989,
+          "mindshare": 0.3338
+        }
+      ]
+    }
+  }
+}

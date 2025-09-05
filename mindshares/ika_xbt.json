@@ -1,0 +1,39 @@
+{
+  "user": "ika_xbt",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.0
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.506
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0813
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.3862
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107479432,
+          "mindshare": 3.6359
+        }
+      ]
+    }
+  }
+}

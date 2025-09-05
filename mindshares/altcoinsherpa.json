@@ -1,0 +1,51 @@
+{
+  "user": "altcoinsherpa",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.7003
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 0.9117
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 0.9219
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.3686
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.6667
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 0.9833
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.4153
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "user": "0x_mrfive",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.1557
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1757107598842,
+          "mindshare": 0.5418
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1755860157769,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756042793339,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.2712
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1757107601065,
+          "mindshare": 0.9898
+        }
+      ]
+    }
+  }
+}

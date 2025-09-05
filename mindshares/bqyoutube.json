@@ -1,0 +1,39 @@
+{
+  "user": "bqyoutube",
+  "timeframes": {
+    "7D": {
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 0.1293
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108129582,
+          "mindshare": 0.0638
+        }
+      ]
+    },
+    "30D": {
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 0.0872
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.4192
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108131635,
+          "mindshare": 0.0919
+        }
+      ]
+    }
+  }
+}

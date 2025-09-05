@@ -1,0 +1,51 @@
+{
+  "user": "iamgaurangdesai",
+  "timeframes": {
+    "7D": {
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.0748
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.2148
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 0.7619
+        }
+      ]
+    },
+    "30D": {
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.3282
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.211
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.185
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.1051
+        }
+      ]
+    }
+  }
+}

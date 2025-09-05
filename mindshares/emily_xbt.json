@@ -1,0 +1,39 @@
+{
+  "user": "emily_xbt",
+  "timeframes": {
+    "7D": {
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.1549
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.7374
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1755473316651,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "bless": [
+        {
+          "t": 1757107287794,
+          "mindshare": 0.229
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.5009
+        }
+      ]
+    }
+  }
+}

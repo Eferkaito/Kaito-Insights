@@ -1,0 +1,27 @@
+{
+  "user": "0x_dcgbb",
+  "timeframes": {
+    "7D": {
+      "goatnetwork": [
+        {
+          "t": 1757107380042,
+          "mindshare": 1.1719
+        }
+      ]
+    },
+    "30D": {
+      "anoma": [
+        {
+          "t": 1757107552090,
+          "mindshare": 0.2346
+        }
+      ],
+      "goatnetwork": [
+        {
+          "t": 1757107382697,
+          "mindshare": 0.5302
+        }
+      ]
+    }
+  }
+}

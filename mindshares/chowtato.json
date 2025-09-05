@@ -1,0 +1,45 @@
+{
+  "user": "chowtato",
+  "timeframes": {
+    "7D": {
+      "bluefin": [
+        {
+          "t": 1757108199179,
+          "mindshare": 9.1932
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 0.0
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108496646,
+          "mindshare": 3.3606
+        }
+      ]
+    },
+    "30D": {
+      "bluefin": [
+        {
+          "t": 1757108202244,
+          "mindshare": 2.7035
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.3616
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108499264,
+          "mindshare": 2.5503
+        }
+      ]
+    }
+  }
+}

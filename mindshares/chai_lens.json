@@ -1,0 +1,33 @@
+{
+  "user": "chai_lens",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1755473695591,
+          "mindshare": 0.0
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 0.2485
+        }
+      ]
+    },
+    "30D": {
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.0041
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.1958
+        }
+      ]
+    }
+  }
+}

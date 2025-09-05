@@ -1,0 +1,33 @@
+{
+  "user": "banterlytics",
+  "timeframes": {
+    "7D": {
+      "infinex": [
+        {
+          "t": 1757107428266,
+          "mindshare": 0.0461
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.0695
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.139
+        }
+      ]
+    },
+    "30D": {
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.0092
+        }
+      ]
+    }
+  }
+}

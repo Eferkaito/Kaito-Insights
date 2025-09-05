@@ -1,0 +1,57 @@
+{
+  "user": "sebycore",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.7757
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 1.1033
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108496646,
+          "mindshare": 0.3341
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106817985,
+          "mindshare": 0.3967
+        }
+      ]
+    },
+    "30D": {
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.3219
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.5975
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108499264,
+          "mindshare": 0.3315
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.4935
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "user": "0xgeegee",
+  "timeframes": {
+    "7D": {
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.2214
+        }
+      ]
+    },
+    "30D": {
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.4575
+        }
+      ],
+      "paradex": [
+        {
+          "t": 1757107311746,
+          "mindshare": 0.0
+        }
+      ]
+    }
+  }
+}

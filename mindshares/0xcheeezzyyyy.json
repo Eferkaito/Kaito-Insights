@@ -1,0 +1,79 @@
+{
+  "user": "0xcheeezzyyyy",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.403
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1757109055643,
+          "mindshare": 0.2571
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107671479,
+          "mindshare": 1.0986
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.3381
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1755155021370,
+          "mindshare": 0.0773
+        },
+        {
+          "t": 1757108360121,
+          "mindshare": 2.655
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.329
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.3248
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 1.1388
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 2.355
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.9176
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108448798,
+          "mindshare": 0.4313
+        }
+      ]
+    }
+  }
+}

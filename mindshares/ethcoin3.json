@@ -1,0 +1,27 @@
+{
+  "user": "ethcoin3",
+  "timeframes": {
+    "7D": {
+      "goatnetwork": [
+        {
+          "t": 1757107380042,
+          "mindshare": 0.1928
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1755473316651,
+          "mindshare": 0.0003
+        }
+      ]
+    },
+    "30D": {
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.1494
+        }
+      ]
+    }
+  }
+}

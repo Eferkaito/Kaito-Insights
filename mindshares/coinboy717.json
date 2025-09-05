@@ -1,0 +1,39 @@
+{
+  "user": "coinboy717",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.4651
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107404624,
+          "mindshare": 0.9073
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107842032,
+          "mindshare": 0.1792
+        }
+      ]
+    },
+    "30D": {
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.2452
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107406989,
+          "mindshare": 0.5262
+        }
+      ]
+    }
+  }
+}

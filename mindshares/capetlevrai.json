@@ -1,0 +1,27 @@
+{
+  "user": "capetlevrai",
+  "timeframes": {
+    "7D": {
+      "starknet": [
+        {
+          "t": 1757108129582,
+          "mindshare": 0.0396
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1757108254431,
+          "mindshare": 0.3408
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108131635,
+          "mindshare": 0.4544
+        }
+      ]
+    }
+  }
+}

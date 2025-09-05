@@ -1,0 +1,63 @@
+{
+  "user": "rob_inwoods",
+  "timeframes": {
+    "7D": {
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 1.3335
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 2.2036
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.9672
+        }
+      ]
+    },
+    "30D": {
+      "caldera": [
+        {
+          "t": 1757106723219,
+          "mindshare": 1.4102
+        }
+      ],
+      "eclipse": [
+        {
+          "t": 1756810668586,
+          "mindshare": 4.7023
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 1.4157
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 2.2952
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.2659
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.3766
+        }
+      ]
+    }
+  }
+}

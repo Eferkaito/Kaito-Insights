@@ -1,0 +1,57 @@
+{
+  "user": "0xmoei",
+  "timeframes": {
+    "7D": {
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 3.1446
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.2361
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.3524
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.1725
+        }
+      ]
+    },
+    "30D": {
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 1.4268
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107871087,
+          "mindshare": 0.1971
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.0664
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.1559
+        }
+      ]
+    }
+  }
+}

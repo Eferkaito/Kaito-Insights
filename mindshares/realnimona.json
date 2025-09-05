@@ -1,0 +1,39 @@
+{
+  "user": "realnimona",
+  "timeframes": {
+    "7D": {
+      "lumiterra": [
+        {
+          "t": 1757106983387,
+          "mindshare": 0.0236
+        }
+      ],
+      "uxlink": [
+        {
+          "t": 1757108153405,
+          "mindshare": 0.0786
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108496646,
+          "mindshare": 0.1397
+        }
+      ]
+    },
+    "30D": {
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.075
+        }
+      ],
+      "uxlink": [
+        {
+          "t": 1757108154772,
+          "mindshare": 0.0856
+        }
+      ]
+    }
+  }
+}

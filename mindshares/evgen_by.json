@@ -1,0 +1,69 @@
+{
+  "user": "evgen_by",
+  "timeframes": {
+    "7D": {
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 2.5166
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1757108031740,
+          "mindshare": 1.0991
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1755495226144,
+          "mindshare": 0.0
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1755473316651,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.3089
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.0742
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 0.4811
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 0.9876
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1757108033579,
+          "mindshare": 0.6485
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.0513
+        }
+      ]
+    }
+  }
+}

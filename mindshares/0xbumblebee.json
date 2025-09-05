@@ -1,0 +1,33 @@
+{
+  "user": "0xbumblebee",
+  "timeframes": {
+    "7D": {
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 0.1773
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 0.1359
+        }
+      ]
+    },
+    "30D": {
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.1947
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.0757
+        }
+      ]
+    }
+  }
+}

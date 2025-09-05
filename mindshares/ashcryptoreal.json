@@ -1,0 +1,33 @@
+{
+  "user": "ashcryptoreal",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.2165
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108418186,
+          "mindshare": 0.6983
+        }
+      ]
+    },
+    "30D": {
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1205
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108421249,
+          "mindshare": 0.9313
+        }
+      ]
+    }
+  }
+}

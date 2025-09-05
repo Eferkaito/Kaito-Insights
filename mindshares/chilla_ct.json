@@ -1,0 +1,39 @@
+{
+  "user": "chilla_ct",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.9451
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 1.4973
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.1195
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.3724
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.6586
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "user": "smokey_titan",
+  "timeframes": {
+    "7D": {
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.8848
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 3.5328
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 2.8372
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 2.7017
+        }
+      ]
+    },
+    "30D": {
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.8568
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 1.5566
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.4713
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 1.8339
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 1.6393
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 2.9079
+        }
+      ]
+    }
+  }
+}

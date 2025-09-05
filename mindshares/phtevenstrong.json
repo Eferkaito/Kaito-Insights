@@ -1,0 +1,39 @@
+{
+  "user": "phtevenstrong",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.43
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107671479,
+          "mindshare": 0.3406
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.2648
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.784
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.5591
+        }
+      ]
+    }
+  }
+}

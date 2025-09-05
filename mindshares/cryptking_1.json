@@ -1,0 +1,33 @@
+{
+  "user": "cryptking_1",
+  "timeframes": {
+    "7D": {
+      "defidotapp": [
+        {
+          "t": 1757109055643,
+          "mindshare": 0.3623
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.4347
+        }
+      ]
+    },
+    "30D": {
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.3593
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.4092
+        }
+      ]
+    }
+  }
+}

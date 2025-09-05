@@ -1,0 +1,27 @@
+{
+  "user": "drtnky",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.6919
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.2204
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.1627
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "user": "crypto_bn",
+  "timeframes": {
+    "7D": {
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 0.291
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 0.0334
+        }
+      ]
+    },
+    "30D": {
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.1653
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.018
+        }
+      ]
+    }
+  }
+}

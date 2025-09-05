@@ -1,0 +1,27 @@
+{
+  "user": "figoeth",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1099
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.4752
+        }
+      ]
+    },
+    "30D": {
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.6188
+        }
+      ]
+    }
+  }
+}

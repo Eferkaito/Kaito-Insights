@@ -1,0 +1,51 @@
+{
+  "user": "yaki_fomoart",
+  "timeframes": {
+    "7D": {
+      "infinit": [
+        {
+          "t": 1757108597832,
+          "mindshare": 1.4134
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.5365
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108471256,
+          "mindshare": 0.1845
+        }
+      ]
+    },
+    "30D": {
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.8361
+        }
+      ],
+      "mira": [
+        {
+          "t": 1757107576386,
+          "mindshare": 0.2723
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.3342
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.3108
+        }
+      ]
+    }
+  }
+}

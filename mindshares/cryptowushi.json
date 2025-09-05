@@ -1,0 +1,45 @@
+{
+  "user": "cryptowushi",
+  "timeframes": {
+    "7D": {
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 2.9193
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.0
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.2457
+        }
+      ]
+    },
+    "30D": {
+      "anoma": [
+        {
+          "t": 1757107552090,
+          "mindshare": 0.998
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 1.3036
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.5011
+        }
+      ]
+    }
+  }
+}

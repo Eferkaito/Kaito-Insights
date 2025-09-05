@@ -1,0 +1,51 @@
+{
+  "user": "0xkydo",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.3243
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.0596
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.3526
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.1832
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1151
+        }
+      ],
+      "fuel": [
+        {
+          "t": 1756811068151,
+          "mindshare": 4.851
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.358
+        }
+      ]
+    }
+  }
+}

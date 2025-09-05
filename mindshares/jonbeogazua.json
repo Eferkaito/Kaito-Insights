@@ -1,0 +1,45 @@
+{
+  "user": "jonbeogazua",
+  "timeframes": {
+    "7D": {
+      "irys": [
+        {
+          "t": 1757107747798,
+          "mindshare": 0.0884
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.5686
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108447274,
+          "mindshare": 0.3139
+        }
+      ]
+    },
+    "30D": {
+      "irys": [
+        {
+          "t": 1757107750421,
+          "mindshare": 0.1291
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.5087
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108448798,
+          "mindshare": 0.2969
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "user": "bcheque1",
+  "timeframes": {
+    "7D": {
+      "infinex": [
+        {
+          "t": 1757107428266,
+          "mindshare": 0.9175
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.1209
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.1928
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 0.2915
+        }
+      ],
+      "yeet": [
+        {
+          "t": 1757107451513,
+          "mindshare": 1.1596
+        }
+      ]
+    },
+    "30D": {
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 1.3164
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106962338,
+          "mindshare": 0.356
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.0598
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.2292
+        }
+      ],
+      "yeet": [
+        {
+          "t": 1757107454438,
+          "mindshare": 2.6728
+        }
+      ]
+    }
+  }
+}

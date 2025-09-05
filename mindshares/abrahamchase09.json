@@ -1,0 +1,33 @@
+{
+  "user": "abrahamchase09",
+  "timeframes": {
+    "7D": {
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 1.5497
+        }
+      ]
+    },
+    "30D": {
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.3356
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.2654
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.7666
+        }
+      ]
+    }
+  }
+}

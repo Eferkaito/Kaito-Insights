@@ -1,0 +1,97 @@
+{
+  "user": "crypto_zh0u",
+  "timeframes": {
+    "7D": {
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.1378
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1756788606645,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757107428266,
+          "mindshare": 0.2387
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 0.1713
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 1.9378
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 1.8683
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756835813744,
+          "mindshare": 0.0
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 0.807
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.0197
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0756
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.1984
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.082
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 1.2487
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 1.9845
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.5046
+        }
+      ]
+    }
+  }
+}

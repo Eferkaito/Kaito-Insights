@@ -1,0 +1,63 @@
+{
+  "user": "ibrathedabra",
+  "timeframes": {
+    "7D": {
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.4839
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.0
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108105201,
+          "mindshare": 0.7616
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.7794
+        }
+      ]
+    },
+    "30D": {
+      "cysic": [
+        {
+          "t": 1757107820972,
+          "mindshare": 0.5665
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.4742
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.2512
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 0.5546
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 1.1197
+        }
+      ]
+    }
+  }
+}

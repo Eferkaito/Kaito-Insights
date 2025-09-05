@@ -1,0 +1,45 @@
+{
+  "user": "crypto_linn",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.113
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108597832,
+          "mindshare": 1.9948
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 1.9967
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.75
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 1.8034
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.6897
+        }
+      ]
+    }
+  }
+}

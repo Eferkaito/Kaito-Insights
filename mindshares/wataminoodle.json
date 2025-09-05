@@ -1,0 +1,45 @@
+{
+  "user": "wataminoodle",
+  "timeframes": {
+    "7D": {
+      "anime": [
+        {
+          "t": 1757108962906,
+          "mindshare": 0.0
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.2952
+        }
+      ]
+    },
+    "30D": {
+      "anime": [
+        {
+          "t": 1757108965498,
+          "mindshare": 0.5249
+        }
+      ],
+      "irys": [
+        {
+          "t": 1757107750421,
+          "mindshare": 0.0902
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.1342
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 0.1681
+        }
+      ]
+    }
+  }
+}

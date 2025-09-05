@@ -1,0 +1,33 @@
+{
+  "user": "donggu_1",
+  "timeframes": {
+    "7D": {
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.2786
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108447274,
+          "mindshare": 0.3257
+        }
+      ]
+    },
+    "30D": {
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.2526
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108448798,
+          "mindshare": 0.2864
+        }
+      ]
+    }
+  }
+}

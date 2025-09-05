@@ -1,0 +1,45 @@
+{
+  "user": "standotsui",
+  "timeframes": {
+    "7D": {
+      "aptos": [
+        {
+          "t": 1757108250607,
+          "mindshare": 0.1061
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.7916
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107621485,
+          "mindshare": 0.0
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1755473316651,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.4917
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.7829
+        }
+      ]
+    }
+  }
+}

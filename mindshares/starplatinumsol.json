@@ -1,0 +1,51 @@
+{
+  "user": "starplatinumsol",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1354
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.1622
+        }
+      ],
+      "sophon": [
+        {
+          "t": 1757108868957,
+          "mindshare": 1.2315
+        }
+      ]
+    },
+    "30D": {
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.1219
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.3382
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107871087,
+          "mindshare": 0.0877
+        }
+      ],
+      "sophon": [
+        {
+          "t": 1757108872364,
+          "mindshare": 1.1326
+        }
+      ]
+    }
+  }
+}

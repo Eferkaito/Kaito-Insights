@@ -1,0 +1,33 @@
+{
+  "user": "pgone_crypto",
+  "timeframes": {
+    "7D": {
+      "lumiterra": [
+        {
+          "t": 1757106983387,
+          "mindshare": 0.289
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106817985,
+          "mindshare": 0.4124
+        }
+      ]
+    },
+    "30D": {
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.2208
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.2752
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "user": "luyaoyuan1",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.4523
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 1.2617
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.4189
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.1602
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.3994
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.1415
+        }
+      ]
+    }
+  }
+}

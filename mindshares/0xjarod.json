@@ -1,0 +1,51 @@
+{
+  "user": "0xjarod",
+  "timeframes": {
+    "7D": {
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 0.8086
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.3469
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1755473316651,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.7599
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.155
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.3165
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.0705
+        }
+      ]
+    }
+  }
+}

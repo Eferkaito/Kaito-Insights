@@ -1,0 +1,39 @@
+{
+  "user": "merlinegalite",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1086
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 1.9975
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.1715
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 1.3508
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.1194
+        }
+      ]
+    }
+  }
+}

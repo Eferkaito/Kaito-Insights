@@ -1,0 +1,39 @@
+{
+  "user": "altcoingordon",
+  "timeframes": {
+    "7D": {
+      "multibank": [
+        {
+          "t": 1757108105201,
+          "mindshare": 1.352
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.1288
+        }
+      ]
+    },
+    "30D": {
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 0.9824
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.1366
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108421249,
+          "mindshare": 0.6869
+        }
+      ]
+    }
+  }
+}

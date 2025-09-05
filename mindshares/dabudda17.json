@@ -1,0 +1,33 @@
+{
+  "user": "dabudda17",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.3878
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106983387,
+          "mindshare": 0.1708
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.1878
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.0991
+        }
+      ]
+    }
+  }
+}

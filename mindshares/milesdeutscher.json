@@ -1,0 +1,33 @@
+{
+  "user": "milesdeutscher",
+  "timeframes": {
+    "7D": {
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 0.6068
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1757108254431,
+          "mindshare": 0.4247
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1475
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.4495
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "user": "jizhengguang",
+  "timeframes": {
+    "7D": {
+      "infinit": [
+        {
+          "t": 1755574861748,
+          "mindshare": 0.0107
+        }
+      ],
+      "memex": [
+        {
+          "t": 1757106795318,
+          "mindshare": 0.4164
+        }
+      ]
+    },
+    "30D": {
+      "memex": [
+        {
+          "t": 1757106797874,
+          "mindshare": 0.1837
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1757107601065,
+          "mindshare": 0.0017
+        }
+      ]
+    }
+  }
+}

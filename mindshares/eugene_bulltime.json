@@ -1,0 +1,91 @@
+{
+  "user": "eugene_bulltime",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1756108173910,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756171968815,
+          "mindshare": 0.0
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 0.65
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 2.6995
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.4955
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1756116237472,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756141035870,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756454756058,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0
+        }
+      ],
+      "goatnetwork": [
+        {
+          "t": 1757107382697,
+          "mindshare": 0.5108
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.7801
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 1.9167
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.1057
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.2506
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.1352
+        }
+      ]
+    }
+  }
+}

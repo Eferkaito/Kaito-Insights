@@ -1,0 +1,93 @@
+{
+  "user": "flyiiawei",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.0351
+        }
+      ],
+      "goatnetwork": [
+        {
+          "t": 1757107380042,
+          "mindshare": 0.6175
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 0.0832
+        }
+      ],
+      "mira": [
+        {
+          "t": 1757107574787,
+          "mindshare": 0.2855
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.1598
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107842032,
+          "mindshare": 0.6193
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0948
+        }
+      ],
+      "goatnetwork": [
+        {
+          "t": 1757107382697,
+          "mindshare": 1.0172
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.0814
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.1367
+        }
+      ],
+      "memex": [
+        {
+          "t": 1757106797874,
+          "mindshare": 0.1427
+        }
+      ],
+      "near": [
+        {
+          "t": 1757108696924,
+          "mindshare": 0.2746
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.1069
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107844789,
+          "mindshare": 0.3019
+        }
+      ]
+    }
+  }
+}

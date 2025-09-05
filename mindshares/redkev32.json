@@ -1,0 +1,33 @@
+{
+  "user": "redkev32",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.9691
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107476424,
+          "mindshare": 2.8292
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 1.556
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107479432,
+          "mindshare": 3.9558
+        }
+      ]
+    }
+  }
+}

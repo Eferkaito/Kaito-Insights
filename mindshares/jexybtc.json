@@ -1,0 +1,39 @@
+{
+  "user": "jexybtc",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.4105
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.3727
+        }
+      ]
+    },
+    "30D": {
+      "anoma": [
+        {
+          "t": 1757107552090,
+          "mindshare": 0.2532
+        }
+      ],
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.313
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.323
+        }
+      ]
+    }
+  }
+}

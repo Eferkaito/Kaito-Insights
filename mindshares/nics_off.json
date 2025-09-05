@@ -1,0 +1,57 @@
+{
+  "user": "nics_off",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 3.5197
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 1.6545
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.1203
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107476424,
+          "mindshare": 3.6031
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 1.577
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 1.1786
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107871087,
+          "mindshare": 0.0944
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107479432,
+          "mindshare": 2.8107
+        }
+      ]
+    }
+  }
+}

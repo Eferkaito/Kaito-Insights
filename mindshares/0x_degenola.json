@@ -1,0 +1,45 @@
+{
+  "user": "0x_degenola",
+  "timeframes": {
+    "7D": {
+      "irys": [
+        {
+          "t": 1757107747798,
+          "mindshare": 0.2465
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.2086
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.3334
+        }
+      ]
+    },
+    "30D": {
+      "irys": [
+        {
+          "t": 1757107750421,
+          "mindshare": 0.2035
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.2124
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.2978
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "user": "insomniac_ac",
+  "timeframes": {
+    "7D": {
+      "caldera": [
+        {
+          "t": 1757106720278,
+          "mindshare": 0.3608
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.25
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 0.1909
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.1213
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.0136
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.3012
+        }
+      ],
+      "caldera": [
+        {
+          "t": 1757106723219,
+          "mindshare": 1.3951
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.1952
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.2837
+        }
+      ]
+    }
+  }
+}

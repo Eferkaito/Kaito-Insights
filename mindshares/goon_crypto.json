@@ -1,0 +1,33 @@
+{
+  "user": "goon_crypto",
+  "timeframes": {
+    "7D": {
+      "falcon": [
+        {
+          "t": 1755472389939,
+          "mindshare": 0.0
+        }
+      ],
+      "sei": [
+        {
+          "t": 1755474876148,
+          "mindshare": 0.0
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108471256,
+          "mindshare": 0.9606
+        }
+      ]
+    },
+    "30D": {
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 1.3155
+        }
+      ]
+    }
+  }
+}

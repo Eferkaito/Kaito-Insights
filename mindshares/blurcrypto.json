@@ -1,0 +1,25 @@
+{
+  "user": "blurcrypto",
+  "timeframes": {
+    "30D": {
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.1893
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108131635,
+          "mindshare": 0.3036
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 1.0503
+        }
+      ]
+    }
+  }
+}

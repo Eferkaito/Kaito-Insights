@@ -1,0 +1,87 @@
+{
+  "user": "butongren6",
+  "timeframes": {
+    "7D": {
+      "anoma": [
+        {
+          "t": 1757107550783,
+          "mindshare": 0.6906
+        }
+      ],
+      "camp": [
+        {
+          "t": 1757107646374,
+          "mindshare": 0.6624
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.2147
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 1.6789
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 2.9969
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.9105
+        }
+      ]
+    },
+    "30D": {
+      "anoma": [
+        {
+          "t": 1757107552090,
+          "mindshare": 0.7107
+        }
+      ],
+      "camp": [
+        {
+          "t": 1757107649419,
+          "mindshare": 1.0286
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.1737
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.6616
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 1.8942
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.6808
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.6062
+        }
+      ]
+    }
+  }
+}

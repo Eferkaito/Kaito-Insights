@@ -1,0 +1,75 @@
+{
+  "user": "crypto_rand",
+  "timeframes": {
+    "7D": {
+      "bluefin": [
+        {
+          "t": 1757108199179,
+          "mindshare": 0.1636
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.178
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 0.6116
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.0576
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108418186,
+          "mindshare": 0.368
+        }
+      ]
+    },
+    "30D": {
+      "bluefin": [
+        {
+          "t": 1757108202244,
+          "mindshare": 0.1396
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 0.7575
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.0264
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 0.3933
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.2856
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108421249,
+          "mindshare": 0.7909
+        }
+      ]
+    }
+  }
+}

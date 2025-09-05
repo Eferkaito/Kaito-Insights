@@ -1,0 +1,63 @@
+{
+  "user": "leaf_swan",
+  "timeframes": {
+    "7D": {
+      "defidotapp": [
+        {
+          "t": 1757109055643,
+          "mindshare": 0.3004
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1755744528598,
+          "mindshare": 0.0191
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 0.0
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1755495226144,
+          "mindshare": 0.0
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.1132
+        }
+      ]
+    },
+    "30D": {
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.2243
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 0.0
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1757108744848,
+          "mindshare": 0.2798
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.1449
+        }
+      ]
+    }
+  }
+}

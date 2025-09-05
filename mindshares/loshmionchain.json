@@ -1,0 +1,33 @@
+{
+  "user": "loshmionchain",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1755155007864,
+          "mindshare": 0.0
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 0.5378
+        }
+      ]
+    },
+    "30D": {
+      "moonbirds": [
+        {
+          "t": 1757106962338,
+          "mindshare": 0.3525
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 0.248
+        }
+      ]
+    }
+  }
+}

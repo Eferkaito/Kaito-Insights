@@ -1,0 +1,45 @@
+{
+  "user": "0xsleepinrain",
+  "timeframes": {
+    "7D": {
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 0.117
+        }
+      ]
+    },
+    "30D": {
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.3461
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.3258
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.4438
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107406989,
+          "mindshare": 0.0739
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 0.3263
+        }
+      ]
+    }
+  }
+}

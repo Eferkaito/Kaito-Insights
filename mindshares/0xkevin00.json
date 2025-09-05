@@ -1,0 +1,99 @@
+{
+  "user": "0xkevin00",
+  "timeframes": {
+    "7D": {
+      "infinit": [
+        {
+          "t": 1755674528740,
+          "mindshare": 0.0
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.3883
+        }
+      ],
+      "mira": [
+        {
+          "t": 1757107574787,
+          "mindshare": 0.8187
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.0863
+        }
+      ]
+    },
+    "30D": {
+      "bless": [
+        {
+          "t": 1757107287794,
+          "mindshare": 0.2454
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.2151
+        }
+      ],
+      "camp": [
+        {
+          "t": 1757107649419,
+          "mindshare": 0.2639
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.2853
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.2468
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.4274
+        }
+      ],
+      "mira": [
+        {
+          "t": 1757107576386,
+          "mindshare": 0.7276
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.1276
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.1463
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1757107601065,
+          "mindshare": 0.4258
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.0588
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "user": "meshclans",
+  "timeframes": {
+    "7D": {
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.1913
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 0.1841
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.1652
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.1735
+        }
+      ],
+      "hana": [
+        {
+          "t": 1757107196384,
+          "mindshare": 0.2258
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.0495
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.1171
+        }
+      ]
+    }
+  }
+}

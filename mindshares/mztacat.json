@@ -1,0 +1,51 @@
+{
+  "user": "mztacat",
+  "timeframes": {
+    "7D": {
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.3417
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 2.1312
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.4496
+        }
+      ]
+    },
+    "30D": {
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.252
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 1.1799
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107871087,
+          "mindshare": 0.21
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.4354
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "user": "vohvohh",
+  "timeframes": {
+    "7D": {
+      "infinex": [
+        {
+          "t": 1755572956036,
+          "mindshare": 0.0
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1756111298999,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756136143250,
+          "mindshare": 0.0
+        }
+      ],
+      "pyth": [
+        {
+          "t": 1757108394188,
+          "mindshare": 0.646
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.2521
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.2639
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106962338,
+          "mindshare": 0.7834
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.0
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.219
+        }
+      ],
+      "pyth": [
+        {
+          "t": 1757108396159,
+          "mindshare": 0.3078
+        }
+      ]
+    }
+  }
+}

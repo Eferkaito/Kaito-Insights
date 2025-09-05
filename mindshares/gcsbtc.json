@@ -1,0 +1,39 @@
+{
+  "user": "gcsbtc",
+  "timeframes": {
+    "7D": {
+      "anoma": [
+        {
+          "t": 1757107550783,
+          "mindshare": 0.2823
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108597832,
+          "mindshare": 1.6659
+        }
+      ]
+    },
+    "30D": {
+      "anoma": [
+        {
+          "t": 1757107552090,
+          "mindshare": 0.3925
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.298
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.5854
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "user": "frenchienfteam",
+  "timeframes": {
+    "7D": {
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.2757
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 1.1071
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 0.5012
+        }
+      ]
+    },
+    "30D": {
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.5832
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 0.3398
+        }
+      ]
+    }
+  }
+}

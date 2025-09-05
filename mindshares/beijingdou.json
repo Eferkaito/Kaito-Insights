@@ -1,0 +1,69 @@
+{
+  "user": "beijingdou",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.3595
+        }
+      ],
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.3457
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106959141,
+          "mindshare": 1.3258
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 0.4843
+        }
+      ]
+    },
+    "30D": {
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.348
+        }
+      ],
+      "hana": [
+        {
+          "t": 1757107196384,
+          "mindshare": 0.3163
+        }
+      ],
+      "humanity": [
+        {
+          "t": 1757108575652,
+          "mindshare": 4.7364
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106962338,
+          "mindshare": 0.7085
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.2616
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 0.2691
+        }
+      ]
+    }
+  }
+}

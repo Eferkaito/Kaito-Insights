@@ -1,0 +1,39 @@
+{
+  "user": "iamolusegun__",
+  "timeframes": {
+    "7D": {
+      "goatnetwork": [
+        {
+          "t": 1757107380042,
+          "mindshare": 0.2186
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108597832,
+          "mindshare": 0.1483
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107621485,
+          "mindshare": 0.5773
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.1841
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.2334
+        }
+      ]
+    }
+  }
+}

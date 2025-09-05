@@ -1,0 +1,33 @@
+{
+  "user": "inmortalcrypto",
+  "timeframes": {
+    "7D": {
+      "aptos": [
+        {
+          "t": 1757108250607,
+          "mindshare": 0.6901
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108105201,
+          "mindshare": 0.1351
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1757108254431,
+          "mindshare": 0.2736
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 0.4819
+        }
+      ]
+    }
+  }
+}

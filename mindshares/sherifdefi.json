@@ -1,0 +1,33 @@
+{
+  "user": "sherifdefi",
+  "timeframes": {
+    "7D": {
+      "anime": [
+        {
+          "t": 1757108962906,
+          "mindshare": 0.3879
+        }
+      ]
+    },
+    "30D": {
+      "anime": [
+        {
+          "t": 1757108965498,
+          "mindshare": 0.1439
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.1438
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.1126
+        }
+      ]
+    }
+  }
+}

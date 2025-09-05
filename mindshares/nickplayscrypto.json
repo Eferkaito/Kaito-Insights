@@ -1,0 +1,39 @@
+{
+  "user": "nickplayscrypto",
+  "timeframes": {
+    "7D": {
+      "symphony": [
+        {
+          "t": 1757106842668,
+          "mindshare": 14.5035
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108471256,
+          "mindshare": 1.9883
+        }
+      ]
+    },
+    "30D": {
+      "creatorbid": [
+        {
+          "t": 1757108224159,
+          "mindshare": 0.2144
+        }
+      ],
+      "symphony": [
+        {
+          "t": 1757106845173,
+          "mindshare": 4.445
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 1.4243
+        }
+      ]
+    }
+  }
+}

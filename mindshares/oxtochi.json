@@ -1,0 +1,177 @@
+{
+  "user": "oxtochi",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1254
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1755155007864,
+          "mindshare": 0.0003
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1757107818267,
+          "mindshare": 1.5677
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107428266,
+          "mindshare": 3.4257
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.2467
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.4526
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.3808
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756835813744,
+          "mindshare": 0.0
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.7401
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 0.0
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.6328
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0003
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.1396
+        }
+      ],
+      "caldera": [
+        {
+          "t": 1757106723219,
+          "mindshare": 0.8802
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1757107820972,
+          "mindshare": 1.4134
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.345
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.7047
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.1681
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.416
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 1.0923
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107871087,
+          "mindshare": 0.1997
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 3.1542
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 2.0764
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.3512
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.4755
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.6205
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.4114
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.3571
+        }
+      ]
+    }
+  }
+}

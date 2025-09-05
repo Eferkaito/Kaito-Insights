@@ -1,0 +1,99 @@
+{
+  "user": "chainyoda",
+  "timeframes": {
+    "7D": {
+      "aptos": [
+        {
+          "t": 1757108250607,
+          "mindshare": 1.22
+        }
+      ],
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1879
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 1.2555
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.1158
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 2.6331
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 1.1136
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 0.7581
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1757108254431,
+          "mindshare": 0.4837
+        }
+      ],
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.1545
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.3738
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.4723
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107871087,
+          "mindshare": 0.127
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 1.013
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.4237
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.3033
+        }
+      ]
+    }
+  }
+}

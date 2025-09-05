@@ -1,0 +1,51 @@
+{
+  "user": "jbondwagon",
+  "timeframes": {
+    "7D": {
+      "anime": [
+        {
+          "t": 1757108962906,
+          "mindshare": 0.0
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106959141,
+          "mindshare": 0.6311
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 2.8503
+        }
+      ]
+    },
+    "30D": {
+      "anime": [
+        {
+          "t": 1757108965498,
+          "mindshare": 1.3924
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106962338,
+          "mindshare": 1.1955
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 1.4536
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 1.7981
+        }
+      ]
+    }
+  }
+}

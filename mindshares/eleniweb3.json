@@ -1,0 +1,51 @@
+{
+  "user": "eleniweb3",
+  "timeframes": {
+    "7D": {
+      "falcon": [
+        {
+          "t": 1757107671479,
+          "mindshare": 0.3162
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106983387,
+          "mindshare": 0.6508
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106959141,
+          "mindshare": 0.3281
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 1.6839
+        }
+      ]
+    },
+    "30D": {
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.3824
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.5343
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.8266
+        }
+      ]
+    }
+  }
+}

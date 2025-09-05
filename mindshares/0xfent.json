@@ -1,0 +1,45 @@
+{
+  "user": "0xfent",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 2.7144
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107476424,
+          "mindshare": 4.3947
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 2.152
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.0378
+        }
+      ],
+      "near": [
+        {
+          "t": 1757108696924,
+          "mindshare": 0.0611
+        }
+      ],
+      "puffpaw": [
+        {
+          "t": 1757107479432,
+          "mindshare": 2.4553
+        }
+      ]
+    }
+  }
+}

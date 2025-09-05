@@ -1,0 +1,33 @@
+{
+  "user": "reto_crypto",
+  "timeframes": {
+    "7D": {
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 0.9059
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.3522
+        }
+      ]
+    },
+    "30D": {
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.4573
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.2825
+        }
+      ]
+    }
+  }
+}

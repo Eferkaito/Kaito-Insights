@@ -1,0 +1,45 @@
+{
+  "user": "axel_bitblaze69",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1782
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 0.1105
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108080839,
+          "mindshare": 1.3964
+        }
+      ]
+    },
+    "30D": {
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.3321
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.2093
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.7014
+        }
+      ]
+    }
+  }
+}

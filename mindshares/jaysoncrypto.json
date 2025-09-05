@@ -1,0 +1,135 @@
+{
+  "user": "jaysoncrypto",
+  "timeframes": {
+    "7D": {
+      "bluefin": [
+        {
+          "t": 1757108199179,
+          "mindshare": 0.4823
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.3696
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.3311
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 0.6348
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 1.4783
+        }
+      ],
+      "noya": [
+        {
+          "t": 1757107081295,
+          "mindshare": 0.5003
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.011
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107621485,
+          "mindshare": 2.9969
+        }
+      ],
+      "uxlink": [
+        {
+          "t": 1757108153405,
+          "mindshare": 0.9255
+        }
+      ]
+    },
+    "30D": {
+      "bluefin": [
+        {
+          "t": 1757108202244,
+          "mindshare": 0.2355
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.2686
+        }
+      ],
+      "iq": [
+        {
+          "t": 1757107965463,
+          "mindshare": 0.2938
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.008
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.7603
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.3976
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.3767
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 1.6587
+        }
+      ],
+      "noya": [
+        {
+          "t": 1757107084160,
+          "mindshare": 0.4399
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.1088
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.8597
+        }
+      ],
+      "uxlink": [
+        {
+          "t": 1757108154772,
+          "mindshare": 0.9344
+        }
+      ]
+    }
+  }
+}

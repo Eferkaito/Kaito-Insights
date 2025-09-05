@@ -1,0 +1,57 @@
+{
+  "user": "airdrop_guard",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 1.5542
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.4901
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107842032,
+          "mindshare": 1.0367
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.1512
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.7733
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.3411
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.0557
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107844789,
+          "mindshare": 1.1697
+        }
+      ]
+    }
+  }
+}

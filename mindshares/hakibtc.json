@@ -1,0 +1,39 @@
+{
+  "user": "hakibtc",
+  "timeframes": {
+    "7D": {
+      "everlyn": [
+        {
+          "t": 1757107127179,
+          "mindshare": 0.5745
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106959141,
+          "mindshare": 0.2746
+        }
+      ],
+      "playai": [
+        {
+          "t": 1757107148608,
+          "mindshare": 1.0559
+        }
+      ]
+    },
+    "30D": {
+      "everlyn": [
+        {
+          "t": 1757107129463,
+          "mindshare": 0.2747
+        }
+      ],
+      "playai": [
+        {
+          "t": 1757107150262,
+          "mindshare": 0.5612
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "user": "maidaboi01",
+  "timeframes": {
+    "7D": {
+      "goatnetwork": [
+        {
+          "t": 1757107380042,
+          "mindshare": 0.5383
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 0.3594
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106817985,
+          "mindshare": 0.5561
+        }
+      ]
+    },
+    "30D": {
+      "goatnetwork": [
+        {
+          "t": 1757107382697,
+          "mindshare": 0.3456
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.3955
+        }
+      ]
+    }
+  }
+}

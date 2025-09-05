@@ -1,0 +1,45 @@
+{
+  "user": "avalanche_xv",
+  "timeframes": {
+    "7D": {
+      "camp": [
+        {
+          "t": 1757107646374,
+          "mindshare": 0.0787
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.3558
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.204
+        }
+      ]
+    },
+    "30D": {
+      "camp": [
+        {
+          "t": 1757107649419,
+          "mindshare": 0.3338
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.4652
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.2184
+        }
+      ]
+    }
+  }
+}

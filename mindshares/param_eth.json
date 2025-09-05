@@ -1,0 +1,111 @@
+{
+  "user": "param_eth",
+  "timeframes": {
+    "7D": {
+      "bluefin": [
+        {
+          "t": 1757108199179,
+          "mindshare": 1.6971
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.5459
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1757107818267,
+          "mindshare": 1.6587
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 0.5817
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.5804
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 0.1686
+        }
+      ]
+    },
+    "30D": {
+      "bluefin": [
+        {
+          "t": 1757108202244,
+          "mindshare": 1.0946
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.2395
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1757107820972,
+          "mindshare": 1.3395
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.176
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 1.5269
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.3997
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.4406
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.3932
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.2005
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.936
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.307
+        }
+      ]
+    }
+  }
+}

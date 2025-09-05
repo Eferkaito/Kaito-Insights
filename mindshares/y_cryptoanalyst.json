@@ -1,0 +1,123 @@
+{
+  "user": "y_cryptoanalyst",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.439
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.0
+        }
+      ],
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.335
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.1543
+        }
+      ],
+      "camp": [
+        {
+          "t": 1757107646374,
+          "mindshare": 1.2889
+        }
+      ],
+      "near": [
+        {
+          "t": 1757108694006,
+          "mindshare": 0.6605
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.797
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108080839,
+          "mindshare": 0.3739
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.1235
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.1621
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0001
+        }
+      ],
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.7416
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.8135
+        }
+      ],
+      "caldera": [
+        {
+          "t": 1757106723219,
+          "mindshare": 0.4822
+        }
+      ],
+      "camp": [
+        {
+          "t": 1757107649419,
+          "mindshare": 0.8548
+        }
+      ],
+      "near": [
+        {
+          "t": 1757108696924,
+          "mindshare": 0.5186
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.5089
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.1349
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.1257
+        }
+      ]
+    }
+  }
+}

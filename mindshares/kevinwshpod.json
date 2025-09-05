@@ -1,0 +1,57 @@
+{
+  "user": "kevinwshpod",
+  "timeframes": {
+    "7D": {
+      "paradex": [
+        {
+          "t": 1757107309251,
+          "mindshare": 5.0742
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 0.4532
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 2.7679
+        }
+      ]
+    },
+    "30D": {
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.9944
+        }
+      ],
+      "paradex": [
+        {
+          "t": 1757107311746,
+          "mindshare": 1.5364
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 0.3777
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 3.2424
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108499264,
+          "mindshare": 1.2475
+        }
+      ]
+    }
+  }
+}

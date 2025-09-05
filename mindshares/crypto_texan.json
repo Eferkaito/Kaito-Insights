@@ -1,0 +1,33 @@
+{
+  "user": "crypto_texan",
+  "timeframes": {
+    "7D": {
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 1.7732
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.6545
+        }
+      ]
+    },
+    "30D": {
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 1.7508
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.3228
+        }
+      ]
+    }
+  }
+}

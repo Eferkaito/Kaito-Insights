@@ -1,0 +1,39 @@
+{
+  "user": "macrocrg",
+  "timeframes": {
+    "7D": {
+      "defidotapp": [
+        {
+          "t": 1757109055643,
+          "mindshare": 0.481
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.1578
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 2.2601
+        }
+      ]
+    },
+    "30D": {
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.5869
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 1.4961
+        }
+      ]
+    }
+  }
+}

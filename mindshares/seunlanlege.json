@@ -1,0 +1,31 @@
+{
+  "user": "seunlanlege",
+  "timeframes": {
+    "7D": {
+      "polkadot": [
+        {
+          "t": 1756111298999,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757108764455,
+          "mindshare": 1.3167
+        }
+      ]
+    },
+    "30D": {
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.5632
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.2282
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "user": "defi0xjeff",
+  "timeframes": {
+    "7D": {
+      "creatorbid": [
+        {
+          "t": 1757108221869,
+          "mindshare": 3.6392
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108597832,
+          "mindshare": 1.1978
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.2103
+        }
+      ],
+      "mira": [
+        {
+          "t": 1757107574787,
+          "mindshare": 1.0406
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 2.3675
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108471256,
+          "mindshare": 0.8483
+        }
+      ]
+    },
+    "30D": {
+      "allora": [
+        {
+          "t": 1757107263525,
+          "mindshare": 1.3008
+        }
+      ],
+      "creatorbid": [
+        {
+          "t": 1757108224159,
+          "mindshare": 9.103
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 1.103
+        }
+      ],
+      "mira": [
+        {
+          "t": 1757107576386,
+          "mindshare": 1.39
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.3165
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.7941
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 1.1377
+        }
+      ]
+    }
+  }
+}

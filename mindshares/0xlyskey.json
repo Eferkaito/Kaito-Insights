@@ -1,0 +1,39 @@
+{
+  "user": "0xlyskey",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.2003
+        }
+      ],
+      "paradex": [
+        {
+          "t": 1757107309251,
+          "mindshare": 6.8725
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108129582,
+          "mindshare": 4.2168
+        }
+      ]
+    },
+    "30D": {
+      "paradex": [
+        {
+          "t": 1757107311746,
+          "mindshare": 4.8323
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108131635,
+          "mindshare": 3.2552
+        }
+      ]
+    }
+  }
+}

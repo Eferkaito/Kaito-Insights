@@ -1,0 +1,39 @@
+{
+  "user": "cryptocurb",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.2565
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 1.8807
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 1.6036
+        }
+      ]
+    },
+    "30D": {
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 1.0656
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108819453,
+          "mindshare": 0.8986
+        }
+      ]
+    }
+  }
+}

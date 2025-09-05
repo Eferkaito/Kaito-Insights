@@ -1,0 +1,69 @@
+{
+  "user": "ayyyeandy",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.2931
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.5187
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.1536
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 1.9671
+        }
+      ]
+    },
+    "30D": {
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1884
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.1438
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.6686
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107871087,
+          "mindshare": 0.0979
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108131635,
+          "mindshare": 1.1782
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 1.4582
+        }
+      ]
+    }
+  }
+}

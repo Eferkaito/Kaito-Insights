@@ -1,0 +1,33 @@
+{
+  "user": "kaikaibtc",
+  "timeframes": {
+    "7D": {
+      "succinct": [
+        {
+          "t": 1757108080839,
+          "mindshare": 0.5311
+        }
+      ]
+    },
+    "30D": {
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.3897
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108421249,
+          "mindshare": 0.063
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.5627
+        }
+      ]
+    }
+  }
+}

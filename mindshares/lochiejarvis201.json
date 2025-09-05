@@ -1,0 +1,39 @@
+{
+  "user": "lochiejarvis201",
+  "timeframes": {
+    "7D": {
+      "huma": [
+        {
+          "t": 1757106745796,
+          "mindshare": 0.8476
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.117
+        }
+      ]
+    },
+    "30D": {
+      "huma": [
+        {
+          "t": 1757106748194,
+          "mindshare": 0.8892
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.1636
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.1454
+        }
+      ]
+    }
+  }
+}

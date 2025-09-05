@@ -1,0 +1,27 @@
+{
+  "user": "0xaishwary",
+  "timeframes": {
+    "7D": {
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 3.303
+        }
+      ]
+    },
+    "30D": {
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 1.4659
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 1.5
+        }
+      ]
+    }
+  }
+}

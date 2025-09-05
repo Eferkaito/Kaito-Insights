@@ -1,0 +1,157 @@
+{
+  "user": "skylineeth",
+  "timeframes": {
+    "7D": {
+      "caldera": [
+        {
+          "t": 1757106720278,
+          "mindshare": 0.0
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1755472586361,
+          "mindshare": 0.0
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 0.0
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.0001
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108105201,
+          "mindshare": 0.0
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.0
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.1983
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108418186,
+          "mindshare": 0.0
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107033438,
+          "mindshare": 0.0
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 0.0
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "bybit": [
+        {
+          "t": 1757040162868,
+          "mindshare": 0.0113
+        }
+      ],
+      "caldera": [
+        {
+          "t": 1757106723219,
+          "mindshare": 0.0
+        }
+      ],
+      "humanity": [
+        {
+          "t": 1757108575652,
+          "mindshare": 0.0
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.0
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.0515
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 1.4822
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.0001
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1756738807350,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757108108067,
+          "mindshare": 0.0
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.1743
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.0
+        }
+      ],
+      "soul": [
+        {
+          "t": 1757106913532,
+          "mindshare": 0.0295
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.0
+        }
+      ],
+      "thrive": [
+        {
+          "t": 1757106936289,
+          "mindshare": 0.0324
+        }
+      ]
+    }
+  }
+}

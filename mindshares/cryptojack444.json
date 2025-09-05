@@ -1,0 +1,33 @@
+{
+  "user": "cryptojack444",
+  "timeframes": {
+    "7D": {
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.1544
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.4489
+        }
+      ]
+    },
+    "30D": {
+      "hana": [
+        {
+          "t": 1757107196384,
+          "mindshare": 0.1415
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.2941
+        }
+      ]
+    }
+  }
+}

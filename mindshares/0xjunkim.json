@@ -1,0 +1,57 @@
+{
+  "user": "0xjunkim",
+  "timeframes": {
+    "7D": {
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.4617
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.353
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 0.9278
+        }
+      ]
+    },
+    "30D": {
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.4021
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.3089
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.203
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.3753
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 0.362
+        }
+      ]
+    }
+  }
+}

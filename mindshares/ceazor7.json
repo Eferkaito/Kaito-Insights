@@ -1,0 +1,39 @@
+{
+  "user": "ceazor7",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.176
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1755155021370,
+          "mindshare": 0.0
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108447274,
+          "mindshare": 2.2188
+        }
+      ]
+    },
+    "30D": {
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.2024
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108448798,
+          "mindshare": 1.5906
+        }
+      ]
+    }
+  }
+}

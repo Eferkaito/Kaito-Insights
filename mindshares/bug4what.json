@@ -1,0 +1,57 @@
+{
+  "user": "bug4what",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.4356
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 0.1424
+        }
+      ],
+      "kaia": [
+        {
+          "t": 1757108304909,
+          "mindshare": 6.0014
+        }
+      ],
+      "uxlink": [
+        {
+          "t": 1757108153405,
+          "mindshare": 1.1018
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.2258
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 0.0811
+        }
+      ],
+      "kaia": [
+        {
+          "t": 1757108307564,
+          "mindshare": 3.1548
+        }
+      ],
+      "uxlink": [
+        {
+          "t": 1757108154772,
+          "mindshare": 0.3677
+        }
+      ]
+    }
+  }
+}

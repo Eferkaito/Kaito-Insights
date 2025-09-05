@@ -1,0 +1,27 @@
+{
+  "user": "thecryptolark",
+  "timeframes": {
+    "7D": {
+      "aptos": [
+        {
+          "t": 1757108250607,
+          "mindshare": 0.656
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1757108254431,
+          "mindshare": 0.9997
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1062
+        }
+      ]
+    }
+  }
+}

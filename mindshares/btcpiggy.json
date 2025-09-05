@@ -1,0 +1,45 @@
+{
+  "user": "btcpiggy",
+  "timeframes": {
+    "7D": {
+      "sidekick": [
+        {
+          "t": 1757107404624,
+          "mindshare": 1.7064
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108893249,
+          "mindshare": 0.4955
+        }
+      ],
+      "xion": [
+        {
+          "t": 1757108940455,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "sidekick": [
+        {
+          "t": 1757107406989,
+          "mindshare": 0.7408
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.2629
+        }
+      ],
+      "xion": [
+        {
+          "t": 1757108942516,
+          "mindshare": 2.2169
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "user": "0xrecruiter",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.4731
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1755155007864,
+          "mindshare": 0.0015
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108080839,
+          "mindshare": 2.14
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.4791
+        }
+      ],
+      "caldera": [
+        {
+          "t": 1755959704923,
+          "mindshare": 0.0006
+        },
+        {
+          "t": 1755965480202,
+          "mindshare": 0.0005
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.6682
+        }
+      ]
+    }
+  }
+}

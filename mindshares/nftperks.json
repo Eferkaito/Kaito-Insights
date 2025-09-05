@@ -1,0 +1,45 @@
+{
+  "user": "nftperks",
+  "timeframes": {
+    "7D": {
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.6456
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.3579
+        }
+      ]
+    },
+    "30D": {
+      "bless": [
+        {
+          "t": 1757107287794,
+          "mindshare": 0.3577
+        }
+      ],
+      "hana": [
+        {
+          "t": 1757107196384,
+          "mindshare": 0.2833
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.1089
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.2439
+        }
+      ]
+    }
+  }
+}

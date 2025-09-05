@@ -1,0 +1,33 @@
+{
+  "user": "cryppinfluence",
+  "timeframes": {
+    "7D": {
+      "anoma": [
+        {
+          "t": 1757107550783,
+          "mindshare": 0.6671
+        }
+      ]
+    },
+    "30D": {
+      "anoma": [
+        {
+          "t": 1757107552090,
+          "mindshare": 0.4436
+        }
+      ],
+      "caldera": [
+        {
+          "t": 1757106723219,
+          "mindshare": 0.1455
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.4106
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "user": "thebullishtradr",
+  "timeframes": {
+    "7D": {
+      "falcon": [
+        {
+          "t": 1757107671479,
+          "mindshare": 0.018
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1755574861748,
+          "mindshare": 0.0173
+        },
+        {
+          "t": 1757108597832,
+          "mindshare": 0.0014
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108105201,
+          "mindshare": 0.0506
+        }
+      ],
+      "near": [
+        {
+          "t": 1757108694006,
+          "mindshare": 0.0225
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756835813744,
+          "mindshare": 0.1507
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.0069
+        }
+      ]
+    },
+    "30D": {
+      "bless": [
+        {
+          "t": 1757107287794,
+          "mindshare": 0.5775
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.1924
+        }
+      ],
+      "humanity": [
+        {
+          "t": 1757108575652,
+          "mindshare": 0.8175
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 0.3672
+        }
+      ],
+      "near": [
+        {
+          "t": 1757108696924,
+          "mindshare": 0.2538
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.0292
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.3942
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.1898
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1757107601065,
+          "mindshare": 0.0376
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.1428
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.7162
+        }
+      ]
+    }
+  }
+}

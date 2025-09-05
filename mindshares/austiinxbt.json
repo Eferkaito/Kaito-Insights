@@ -1,0 +1,85 @@
+{
+  "user": "austiinxbt",
+  "timeframes": {
+    "7D": {
+      "huma": [
+        {
+          "t": 1757106745796,
+          "mindshare": 1.1151
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1756475391209,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1756971187993,
+          "mindshare": 0.0
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 1.9672
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.581
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.6216
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 3.1992
+        }
+      ]
+    },
+    "30D": {
+      "huma": [
+        {
+          "t": 1757106748194,
+          "mindshare": 0.7076
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 1.6682
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 1.1557
+        }
+      ],
+      "paradex": [
+        {
+          "t": 1757107311746,
+          "mindshare": 0.33
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.3807
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 1.8388
+        }
+      ]
+    }
+  }
+}

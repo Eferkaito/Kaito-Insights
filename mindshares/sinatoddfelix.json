@@ -1,0 +1,63 @@
+{
+  "user": "sinatoddfelix",
+  "timeframes": {
+    "7D": {
+      "memex": [
+        {
+          "t": 1757106795318,
+          "mindshare": 0.5296
+        }
+      ],
+      "msu": [
+        {
+          "t": 1757107986113,
+          "mindshare": 0.0
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.2166
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.092
+        }
+      ]
+    },
+    "30D": {
+      "memex": [
+        {
+          "t": 1757106797874,
+          "mindshare": 0.2502
+        }
+      ],
+      "msu": [
+        {
+          "t": 1757107988241,
+          "mindshare": 0.2745
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.117
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107406989,
+          "mindshare": 0.0946
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.1284
+        }
+      ]
+    }
+  }
+}

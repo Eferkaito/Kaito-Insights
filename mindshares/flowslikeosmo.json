@@ -1,0 +1,33 @@
+{
+  "user": "flowslikeosmo",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1331
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108597832,
+          "mindshare": 0.2189
+        }
+      ]
+    },
+    "30D": {
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.5868
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.2787
+        }
+      ]
+    }
+  }
+}

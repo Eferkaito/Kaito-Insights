@@ -1,0 +1,39 @@
+{
+  "user": "bithappyx",
+  "timeframes": {
+    "7D": {
+      "aptos": [
+        {
+          "t": 1757108250607,
+          "mindshare": 0.4699
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 0.2255
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1757108254431,
+          "mindshare": 0.4696
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.0783
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.0613
+        }
+      ]
+    }
+  }
+}

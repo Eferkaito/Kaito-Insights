@@ -1,0 +1,63 @@
+{
+  "user": "serpinxbt",
+  "timeframes": {
+    "7D": {
+      "infinex": [
+        {
+          "t": 1755472586361,
+          "mindshare": 0.0
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.4184
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 1.335
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106959141,
+          "mindshare": 2.2161
+        }
+      ]
+    },
+    "30D": {
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1108
+        }
+      ],
+      "humanity": [
+        {
+          "t": 1757108575652,
+          "mindshare": 0.0
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108333008,
+          "mindshare": 0.2712
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.565
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106962338,
+          "mindshare": 0.8536
+        }
+      ]
+    }
+  }
+}

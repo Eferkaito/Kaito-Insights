@@ -1,0 +1,33 @@
+{
+  "user": "cryptowizardd",
+  "timeframes": {
+    "7D": {
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 1.7455
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1757108175386,
+          "mindshare": 1.1854
+        }
+      ]
+    },
+    "30D": {
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 0.6533
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1757108177866,
+          "mindshare": 1.3793
+        }
+      ]
+    }
+  }
+}

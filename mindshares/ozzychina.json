@@ -1,0 +1,33 @@
+{
+  "user": "ozzychina",
+  "timeframes": {
+    "7D": {
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.1334
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.2515
+        }
+      ]
+    },
+    "30D": {
+      "irys": [
+        {
+          "t": 1757107750421,
+          "mindshare": 0.0794
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.3678
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "user": "swizzyonchain",
+  "timeframes": {
+    "7D": {
+      "wayfinder": [
+        {
+          "t": 1757108919583,
+          "mindshare": 0.2623
+        }
+      ]
+    },
+    "30D": {
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.4408
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.143
+        }
+      ],
+      "wayfinder": [
+        {
+          "t": 1757108921973,
+          "mindshare": 0.2416
+        }
+      ]
+    }
+  }
+}

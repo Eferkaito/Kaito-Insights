@@ -1,0 +1,51 @@
+{
+  "user": "martinezzart",
+  "timeframes": {
+    "7D": {
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 0.4736
+        }
+      ],
+      "mantra": [
+        {
+          "t": 1757108669622,
+          "mindshare": 2.5245
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.0753
+        }
+      ]
+    },
+    "30D": {
+      "dydx": [
+        {
+          "t": 1756623927879,
+          "mindshare": 0.0
+        }
+      ],
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 0.3107
+        }
+      ],
+      "mantra": [
+        {
+          "t": 1757108672254,
+          "mindshare": 2.011
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.0458
+        }
+      ]
+    }
+  }
+}

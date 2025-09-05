@@ -1,0 +1,99 @@
+{
+  "user": "ilodiwow",
+  "timeframes": {
+    "7D": {
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.3422
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.0
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108105201,
+          "mindshare": 0.3111
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.1309
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108418186,
+          "mindshare": 0.3446
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107033438,
+          "mindshare": 0.1242
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 0.6943
+        }
+      ]
+    },
+    "30D": {
+      "caldera": [
+        {
+          "t": 1756043849837,
+          "mindshare": 0.0063
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.4399
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 0.2833
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.1356
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.3149
+        }
+      ],
+      "sei": [
+        {
+          "t": 1757108421249,
+          "mindshare": 0.3563
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.152
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.3627
+        }
+      ]
+    }
+  }
+}

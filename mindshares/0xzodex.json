@@ -1,0 +1,33 @@
+{
+  "user": "0xzodex",
+  "timeframes": {
+    "7D": {
+      "everlyn": [
+        {
+          "t": 1757107127179,
+          "mindshare": 0.3883
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1756456608766,
+          "mindshare": 0.4977
+        }
+      ]
+    },
+    "30D": {
+      "everlyn": [
+        {
+          "t": 1757107129463,
+          "mindshare": 0.2243
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1757108744848,
+          "mindshare": 0.5429
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "user": "lechriss17",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.3388
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.1969
+        }
+      ]
+    },
+    "30D": {
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.262
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.1789
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.269
+        }
+      ]
+    }
+  }
+}

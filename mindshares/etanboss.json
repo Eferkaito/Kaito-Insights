@@ -1,0 +1,49 @@
+{
+  "user": "etanboss",
+  "timeframes": {
+    "7D": {
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 1.6763
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.3134
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106959141,
+          "mindshare": 0.6236
+        }
+      ],
+      "wayfinder": [
+        {
+          "t": 1757099289723,
+          "mindshare": 0.0201
+        },
+        {
+          "t": 1757108919583,
+          "mindshare": 0.0116
+        }
+      ]
+    },
+    "30D": {
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 1.0813
+        }
+      ],
+      "wayfinder": [
+        {
+          "t": 1757108921973,
+          "mindshare": 1.4746
+        }
+      ]
+    }
+  }
+}

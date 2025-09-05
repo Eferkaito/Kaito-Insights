@@ -1,0 +1,39 @@
+{
+  "user": "_sirjoey",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.7294
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107621485,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.8258
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 1.1268
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.0946
+        }
+      ]
+    }
+  }
+}

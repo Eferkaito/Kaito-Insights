@@ -1,0 +1,45 @@
+{
+  "user": "influencerdee",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.3055
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.167
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106817985,
+          "mindshare": 0.3265
+        }
+      ]
+    },
+    "30D": {
+      "anoma": [
+        {
+          "t": 1757107552090,
+          "mindshare": 0.1945
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.1252
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.4099
+        }
+      ]
+    }
+  }
+}

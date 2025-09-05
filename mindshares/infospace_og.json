@@ -1,0 +1,39 @@
+{
+  "user": "infospace_og",
+  "timeframes": {
+    "7D": {
+      "newton": [
+        {
+          "t": 1756835813744,
+          "mindshare": 4.5537
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.519
+        }
+      ]
+    },
+    "30D": {
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.1471
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.1193
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.39
+        }
+      ]
+    }
+  }
+}

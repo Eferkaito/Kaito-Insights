@@ -1,0 +1,33 @@
+{
+  "user": "0xmozzy",
+  "timeframes": {
+    "7D": {
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 0.3594
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107033438,
+          "mindshare": 0.1951
+        }
+      ]
+    },
+    "30D": {
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 0.4084
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.1264
+        }
+      ]
+    }
+  }
+}

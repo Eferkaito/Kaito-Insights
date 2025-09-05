@@ -1,0 +1,39 @@
+{
+  "user": "kivendeen_eth",
+  "timeframes": {
+    "7D": {
+      "anoma": [
+        {
+          "t": 1757107550783,
+          "mindshare": 0.4314
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.4792
+        }
+      ]
+    },
+    "30D": {
+      "anoma": [
+        {
+          "t": 1757107552090,
+          "mindshare": 0.2263
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.2365
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.4061
+        }
+      ]
+    }
+  }
+}

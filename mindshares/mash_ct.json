@@ -1,0 +1,27 @@
+{
+  "user": "mash_ct",
+  "timeframes": {
+    "7D": {
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.1098
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.18
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.2037
+        }
+      ]
+    }
+  }
+}

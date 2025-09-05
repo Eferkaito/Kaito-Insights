@@ -1,0 +1,135 @@
+{
+  "user": "0xzhaozhao",
+  "timeframes": {
+    "7D": {
+      "aptos": [
+        {
+          "t": 1757108250607,
+          "mindshare": 0.7897
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.0644
+        }
+      ],
+      "bluefin": [
+        {
+          "t": 1757108199179,
+          "mindshare": 0.4688
+        }
+      ],
+      "initia": [
+        {
+          "t": 1757108623441,
+          "mindshare": 5.7841
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 2.1078
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107621485,
+          "mindshare": 0.7128
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1755473316651,
+          "mindshare": 0.0215
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.0364
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108496646,
+          "mindshare": 0.8945
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1757108254431,
+          "mindshare": 0.5299
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.5218
+        }
+      ],
+      "bluefin": [
+        {
+          "t": 1757108202244,
+          "mindshare": 0.3157
+        }
+      ],
+      "initia": [
+        {
+          "t": 1757108626323,
+          "mindshare": 1.7681
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.5909
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.1584
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.01
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108131635,
+          "mindshare": 0.2182
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.1518
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.1592
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.2578
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1757108499264,
+          "mindshare": 0.2841
+        }
+      ]
+    }
+  }
+}

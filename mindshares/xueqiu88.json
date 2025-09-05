@@ -1,0 +1,57 @@
+{
+  "user": "xueqiu88",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.1859
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107404624,
+          "mindshare": 1.5405
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107842032,
+          "mindshare": 0.7316
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.2224
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.1758
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107406989,
+          "mindshare": 2.1916
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.2374
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107844789,
+          "mindshare": 0.5654
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "user": "kayceetrades",
+  "timeframes": {
+    "7D": {
+      "goatnetwork": [
+        {
+          "t": 1757107380042,
+          "mindshare": 1.3307
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106983387,
+          "mindshare": 0.1192
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.1672
+        }
+      ]
+    },
+    "30D": {
+      "allora": [
+        {
+          "t": 1757107263525,
+          "mindshare": 0.2978
+        }
+      ],
+      "goatnetwork": [
+        {
+          "t": 1757107382697,
+          "mindshare": 0.6036
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.2825
+        }
+      ]
+    }
+  }
+}

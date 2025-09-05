@@ -1,0 +1,33 @@
+{
+  "user": "fern",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.7575
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107428266,
+          "mindshare": 2.3138
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.2715
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 1.3106
+        }
+      ]
+    }
+  }
+}

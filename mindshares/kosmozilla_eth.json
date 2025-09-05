@@ -1,0 +1,37 @@
+{
+  "user": "kosmozilla_eth",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.0
+        }
+      ],
+      "soul": [
+        {
+          "t": 1757097084370,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757106911230,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "mantle": [
+        {
+          "t": 1756789518277,
+          "mindshare": 0.0
+        }
+      ],
+      "soul": [
+        {
+          "t": 1757106913532,
+          "mindshare": 0.044
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "user": "bored_vic",
+  "timeframes": {
+    "7D": {
+      "defidotapp": [
+        {
+          "t": 1757109055643,
+          "mindshare": 0.379
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.3874
+        }
+      ]
+    },
+    "30D": {
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.5279
+        }
+      ],
+      "uxlink": [
+        {
+          "t": 1757108154772,
+          "mindshare": 0.294
+        }
+      ]
+    }
+  }
+}

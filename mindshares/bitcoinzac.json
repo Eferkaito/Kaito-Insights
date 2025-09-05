@@ -1,0 +1,73 @@
+{
+  "user": "bitcoinzac",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.6912
+        }
+      ],
+      "hana": [
+        {
+          "t": 1757107194926,
+          "mindshare": 0.789
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.2037
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.4064
+        }
+      ]
+    },
+    "30D": {
+      "billions": [
+        {
+          "t": 1757107220037,
+          "mindshare": 0.3466
+        }
+      ],
+      "bless": [
+        {
+          "t": 1757107287794,
+          "mindshare": 0.5272
+        }
+      ],
+      "hana": [
+        {
+          "t": 1757107196384,
+          "mindshare": 0.8167
+        }
+      ],
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.1673
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.4404
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1756951219238,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757107601065,
+          "mindshare": 0.0
+        }
+      ]
+    }
+  }
+}

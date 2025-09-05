@@ -1,0 +1,51 @@
+{
+  "user": "newpaguinfo",
+  "timeframes": {
+    "7D": {
+      "falcon": [
+        {
+          "t": 1757107671479,
+          "mindshare": 0.11
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.4102
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107501844,
+          "mindshare": 0.0722
+        }
+      ]
+    },
+    "30D": {
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 0.1671
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.1628
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1757107504724,
+          "mindshare": 0.0306
+        }
+      ],
+      "noya": [
+        {
+          "t": 1757107084160,
+          "mindshare": 0.0234
+        }
+      ]
+    }
+  }
+}

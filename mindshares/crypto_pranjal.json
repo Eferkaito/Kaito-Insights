@@ -1,0 +1,39 @@
+{
+  "user": "crypto_pranjal",
+  "timeframes": {
+    "7D": {
+      "mira": [
+        {
+          "t": 1757107574787,
+          "mindshare": 0.1698
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.0318
+        }
+      ]
+    },
+    "30D": {
+      "irys": [
+        {
+          "t": 1757107750421,
+          "mindshare": 0.1026
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.3671
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.1274
+        }
+      ]
+    }
+  }
+}

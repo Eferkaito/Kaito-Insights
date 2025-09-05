@@ -1,0 +1,33 @@
+{
+  "user": "s4mmyeth",
+  "timeframes": {
+    "7D": {
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.0006
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108471256,
+          "mindshare": 1.6128
+        }
+      ]
+    },
+    "30D": {
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.003
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 0.5442
+        }
+      ]
+    }
+  }
+}

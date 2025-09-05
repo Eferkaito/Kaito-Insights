@@ -1,0 +1,57 @@
+{
+  "user": "0xjaehaerys",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1219
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 0.1675
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108788140,
+          "mindshare": 0.4056
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108080839,
+          "mindshare": 8.3568
+        }
+      ]
+    },
+    "30D": {
+      "cysic": [
+        {
+          "t": 1757107820972,
+          "mindshare": 0.355
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.6554
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1757108791530,
+          "mindshare": 0.2317
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 3.1097
+        }
+      ]
+    }
+  }
+}

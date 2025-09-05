@@ -1,0 +1,45 @@
+{
+  "user": "realjonahblake",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.1474
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.1317
+        }
+      ],
+      "sophon": [
+        {
+          "t": 1757108868957,
+          "mindshare": 1.7778
+        }
+      ]
+    },
+    "30D": {
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.0408
+        }
+      ],
+      "sophon": [
+        {
+          "t": 1757108872364,
+          "mindshare": 0.7504
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108473932,
+          "mindshare": 0.272
+        }
+      ]
+    }
+  }
+}

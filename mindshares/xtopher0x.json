@@ -1,0 +1,33 @@
+{
+  "user": "xtopher0x",
+  "timeframes": {
+    "7D": {
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 0.3635
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1756456608766,
+          "mindshare": 0.875
+        }
+      ]
+    },
+    "30D": {
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.4051
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1757108744848,
+          "mindshare": 0.6606
+        }
+      ]
+    }
+  }
+}

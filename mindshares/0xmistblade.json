@@ -1,0 +1,79 @@
+{
+  "user": "0xmistblade",
+  "timeframes": {
+    "7D": {
+      "falcon": [
+        {
+          "t": 1755472389939,
+          "mindshare": 0.0
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.0016
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1756810862637,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757108105201,
+          "mindshare": 0.0
+        }
+      ],
+      "sei": [
+        {
+          "t": 1755474876148,
+          "mindshare": 0.0
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1755473316651,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.1927
+        }
+      ],
+      "boop": [
+        {
+          "t": 1757109012013,
+          "mindshare": 0.6422
+        }
+      ],
+      "bybit": [
+        {
+          "t": 1757108282807,
+          "mindshare": 7.5684
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1755155989383,
+          "mindshare": 0.0036
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 0.1688
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.635
+        }
+      ]
+    }
+  }
+}

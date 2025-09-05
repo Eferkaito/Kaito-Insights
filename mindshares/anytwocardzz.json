@@ -1,0 +1,39 @@
+{
+  "user": "anytwocardzz",
+  "timeframes": {
+    "7D": {
+      "mavryk": [
+        {
+          "t": 1757106864477,
+          "mindshare": 0.26
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.117
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 0.0826
+        }
+      ]
+    },
+    "30D": {
+      "mavryk": [
+        {
+          "t": 1757106867001,
+          "mindshare": 0.1845
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.03
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "user": "ttyuanli",
+  "timeframes": {
+    "7D": {
+      "everlyn": [
+        {
+          "t": 1757107127179,
+          "mindshare": 0.263
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.0379
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107842032,
+          "mindshare": 0.2696
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1756462736990,
+          "mindshare": 0.0116
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1757108471256,
+          "mindshare": 0.2954
+        }
+      ]
+    },
+    "30D": {
+      "everlyn": [
+        {
+          "t": 1757107129463,
+          "mindshare": 0.2417
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.0
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.0841
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.022
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.0686
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1757107173263,
+          "mindshare": 0.1299
+        }
+      ],
+      "wayfinder": [
+        {
+          "t": 1757108921973,
+          "mindshare": 0.0791
+        }
+      ]
+    }
+  }
+}

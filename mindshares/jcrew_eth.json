@@ -1,0 +1,57 @@
+{
+  "user": "jcrew_eth",
+  "timeframes": {
+    "7D": {
+      "defidotapp": [
+        {
+          "t": 1757109055643,
+          "mindshare": 0.36
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 1.15
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107721229,
+          "mindshare": 0.0
+        }
+      ],
+      "wayfinder": [
+        {
+          "t": 1757108919583,
+          "mindshare": 4.9699
+        }
+      ]
+    },
+    "30D": {
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.2624
+        }
+      ],
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.74
+        }
+      ],
+      "union": [
+        {
+          "t": 1757107723965,
+          "mindshare": 0.0413
+        }
+      ],
+      "wayfinder": [
+        {
+          "t": 1757108921973,
+          "mindshare": 5.2864
+        }
+      ]
+    }
+  }
+}

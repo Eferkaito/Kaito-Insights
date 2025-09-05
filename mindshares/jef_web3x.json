@@ -1,0 +1,81 @@
+{
+  "user": "jef_web3x",
+  "timeframes": {
+    "7D": {
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 0.9734
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108105201,
+          "mindshare": 3.6679
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 0.5559
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.1624
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.7993
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106817985,
+          "mindshare": 0.9815
+        }
+      ]
+    },
+    "30D": {
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.6083
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1757108108067,
+          "mindshare": 3.0052
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.3415
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.2137
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.3434
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 1.0073
+        }
+      ]
+    }
+  }
+}

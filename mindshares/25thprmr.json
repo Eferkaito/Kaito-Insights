@@ -1,0 +1,33 @@
+{
+  "user": "25thprmr",
+  "timeframes": {
+    "7D": {
+      "katana": [
+        {
+          "t": 1757107526368,
+          "mindshare": 0.3468
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 1.0312
+        }
+      ]
+    },
+    "30D": {
+      "katana": [
+        {
+          "t": 1757107529456,
+          "mindshare": 0.3512
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.8115
+        }
+      ]
+    }
+  }
+}

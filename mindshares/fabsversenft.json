@@ -1,0 +1,33 @@
+{
+  "user": "fabsversenft",
+  "timeframes": {
+    "7D": {
+      "peaq": [
+        {
+          "t": 1757108031740,
+          "mindshare": 0.263
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 1.1193
+        }
+      ]
+    },
+    "30D": {
+      "peaq": [
+        {
+          "t": 1757108033579,
+          "mindshare": 0.2168
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.7079
+        }
+      ]
+    }
+  }
+}

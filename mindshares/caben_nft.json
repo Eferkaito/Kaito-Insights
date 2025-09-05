@@ -1,0 +1,45 @@
+{
+  "user": "caben_nft",
+  "timeframes": {
+    "7D": {
+      "newton": [
+        {
+          "t": 1756835813744,
+          "mindshare": 0.0
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108080839,
+          "mindshare": 2.2941
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.0
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.6953
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.2053
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "user": "lex_node",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.6483
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.2043
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.3749
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1358
+        }
+      ]
+    }
+  }
+}

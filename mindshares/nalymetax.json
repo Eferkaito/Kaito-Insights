@@ -1,0 +1,39 @@
+{
+  "user": "nalymetax",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1757107215918,
+          "mindshare": 0.2411
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 1.2052
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106817985,
+          "mindshare": 0.9175
+        }
+      ]
+    },
+    "30D": {
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 0.5591
+        }
+      ],
+      "warden": [
+        {
+          "t": 1757106821176,
+          "mindshare": 0.4111
+        }
+      ]
+    }
+  }
+}

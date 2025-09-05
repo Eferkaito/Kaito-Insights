@@ -1,0 +1,45 @@
+{
+  "user": "1stbenjanad",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1755155007864,
+          "mindshare": 0.0
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 0.2865
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107868051,
+          "mindshare": 0.673
+        }
+      ]
+    },
+    "30D": {
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.2115
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 0.1935
+        }
+      ],
+      "monad": [
+        {
+          "t": 1757107871087,
+          "mindshare": 0.3964
+        }
+      ]
+    }
+  }
+}

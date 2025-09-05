@@ -1,0 +1,45 @@
+{
+  "user": "cryptolfggo",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1757106770288,
+          "mindshare": 0.3576
+        }
+      ],
+      "memex": [
+        {
+          "t": 1757106795318,
+          "mindshare": 5.0583
+        }
+      ]
+    },
+    "30D": {
+      "humanity": [
+        {
+          "t": 1757108575652,
+          "mindshare": 0.1092
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757106772579,
+          "mindshare": 0.1642
+        }
+      ],
+      "memex": [
+        {
+          "t": 1757106797874,
+          "mindshare": 1.5501
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1757107624122,
+          "mindshare": 0.0682
+        }
+      ]
+    }
+  }
+}

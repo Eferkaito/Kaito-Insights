@@ -1,0 +1,63 @@
+{
+  "user": "the_smart_ape",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.1872
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107671479,
+          "mindshare": 0.6922
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 0.3551
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "camp": [
+        {
+          "t": 1757107649419,
+          "mindshare": 0.5722
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1757107674332,
+          "mindshare": 1.2088
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.5457
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 0.2025
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 1.1609
+        }
+      ]
+    }
+  }
+}

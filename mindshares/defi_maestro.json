@@ -1,0 +1,27 @@
+{
+  "user": "defi_maestro",
+  "timeframes": {
+    "7D": {
+      "kaito": [
+        {
+          "t": 1757108329341,
+          "mindshare": 0.2036
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1757108360121,
+          "mindshare": 5.3985
+        }
+      ]
+    },
+    "30D": {
+      "mantle": [
+        {
+          "t": 1757108363781,
+          "mindshare": 3.0288
+        }
+      ]
+    }
+  }
+}

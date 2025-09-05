@@ -1,0 +1,57 @@
+{
+  "user": "omnicryptx",
+  "timeframes": {
+    "7D": {
+      "cysic": [
+        {
+          "t": 1757107818267,
+          "mindshare": 0.3282
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1757108597832,
+          "mindshare": 0.111
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106983387,
+          "mindshare": 0.0895
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107794270,
+          "mindshare": 0.133
+        }
+      ]
+    },
+    "30D": {
+      "infinit": [
+        {
+          "t": 1757108601390,
+          "mindshare": 0.063
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1757106985875,
+          "mindshare": 0.0589
+        }
+      ],
+      "newton": [
+        {
+          "t": 1756467155319,
+          "mindshare": 0.0322
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1757107796972,
+          "mindshare": 0.0646
+        }
+      ]
+    }
+  }
+}

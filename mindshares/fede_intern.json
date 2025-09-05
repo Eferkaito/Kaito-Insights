@@ -1,0 +1,45 @@
+{
+  "user": "fede_intern",
+  "timeframes": {
+    "7D": {
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.4152
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.3292
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108080839,
+          "mindshare": 2.4333
+        }
+      ]
+    },
+    "30D": {
+      "boundless": [
+        {
+          "t": 1757107698398,
+          "mindshare": 0.2562
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1374
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.7224
+        }
+      ]
+    }
+  }
+}

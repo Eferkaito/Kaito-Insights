@@ -1,0 +1,39 @@
+{
+  "user": "web3zy8",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.3491
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107033438,
+          "mindshare": 0.1078
+        }
+      ]
+    },
+    "30D": {
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.1391
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107406989,
+          "mindshare": 0.1503
+        }
+      ],
+      "somnia": [
+        {
+          "t": 1757107036873,
+          "mindshare": 0.1229
+        }
+      ]
+    }
+  }
+}

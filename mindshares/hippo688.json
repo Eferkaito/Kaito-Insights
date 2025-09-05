@@ -1,0 +1,37 @@
+{
+  "user": "hippo688",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 0.1515
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1755155156094,
+          "mindshare": 0.1576
+        },
+        {
+          "t": 1757108893249,
+          "mindshare": 0.2552
+        }
+      ]
+    },
+    "30D": {
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.0599
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1757108896194,
+          "mindshare": 0.151
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "user": "naive_bnb",
+  "timeframes": {
+    "7D": {
+      "succinct": [
+        {
+          "t": 1755575790582,
+          "mindshare": 0.1182
+        }
+      ]
+    },
+    "30D": {
+      "memex": [
+        {
+          "t": 1757106797874,
+          "mindshare": 0.6741
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1757108084402,
+          "mindshare": 0.0703
+        }
+      ]
+    }
+  }
+}

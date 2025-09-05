@@ -1,0 +1,33 @@
+{
+  "user": "materkel",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.1935
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107428266,
+          "mindshare": 1.3491
+        }
+      ]
+    },
+    "30D": {
+      "ethereum": [
+        {
+          "t": 1757108550624,
+          "mindshare": 0.1062
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.3322
+        }
+      ]
+    }
+  }
+}

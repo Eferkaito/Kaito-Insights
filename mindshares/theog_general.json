@@ -1,0 +1,39 @@
+{
+  "user": "theog_general",
+  "timeframes": {
+    "7D": {
+      "moonbirds": [
+        {
+          "t": 1757106959141,
+          "mindshare": 1.335
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107240656,
+          "mindshare": 1.8511
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1757108816871,
+          "mindshare": 0.2117
+        }
+      ]
+    },
+    "30D": {
+      "moonbirds": [
+        {
+          "t": 1757106962338,
+          "mindshare": 0.9414
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1757107241865,
+          "mindshare": 1.6632
+        }
+      ]
+    }
+  }
+}

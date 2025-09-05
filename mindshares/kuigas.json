@@ -1,0 +1,33 @@
+{
+  "user": "kuigas",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.2018
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.1204
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757108522396,
+          "mindshare": 0.2166
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.1015
+        }
+      ]
+    }
+  }
+}

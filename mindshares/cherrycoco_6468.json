@@ -1,0 +1,33 @@
+{
+  "user": "cherrycoco_6468",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1757107771265,
+          "mindshare": 1.9108
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107842032,
+          "mindshare": 0.4603
+        }
+      ]
+    },
+    "30D": {
+      "openledger": [
+        {
+          "t": 1757107774347,
+          "mindshare": 0.7507
+        }
+      ],
+      "surf": [
+        {
+          "t": 1757107844789,
+          "mindshare": 1.3735
+        }
+      ]
+    }
+  }
+}

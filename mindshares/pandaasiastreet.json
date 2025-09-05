@@ -1,0 +1,33 @@
+{
+  "user": "pandaasiastreet",
+  "timeframes": {
+    "7D": {
+      "injective": [
+        {
+          "t": 1757107937803,
+          "mindshare": 0.1126
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106959141,
+          "mindshare": 0.9804
+        }
+      ]
+    },
+    "30D": {
+      "injective": [
+        {
+          "t": 1757107940955,
+          "mindshare": 0.3069
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1757106962338,
+          "mindshare": 0.4045
+        }
+      ]
+    }
+  }
+}

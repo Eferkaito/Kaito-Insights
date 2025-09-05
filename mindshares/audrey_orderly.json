@@ -1,0 +1,27 @@
+{
+  "user": "audrey_orderly",
+  "timeframes": {
+    "7D": {
+      "orderly": [
+        {
+          "t": 1756456608766,
+          "mindshare": 7.2295
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1757107404624,
+          "mindshare": 0.0
+        }
+      ]
+    },
+    "30D": {
+      "orderly": [
+        {
+          "t": 1757108744848,
+          "mindshare": 2.4462
+        }
+      ]
+    }
+  }
+}

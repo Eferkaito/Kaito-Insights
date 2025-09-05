@@ -1,0 +1,51 @@
+{
+  "user": "olimpiocrypto",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757108519903,
+          "mindshare": 0.2159
+        }
+      ],
+      "boundless": [
+        {
+          "t": 1757107696371,
+          "mindshare": 0.2872
+        }
+      ],
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 0.5194
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1757107598842,
+          "mindshare": 5.6573
+        }
+      ]
+    },
+    "30D": {
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.1886
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1757107601065,
+          "mindshare": 1.5051
+        }
+      ],
+      "sonic": [
+        {
+          "t": 1757108448798,
+          "mindshare": 0.31
+        }
+      ]
+    }
+  }
+}

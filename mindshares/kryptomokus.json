@@ -1,0 +1,65 @@
+{
+  "user": "kryptomokus",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1757108985179,
+          "mindshare": 0.2451
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757078118813,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757087940491,
+          "mindshare": 0.0
+        },
+        {
+          "t": 1757107428266,
+          "mindshare": 0.0
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1757108031740,
+          "mindshare": 0.136
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108764455,
+          "mindshare": 0.948
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1757108988522,
+          "mindshare": 0.4118
+        }
+      ],
+      "infinex": [
+        {
+          "t": 1757107430755,
+          "mindshare": 0.086
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1757108033579,
+          "mindshare": 0.153
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1757108767055,
+          "mindshare": 0.4339
+        }
+      ]
+    }
+  }
+}

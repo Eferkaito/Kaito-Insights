@@ -1,0 +1,33 @@
+{
+  "user": "0008luna",
+  "timeframes": {
+    "7D": {
+      "goatnetwork": [
+        {
+          "t": 1757107380042,
+          "mindshare": 0.5995
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.2786
+        }
+      ]
+    },
+    "30D": {
+      "cysic": [
+        {
+          "t": 1757107820972,
+          "mindshare": 0.206
+        }
+      ],
+      "goatnetwork": [
+        {
+          "t": 1757107382697,
+          "mindshare": 0.8935
+        }
+      ]
+    }
+  }
+}

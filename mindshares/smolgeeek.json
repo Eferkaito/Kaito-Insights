@@ -1,0 +1,39 @@
+{
+  "user": "smolgeeek",
+  "timeframes": {
+    "7D": {
+      "cysic": [
+        {
+          "t": 1757107818267,
+          "mindshare": 0.5823
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107106147,
+          "mindshare": 0.2755
+        }
+      ]
+    },
+    "30D": {
+      "cysic": [
+        {
+          "t": 1757107820972,
+          "mindshare": 0.4744
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1757109057259,
+          "mindshare": 0.2203
+        }
+      ],
+      "portaltobitcoin": [
+        {
+          "t": 1757107107377,
+          "mindshare": 0.2397
+        }
+      ]
+    }
+  }
+}

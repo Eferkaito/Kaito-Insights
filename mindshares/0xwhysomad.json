@@ -1,0 +1,33 @@
+{
+  "user": "0xwhysomad",
+  "timeframes": {
+    "7D": {
+      "mitosis": [
+        {
+          "t": 1757107356793,
+          "mindshare": 1.0012
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107058371,
+          "mindshare": 0.5159
+        }
+      ]
+    },
+    "30D": {
+      "mitosis": [
+        {
+          "t": 1757107360019,
+          "mindshare": 0.6098
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1757107060158,
+          "mindshare": 0.8458
+        }
+      ]
+    }
+  }
+}

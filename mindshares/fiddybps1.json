@@ -1,0 +1,33 @@
+{
+  "user": "fiddybps1",
+  "timeframes": {
+    "7D": {
+      "paradex": [
+        {
+          "t": 1757107309251,
+          "mindshare": 12.6982
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108129582,
+          "mindshare": 1.5573
+        }
+      ]
+    },
+    "30D": {
+      "paradex": [
+        {
+          "t": 1757107311746,
+          "mindshare": 6.4502
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1757108131635,
+          "mindshare": 0.5456
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "user": "hotpot_dao",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1757108547596,
+          "mindshare": 0.1989
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1757107332641,
+          "mindshare": 2.0396
+        }
+      ]
+    },
+    "30D": {
+      "megaeth": [
+        {
+          "t": 1757107335227,
+          "mindshare": 1.9582
+        }
+      ]
+    }
+  }
+}

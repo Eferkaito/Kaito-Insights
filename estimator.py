@@ -10,6 +10,7 @@ LBYAPS_DIR = ROOT / "lbyaps"
 YAPS_DB = ROOT / "yaps.json"
 STATS_PATH = ROOT / "statistics.json"
 HIST_PATH = ROOT / "historical_lbyaps.json"
+MINDSHARES_DIR = ROOT / "mindshares"
 
 TIMEFRAMES = ["7D", "30D", "3M", "6M", "12M"]
 
@@ -40,6 +41,19 @@ def coerce_float(val: Any) -> Optional[float]:
     if isinstance(val, str):
         try:
             return float(val.strip())
+        except ValueError:
+            return None
+    return None
+
+
+def coerce_int(val: Any) -> Optional[int]:
+    if isinstance(val, int):
+        return val
+    if isinstance(val, float):
+        return int(val)
+    if isinstance(val, str):
+        try:
+            return int(val.strip())
         except ValueError:
             return None
     return None
@@ -124,13 +138,118 @@ def iter_files_ordered() -> List[Tuple[str, str, Path]]:
     return ordered
 
 
+# ---------- mindshares per user (merge-safe persistence) ----------
+def _mind_file_for(username_lc: str) -> Path:
+    return MINDSHARES_DIR / f"{username_lc}.json"
+
+
+def _mind_load(username_lc: str) -> Dict[str, Any]:
+    """
+    Shape:
+    {
+      "user": "<lowercase_username>",
+      "timeframes": {
+        "<tf>": { "<project>": [ {"t": int, "mindshare": float}, ... ] }
+      }
+    }
+    """
+    path = _mind_file_for(username_lc)
+    if path.exists():
+        try:
+            data = read_json(path)
+            if isinstance(data, dict):
+                if "user" not in data:
+                    data["user"] = username_lc
+                if "timeframes" not in data or not isinstance(data["timeframes"], dict):
+                    data["timeframes"] = {}
+                return data
+        except Exception:
+            pass
+    return {"user": username_lc, "timeframes": {}}
+
+
+def _merge_ts_list(old: List[Dict[str, Any]], new: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    # Map by timestamp; new values override old on the same t
+    by_t: Dict[int, Dict[str, Any]] = {}
+    for rec in old:
+        if isinstance(rec, dict) and isinstance(rec.get("t"), (int, float)):
+            by_t[int(rec["t"])] = dict(rec)
+    for rec in new:
+        if isinstance(rec, dict) and isinstance(rec.get("t"), (int, float)):
+            by_t[int(rec["t"])] = dict(rec)
+    merged = list(by_t.values())
+    merged.sort(key=lambda r: int(r.get("t", 0)))
+    return merged
+
+
+def _deep_merge_mind(existing: Dict[str, Any], incoming: Dict[str, Any]) -> Dict[str, Any]:
+    out = dict(existing)
+    out.setdefault("user", incoming.get("user"))
+    tf_dst = out.setdefault("timeframes", {})
+    tf_src = incoming.get("timeframes", {})
+
+    if isinstance(tf_src, dict):
+        for tf, proj_map in tf_src.items():
+            if not isinstance(proj_map, dict):
+                continue
+            dst_proj_map = tf_dst.setdefault(tf, {})
+            for proj, arr in proj_map.items():
+                if not isinstance(arr, list):
+                    continue
+                old_arr = dst_proj_map.get(proj, [])
+                if not isinstance(old_arr, list):
+                    old_arr = []
+                dst_proj_map[proj] = _merge_ts_list(old_arr, arr)
+    return out
+
+
+def _mind_update_entry(store: Dict[str, Any], timeframe: str, project: str, t: int, ms: float) -> None:
+    tfs = store.setdefault("timeframes", {})
+    proj_map = tfs.setdefault(timeframe, {})
+    arr = proj_map.setdefault(project, [])
+
+    # Update in place if the same timestamp exists, else append and keep sorted
+    idx = None
+    for i, rec in enumerate(arr):
+        if isinstance(rec, dict) and rec.get("t") == t:
+            idx = i
+            break
+    if idx is None:
+        arr.append({"t": t, "mindshare": ms})
+        arr.sort(key=lambda r: r.get("t", 0))
+    else:
+        arr[idx]["mindshare"] = ms
+
+
+def _mind_flush_all(cache: Dict[str, Dict[str, Any]]) -> None:
+    for username_lc, payload in cache.items():
+        out_path = _mind_file_for(username_lc)
+        if out_path.exists():
+            try:
+                disk = read_json(out_path)
+                if not isinstance(disk, dict):
+                    disk = {}
+            except Exception:
+                disk = {}
+            merged = _deep_merge_mind(disk, payload)
+            write_json(out_path, merged)
+        else:
+            write_json(out_path, payload)
+
+
 # ---------- injector + stats for one file ----------
 def inject_and_summarize(
-    project: str, timeframe: str, src_path: Path, yaps_map: Dict[str, Optional[float]]
+    project: str,
+    timeframe: str,
+    src_path: Path,
+    yaps_map: Dict[str, Optional[float]],
+    mind_cache: Dict[str, Dict[str, Any]],
 ) -> Tuple[Optional[Dict[str, Any]], Optional[float], Optional[str], Optional[float], Optional[str]]:
     """
     Injects yaps_all into items and writes:
       lbyaps/{project}/{project}-{timeframe}.json
+    Updates mindshares cache:
+      mindshares/<lower(username)>.json with history per timeframe per project.
     Returns (stats_record, smart_min_val, smart_min_user, yaps_min_val, yaps_min_user)
     """
     try:
@@ -155,16 +274,17 @@ def inject_and_summarize(
     out_path = out_dir / f"{project}-{timeframe}.json"
     write_json(out_path, payload)
 
-    # Build (username, value) pairs
+    # Build (username, value) pairs for stats
     followers_pairs: List[Tuple[Optional[str], float]] = []
     smart_pairs: List[Tuple[Optional[str], float]] = []
     yaps_pairs: List[Tuple[Optional[str], float]] = []
 
+    # Collect mindshares into cache
     for it in items:
         if not isinstance(it, dict):
             continue
-        u = it.get("username")
 
+        u = it.get("username")
         f = coerce_float(it.get("follower_count"))
         if f is not None:
             followers_pairs.append((u, f))
@@ -176,6 +296,17 @@ def inject_and_summarize(
         y = coerce_float(it.get("yaps_all"))
         if y is not None:
             yaps_pairs.append((u, y))
+
+        # mindshare time series per user/timeframe/project
+        ms = coerce_float(it.get("mindshare"))
+        t = coerce_int(it.get("updatedAt"))
+        if isinstance(u, str) and ms is not None and t is not None:
+            u_lc = u.lower()
+            store = mind_cache.get(u_lc)
+            if store is None:
+                store = _mind_load(u_lc)
+                mind_cache[u_lc] = store
+            _mind_update_entry(store, timeframe, project, t, ms)
 
     followers_stats = compute_stats_with_users(followers_pairs)
     smart_stats = compute_stats_with_users(smart_pairs)
@@ -308,9 +439,12 @@ def main():
     stats_rows: List[Dict[str, Any]] = []
     hist = load_historical(HIST_PATH)
 
+    # cache for user mindshares (will be merged with disk on flush)
+    mind_cache: Dict[str, Dict[str, Any]] = {}
+
     for project, timeframe, src in files:
         rec, smart_min, smart_min_user, yaps_min, yaps_min_user = inject_and_summarize(
-            project, timeframe, src, yaps_map
+            project, timeframe, src, yaps_map, mind_cache
         )
         if rec:
             stats_rows.append(rec)
@@ -327,8 +461,11 @@ def main():
     # historical_lbyaps.json
     write_json(HIST_PATH, hist)
 
+    # flush all user mindshares (merge-safe)
+    _mind_flush_all(mind_cache)
+
     print(
-        f"Injected {len(stats_rows)} files into lbyaps/, updated statistics (min/max with users) and historical (values+users)."
+        f"Injected {len(stats_rows)} files into lbyaps/, updated statistics & historical, and wrote {len(mind_cache)} user mindshare files."
     )
 
 

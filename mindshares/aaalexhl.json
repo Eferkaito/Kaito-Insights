@@ -1,0 +1,27 @@
+{
+  "user": "aaalexhl",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1757544288185,
+          "mindshare": 0.4747
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1757544291481,
+          "mindshare": 0.1483
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1757552125154,
+          "mindshare": 0.2271
+        }
+      ]
+    }
+  }
+}

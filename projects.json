@@ -123,7 +123,7 @@
     {
       "name": "Camp Network",
       "link": "camp",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "CAMP",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FCAMP%252FCAMP.jpg/w=64&q=90",
       "id": 16
@@ -219,7 +219,7 @@
     {
       "name": "Sidekick",
       "link": "sidekick",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "SIDEKICK",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSIDEKICK%252FSIDEKICK.jpg/w=64&q=90",
       "id": 29
@@ -227,7 +227,7 @@
     {
       "name": "Somnia",
       "link": "somnia",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "SOMNIA",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSOMNIA%252FSOMNIA.jpg/w=64&q=90",
       "id": 30
@@ -379,7 +379,7 @@
     {
       "name": "SatLayer",
       "link": "satlayer",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "SATLAYER",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSATLAYER%252FSATLAYER.png/w=64&q=90",
       "id": 49
@@ -411,7 +411,7 @@
     {
       "name": "Mitosis",
       "link": "mitosis",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "MITOSIS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMITOSIS%252FMITOSIS.jpg/w=64&q=90",
       "id": 53
@@ -451,7 +451,7 @@
     {
       "name": "OpenLedger",
       "link": "openledger",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "OPENLEDGER",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FOPENLEDGER%252FOPENLEDGER.jpg/w=64&q=90",
       "id": 58
@@ -763,7 +763,7 @@
     {
       "name": "Sapien",
       "link": "sapien",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "SAPIEN",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSAPIEN%252FSAPIEN.jpg/w=64&q=90",
       "id": 101
@@ -815,6 +815,30 @@
       "ticker": "PLAYAI",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPLAYAI%252FPLAYAI.jpg/w=64&q=90",
       "id": 107
+    },
+    {
+      "name": "Sentient",
+      "link": "sentient",
+      "category": "preTGE",
+      "ticker": "SENTIENT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSENTIENT%252FSENTIENT.jpg/w=48&q=90",
+      "id": 236
+    },
+    {
+      "name": "Metawin",
+      "link": "metawin",
+      "category": "preTGE",
+      "ticker": "METAWIN",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMETAWIN%252FMETAWIN.jpg/w=48&q=90",
+      "id": 237
+    },
+    {
+      "name": "Doodles",
+      "link": "doodles",
+      "category": "postTGE",
+      "ticker": "DOOD",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FDOOD%252FDOOD.png/w=48&q=90",
+      "id": 238
     }
   ]
 }

@@ -839,6 +839,14 @@
       "ticker": "DOOD",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FDOOD%252FDOOD.png/w=48&q=90",
       "id": 238
+    },
+    {
+      "name": "Anichess",
+      "link": "anichess",
+      "category": "postTGE",
+      "ticker": null,
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANICHESS%252FANICHESS.jpg/w=48&q=90",
+      "id": 239
     }
   ]
 }

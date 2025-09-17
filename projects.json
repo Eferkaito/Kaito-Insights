@@ -635,7 +635,7 @@
     {
       "name": "Boundless",
       "link": "boundless",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "BOUNDLESS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBOUNDLESS%252FBOUNDLESS.jpg/w=64&q=90",
       "id": 84
@@ -844,9 +844,17 @@
       "name": "Anichess",
       "link": "anichess",
       "category": "postTGE",
-      "ticker": null,
+      "ticker": "ANICHESS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANICHESS%252FANICHESS.jpg/w=48&q=90",
       "id": 239
+    },
+    {
+      "name": "Kindred",
+      "link": "kindred",
+      "category": "preTGE",
+      "ticker": "KINDRED",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FKINDRED%252FKINDRED.jpg/w=48&q=90",
+      "id": 240
     }
   ]
 }

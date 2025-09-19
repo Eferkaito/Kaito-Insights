@@ -627,7 +627,7 @@
     {
       "name": "Bless",
       "link": "bless",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "BLS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBLS%252FBLS.png%253Fv%253D1/w=64&q=90",
       "id": 83
@@ -843,7 +843,7 @@
     {
       "name": "Anichess",
       "link": "anichess",
-      "category": "postTGE",
+      "category": "preTGE",
       "ticker": "ANICHESS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANICHESS%252FANICHESS.jpg/w=48&q=90",
       "id": 239
@@ -855,6 +855,14 @@
       "ticker": "KINDRED",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FKINDRED%252FKINDRED.jpg/w=48&q=90",
       "id": 240
+    },
+    {
+      "name": "Talus",
+      "link": "talus",
+      "category": "preTGE",
+      "ticker": "TALUS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTALUS%252FTALUS.png/w=48&q=90",
+      "id": 241
     }
   ]
 }

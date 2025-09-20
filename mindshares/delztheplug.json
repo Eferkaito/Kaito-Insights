@@ -1,0 +1,39 @@
+{
+  "user": "delztheplug",
+  "timeframes": {
+    "7D": {
+      "multipli": [
+        {
+          "t": 1758325260648,
+          "mindshare": 0.1742
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1758326044174,
+          "mindshare": 0.741
+        }
+      ]
+    },
+    "30D": {
+      "multipli": [
+        {
+          "t": 1758325263937,
+          "mindshare": 0.0851
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1758326047118,
+          "mindshare": 0.3481
+        }
+      ],
+      "union": [
+        {
+          "t": 1758325969219,
+          "mindshare": 0.0044
+        }
+      ]
+    }
+  }
+}

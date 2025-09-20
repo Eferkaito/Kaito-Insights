@@ -7,11 +7,11 @@
       "user_id": "1441265308455501824",
       "topic_id": "CALDERA",
       "username": "theappletucker",
-      "mindshare": 9.987,
+      "mindshare": 9.639,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 3784,
+      "updatedAt": 1758325005358,
+      "follower_count": 3786,
       "smart_follower_count": 359,
       "insightfullness": null,
       "originality": null,
@@ -24,11 +24,11 @@
       "user_id": "1512932203826753536",
       "topic_id": "CALDERA",
       "username": "jimmyboolish",
-      "mindshare": 4.738,
+      "mindshare": 4.9674,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 6065,
+      "updatedAt": 1758325005358,
+      "follower_count": 6056,
       "smart_follower_count": 265,
       "insightfullness": null,
       "originality": null,
@@ -41,15 +41,15 @@
       "user_id": "1228678346185281537",
       "topic_id": "CALDERA",
       "username": "OxTochi",
-      "mindshare": 3.7268,
+      "mindshare": 4.1322,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 71659,
+      "updatedAt": 1758325005358,
+      "follower_count": 71646,
       "smart_follower_count": 525,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2084.12
+      "yaps_all": 2085.31
     },
     {
       "id": 3800712,
@@ -58,83 +58,83 @@
       "user_id": "1950985840890617857",
       "topic_id": "CALDERA",
       "username": "smolgeeek",
-      "mindshare": 3.5614,
+      "mindshare": 3.3853,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 7194,
+      "updatedAt": 1758325005358,
+      "follower_count": 7307,
       "smart_follower_count": 46,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 161.95
+      "yaps_all": 163.5
     },
     {
       "id": 3800713,
-      "name": "Hokage",
-      "rank": 5,
-      "user_id": "1342386913",
-      "topic_id": "CALDERA",
-      "username": "73lV_",
-      "mindshare": 2.5629,
-      "projectId": 13,
-      "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 70304,
-      "smart_follower_count": 472,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 1736.46
-    },
-    {
-      "id": 3800714,
       "name": "R2D2",
-      "rank": 6,
+      "rank": 5,
       "user_id": "1587849097557458948",
       "topic_id": "CALDERA",
       "username": "R2D2zen",
-      "mindshare": 2.3238,
+      "mindshare": 3.1846,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 11296,
+      "updatedAt": 1758325005358,
+      "follower_count": 11300,
       "smart_follower_count": 233,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1083.17
+      "yaps_all": 1086.16
+    },
+    {
+      "id": 3800714,
+      "name": "Hokage",
+      "rank": 6,
+      "user_id": "1342386913",
+      "topic_id": "CALDERA",
+      "username": "73lV_",
+      "mindshare": 2.6197,
+      "projectId": 13,
+      "duration": "7D",
+      "updatedAt": 1758325005358,
+      "follower_count": 70327,
+      "smart_follower_count": 472,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 1739.95
     },
     {
       "id": 3800715,
-      "name": "CD III",
-      "rank": 7,
-      "user_id": "1382668651753447426",
-      "topic_id": "CALDERA",
-      "username": "CDIIIcrypto",
-      "mindshare": 1.9365,
-      "projectId": 13,
-      "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 2621,
-      "smart_follower_count": 33,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 540.48
-    },
-    {
-      "id": 3800716,
       "name": "Dr Rafa",
-      "rank": 8,
+      "rank": 7,
       "user_id": "2828304326",
       "topic_id": "CALDERA",
       "username": "brave_raf",
-      "mindshare": 1.9314,
+      "mindshare": 2.0263,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 10243,
+      "updatedAt": 1758325005358,
+      "follower_count": 10231,
       "smart_follower_count": 183,
       "insightfullness": null,
       "originality": null,
       "yaps_all": 1019.1
+    },
+    {
+      "id": 3800716,
+      "name": "CD III",
+      "rank": 8,
+      "user_id": "1382668651753447426",
+      "topic_id": "CALDERA",
+      "username": "CDIIIcrypto",
+      "mindshare": 1.9216,
+      "projectId": 13,
+      "duration": "7D",
+      "updatedAt": 1758325005358,
+      "follower_count": 2615,
+      "smart_follower_count": 33,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 540.48
     },
     {
       "id": 3800717,
@@ -143,15 +143,15 @@
       "user_id": "64359118",
       "topic_id": "CALDERA",
       "username": "ZF_lab",
-      "mindshare": 1.6661,
+      "mindshare": 1.7141,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 103591,
+      "updatedAt": 1758325005358,
+      "follower_count": 103561,
       "smart_follower_count": 355,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1745.59
+      "yaps_all": 1746.9
     },
     {
       "id": 3800718,
@@ -160,15 +160,15 @@
       "user_id": "814264532419969026",
       "topic_id": "CALDERA",
       "username": "farmercist_eth",
-      "mindshare": 1.5961,
+      "mindshare": 1.5263,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 248595,
+      "updatedAt": 1758325005358,
+      "follower_count": 248258,
       "smart_follower_count": 332,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 715.92
+      "yaps_all": 715.98
     },
     {
       "id": 3800719,
@@ -177,15 +177,15 @@
       "user_id": "1371367766637211648",
       "topic_id": "CALDERA",
       "username": "insomniac_ac",
-      "mindshare": 1.0922,
+      "mindshare": 1.0517,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 2486,
+      "updatedAt": 1758325005358,
+      "follower_count": 2482,
       "smart_follower_count": 212,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1101.57
+      "yaps_all": 1108.44
     },
     {
       "id": 3800720,
@@ -194,134 +194,134 @@
       "user_id": "527929834",
       "topic_id": "CALDERA",
       "username": "lovestern83",
-      "mindshare": 0.7679,
+      "mindshare": 0.7396,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 23375,
+      "updatedAt": 1758325005358,
+      "follower_count": 23260,
       "smart_follower_count": 80,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 531.96
+      "yaps_all": 532.61
     },
     {
       "id": 3800721,
-      "name": "Shinkiro",
+      "name": "Crypto Gideon(🧠,🧠)",
       "rank": 13,
-      "user_id": "1001652402527916035",
+      "user_id": "1610335108455620609",
       "topic_id": "CALDERA",
-      "username": "ShinKiro14",
-      "mindshare": 0.3991,
+      "username": "CryptoGideon_",
+      "mindshare": 0.6446,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 1283,
-      "smart_follower_count": 66,
+      "updatedAt": 1758325005358,
+      "follower_count": 36583,
+      "smart_follower_count": 545,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 604.08
+      "yaps_all": 1092.57
     },
     {
       "id": 3800722,
-      "name": "Rains ☔️",
+      "name": "Shinkiro",
       "rank": 14,
+      "user_id": "1001652402527916035",
+      "topic_id": "CALDERA",
+      "username": "ShinKiro14",
+      "mindshare": 0.3994,
+      "projectId": 13,
+      "duration": "7D",
+      "updatedAt": 1758325005358,
+      "follower_count": 1287,
+      "smart_follower_count": 66,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 604.57
+    },
+    {
+      "id": 3800723,
+      "name": "Rains ☔️",
+      "rank": 15,
       "user_id": "299434268",
       "topic_id": "CALDERA",
       "username": "r_rainss",
-      "mindshare": 0.3915,
+      "mindshare": 0.3773,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 29614,
+      "updatedAt": 1758325005358,
+      "follower_count": 29810,
       "smart_follower_count": 826,
       "insightfullness": null,
       "originality": null,
       "yaps_all": 583.25
     },
     {
-      "id": 3800723,
+      "id": 3800724,
       "name": "AgentYP",
-      "rank": 15,
+      "rank": 16,
       "user_id": "1864214910617702404",
       "topic_id": "CALDERA",
       "username": "Agent_YP",
-      "mindshare": 0.1739,
+      "mindshare": 0.1248,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 11213,
+      "updatedAt": 1758325005358,
+      "follower_count": 11215,
       "smart_follower_count": 288,
       "insightfullness": null,
       "originality": null,
       "yaps_all": 959.56
     },
     {
-      "id": 3800724,
+      "id": 3800725,
       "name": "Anon Vee",
-      "rank": 16,
+      "rank": 17,
       "user_id": "1591150139774799876",
       "topic_id": "CALDERA",
       "username": "AnonVee_",
-      "mindshare": 0.0704,
+      "mindshare": 0.0698,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 53601,
+      "updatedAt": 1758325005358,
+      "follower_count": 53619,
       "smart_follower_count": 262,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2330.02
-    },
-    {
-      "id": 3800725,
-      "name": "SKYLINE🥷",
-      "rank": 17,
-      "user_id": "1427358209933811722",
-      "topic_id": "CALDERA",
-      "username": "SkylineETH",
-      "mindshare": 0,
-      "projectId": 13,
-      "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 145203,
-      "smart_follower_count": 830,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 1215.92
+      "yaps_all": 2342.0
     },
     {
       "id": 3800726,
-      "name": "xero 🎮",
+      "name": "〽️ᄃﾑt 🐾",
       "rank": 18,
+      "user_id": "2743463751",
+      "topic_id": "CALDERA",
+      "username": "mztacat",
+      "mindshare": 0,
+      "projectId": 13,
+      "duration": "7D",
+      "updatedAt": 1758325005358,
+      "follower_count": 159425,
+      "smart_follower_count": 505,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 774.51
+    },
+    {
+      "id": 3800727,
+      "name": "xero 🎮",
+      "rank": 19,
       "user_id": "1467734865676312579",
       "topic_id": "CALDERA",
       "username": "xerocooleth",
       "mindshare": 0,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 68069,
+      "updatedAt": 1758325005358,
+      "follower_count": 67849,
       "smart_follower_count": 1730,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2475.09
-    },
-    {
-      "id": 3800727,
-      "name": "Ola Ξlixir",
-      "rank": 19,
-      "user_id": "1103459924",
-      "topic_id": "CALDERA",
-      "username": "thegreatola",
-      "mindshare": 0,
-      "projectId": 13,
-      "duration": "7D",
-      "updatedAt": 1758285219123,
-      "follower_count": 101104,
-      "smart_follower_count": 550,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 1107.18
+      "yaps_all": 2494.59
     },
     {
       "id": 3800728,
@@ -333,12 +333,12 @@
       "mindshare": 0,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1758245831365,
-      "follower_count": 101017,
+      "updatedAt": 1758325005358,
+      "follower_count": 101087,
       "smart_follower_count": 550,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1107.18
+      "yaps_all": 1113.87
     },
     {
       "id": 3800729,
@@ -355,7 +355,7 @@
       "smart_follower_count": 550,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1107.18
+      "yaps_all": 1113.87
     },
     {
       "id": 3800730,
@@ -372,7 +372,7 @@
       "smart_follower_count": 550,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1107.18
+      "yaps_all": 1113.87
     },
     {
       "id": 3800731,
@@ -389,7 +389,7 @@
       "smart_follower_count": 550,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1107.18
+      "yaps_all": 1113.87
     },
     {
       "id": 3800732,
@@ -423,7 +423,7 @@
       "smart_follower_count": 835,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1461.22
+      "yaps_all": 1463.21
     },
     {
       "id": 3800735,
@@ -440,7 +440,7 @@
       "smart_follower_count": 835,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1461.22
+      "yaps_all": 1463.21
     },
     {
       "id": 3800734,
@@ -457,7 +457,7 @@
       "smart_follower_count": 827,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1461.22
+      "yaps_all": 1463.21
     },
     {
       "id": 3800736,
@@ -474,7 +474,7 @@
       "smart_follower_count": 823,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1461.22
+      "yaps_all": 1463.21
     },
     {
       "id": 3800738,
@@ -491,7 +491,7 @@
       "smart_follower_count": 194,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 796.28
+      "yaps_all": 796.4
     },
     {
       "id": 3800737,
@@ -508,7 +508,7 @@
       "smart_follower_count": 194,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 796.28
+      "yaps_all": 796.4
     },
     {
       "id": 3830162,
@@ -525,7 +525,7 @@
       "smart_follower_count": 194,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 796.28
+      "yaps_all": 796.4
     },
     {
       "id": 3916925,
@@ -542,7 +542,7 @@
       "smart_follower_count": 808,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1461.22
+      "yaps_all": 1463.21
     },
     {
       "id": 3950563,
@@ -559,7 +559,7 @@
       "smart_follower_count": 192,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 796.28
+      "yaps_all": 796.4
     }
   ]
 }

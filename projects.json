@@ -3,7 +3,7 @@
     {
       "name": "0G",
       "link": "0g",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "0G",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252F0G%252F0G.jpg/w=64&q=90",
       "id": 1
@@ -475,7 +475,7 @@
     {
       "name": "Lombard",
       "link": "lombard",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "LOMBARD",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FLOMBARD%252FLOMBARD.png/w=64&q=90",
       "id": 61
@@ -795,7 +795,7 @@
     {
       "name": "Mavryk",
       "link": "mavryk",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "MAVRYK",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMAVRYK%252FMAVRYK.jpg/w=64&q=90",
       "id": 105
@@ -863,6 +863,22 @@
       "ticker": "TALUS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTALUS%252FTALUS.png/w=48&q=90",
       "id": 241
+    },
+    {
+      "name": "Brevis",
+      "link": "brevis",
+      "category": "preTGE",
+      "ticker": "BREVIS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBREVIS%252FBREVIS.png/w=48&q=90",
+      "id": 242
+    },
+    {
+      "name": "Parti",
+      "link": "parti",
+      "category": "preTGE",
+      "ticker": "PARTI",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPARTI%252Fparti.jpg/w=48&q=90",
+      "id": 243
     }
   ]
 }

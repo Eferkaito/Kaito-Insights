@@ -563,7 +563,7 @@
     {
       "name": "Mira Network",
       "link": "mira",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "MIRA",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMIRA%252FMIRA.jpg/w=64&q=90",
       "id": 73
@@ -887,6 +887,30 @@
       "ticker": "EDGEN",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FEDGEN%252FEDGEN.jpg/w=48&q=90",
       "id": 244
+    },
+    {
+      "name": "MoreMarkets",
+      "link": "moremarkets",
+      "category": "preTGE",
+      "ticker": "MOREMARKETS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMOREMARKETS%252FMOREMARKETS.jpg/w=48&q=90",
+      "id": 245
+    },
+    {
+      "name": "Rainbow",
+      "link": "rainbow",
+      "category": "preTGE",
+      "ticker": "BAINBOW",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBAINBOW%252FBAINBOW.png/w=48&q=90",
+      "id": 246
+    },
+    {
+      "name": "Beldex",
+      "link": "beldex",
+      "category": "postTGE",
+      "ticker": "BDX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBDX%252FBDX.png/w=48&q=90",
+      "id": 247
     }
   ]
 }

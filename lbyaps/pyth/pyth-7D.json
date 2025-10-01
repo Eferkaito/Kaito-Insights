@@ -7,11 +7,11 @@
       "user_id": "564748195",
       "topic_id": "PYTH",
       "username": "PTillement",
-      "mindshare": 7.2703,
+      "mindshare": 6.9601,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 6687,
+      "updatedAt": 1759317714729,
+      "follower_count": 6685,
       "smart_follower_count": 253,
       "insightfullness": null,
       "originality": null,
@@ -24,10 +24,10 @@
       "user_id": "1033149780",
       "topic_id": "PYTH",
       "username": "mdomcahill",
-      "mindshare": 6.8641,
+      "mindshare": 6.9032,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
+      "updatedAt": 1759317714729,
       "follower_count": 9066,
       "smart_follower_count": 609,
       "insightfullness": null,
@@ -36,37 +36,37 @@
     },
     {
       "id": 3820512,
-      "name": "Planck 🔮",
+      "name": "Marc Shawn Brown",
       "rank": 3,
-      "user_id": "1491133631863132161",
+      "user_id": "1423269876718731276",
       "topic_id": "PYTH",
-      "username": "hopheycaptain",
-      "mindshare": 4.4545,
+      "username": "MarcShawnBrown",
+      "mindshare": 4.7216,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 2364,
-      "smart_follower_count": 70,
+      "updatedAt": 1759317714729,
+      "follower_count": 24617,
+      "smart_follower_count": 146,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
     },
     {
       "id": 3820513,
-      "name": "Marc Shawn Brown",
+      "name": "Planck 🔮",
       "rank": 4,
-      "user_id": "1423269876718731276",
+      "user_id": "1491133631863132161",
       "topic_id": "PYTH",
-      "username": "MarcShawnBrown",
-      "mindshare": 4.4321,
+      "username": "hopheycaptain",
+      "mindshare": 4.2031,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 24574,
-      "smart_follower_count": 145,
+      "updatedAt": 1759317714729,
+      "follower_count": 2364,
+      "smart_follower_count": 70,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 792.64
+      "yaps_all": null
     },
     {
       "id": 3820514,
@@ -75,15 +75,15 @@
       "user_id": "1481568237624393730",
       "topic_id": "PYTH",
       "username": "eli5_defi",
-      "mindshare": 2.675,
+      "mindshare": 2.612,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 40742,
-      "smart_follower_count": 942,
+      "updatedAt": 1759317714729,
+      "follower_count": 40781,
+      "smart_follower_count": 944,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 4214.62
+      "yaps_all": 4218.08
     },
     {
       "id": 3820515,
@@ -92,11 +92,11 @@
       "user_id": "93918276",
       "topic_id": "PYTH",
       "username": "KemarTiti",
-      "mindshare": 2.0082,
+      "mindshare": 2.2724,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 5829,
+      "updatedAt": 1759317714729,
+      "follower_count": 5833,
       "smart_follower_count": 514,
       "insightfullness": null,
       "originality": null,
@@ -104,37 +104,37 @@
     },
     {
       "id": 3820516,
-      "name": "Ni 🦅🟠 $FF",
-      "rank": 7,
-      "user_id": "1298956106174095363",
-      "topic_id": "PYTH",
-      "username": "ni_celeb",
-      "mindshare": 1.8856,
-      "projectId": 36,
-      "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 45911,
-      "smart_follower_count": 98,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 623.69
-    },
-    {
-      "id": 3820517,
       "name": "Sehaj",
-      "rank": 8,
+      "rank": 7,
       "user_id": "1394529733208002563",
       "topic_id": "PYTH",
       "username": "0xSehaj",
-      "mindshare": 1.6928,
+      "mindshare": 2.0354,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 5211,
-      "smart_follower_count": 364,
+      "updatedAt": 1759317714729,
+      "follower_count": 5249,
+      "smart_follower_count": 370,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
+    },
+    {
+      "id": 3820517,
+      "name": "Ni 🦅🟠 $FF",
+      "rank": 8,
+      "user_id": "1298956106174095363",
+      "topic_id": "PYTH",
+      "username": "ni_celeb",
+      "mindshare": 1.8691,
+      "projectId": 36,
+      "duration": "7D",
+      "updatedAt": 1759317714729,
+      "follower_count": 45055,
+      "smart_follower_count": 98,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 624.84
     },
     {
       "id": 3820518,
@@ -143,10 +143,10 @@
       "user_id": "57261739",
       "topic_id": "PYTH",
       "username": "bats4",
-      "mindshare": 1.5244,
+      "mindshare": 1.4011,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
+      "updatedAt": 1759317714729,
       "follower_count": 1192,
       "smart_follower_count": 23,
       "insightfullness": null,
@@ -160,11 +160,11 @@
       "user_id": "70281681",
       "topic_id": "PYTH",
       "username": "Genia_XBT",
-      "mindshare": 1.0786,
+      "mindshare": 1.2123,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 6384,
+      "updatedAt": 1759317714729,
+      "follower_count": 6385,
       "smart_follower_count": 470,
       "insightfullness": null,
       "originality": null,
@@ -177,117 +177,117 @@
       "user_id": "1240611016683249666",
       "topic_id": "PYTH",
       "username": "RiddlerDeFi",
-      "mindshare": 0.7602,
+      "mindshare": 0.6889,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 56215,
+      "updatedAt": 1759317714729,
+      "follower_count": 56218,
       "smart_follower_count": 814,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 996.69
+      "yaps_all": null
     },
     {
       "id": 3820521,
-      "name": "더 쓰니 | THE SSUNI",
-      "rank": 12,
-      "user_id": "1448366352251514884",
-      "topic_id": "PYTH",
-      "username": "seongmoolee",
-      "mindshare": 0.4542,
-      "projectId": 36,
-      "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 6202,
-      "smart_follower_count": 150,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 360.27
-    },
-    {
-      "id": 3820522,
       "name": "🐍Salazar.eth 🦇🔊",
-      "rank": 13,
+      "rank": 12,
       "user_id": "1481619338599841792",
       "topic_id": "PYTH",
       "username": "0xSalazar",
-      "mindshare": 0.3886,
+      "mindshare": 0.4724,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 68509,
+      "updatedAt": 1759317714729,
+      "follower_count": 68496,
       "smart_follower_count": 1277,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
     },
     {
-      "id": 3820523,
-      "name": "Stacy Muur",
-      "rank": 14,
-      "user_id": "1562768344725344256",
+      "id": 3820522,
+      "name": "더 쓰니 | THE SSUNI",
+      "rank": 13,
+      "user_id": "1448366352251514884",
       "topic_id": "PYTH",
-      "username": "stacy_muur",
-      "mindshare": 0.3539,
+      "username": "seongmoolee",
+      "mindshare": 0.4253,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 70504,
-      "smart_follower_count": 1539,
+      "updatedAt": 1759317714729,
+      "follower_count": 6216,
+      "smart_follower_count": 150,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 361.33
+    },
+    {
+      "id": 3820523,
+      "name": "Chop 🦈🔮",
+      "rank": 14,
+      "user_id": "1411132945205579776",
+      "topic_id": "PYTH",
+      "username": "CHOPPAtheSHARK",
+      "mindshare": 0.4068,
+      "projectId": 36,
+      "duration": "7D",
+      "updatedAt": 1759317714729,
+      "follower_count": 4148,
+      "smart_follower_count": 172,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
     },
     {
       "id": 3820524,
-      "name": "zerokn0wledge.hl 🪬✨",
+      "name": "Stacy Muur",
       "rank": 15,
-      "user_id": "1342923842675740672",
+      "user_id": "1562768344725344256",
       "topic_id": "PYTH",
-      "username": "zerokn0wledge_",
-      "mindshare": 0.2646,
+      "username": "stacy_muur",
+      "mindshare": 0.3742,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 27088,
-      "smart_follower_count": 960,
+      "updatedAt": 1759317714729,
+      "follower_count": 70535,
+      "smart_follower_count": 1540,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 7588.43
     },
     {
       "id": 3820525,
-      "name": "EricF",
+      "name": "zerokn0wledge.hl 🪬✨",
       "rank": 16,
-      "user_id": "37945701",
+      "user_id": "1342923842675740672",
       "topic_id": "PYTH",
-      "username": "EricCLFung",
-      "mindshare": 0.2255,
+      "username": "zerokn0wledge_",
+      "mindshare": 0.3157,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 19150,
-      "smart_follower_count": 994,
+      "updatedAt": 1759317714729,
+      "follower_count": 27090,
+      "smart_follower_count": 960,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 918.89
+      "yaps_all": 2597.36
     },
     {
       "id": 3820526,
-      "name": "Chop 🦈🔮",
+      "name": "EricF",
       "rank": 17,
-      "user_id": "1411132945205579776",
+      "user_id": "37945701",
       "topic_id": "PYTH",
-      "username": "CHOPPAtheSHARK",
-      "mindshare": 0.2004,
+      "username": "EricCLFung",
+      "mindshare": 0.201,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 4144,
-      "smart_follower_count": 172,
+      "updatedAt": 1759317714729,
+      "follower_count": 19167,
+      "smart_follower_count": 994,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 923.94
     },
     {
       "id": 3820527,
@@ -299,12 +299,12 @@
       "mindshare": 0,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 5066,
+      "updatedAt": 1759317714729,
+      "follower_count": 5079,
       "smart_follower_count": 106,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 106.07
+      "yaps_all": 106.09
     },
     {
       "id": 3892155,
@@ -316,12 +316,12 @@
       "mindshare": 0,
       "projectId": 36,
       "duration": "7D",
-      "updatedAt": 1759279605565,
-      "follower_count": 4636,
+      "updatedAt": 1759317714729,
+      "follower_count": 4634,
       "smart_follower_count": 241,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1681.24
     },
     {
       "id": 4198335,
@@ -338,7 +338,7 @@
       "smart_follower_count": 241,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1681.24
     },
     {
       "id": 4300956,
@@ -355,7 +355,7 @@
       "smart_follower_count": 105,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 106.07
+      "yaps_all": 106.09
     },
     {
       "id": 4628514,
@@ -372,7 +372,7 @@
       "smart_follower_count": 241,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1681.24
     },
     {
       "id": 4927190,
@@ -389,7 +389,7 @@
       "smart_follower_count": 241,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1681.24
     },
     {
       "id": 5278109,
@@ -406,7 +406,7 @@
       "smart_follower_count": 241,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1681.24
     },
     {
       "id": 7288991,
@@ -423,7 +423,7 @@
       "smart_follower_count": 241,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1681.24
     },
     {
       "id": 7288992,
@@ -440,7 +440,7 @@
       "smart_follower_count": 241,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1681.24
     },
     {
       "id": 7437560,
@@ -474,7 +474,7 @@
       "smart_follower_count": 95,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 623.69
+      "yaps_all": 624.84
     },
     {
       "id": 7605524,
@@ -491,7 +491,7 @@
       "smart_follower_count": 95,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 623.69
+      "yaps_all": 624.84
     },
     {
       "id": 7863614,
@@ -508,7 +508,7 @@
       "smart_follower_count": 294,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 921.4
+      "yaps_all": null
     },
     {
       "id": 7863615,
@@ -525,7 +525,7 @@
       "smart_follower_count": 294,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 921.4
+      "yaps_all": null
     },
     {
       "id": 7989594,
@@ -542,7 +542,7 @@
       "smart_follower_count": 292,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 921.4
+      "yaps_all": null
     },
     {
       "id": 8767552,
@@ -576,7 +576,7 @@
       "smart_follower_count": 292,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 921.4
+      "yaps_all": null
     }
   ]
 }

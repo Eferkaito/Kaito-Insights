@@ -919,6 +919,54 @@
       "ticker": "INTEGRA",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FINTEGRA%252FINTEGRA.jpg/w=48&q=90",
       "id": 248
+    },
+    {
+      "name": "Limitless",
+      "link": "limitless",
+      "category": "preTGE",
+      "ticker": "limitless",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/Frame 1277653685.84866c09e1765015f954fce396cd32d8.png",
+      "id": 249
+    },
+    {
+      "name": "Genome",
+      "link": "genome",
+      "category": "preTGE",
+      "ticker": "genome",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/Frame 1277653685.84866c09e1765015f954fce396cd32d8.png",
+      "id": 250
+    },
+    {
+      "name": "Covalent",
+      "link": "covalent",
+      "category": "preTGE",
+      "ticker": "covalent",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/Covalent Logo.ef00864574177582643b5fd178e3e0ec.png",
+      "id": 251
+    },
+    {
+      "name": "HeyElsa",
+      "link": "heyelsa",
+      "category": "preTGE",
+      "ticker": "heyelsa",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/HeyElsa Profile Picture.bfb0e0256a40e7d152f031f6673256ff.jpg",
+      "id": 252
+    },
+    {
+      "name": "idOS",
+      "link": "idOS",
+      "category": "preTGE",
+      "ticker": "idOS",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/Frame 1277653692.85912cc41630e9f2e77f551487b25429.png",
+      "id": 253
+    },
+    {
+      "name": "ApeCoin R.A.I.D Leaderboard",
+      "link": "apecoin",
+      "category": "apecoin",
+      "ticker": "apecoin",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/ApeCoin Profile Image.5792ada29bccfe100fb114e65840ae7e.jpg",
+      "id": 254
     }
   ]
 }

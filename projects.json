@@ -963,10 +963,26 @@
     {
       "name": "ApeCoin R.A.I.D Leaderboard",
       "link": "apecoin",
-      "category": "apecoin",
+      "category": "postTGE",
       "ticker": "apecoin",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/ApeCoin Profile Image.5792ada29bccfe100fb114e65840ae7e.jpg",
       "id": 254
+    },
+    {
+      "name": "KLOUT",
+      "link": "klout",
+      "category": "preTGE",
+      "ticker": "klout",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/image.899095529dc46d26a5612181c88576c5.png",
+      "id": 255
+    },
+    {
+      "name": "Wallchain",
+      "link": "wallchain",
+      "category": "preTGE",
+      "ticker": "wallchain",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/wallchain_company_logo.c9f58dc6f2b1469f2e50df93a940c8c0.png",
+      "id": 256
     }
   ]
 }

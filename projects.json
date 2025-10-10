@@ -983,6 +983,14 @@
       "ticker": "wallchain",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/wallchain_company_logo.c9f58dc6f2b1469f2e50df93a940c8c0.png",
       "id": 256
+    },
+    {
+      "name": "KAIO",
+      "link": "kaio",
+      "category": "preTGE",
+      "ticker": "KAIO",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FKAIO%252FKAIO.jpg/w=48&q=90",
+      "id": 257
     }
   ]
 }

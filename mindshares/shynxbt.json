@@ -1,0 +1,33 @@
+{
+  "user": "shynxbt",
+  "timeframes": {
+    "7D": {
+      "infinit": [
+        {
+          "t": 1760142133412,
+          "mindshare": 1.0283
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1760142971134,
+          "mindshare": 0.2105
+        }
+      ]
+    },
+    "30D": {
+      "infinit": [
+        {
+          "t": 1760142134441,
+          "mindshare": 0.3911
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1760142972398,
+          "mindshare": 0.2889
+        }
+      ]
+    }
+  }
+}

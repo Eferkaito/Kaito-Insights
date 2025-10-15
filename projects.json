@@ -595,7 +595,7 @@
     {
       "name": "Hana",
       "link": "hana",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "HANAHANA",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FHANAHANA%252FHANAHANA.jpg/w=64&q=90",
       "id": 79
@@ -603,7 +603,7 @@
     {
       "name": "GOAT Network",
       "link": "goatnetwork",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "GOATNETWORK",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FGOATNETWORK%252FGOATNETWORK.jpg/w=64&q=90",
       "id": 80
@@ -779,7 +779,7 @@
     {
       "name": "EverlynAI",
       "link": "everlyn",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "EVERLYN",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FEVERLYN%252FEVERLYN.jpg/w=64&q=90",
       "id": 103
@@ -999,6 +999,14 @@
       "ticker": "THEOTHEO",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTHEOTHEO%252FTHEOTHEO.png/w=48&q=90",
       "id": 258
+    },
+    {
+      "name": "Bitdealer",
+      "link": "bitdealer",
+      "category": "preTGE",
+      "ticker": "BITDEALER",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBITDEALER%252FBITDEALER.jpg/w=256&q=90",
+      "id": 273
     }
   ]
 }

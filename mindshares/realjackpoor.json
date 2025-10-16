@@ -1,0 +1,33 @@
+{
+  "user": "realjackpoor",
+  "timeframes": {
+    "7D": {
+      "novastro": [
+        {
+          "t": 1760570755660,
+          "mindshare": 0.57
+        }
+      ]
+    },
+    "30D": {
+      "novastro": [
+        {
+          "t": 1760570764046,
+          "mindshare": 0.68
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1760571399820,
+          "mindshare": 0.09
+        }
+      ],
+      "warden": [
+        {
+          "t": 1760577520493,
+          "mindshare": 0.25
+        }
+      ]
+    }
+  }
+}

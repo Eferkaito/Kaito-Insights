@@ -1,0 +1,57 @@
+{
+  "user": "marshmellowxbt",
+  "timeframes": {
+    "7D": {
+      "beldex": [
+        {
+          "t": 1760663673180,
+          "mindshare": 0.78
+        }
+      ],
+      "metawin": [
+        {
+          "t": 1760663504558,
+          "mindshare": 0.68
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1760658492341,
+          "mindshare": 0.64
+        }
+      ]
+    },
+    "30D": {
+      "beldex": [
+        {
+          "t": 1760663679022,
+          "mindshare": 0.39
+        }
+      ],
+      "bitdealer": [
+        {
+          "t": 1760657782981,
+          "mindshare": 0.49
+        }
+      ],
+      "metawin": [
+        {
+          "t": 1760663509237,
+          "mindshare": 0.35
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1760658497152,
+          "mindshare": 0.26
+        }
+      ],
+      "surf": [
+        {
+          "t": 1760658077856,
+          "mindshare": 0.29
+        }
+      ]
+    }
+  }
+}

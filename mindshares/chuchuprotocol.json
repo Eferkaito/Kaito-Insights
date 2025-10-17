@@ -1,0 +1,27 @@
+{
+  "user": "chuchuprotocol",
+  "timeframes": {
+    "7D": {
+      "momentum": [
+        {
+          "t": 1760701333930,
+          "mindshare": 0.34
+        }
+      ],
+      "theo": [
+        {
+          "t": 1760701606216,
+          "mindshare": 0.42
+        }
+      ]
+    },
+    "30D": {
+      "theo": [
+        {
+          "t": 1760701612799,
+          "mindshare": 0.24
+        }
+      ]
+    }
+  }
+}

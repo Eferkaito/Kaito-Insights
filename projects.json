@@ -1007,6 +1007,22 @@
       "ticker": "BITDEALER",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBITDEALER%252FBITDEALER.jpg/w=256&q=90",
       "id": 273
+    },
+    {
+      "name": "Openmind",
+      "link": "openmind",
+      "category": "preTGE",
+      "ticker": "OPENMIND",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FOPENMIND%252FOPENMIND.png/w=48&q=90",
+      "id": 289
+    },
+    {
+      "name": "Noble",
+      "link": "noble",
+      "category": "preTGE",
+      "ticker": "NOBLE",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FNOBLE%252FNOBLE.png/w=48&q=90",
+      "id": 290
     }
   ]
 }

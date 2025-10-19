@@ -7,11 +7,11 @@
       "user_id": "-1",
       "topic_id": "DOT",
       "username": "BillLaboon",
-      "mindshare": 9.34,
+      "mindshare": 8.04,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 26659,
+      "updatedAt": 1760836187791,
+      "follower_count": 26653,
       "smart_follower_count": 369,
       "insightfullness": null,
       "originality": null,
@@ -24,12 +24,12 @@
       "user_id": "-1",
       "topic_id": "DOT",
       "username": "filippoweb3",
-      "mindshare": 7.07,
+      "mindshare": 6.54,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 8471,
-      "smart_follower_count": 82,
+      "updatedAt": 1760836187791,
+      "follower_count": 8465,
+      "smart_follower_count": 83,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
@@ -41,11 +41,11 @@
       "user_id": "-1",
       "topic_id": "DOT",
       "username": "alice_und_bob",
-      "mindshare": 5.18,
+      "mindshare": 4.81,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 28114,
+      "updatedAt": 1760836187791,
+      "follower_count": 28126,
       "smart_follower_count": 267,
       "insightfullness": null,
       "originality": null,
@@ -58,32 +58,32 @@
       "user_id": "-1",
       "topic_id": "DOT",
       "username": "Baili1018",
-      "mindshare": 1.96,
+      "mindshare": 2.32,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 89336,
+      "updatedAt": 1760836187791,
+      "follower_count": 89329,
       "smart_follower_count": 159,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 725.63
+      "yaps_all": 726.82
     },
     {
       "id": 3819130,
-      "name": "Lurpis 🥞🐂⭕️",
+      "name": "Ⓜ️Ⓜ️TVBee",
       "rank": 5,
       "user_id": "-1",
       "topic_id": "DOT",
-      "username": "0xLurpis",
-      "mindshare": 0.96,
+      "username": "blockTVBee",
+      "mindshare": 1.89,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 5030,
-      "smart_follower_count": 64,
+      "updatedAt": 1760836187791,
+      "follower_count": 25998,
+      "smart_follower_count": 253,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 3130.44
     },
     {
       "id": 3819131,
@@ -92,44 +92,78 @@
       "user_id": "-1",
       "topic_id": "DOT",
       "username": "ProofOfTravis",
-      "mindshare": 0.95,
+      "mindshare": 1.01,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 32951,
-      "smart_follower_count": 553,
+      "updatedAt": 1760836187791,
+      "follower_count": 32958,
+      "smart_follower_count": 554,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": 2365.35
     },
     {
       "id": 3819132,
-      "name": "Jay Chrawnna",
+      "name": "Lurpis 🥞🐂⭕️",
       "rank": 7,
       "user_id": "-1",
       "topic_id": "DOT",
-      "username": "GldnCalf",
-      "mindshare": 0.81,
+      "username": "0xLurpis",
+      "mindshare": 0.85,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 10206,
-      "smart_follower_count": 147,
+      "updatedAt": 1760836187791,
+      "follower_count": 5027,
+      "smart_follower_count": 64,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
     },
     {
       "id": 3819133,
-      "name": "itskkoma",
+      "name": "Jay Chrawnna",
       "rank": 8,
       "user_id": "-1",
       "topic_id": "DOT",
-      "username": "itskkoma",
-      "mindshare": 0.15,
+      "username": "GldnCalf",
+      "mindshare": 0.81,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
+      "updatedAt": 1760836187791,
+      "follower_count": 10203,
+      "smart_follower_count": 147,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": null
+    },
+    {
+      "id": 3819134,
+      "name": "Daniel Cukier",
+      "rank": 9,
+      "user_id": "-1",
+      "topic_id": "DOT",
+      "username": "danicuki",
+      "mindshare": 0.2,
+      "projectId": 5,
+      "duration": "7D",
+      "updatedAt": 1760836187791,
+      "follower_count": 8230,
+      "smart_follower_count": 46,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": null
+    },
+    {
+      "id": 3819135,
+      "name": "itskkoma",
+      "rank": 10,
+      "user_id": "-1",
+      "topic_id": "DOT",
+      "username": "itskkoma",
+      "mindshare": 0.13,
+      "projectId": 5,
+      "duration": "7D",
+      "updatedAt": 1760836187791,
       "follower_count": 9416,
       "smart_follower_count": 308,
       "insightfullness": null,
@@ -137,72 +171,38 @@
       "yaps_all": 1293.65
     },
     {
-      "id": 3819134,
-      "name": "DeFi Decoder",
-      "rank": 9,
-      "user_id": "-1",
-      "topic_id": "DOT",
-      "username": "DeFiDecoder_",
-      "mindshare": 0.11,
-      "projectId": 5,
-      "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 19664,
-      "smart_follower_count": 91,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 321.15
-    },
-    {
-      "id": 3819135,
-      "name": "Daniel Cukier",
-      "rank": 10,
-      "user_id": "-1",
-      "topic_id": "DOT",
-      "username": "danicuki",
-      "mindshare": 0.09,
-      "projectId": 5,
-      "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 8232,
-      "smart_follower_count": 46,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": null
-    },
-    {
       "id": 3819136,
-      "name": "ET ⚡️",
+      "name": "byte",
       "rank": 11,
       "user_id": "-1",
       "topic_id": "DOT",
-      "username": "ET90266",
+      "username": "byteboro",
       "mindshare": 0.09,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760784726010,
-      "follower_count": 1743,
-      "smart_follower_count": 57,
+      "updatedAt": 1760836187791,
+      "follower_count": 956,
+      "smart_follower_count": 50,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
     },
     {
       "id": 3819137,
-      "name": "Travis💡",
+      "name": "ET ⚡️",
       "rank": 12,
-      "user_id": "1324038533808640005",
+      "user_id": "-1",
       "topic_id": "DOT",
-      "username": "ProofOfTravis",
-      "mindshare": 0,
+      "username": "ET90266",
+      "mindshare": 0.08,
       "projectId": 5,
       "duration": "7D",
-      "updatedAt": 1760425689308,
-      "follower_count": 32947,
-      "smart_follower_count": 551,
+      "updatedAt": 1760836187791,
+      "follower_count": 1743,
+      "smart_follower_count": 57,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": null
     },
     {
       "id": 3819138,
@@ -270,7 +270,7 @@
       "smart_follower_count": 545,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": 2365.35
     },
     {
       "id": 3819142,
@@ -287,7 +287,7 @@
       "smart_follower_count": 545,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": 2365.35
     },
     {
       "id": 3819143,
@@ -304,7 +304,7 @@
       "smart_follower_count": 545,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": 2365.35
     },
     {
       "id": 3819144,
@@ -321,7 +321,7 @@
       "smart_follower_count": 545,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": 2365.35
     },
     {
       "id": 3819145,
@@ -338,7 +338,7 @@
       "smart_follower_count": 545,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": 2365.35
     },
     {
       "id": 3819146,
@@ -355,7 +355,7 @@
       "smart_follower_count": 545,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": 2365.35
     },
     {
       "id": 3819147,
@@ -372,7 +372,7 @@
       "smart_follower_count": 545,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2363.24
+      "yaps_all": 2365.35
     },
     {
       "id": 3819148,
@@ -406,7 +406,7 @@
       "smart_follower_count": 1734,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2572.68
+      "yaps_all": 2572.99
     },
     {
       "id": 3819150,
@@ -508,7 +508,7 @@
       "smart_follower_count": 555,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 3786.85
+      "yaps_all": 3799.51
     },
     {
       "id": 3819156,
@@ -525,7 +525,7 @@
       "smart_follower_count": 1725,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2572.68
+      "yaps_all": 2572.99
     },
     {
       "id": 3819157,
@@ -542,7 +542,7 @@
       "smart_follower_count": 1725,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2572.68
+      "yaps_all": 2572.99
     },
     {
       "id": 3819158,
@@ -559,7 +559,7 @@
       "smart_follower_count": 555,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 3786.85
+      "yaps_all": 3799.51
     },
     {
       "id": 3819159,
@@ -576,7 +576,7 @@
       "smart_follower_count": 555,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 3786.85
+      "yaps_all": 3799.51
     },
     {
       "id": 3819160,
@@ -593,7 +593,7 @@
       "smart_follower_count": 555,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 3786.85
+      "yaps_all": 3799.51
     },
     {
       "id": 3819161,
@@ -780,7 +780,7 @@
       "smart_follower_count": 2528,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 10177.01
+      "yaps_all": null
     },
     {
       "id": 5588861,
@@ -797,7 +797,7 @@
       "smart_follower_count": 364,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 497.42
+      "yaps_all": 497.9
     },
     {
       "id": 5634314,
@@ -814,7 +814,7 @@
       "smart_follower_count": 2528,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 10177.01
+      "yaps_all": null
     }
   ]
 }

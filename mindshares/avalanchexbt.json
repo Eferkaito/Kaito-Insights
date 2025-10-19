@@ -1,0 +1,39 @@
+{
+  "user": "avalanchexbt",
+  "timeframes": {
+    "7D": {
+      "camp": [
+        {
+          "t": 1760875867366,
+          "mindshare": 1.87
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1760876007405,
+          "mindshare": 5.21
+        }
+      ],
+      "sentient": [
+        {
+          "t": 1760873215878,
+          "mindshare": 0.31
+        }
+      ]
+    },
+    "30D": {
+      "camp": [
+        {
+          "t": 1760875872598,
+          "mindshare": 1.18
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1760876014063,
+          "mindshare": 1.52
+        }
+      ]
+    }
+  }
+}

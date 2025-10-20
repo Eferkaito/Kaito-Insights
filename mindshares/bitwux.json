@@ -1,0 +1,39 @@
+{
+  "user": "bitwux",
+  "timeframes": {
+    "7D": {
+      "falcon": [
+        {
+          "t": 1760957568543,
+          "mindshare": 0.14
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1760958136935,
+          "mindshare": 2.2
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1760962554807,
+          "mindshare": 0.2
+        }
+      ]
+    },
+    "30D": {
+      "falcon": [
+        {
+          "t": 1760957575692,
+          "mindshare": 0.43
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1760958143769,
+          "mindshare": 0.66
+        }
+      ]
+    }
+  }
+}

@@ -105,9 +105,9 @@
     "7D": {
       "smart_followers_min": [
         15.0,
-        15.0,
         17.0,
         17.0,
+        12.0,
         12.0,
         12.0,
         12.0,
@@ -119,12 +119,12 @@
         "xumarek_eth",
         "xumarek_eth",
         "xumarek_eth",
-        "xumarek_eth",
         "LQQMRINDA",
         "LQQMRINDA",
         "LQQMRINDA",
         "LQQMRINDA",
         "LQQMRINDA",
+        "anesalidia",
         "anesalidia"
       ],
       "yaps_min": [
@@ -230,7 +230,6 @@
         "0xleegenz"
       ],
       "yaps_min": [
-        179.55,
         185.77,
         186.32,
         186.32,
@@ -239,7 +238,8 @@
         188.77,
         190.31,
         192.01,
-        220.92
+        220.92,
+        192.01
       ],
       "yaps_min_users": [
         "godmimi3",
@@ -250,8 +250,8 @@
         "godmimi3",
         "godmimi3",
         "godmimi3",
-        "godmimi3",
-        "kaitoxbt"
+        "kaitoxbt",
+        "godmimi3"
       ]
     },
     "30D": {
@@ -280,7 +280,6 @@
         "0xleegenz"
       ],
       "yaps_min": [
-        214.6,
         217.96,
         217.96,
         218.12,
@@ -289,10 +288,10 @@
         188.77,
         190.31,
         192.01,
-        298.05
+        298.05,
+        192.01
       ],
       "yaps_min_users": [
-        "IRA_therabbit",
         "kaitoxbt",
         "kaitoxbt",
         "kaitoxbt",
@@ -301,7 +300,8 @@
         "godmimi3",
         "godmimi3",
         "godmimi3",
-        "Gogogonum"
+        "Gogogonum",
+        "godmimi3"
       ]
     }
   },
@@ -333,7 +333,6 @@
       ],
       "yaps_min": [
         0.16,
-        0.16,
         0.09,
         0.09,
         0.09,
@@ -341,11 +340,11 @@
         0.09,
         0.09,
         0.09,
-        1.17
+        1.17,
+        0.09
       ],
       "yaps_min_users": [
         "athena_yapper",
-        "athena_yapper",
         "KalaRory",
         "KalaRory",
         "KalaRory",
@@ -353,7 +352,8 @@
         "KalaRory",
         "KalaRory",
         "KalaRory",
-        "otman1_o"
+        "otman1_o",
+        "KalaRory"
       ]
     },
     "30D": {
@@ -491,9 +491,9 @@
         12.17,
         12.17,
         12.17,
-        12.17,
         12.2,
-        12.2
+        12.2,
+        12.21
       ],
       "yaps_min_users": [
         "AirBeeHoliday",
@@ -513,8 +513,8 @@
     "7D": {
       "smart_followers_min": [
         23.0,
-        23.0,
         24.0,
+        22.0,
         22.0,
         22.0,
         22.0,
@@ -526,7 +526,7 @@
       "smart_followers_min_users": [
         "korneltrg",
         "korneltrg",
-        "korneltrg",
+        "EmaCr1pto",
         "EmaCr1pto",
         "EmaCr1pto",
         "EmaCr1pto",
@@ -544,8 +544,8 @@
         19.22,
         19.22,
         19.22,
-        19.22,
-        42.2
+        42.2,
+        18.36
       ],
       "yaps_min_users": [
         "korneltrg",
@@ -556,8 +556,8 @@
         "korneltrg",
         "korneltrg",
         "korneltrg",
-        "korneltrg",
-        "TheAstornia"
+        "TheAstornia",
+        "Armalithegreat"
       ]
     },
     "30D": {
@@ -587,7 +587,6 @@
       ],
       "yaps_min": [
         19.22,
-        19.22,
         10.89,
         19.22,
         19.22,
@@ -595,10 +594,10 @@
         19.22,
         19.22,
         19.22,
-        10.89
+        10.89,
+        19.22
       ],
       "yaps_min_users": [
-        "korneltrg",
         "korneltrg",
         "Emmy_Wilz_01",
         "korneltrg",
@@ -607,14 +606,15 @@
         "korneltrg",
         "korneltrg",
         "korneltrg",
-        "Emmy_Wilz_01"
+        "Emmy_Wilz_01",
+        "korneltrg"
       ]
     }
   },
   "berachain": {
     "7D": {
       "smart_followers_min": [
-        7.0,
+        5.0,
         5.0,
         5.0,
         5.0,
@@ -626,7 +626,7 @@
         5.0
       ],
       "smart_followers_min_users": [
-        "yayamoku",
+        "NKontua",
         "NKontua",
         "NKontua",
         "NKontua",
@@ -642,7 +642,7 @@
         1.13,
         1.13,
         1.13,
-        1.13,
+        0.57,
         0.57,
         0.57,
         0.57,
@@ -654,7 +654,7 @@
         "ThePaulOla",
         "ThePaulOla",
         "ThePaulOla",
-        "ThePaulOla",
+        "kkoping",
         "kkoping",
         "kkoping",
         "kkoping",
@@ -664,7 +664,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        7.0,
+        5.0,
         5.0,
         5.0,
         5.0,
@@ -676,7 +676,7 @@
         5.0
       ],
       "smart_followers_min_users": [
-        "yayamoku",
+        "NKontua",
         "NKontua",
         "NKontua",
         "NKontua",
@@ -692,24 +692,24 @@
         1.13,
         1.13,
         1.13,
-        1.13,
         0.57,
         0.57,
         0.57,
         0.57,
-        0.35
+        0.35,
+        0.57
       ],
       "yaps_min_users": [
         "ThePaulOla",
         "ThePaulOla",
         "ThePaulOla",
         "ThePaulOla",
-        "ThePaulOla",
         "kkoping",
         "kkoping",
         "kkoping",
         "kkoping",
-        "superberabera"
+        "superberabera",
+        "kkoping"
       ]
     }
   },
@@ -733,14 +733,13 @@
         "itchcy",
         "itchcy",
         "itchcy",
-        "itchcy",
+        "IAmisraelokon",
         "IAmisraelokon",
         "IAmisraelokon",
         "IAmisraelokon",
         "IAmisraelokon"
       ],
       "yaps_min": [
-        1.26,
         3.2,
         1.76,
         1.76,
@@ -749,10 +748,10 @@
         1.76,
         1.76,
         1.76,
-        2.57
+        2.57,
+        1.76
       ],
       "yaps_min_users": [
-        "BenedictIlupeju",
         "IceyEiza",
         "BenedictIlupeju",
         "BenedictIlupeju",
@@ -761,7 +760,8 @@
         "BenedictIlupeju",
         "BenedictIlupeju",
         "BenedictIlupeju",
-        "IAmisraelokon"
+        "IAmisraelokon",
+        "BenedictIlupeju"
       ]
     },
     "30D": {
@@ -773,7 +773,7 @@
         5.0,
         5.0,
         5.0,
-        5.0,
+        6.0,
         6.0,
         6.0
       ],
@@ -790,7 +790,6 @@
         "Nikyaps"
       ],
       "yaps_min": [
-        6.15,
         19.87,
         6.15,
         6.15,
@@ -799,10 +798,10 @@
         6.15,
         20.67,
         1.76,
-        6.15
+        6.15,
+        1.76
       ],
       "yaps_min_users": [
-        "coinshooot",
         "IbagsuSubag",
         "coinshooot",
         "coinshooot",
@@ -811,7 +810,8 @@
         "coinshooot",
         "Tajudeen_10",
         "BenedictIlupeju",
-        "coinshooot"
+        "coinshooot",
+        "BenedictIlupeju"
       ]
     }
   },
@@ -839,7 +839,7 @@
         "MessyVirgoCoin",
         "MessyVirgoCoin",
         "MessyVirgoCoin",
-        "MessyVirgoCoin"
+        "theraw3ctx"
       ],
       "yaps_min": [
         0.15,
@@ -848,10 +848,10 @@
         0.15,
         0.15,
         0.15,
-        0.15,
         1.74,
         0.15,
-        0.42
+        0.42,
+        0.15
       ],
       "yaps_min_users": [
         "Emilex0096",
@@ -860,10 +860,10 @@
         "Emilex0096",
         "Emilex0096",
         "Emilex0096",
-        "Emilex0096",
         "kjgujooo0",
         "Emilex0096",
-        "Neither1130271"
+        "Neither1130271",
+        "Emilex0096"
       ]
     },
     "30D": {
@@ -898,10 +898,10 @@
         0.15,
         0.15,
         0.15,
-        0.15,
         1.74,
         0.15,
-        0.05
+        0.05,
+        0.15
       ],
       "yaps_min_users": [
         "Emilex0096",
@@ -910,10 +910,10 @@
         "Emilex0096",
         "Emilex0096",
         "Emilex0096",
-        "Emilex0096",
         "kjgujooo0",
         "Emilex0096",
-        "BachThanhr"
+        "BachThanhr",
+        "Emilex0096"
       ]
     }
   },
@@ -952,8 +952,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        87.86
+        87.86,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -964,8 +964,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "iinging747"
+        "iinging747",
+        "sontanidonghei"
       ]
     },
     "30D": {
@@ -977,7 +977,7 @@
         73.0,
         73.0,
         73.0,
-        73.0,
+        74.0,
         74.0,
         74.0
       ],
@@ -1002,8 +1002,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        87.86
+        87.86,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -1014,8 +1014,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "iinging747"
+        "iinging747",
+        "sontanidonghei"
       ]
     }
   },
@@ -1049,13 +1049,13 @@
         65.49,
         65.49,
         65.49,
-        65.49,
         66.09,
         66.33,
         66.33,
         66.33,
         66.33,
-        66.43
+        66.43,
+        66.68
       ],
       "yaps_min_users": [
         "kyle_yuk",
@@ -1099,13 +1099,13 @@
         65.49,
         65.49,
         65.49,
-        65.49,
         66.09,
         66.33,
         66.33,
         66.33,
         66.33,
-        66.43
+        66.43,
+        66.68
       ],
       "yaps_min_users": [
         "kyle_yuk",
@@ -1148,7 +1148,6 @@
         "BrrAnthony"
       ],
       "yaps_min": [
-        21.94,
         23.86,
         21.94,
         21.94,
@@ -1157,10 +1156,10 @@
         21.94,
         21.94,
         21.94,
-        57.84
+        57.84,
+        21.94
       ],
       "yaps_min_users": [
-        "astro_emann_",
         "kingzw888",
         "astro_emann_",
         "astro_emann_",
@@ -1169,7 +1168,8 @@
         "astro_emann_",
         "astro_emann_",
         "astro_emann_",
-        "nanajiang8888"
+        "nanajiang8888",
+        "astro_emann_"
       ]
     },
     "30D": {
@@ -1198,7 +1198,6 @@
         "sirney2025"
       ],
       "yaps_min": [
-        21.94,
         23.86,
         21.94,
         21.94,
@@ -1207,10 +1206,10 @@
         21.94,
         21.94,
         21.94,
-        9.69
+        9.69,
+        21.94
       ],
       "yaps_min_users": [
-        "astro_emann_",
         "kingzw888",
         "astro_emann_",
         "astro_emann_",
@@ -1219,7 +1218,8 @@
         "astro_emann_",
         "astro_emann_",
         "astro_emann_",
-        "Himess__"
+        "Himess__",
+        "astro_emann_"
       ]
     }
   },
@@ -1253,13 +1253,13 @@
         329.62,
         329.62,
         329.62,
-        329.62,
         330.17,
         331.06,
         331.06,
         331.06,
         331.06,
-        449.51
+        449.51,
+        331.88
       ],
       "yaps_min_users": [
         "AlphaWolfPRMR",
@@ -1270,8 +1270,8 @@
         "AlphaWolfPRMR",
         "AlphaWolfPRMR",
         "AlphaWolfPRMR",
-        "AlphaWolfPRMR",
-        "HenriLee92"
+        "HenriLee92",
+        "AlphaWolfPRMR"
       ]
     },
     "30D": {
@@ -1360,8 +1360,8 @@
         430.99,
         430.99,
         430.99,
-        430.99,
-        610.7
+        610.7,
+        610.96
       ],
       "yaps_min_users": [
         "0xkatz",
@@ -1372,13 +1372,13 @@
         "0xkatz",
         "0xkatz",
         "0xkatz",
-        "0xkatz",
+        "r_rainss",
         "r_rainss"
       ]
     },
     "30D": {
       "smart_followers_min": [
-        50.0,
+        62.0,
         62.0,
         62.0,
         62.0,
@@ -1390,7 +1390,7 @@
         62.0
       ],
       "smart_followers_min_users": [
-        "smolgeeek",
+        "iK0rede",
         "iK0rede",
         "iK0rede",
         "iK0rede",
@@ -1402,7 +1402,6 @@
         "iK0rede"
       ],
       "yaps_min": [
-        197.9,
         260.01,
         292.21,
         261.38,
@@ -1411,10 +1410,10 @@
         261.56,
         430.99,
         430.99,
+        292.21,
         292.21
       ],
       "yaps_min_users": [
-        "smolgeeek",
         "iK0rede",
         "web3wikis",
         "iK0rede",
@@ -1423,6 +1422,7 @@
         "iK0rede",
         "0xkatz",
         "0xkatz",
+        "web3wikis",
         "web3wikis"
       ]
     }
@@ -1454,7 +1454,6 @@
         "UzoamakaSamuel_"
       ],
       "yaps_min": [
-        3.48,
         20.86,
         3.48,
         3.48,
@@ -1463,10 +1462,10 @@
         3.48,
         3.48,
         3.48,
+        20.86,
         20.86
       ],
       "yaps_min_users": [
-        "KriptoBabba",
         "DebbyNFTs_",
         "KriptoBabba",
         "KriptoBabba",
@@ -1475,6 +1474,7 @@
         "KriptoBabba",
         "KriptoBabba",
         "KriptoBabba",
+        "DebbyNFTs_",
         "DebbyNFTs_"
       ]
     },
@@ -1504,7 +1504,6 @@
         "UzoamakaSamuel_"
       ],
       "yaps_min": [
-        3.48,
         20.86,
         3.48,
         3.48,
@@ -1513,10 +1512,10 @@
         3.48,
         3.48,
         3.48,
-        1.21
+        1.21,
+        20.86
       ],
       "yaps_min_users": [
-        "KriptoBabba",
         "DebbyNFTs_",
         "KriptoBabba",
         "KriptoBabba",
@@ -1525,7 +1524,8 @@
         "KriptoBabba",
         "KriptoBabba",
         "KriptoBabba",
-        "PeakCreative12"
+        "PeakCreative12",
+        "DebbyNFTs_"
       ]
     }
   },
@@ -1556,7 +1556,6 @@
         "thiennhandk"
       ],
       "yaps_min": [
-        5.44,
         15.98,
         5.44,
         5.44,
@@ -1565,10 +1564,10 @@
         5.44,
         5.44,
         5.44,
-        1687.32
+        1687.32,
+        1688.76
       ],
       "yaps_min_users": [
-        "Lynx4300",
         "Nick_HTLC",
         "Lynx4300",
         "Lynx4300",
@@ -1577,6 +1576,7 @@
         "Lynx4300",
         "Lynx4300",
         "Lynx4300",
+        "langeriuseth",
         "langeriuseth"
       ]
     },
@@ -1606,7 +1606,6 @@
         "ichalhamid87"
       ],
       "yaps_min": [
-        5.44,
         5.04,
         5.44,
         5.04,
@@ -1615,10 +1614,10 @@
         5.44,
         5.44,
         5.44,
-        1.32
+        1.32,
+        329.88
       ],
       "yaps_min_users": [
-        "Lynx4300",
         "ichalhamid87",
         "Lynx4300",
         "ichalhamid87",
@@ -1627,7 +1626,8 @@
         "Lynx4300",
         "Lynx4300",
         "Lynx4300",
-        "ZackD0x"
+        "ZackD0x",
+        "chong_xian96799"
       ]
     }
   },
@@ -1658,7 +1658,6 @@
         "lu_daChris"
       ],
       "yaps_min": [
-        11.8,
         13.91,
         11.87,
         11.87,
@@ -1667,14 +1666,15 @@
         12.55,
         12.55,
         12.55,
+        12.55,
         12.55
       ],
       "yaps_min_users": [
-        "Mint01333",
         "chukky10z",
         "Mint01333",
         "Mint01333",
         "Mint01333",
+        "crypton11te",
         "crypton11te",
         "crypton11te",
         "crypton11te",
@@ -1716,7 +1716,7 @@
         22.43,
         22.43,
         22.43,
-        22.43,
+        15.61,
         15.61
       ],
       "yaps_min_users": [
@@ -1728,7 +1728,7 @@
         "web3_tech_",
         "web3_tech_",
         "web3_tech_",
-        "web3_tech_",
+        "stratton001",
         "stratton001"
       ]
     }
@@ -1760,7 +1760,6 @@
         "EDEXEmperor"
       ],
       "yaps_min": [
-        1.12,
         15.26,
         1.12,
         1.09,
@@ -1769,10 +1768,10 @@
         1.09,
         1.09,
         1.09,
-        15.26
+        15.26,
+        18.47
       ],
       "yaps_min_users": [
-        "salaarniz0111",
         "Olaemmy1200",
         "salaarniz0111",
         "0xxpain",
@@ -1781,7 +1780,8 @@
         "0xxpain",
         "0xxpain",
         "0xxpain",
-        "Olaemmy1200"
+        "Olaemmy1200",
+        "TeegoldTV_1"
       ]
     },
     "30D": {
@@ -1810,7 +1810,6 @@
         "Hazel0045"
       ],
       "yaps_min": [
-        14.33,
         21.23,
         14.33,
         14.33,
@@ -1819,10 +1818,10 @@
         14.33,
         14.33,
         14.33,
+        18.72,
         18.72
       ],
       "yaps_min_users": [
-        "cryptosfriend1",
         "altbright_",
         "cryptosfriend1",
         "cryptosfriend1",
@@ -1831,6 +1830,7 @@
         "cryptosfriend1",
         "cryptosfriend1",
         "cryptosfriend1",
+        "Zarzirealme",
         "Zarzirealme"
       ]
     }
@@ -1846,7 +1846,7 @@
         62.0,
         62.0,
         62.0,
-        62.0,
+        63.0,
         63.0
       ],
       "smart_followers_min_users": [
@@ -1862,7 +1862,6 @@
         "StayRoamer"
       ],
       "yaps_min": [
-        322.83,
         65.22,
         243.55,
         65.22,
@@ -1871,14 +1870,15 @@
         134.75,
         134.75,
         134.75,
+        134.75,
         134.75
       ],
       "yaps_min_users": [
-        "auz2or",
         "asiel86",
         "Roh0517",
         "asiel86",
         "Roh0517",
+        "0xCrocy",
         "0xCrocy",
         "0xCrocy",
         "0xCrocy",
@@ -1912,7 +1912,6 @@
         "martinezzart"
       ],
       "yaps_min": [
-        300.45,
         65.22,
         127.41,
         65.22,
@@ -1921,10 +1920,10 @@
         129.75,
         67.1,
         134.04,
-        127.64
+        127.64,
+        134.97
       ],
       "yaps_min_users": [
-        "guiguziben",
         "asiel86",
         "subijjjang",
         "asiel86",
@@ -1933,7 +1932,8 @@
         "subijjjang",
         "asiel86",
         "subijjjang",
-        "charlesdhaussy"
+        "charlesdhaussy",
+        "subijjjang"
       ]
     }
   },
@@ -1964,7 +1964,6 @@
         "0xRiim"
       ],
       "yaps_min": [
-        326.22,
         214.58,
         214.58,
         214.58,
@@ -1973,10 +1972,10 @@
         214.58,
         214.58,
         547.2,
-        214.58
+        214.58,
+        548.83
       ],
       "yaps_min_users": [
-        "spoilerbull",
         "dilrong_",
         "dilrong_",
         "dilrong_",
@@ -1985,7 +1984,8 @@
         "dilrong_",
         "dilrong_",
         "kimyg002",
-        "dilrong_"
+        "dilrong_",
+        "kimyg002"
       ]
     },
     "30D": {
@@ -2014,7 +2014,6 @@
         "0xRiim"
       ],
       "yaps_min": [
-        326.22,
         214.58,
         214.58,
         214.58,
@@ -2023,10 +2022,10 @@
         214.58,
         214.58,
         460.44,
-        214.58
+        214.58,
+        461.15
       ],
       "yaps_min_users": [
-        "spoilerbull",
         "dilrong_",
         "dilrong_",
         "dilrong_",
@@ -2035,14 +2034,14 @@
         "dilrong_",
         "dilrong_",
         "koolcryptovc",
-        "dilrong_"
+        "dilrong_",
+        "koolcryptovc"
       ]
     }
   },
   "ethereum": {
     "7D": {
       "smart_followers_min": [
-        181.0,
         181.0,
         203.0,
         204.0,
@@ -2051,11 +2050,11 @@
         120.0,
         120.0,
         120.0,
-        98.0
+        98.0,
+        99.0
       ],
       "smart_followers_min_users": [
         "etheraider",
-        "etheraider",
         "Ethprofit",
         "Ethprofit",
         "joshdavislight",
@@ -2063,10 +2062,10 @@
         "joshdavislight",
         "joshdavislight",
         "joshdavislight",
+        "Kira_sama",
         "Kira_sama"
       ],
       "yaps_min": [
-        1871.63,
         1595.8,
         1225.69,
         1242.6,
@@ -2075,10 +2074,10 @@
         670.6,
         149.58,
         1384.65,
-        1426.4
+        1426.4,
+        1747.21
       ],
       "yaps_min_users": [
-        "0xDeFiDevin",
         "yq_acc",
         "CryptoGucci",
         "CryptoGucci",
@@ -2087,7 +2086,8 @@
         "thegrifft",
         "joshdavislight",
         "cjhtech",
-        "TheDevanshMehta"
+        "TheDevanshMehta",
+        "kiki520_eth"
       ]
     },
     "30D": {
@@ -2099,9 +2099,9 @@
         94.0,
         94.0,
         94.0,
-        94.0,
         97.0,
-        98.0
+        98.0,
+        99.0
       ],
       "smart_followers_min_users": [
         "Kira_sama",
@@ -2118,17 +2118,16 @@
       "yaps_min": [
         767.12,
         767.12,
-        767.12,
         498.56,
         3902.36,
         3906.39,
         1048.69,
         673.21,
         3187.73,
-        498.56
+        498.56,
+        2633.5
       ],
       "yaps_min_users": [
-        "rostyketh",
         "rostyketh",
         "rostyketh",
         "Haezurath",
@@ -2137,17 +2136,18 @@
         "UncleRewards",
         "thegrifft",
         "0xnobi",
-        "Haezurath"
+        "Haezurath",
+        "Jeremyybtc"
       ]
     }
   },
   "everlyn": {
     "7D": {
       "smart_followers_min": [
-        5.0,
         2.0,
         2.0,
         2.0,
+        3.0,
         3.0,
         3.0,
         3.0,
@@ -2156,7 +2156,7 @@
         3.0
       ],
       "smart_followers_min_users": [
-        "Fierce_vek3",
+        "alpukat168",
         "alpukat168",
         "alpukat168",
         "alpukat168",
@@ -2168,7 +2168,6 @@
         "alpukat168"
       ],
       "yaps_min": [
-        11.94,
         12.0,
         12.0,
         6.81,
@@ -2177,10 +2176,10 @@
         12.0,
         0.94,
         8.34,
-        0.48
+        0.48,
+        12.0
       ],
       "yaps_min_users": [
-        "Milliebanned",
         "donggu_1",
         "donggu_1",
         "LastMoney6489",
@@ -2189,7 +2188,8 @@
         "donggu_1",
         "30bgHitman",
         "Kswjd35",
-        "Crypto_S3th"
+        "Crypto_S3th",
+        "donggu_1"
       ]
     },
     "30D": {
@@ -2254,8 +2254,8 @@
         58.0,
         58.0,
         58.0,
-        58.0,
-        37.0
+        37.0,
+        58.0
       ],
       "smart_followers_min_users": [
         "GuigsLuke",
@@ -2266,8 +2266,8 @@
         "GuigsLuke",
         "GuigsLuke",
         "GuigsLuke",
-        "GuigsLuke",
-        "0xlemoneth"
+        "0xlemoneth",
+        "GuigsLuke"
       ],
       "yaps_min": [
         1.23,
@@ -2278,8 +2278,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        116.03
+        116.03,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -2290,8 +2290,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "jonBeoGazua"
+        "jonBeoGazua",
+        "sontanidonghei"
       ]
     },
     "30D": {
@@ -2299,12 +2299,12 @@
         35.0,
         35.0,
         35.0,
-        35.0,
         37.0,
         37.0,
         37.0,
         37.0,
         37.0,
+        58.0,
         58.0
       ],
       "smart_followers_min_users": [
@@ -2316,11 +2316,10 @@
         "0xlemoneth",
         "0xlemoneth",
         "0xlemoneth",
-        "0xlemoneth",
+        "GuigsLuke",
         "GuigsLuke"
       ],
       "yaps_min": [
-        241.43,
         244.63,
         246.9,
         247.37,
@@ -2329,7 +2328,8 @@
         255.04,
         41.87,
         256.73,
-        256.78
+        256.78,
+        257.69
       ],
       "yaps_min_users": [
         "Gyokeres_eth",
@@ -2338,8 +2338,8 @@
         "Gyokeres_eth",
         "Gyokeres_eth",
         "Gyokeres_eth",
-        "Gyokeres_eth",
         "Lingersj",
+        "Gyokeres_eth",
         "Gyokeres_eth",
         "Gyokeres_eth"
       ]
@@ -2373,7 +2373,6 @@
       ],
       "yaps_min": [
         13.36,
-        13.36,
         72.64,
         13.36,
         74.89,
@@ -2381,17 +2380,18 @@
         86.29,
         13.36,
         99.04,
-        99.74
+        99.74,
+        100.11
       ],
       "yaps_min_users": [
         "thebookofmajor",
-        "thebookofmajor",
         "Maxi_cho",
         "thebookofmajor",
         "Maxi_cho",
         "Maxi_cho",
         "Maxi_cho",
         "thebookofmajor",
+        "Maxi_cho",
         "Maxi_cho",
         "Maxi_cho"
       ]
@@ -2423,7 +2423,6 @@
       ],
       "yaps_min": [
         13.36,
-        13.36,
         72.64,
         13.36,
         74.89,
@@ -2431,17 +2430,18 @@
         86.29,
         13.36,
         99.04,
-        99.74
+        99.74,
+        100.11
       ],
       "yaps_min_users": [
         "thebookofmajor",
-        "thebookofmajor",
         "Maxi_cho",
         "thebookofmajor",
         "Maxi_cho",
         "Maxi_cho",
         "Maxi_cho",
         "thebookofmajor",
+        "Maxi_cho",
         "Maxi_cho",
         "Maxi_cho"
       ]
@@ -2463,9 +2463,9 @@
       ],
       "smart_followers_min_users": [
         "0xOnkel",
-        "0xOnkel",
         "LuuciaVera",
         "LuuciaVera",
+        "missionfirstmio",
         "missionfirstmio",
         "missionfirstmio",
         "missionfirstmio",
@@ -2475,7 +2475,6 @@
       ],
       "yaps_min": [
         6.06,
-        6.06,
         12.3,
         292.19,
         1.74,
@@ -2483,10 +2482,10 @@
         292.32,
         0.1,
         6.06,
-        292.48
+        292.48,
+        6.06
       ],
       "yaps_min_users": [
-        "SheDevoraVargas",
         "SheDevoraVargas",
         "Bitkevin1",
         "Hope_web3_",
@@ -2495,7 +2494,8 @@
         "Hope_web3_",
         "YusufShitt1310",
         "SheDevoraVargas",
-        "Hope_web3_"
+        "Hope_web3_",
+        "SheDevoraVargas"
       ]
     },
     "30D": {
@@ -2515,7 +2515,7 @@
         "0xOnkel",
         "0xOnkel",
         "0xOnkel",
-        "0xOnkel",
+        "missionfirstmio",
         "missionfirstmio",
         "missionfirstmio",
         "missionfirstmio",
@@ -2524,7 +2524,6 @@
         "missionfirstmio"
       ],
       "yaps_min": [
-        325.38,
         6.06,
         12.3,
         52.06,
@@ -2533,10 +2532,10 @@
         56.64,
         0.1,
         6.06,
-        7.13
+        7.13,
+        6.06
       ],
       "yaps_min_users": [
-        "GpaAndy",
         "SheDevoraVargas",
         "Bitkevin1",
         "Kaidzan2025",
@@ -2545,7 +2544,8 @@
         "Kaidzan2025",
         "YusufShitt1310",
         "SheDevoraVargas",
-        "NavV96"
+        "NavV96",
+        "SheDevoraVargas"
       ]
     }
   },
@@ -2626,7 +2626,6 @@
         "Egwuatue"
       ],
       "yaps_min": [
-        2714.88,
         123.68,
         123.68,
         261.44,
@@ -2635,10 +2634,10 @@
         123.68,
         114.54,
         2735.29,
-        43.75
+        43.75,
+        2736.81
       ],
       "yaps_min_users": [
-        "zerokn0wledge_",
         "Naeven_",
         "Naeven_",
         "0xRiim",
@@ -2647,7 +2646,8 @@
         "Naeven_",
         "goldmanCreates",
         "zerokn0wledge_",
-        "0xgoldzn"
+        "0xgoldzn",
+        "zerokn0wledge_"
       ]
     }
   },
@@ -2657,10 +2657,10 @@
         2.0,
         2.0,
         2.0,
+        1.0,
+        1.0,
+        1.0,
         2.0,
-        1.0,
-        1.0,
-        1.0,
         2.0,
         2.0,
         2.0
@@ -2669,16 +2669,15 @@
         "AlexBrianIII",
         "AlexBrianIII",
         "AlexBrianIII",
+        "GENMALAMIIOG",
+        "GENMALAMIIOG",
+        "GENMALAMIIOG",
         "AlexBrianIII",
-        "GENMALAMIIOG",
-        "GENMALAMIIOG",
-        "GENMALAMIIOG",
         "AlexBrianIII",
         "AlexBrianIII",
         "AlexBrianIII"
       ],
       "yaps_min": [
-        1.56,
         0.61,
         1.57,
         1.57,
@@ -2687,10 +2686,10 @@
         1.57,
         0.52,
         1.59,
+        1.6,
         1.6
       ],
       "yaps_min_users": [
-        "thankgodaka68",
         "AlexBrianIII",
         "thankgodaka68",
         "thankgodaka68",
@@ -2698,6 +2697,7 @@
         "INOKAMIKAGURA",
         "thankgodaka68",
         "BIGMayrr",
+        "thankgodaka68",
         "thankgodaka68",
         "thankgodaka68"
       ]
@@ -2728,7 +2728,6 @@
         "AlexBrianIII"
       ],
       "yaps_min": [
-        13.91,
         0.61,
         13.59,
         2.31,
@@ -2737,10 +2736,10 @@
         13.59,
         0.61,
         13.59,
-        2.31
+        2.31,
+        12.62
       ],
       "yaps_min_users": [
-        "justprisci001",
         "AlexBrianIII",
         "techwithdavid",
         "TonydaveChuks",
@@ -2749,7 +2748,8 @@
         "techwithdavid",
         "AlexBrianIII",
         "techwithdavid",
-        "TonydaveChuks"
+        "TonydaveChuks",
+        "flyboytheddy"
       ]
     }
   },
@@ -2781,10 +2781,10 @@
       ],
       "yaps_min": [
         68.23,
-        68.23,
         114.6,
         68.23,
         102.46,
+        68.23,
         68.23,
         68.23,
         68.23,
@@ -2793,10 +2793,10 @@
       ],
       "yaps_min_users": [
         "steelorian",
-        "steelorian",
         "ChetaOfAllTrade",
         "steelorian",
         "wuyou88818",
+        "steelorian",
         "steelorian",
         "steelorian",
         "steelorian",
@@ -2807,7 +2807,7 @@
     "30D": {
       "smart_followers_min": [
         21.0,
-        21.0,
+        12.0,
         12.0,
         12.0,
         12.0,
@@ -2819,7 +2819,7 @@
       ],
       "smart_followers_min_users": [
         "al_shifat_",
-        "al_shifat_",
+        "0x8Gluck",
         "0x8Gluck",
         "0x8Gluck",
         "0x8Gluck",
@@ -2830,7 +2830,6 @@
         "0x8Gluck"
       ],
       "yaps_min": [
-        75.95,
         67.82,
         45.16,
         45.16,
@@ -2839,10 +2838,10 @@
         45.16,
         45.16,
         70.65,
-        45.16
+        45.16,
+        105.1
       ],
       "yaps_min_users": [
-        "philippphaa",
         "wlgns5388",
         "pingsh1011",
         "pingsh1011",
@@ -2851,14 +2850,15 @@
         "pingsh1011",
         "pingsh1011",
         "wlgns5388",
-        "pingsh1011"
+        "pingsh1011",
+        "Shivfreespirit"
       ]
     }
   },
   "huma": {
     "7D": {
       "smart_followers_min": [
-        1.0,
+        2.0,
         2.0,
         2.0,
         2.0,
@@ -2870,7 +2870,7 @@
         2.0
       ],
       "smart_followers_min_users": [
-        "RashadTatte",
+        "cleanstart502",
         "cleanstart502",
         "cleanstart502",
         "cleanstart502",
@@ -2882,7 +2882,6 @@
         "cleanstart502"
       ],
       "yaps_min": [
-        0.8,
         0.22,
         1.63,
         0.22,
@@ -2891,10 +2890,10 @@
         3.84,
         0.22,
         0.96,
-        0.22
+        0.22,
+        3.84
       ],
       "yaps_min_users": [
-        "radziohan",
         "cynoclear098",
         "lviz99",
         "cynoclear098",
@@ -2903,7 +2902,8 @@
         "tteasol",
         "cynoclear098",
         "vanvster",
-        "cynoclear098"
+        "cynoclear098",
+        "tteasol"
       ]
     },
     "30D": {
@@ -2932,7 +2932,6 @@
         "RashadTatte"
       ],
       "yaps_min": [
-        1.63,
         3.84,
         3.84,
         3.84,
@@ -2941,10 +2940,10 @@
         3.84,
         3.84,
         11.42,
+        3.84,
         3.84
       ],
       "yaps_min_users": [
-        "lviz99",
         "tteasol",
         "tteasol",
         "tteasol",
@@ -2953,6 +2952,7 @@
         "tteasol",
         "tteasol",
         "kvnqobi",
+        "tteasol",
         "tteasol"
       ]
     }
@@ -2988,10 +2988,10 @@
         134.75,
         134.75,
         134.75,
-        134.75,
         114.57,
         134.75,
         114.57,
+        134.75,
         134.75,
         134.75
       ],
@@ -3000,10 +3000,10 @@
         "0xCrocy",
         "0xCrocy",
         "0xCrocy",
-        "0xCrocy",
         "rhoppon",
         "0xCrocy",
         "rhoppon",
+        "0xCrocy",
         "0xCrocy",
         "0xCrocy"
       ]
@@ -3034,7 +3034,6 @@
         "MokCrypto01"
       ],
       "yaps_min": [
-        99.16,
         145.5,
         145.61,
         99.16,
@@ -3043,10 +3042,10 @@
         99.16,
         99.16,
         99.16,
-        200.46
+        200.46,
+        99.85
       ],
       "yaps_min_users": [
-        "NobleIrons7de",
         "MokCrypto01",
         "MokCrypto01",
         "NobleIrons7de",
@@ -3055,7 +3054,8 @@
         "NobleIrons7de",
         "NobleIrons7de",
         "NobleIrons7de",
-        "ausbro80"
+        "ausbro80",
+        "NobleIrons7de"
       ]
     }
   },
@@ -3086,7 +3086,6 @@
         "0xMAURITZ"
       ],
       "yaps_min": [
-        292.8,
         273.75,
         292.8,
         292.8,
@@ -3095,10 +3094,10 @@
         293.46,
         251.02,
         293.46,
-        296.01
+        296.01,
+        325.29
       ],
       "yaps_min_users": [
-        "Incenzee",
         "egorsidelska",
         "Incenzee",
         "Incenzee",
@@ -3107,7 +3106,8 @@
         "Incenzee",
         "0xEquinox_",
         "Incenzee",
-        "0xdogacan"
+        "0xdogacan",
+        "periagoge1"
       ]
     },
     "30D": {
@@ -3118,7 +3118,7 @@
         40.0,
         40.0,
         40.0,
-        40.0,
+        52.0,
         52.0,
         52.0,
         52.0
@@ -3130,13 +3130,12 @@
         "yingli420",
         "yingli420",
         "yingli420",
-        "yingli420",
+        "0xMAURITZ",
         "0xMAURITZ",
         "0xMAURITZ",
         "0xMAURITZ"
       ],
       "yaps_min": [
-        314.35,
         315.36,
         316.29,
         317.18,
@@ -3145,7 +3144,8 @@
         321.45,
         251.02,
         323.44,
-        324.24
+        324.24,
+        325.29
       ],
       "yaps_min_users": [
         "periagoge1",
@@ -3154,8 +3154,8 @@
         "periagoge1",
         "periagoge1",
         "periagoge1",
-        "periagoge1",
         "0xEquinox_",
+        "periagoge1",
         "periagoge1",
         "periagoge1"
       ]
@@ -3165,10 +3165,10 @@
     "7D": {
       "smart_followers_min": [
         8.0,
-        8.0,
         11.0,
         11.0,
         11.0,
+        5.0,
         5.0,
         5.0,
         5.0,
@@ -3177,10 +3177,10 @@
       ],
       "smart_followers_min_users": [
         "Corrina101Young",
-        "Corrina101Young",
         "Jife790",
         "Jife790",
         "Jife790",
+        "hashedmystic",
         "hashedmystic",
         "hashedmystic",
         "hashedmystic",
@@ -3190,8 +3190,8 @@
       "yaps_min": [
         1.23,
         1.23,
-        1.23,
         11.16,
+        11.02,
         11.02,
         11.02,
         11.02,
@@ -3202,8 +3202,8 @@
       "yaps_min_users": [
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
         "0x_Ambrose",
+        "nftcityboy",
         "nftcityboy",
         "nftcityboy",
         "nftcityboy",
@@ -3215,13 +3215,13 @@
     "30D": {
       "smart_followers_min": [
         16.0,
-        16.0,
         17.0,
         17.0,
         17.0,
         17.0,
         17.0,
         17.0,
+        18.0,
         18.0,
         18.0
       ],
@@ -3240,7 +3240,7 @@
       "yaps_min": [
         1.23,
         1.23,
-        1.23,
+        25.57,
         25.57,
         25.57,
         25.57,
@@ -3252,7 +3252,7 @@
       "yaps_min_users": [
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
+        "yeonuk87",
         "yeonuk87",
         "yeonuk87",
         "yeonuk87",
@@ -3290,7 +3290,6 @@
         "0xArxihan"
       ],
       "yaps_min": [
-        1556.2,
         63.74,
         1561.18,
         1562.51,
@@ -3299,10 +3298,10 @@
         1588.27,
         26.85,
         376.38,
-        376.38
+        376.38,
+        1597.37
       ],
       "yaps_min_users": [
-        "0xzhaozhao",
         "AsankaKasum",
         "0xzhaozhao",
         "0xzhaozhao",
@@ -3311,7 +3310,8 @@
         "0xzhaozhao",
         "0xArxihan",
         "KillChain_init",
-        "KillChain_init"
+        "KillChain_init",
+        "0xzhaozhao"
       ]
     },
     "30D": {
@@ -3343,25 +3343,25 @@
         7.76,
         7.76,
         7.76,
-        7.76,
         52.91,
         7.76,
         52.91,
         7.76,
         52.91,
-        6.3
+        6.3,
+        1597.37
       ],
       "yaps_min_users": [
         "456girls",
         "456girls",
         "456girls",
-        "456girls",
         "wizzfarukk",
         "456girls",
         "wizzfarukk",
         "456girls",
         "wizzfarukk",
-        "dejothebrand"
+        "dejothebrand",
+        "0xzhaozhao"
       ]
     }
   },
@@ -3392,7 +3392,6 @@
         "PRYNXX_PRMR"
       ],
       "yaps_min": [
-        137.05,
         116.64,
         55.32,
         55.32,
@@ -3401,10 +3400,10 @@
         116.64,
         2.64,
         125.22,
-        123.62
+        123.62,
+        59.59
       ],
       "yaps_min_users": [
-        "xiaofeilong99",
         "Mdsaif33",
         "JoshuaAbel68",
         "JoshuaAbel68",
@@ -3413,7 +3412,8 @@
         "Mdsaif33",
         "NomberFax",
         "Ciciyingying",
-        "kylobtc"
+        "kylobtc",
+        "CryptoUKong"
       ]
     },
     "30D": {
@@ -3442,7 +3442,6 @@
         "PRYNXX_PRMR"
       ],
       "yaps_min": [
-        137.05,
         67.82,
         55.32,
         55.32,
@@ -3451,10 +3450,10 @@
         69.72,
         2.64,
         70.65,
-        85.97
+        85.97,
+        59.59
       ],
       "yaps_min_users": [
-        "xiaofeilong99",
         "wlgns5388",
         "JoshuaAbel68",
         "JoshuaAbel68",
@@ -3463,7 +3462,8 @@
         "wlgns5388",
         "NomberFax",
         "wlgns5388",
-        "Rypto__"
+        "Rypto__",
+        "CryptoUKong"
       ]
     }
   },
@@ -3494,7 +3494,6 @@
         "DanielBest63181"
       ],
       "yaps_min": [
-        0.54,
         1.47,
         0.44,
         1.47,
@@ -3503,10 +3502,10 @@
         1.47,
         0.37,
         0.37,
-        1.47
+        1.47,
+        0.45
       ],
       "yaps_min_users": [
-        "tesebellaa",
         "pelscrypt",
         "lindo0308",
         "pelscrypt",
@@ -3515,7 +3514,8 @@
         "pelscrypt",
         "cvendo99",
         "cvendo99",
-        "pelscrypt"
+        "pelscrypt",
+        "Smartjordan111"
       ]
     },
     "30D": {
@@ -3544,7 +3544,6 @@
         "AMuhammad0814"
       ],
       "yaps_min": [
-        0.54,
         1.47,
         0.44,
         1.47,
@@ -3553,10 +3552,10 @@
         1.47,
         0.37,
         0.37,
-        1.47
+        1.47,
+        15.04
       ],
       "yaps_min_users": [
-        "tesebellaa",
         "pelscrypt",
         "lindo0308",
         "pelscrypt",
@@ -3565,7 +3564,8 @@
         "pelscrypt",
         "cvendo99",
         "cvendo99",
-        "pelscrypt"
+        "pelscrypt",
+        "vanillacrusz"
       ]
     }
   },
@@ -3573,7 +3573,7 @@
     "7D": {
       "smart_followers_min": [
         14.0,
-        14.0,
+        15.0,
         15.0,
         15.0,
         15.0,
@@ -3623,7 +3623,7 @@
     "30D": {
       "smart_followers_min": [
         14.0,
-        14.0,
+        15.0,
         15.0,
         15.0,
         15.0,
@@ -3650,15 +3650,14 @@
         25.57,
         25.57,
         25.57,
-        25.57,
         38.37,
         38.37,
         45.51,
         62.73,
-        40.17
+        40.17,
+        45.51
       ],
       "yaps_min_users": [
-        "yeonuk87",
         "yeonuk87",
         "yeonuk87",
         "yeonuk87",
@@ -3667,7 +3666,8 @@
         "baggyudong78463",
         "teemomeeto",
         "Rhythm_rere2",
-        "baggyudong78463"
+        "baggyudong78463",
+        "teemomeeto"
       ]
     }
   },
@@ -3682,7 +3682,7 @@
         155.0,
         155.0,
         155.0,
-        155.0,
+        116.0,
         116.0
       ],
       "smart_followers_min_users": [
@@ -3694,11 +3694,10 @@
         "Hope_web3_",
         "Hope_web3_",
         "Hope_web3_",
-        "Hope_web3_",
+        "riotboy2024",
         "riotboy2024"
       ],
       "yaps_min": [
-        291.97,
         292.18,
         292.18,
         292.19,
@@ -3707,7 +3706,8 @@
         292.32,
         292.32,
         292.32,
-        292.48
+        292.48,
+        292.83
       ],
       "yaps_min_users": [
         "Hope_web3_",
@@ -3728,11 +3728,11 @@
         155.0,
         155.0,
         155.0,
-        155.0,
         156.0,
         156.0,
         156.0,
         156.0,
+        116.0,
         116.0
       ],
       "smart_followers_min_users": [
@@ -3744,11 +3744,10 @@
         "Hope_web3_",
         "Hope_web3_",
         "Hope_web3_",
-        "Hope_web3_",
+        "riotboy2024",
         "riotboy2024"
       ],
       "yaps_min": [
-        238.63,
         255.36,
         240.9,
         255.36,
@@ -3757,10 +3756,10 @@
         255.36,
         241.28,
         255.36,
+        241.28,
         241.28
       ],
       "yaps_min_users": [
-        "RaoniKor",
         "medo_NFP",
         "RaoniKor",
         "medo_NFP",
@@ -3769,6 +3768,7 @@
         "medo_NFP",
         "RaoniKor",
         "medo_NFP",
+        "RaoniKor",
         "RaoniKor"
       ]
     }
@@ -3777,7 +3777,6 @@
     "7D": {
       "smart_followers_min": [
         128.0,
-        128.0,
         137.0,
         97.0,
         97.0,
@@ -3785,10 +3784,10 @@
         97.0,
         97.0,
         116.0,
-        116.0
+        116.0,
+        82.0
       ],
       "smart_followers_min_users": [
-        "rhoppon",
         "rhoppon",
         "ollieblocmates",
         "0x_scientist",
@@ -3797,10 +3796,10 @@
         "0x_scientist",
         "0x_scientist",
         "riotboy2024",
-        "riotboy2024"
+        "riotboy2024",
+        "dee_nftarmy"
       ],
       "yaps_min": [
-        351.0,
         259.4,
         260.54,
         261.13,
@@ -3809,14 +3808,15 @@
         269.92,
         270.03,
         270.04,
-        270.32
+        270.32,
+        271.73
       ],
       "yaps_min_users": [
-        "namnin_kr",
         "rapperr111",
         "rapperr111",
         "rapperr111",
         "rapperr111",
+        "heysoahri",
         "heysoahri",
         "heysoahri",
         "heysoahri",
@@ -3850,7 +3850,6 @@
         "0xVanxyrus"
       ],
       "yaps_min": [
-        314.35,
         315.36,
         316.29,
         317.18,
@@ -3859,7 +3858,8 @@
         321.45,
         322.5,
         323.44,
-        324.24
+        324.24,
+        325.29
       ],
       "yaps_min_users": [
         "periagoge1",
@@ -3887,7 +3887,7 @@
         31.0,
         31.0,
         31.0,
-        31.0
+        32.0
       ],
       "smart_followers_min_users": [
         "ettty_19",
@@ -3902,7 +3902,6 @@
         "ettty_19"
       ],
       "yaps_min": [
-        114.22,
         114.3,
         114.74,
         115.23,
@@ -3911,6 +3910,7 @@
         115.79,
         115.96,
         115.97,
+        116.03,
         116.03
       ],
       "yaps_min_users": [
@@ -3937,7 +3937,7 @@
         31.0,
         31.0,
         31.0,
-        31.0
+        32.0
       ],
       "smart_followers_min_users": [
         "ettty_19",
@@ -3952,7 +3952,6 @@
         "ettty_19"
       ],
       "yaps_min": [
-        114.22,
         114.3,
         114.74,
         115.23,
@@ -3961,6 +3960,7 @@
         115.79,
         115.96,
         115.97,
+        116.03,
         116.03
       ],
       "yaps_min_users": [
@@ -4004,7 +4004,6 @@
         "Onoja_Cee"
       ],
       "yaps_min": [
-        174.18,
         174.78,
         973.62,
         974.39,
@@ -4013,16 +4012,17 @@
         175.01,
         1068.74,
         1083.2,
-        1088.95
+        1088.95,
+        1091.47
       ],
       "yaps_min_users": [
         "Onoja_Cee",
-        "Onoja_Cee",
         "CryptoUsopp",
         "CryptoUsopp",
         "CryptoUsopp",
         "CryptoUsopp",
         "Onoja_Cee",
+        "CryptoUsopp",
         "CryptoUsopp",
         "CryptoUsopp",
         "CryptoUsopp"
@@ -4054,7 +4054,6 @@
         "Donovan_deK"
       ],
       "yaps_min": [
-        174.18,
         174.78,
         292.21,
         124.42,
@@ -4063,10 +4062,10 @@
         175.01,
         498.97,
         126.38,
-        126.39
+        126.39,
+        126.48
       ],
       "yaps_min_users": [
-        "Onoja_Cee",
         "Onoja_Cee",
         "web3wikis",
         "Adellbah",
@@ -4074,6 +4073,7 @@
         "Adellbah",
         "Onoja_Cee",
         "AInvestor_11",
+        "Adellbah",
         "Adellbah",
         "Adellbah"
       ]
@@ -4106,7 +4106,6 @@
         "Dzhekfield77"
       ],
       "yaps_min": [
-        46.53,
         46.67,
         1.23,
         1.23,
@@ -4115,19 +4114,20 @@
         1.23,
         1.23,
         1.23,
-        47.56
+        47.56,
+        7.43
       ],
       "yaps_min_users": [
         "jungsama1101",
+        "sontanidonghei",
+        "sontanidonghei",
+        "sontanidonghei",
+        "sontanidonghei",
+        "sontanidonghei",
+        "sontanidonghei",
+        "sontanidonghei",
         "jungsama1101",
-        "sontanidonghei",
-        "sontanidonghei",
-        "sontanidonghei",
-        "sontanidonghei",
-        "sontanidonghei",
-        "sontanidonghei",
-        "sontanidonghei",
-        "jungsama1101"
+        "nas_dotcom"
       ]
     },
     "30D": {
@@ -4156,7 +4156,6 @@
         "Dzhekfield77"
       ],
       "yaps_min": [
-        46.53,
         46.67,
         46.67,
         65.89,
@@ -4165,18 +4164,19 @@
         46.67,
         46.82,
         66.46,
-        47.56
+        47.56,
+        47.67
       ],
       "yaps_min_users": [
         "jungsama1101",
         "jungsama1101",
-        "jungsama1101",
         "COmang___",
         "jungsama1101",
         "jungsama1101",
         "jungsama1101",
         "jungsama1101",
         "COmang___",
+        "jungsama1101",
         "jungsama1101"
       ]
     }
@@ -4210,17 +4210,16 @@
       "yaps_min": [
         0.31,
         0.31,
-        0.31,
         15.98,
         6.68,
         0.31,
         22.27,
         21.31,
         0.31,
+        6.68,
         6.68
       ],
       "yaps_min_users": [
-        "ImatigerNFT",
         "ImatigerNFT",
         "ImatigerNFT",
         "Maverickein99",
@@ -4229,6 +4228,7 @@
         "Naumoski_ace",
         "olamide_420",
         "ImatigerNFT",
+        "Dekompoza",
         "Dekompoza"
       ]
     },
@@ -4260,17 +4260,16 @@
       "yaps_min": [
         0.31,
         0.31,
-        0.31,
         15.98,
         6.68,
         0.31,
         17.14,
         17.14,
         0.31,
+        6.68,
         6.68
       ],
       "yaps_min_users": [
-        "ImatigerNFT",
         "ImatigerNFT",
         "ImatigerNFT",
         "Maverickein99",
@@ -4279,6 +4278,7 @@
         "dylan__hobbs",
         "dylan__hobbs",
         "ImatigerNFT",
+        "Dekompoza",
         "Dekompoza"
       ]
     }
@@ -4310,7 +4310,6 @@
         "GuigsLuke"
       ],
       "yaps_min": [
-        238.63,
         293.66,
         240.9,
         293.66,
@@ -4319,10 +4318,10 @@
         295.95,
         241.28,
         297.45,
+        241.28,
         241.28
       ],
       "yaps_min_users": [
-        "RaoniKor",
         "Gogogonum",
         "RaoniKor",
         "Gogogonum",
@@ -4331,6 +4330,7 @@
         "Gogogonum",
         "RaoniKor",
         "Gogogonum",
+        "RaoniKor",
         "RaoniKor"
       ]
     },
@@ -4360,7 +4360,6 @@
         "GuigsLuke"
       ],
       "yaps_min": [
-        238.63,
         292.18,
         240.9,
         292.19,
@@ -4369,10 +4368,10 @@
         292.32,
         241.28,
         292.32,
+        241.28,
         241.28
       ],
       "yaps_min_users": [
-        "RaoniKor",
         "Hope_web3_",
         "RaoniKor",
         "Hope_web3_",
@@ -4381,6 +4380,7 @@
         "Hope_web3_",
         "RaoniKor",
         "Hope_web3_",
+        "RaoniKor",
         "RaoniKor"
       ]
     }
@@ -4412,7 +4412,6 @@
         "lady_in_crypto"
       ],
       "yaps_min": [
-        36.13,
         63.74,
         36.13,
         36.13,
@@ -4421,10 +4420,10 @@
         74.14,
         59.62,
         134.04,
-        64.68
+        64.68,
+        79.48
       ],
       "yaps_min_users": [
-        "cryptomakase",
         "AsankaKasum",
         "cryptomakase",
         "cryptomakase",
@@ -4433,7 +4432,8 @@
         "bwong_e",
         "cryptomakase",
         "subijjjang",
-        "cryptomakase"
+        "cryptomakase",
+        "bwong_e"
       ]
     },
     "30D": {
@@ -4462,7 +4462,6 @@
         "lady_in_crypto"
       ],
       "yaps_min": [
-        36.13,
         41.2,
         36.13,
         36.13,
@@ -4471,10 +4470,10 @@
         74.14,
         59.62,
         134.04,
-        64.68
+        64.68,
+        79.48
       ],
       "yaps_min_users": [
-        "cryptomakase",
         "CRYPTOAD00",
         "cryptomakase",
         "cryptomakase",
@@ -4483,7 +4482,8 @@
         "bwong_e",
         "cryptomakase",
         "subijjjang",
-        "cryptomakase"
+        "cryptomakase",
+        "bwong_e"
       ]
     }
   },
@@ -4509,12 +4509,11 @@
         "YoueEth",
         "YoueEth",
         "YoueEth",
-        "YoueEth",
+        "kaisaa8888",
         "kaisaa8888",
         "kaisaa8888"
       ],
       "yaps_min": [
-        2.73,
         0.62,
         0.77,
         0.77,
@@ -4523,10 +4522,10 @@
         0.57,
         0.61,
         0.77,
-        1.23
+        1.23,
+        0.77
       ],
       "yaps_min_users": [
-        "Dattebayo204",
         "VennAdams",
         "Lifee2L80704",
         "Lifee2L80704",
@@ -4535,13 +4534,13 @@
         "0z_Dustin136",
         "0z_Dustin136",
         "Lifee2L80704",
-        "mustwinnerIDN"
+        "mustwinnerIDN",
+        "Lifee2L80704"
       ]
     },
     "30D": {
       "smart_followers_min": [
         4.0,
-        4.0,
         5.0,
         5.0,
         5.0,
@@ -4549,11 +4548,11 @@
         5.0,
         4.0,
         4.0,
+        3.0,
         3.0
       ],
       "smart_followers_min_users": [
         "Lifee2L80704",
-        "Lifee2L80704",
         "lumisaigon3",
         "lumisaigon3",
         "lumisaigon3",
@@ -4561,10 +4560,10 @@
         "lumisaigon3",
         "truonganhv2967",
         "truonganhv2967",
+        "AlmightyMrPeter",
         "AlmightyMrPeter"
       ],
       "yaps_min": [
-        2.73,
         0.77,
         0.77,
         0.77,
@@ -4573,10 +4572,10 @@
         4.31,
         2.73,
         0.77,
-        16.54
+        16.54,
+        0.77
       ],
       "yaps_min_users": [
-        "Dattebayo204",
         "Lifee2L80704",
         "Lifee2L80704",
         "Lifee2L80704",
@@ -4585,7 +4584,8 @@
         "meilianhua_eth",
         "Dattebayo204",
         "Lifee2L80704",
-        "Crypto0304"
+        "Crypto0304",
+        "Lifee2L80704"
       ]
     }
   },
@@ -4601,7 +4601,7 @@
         13.0,
         13.0,
         13.0,
-        13.0
+        16.0
       ],
       "smart_followers_min_users": [
         "weltzart",
@@ -4613,10 +4613,9 @@
         "weltzart",
         "weltzart",
         "weltzart",
-        "weltzart"
+        "0xMeenz"
       ],
       "yaps_min": [
-        197.9,
         4.72,
         4.72,
         4.72,
@@ -4625,10 +4624,10 @@
         119.34,
         4.72,
         119.34,
-        39.52
+        39.52,
+        36.73
       ],
       "yaps_min_users": [
-        "smolgeeek",
         "0xvangog",
         "0xvangog",
         "0xvangog",
@@ -4637,7 +4636,8 @@
         "arshiaxbt",
         "0xvangog",
         "arshiaxbt",
-        "0xMeenz"
+        "0xMeenz",
+        "MedoCons"
       ]
     },
     "30D": {
@@ -4666,7 +4666,6 @@
         "gravypto"
       ],
       "yaps_min": [
-        139.36,
         36.73,
         45.56,
         119.34,
@@ -4675,10 +4674,10 @@
         119.34,
         80.41,
         119.34,
-        39.52
+        39.52,
+        36.73
       ],
       "yaps_min_users": [
-        "Trappwurld",
         "MedoCons",
         "gravypto",
         "arshiaxbt",
@@ -4687,7 +4686,8 @@
         "arshiaxbt",
         "0xMCGeth",
         "arshiaxbt",
-        "0xMeenz"
+        "0xMeenz",
+        "MedoCons"
       ]
     }
   },
@@ -4723,11 +4723,11 @@
         1.23,
         1.23,
         1.23,
-        1.23,
         61.42,
         61.92,
         62.78,
-        62.93
+        62.93,
+        66.62
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -4735,11 +4735,11 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
         "shl3376",
         "shl3376",
         "shl3376",
-        "shl3376"
+        "shl3376",
+        "HANU_crypto"
       ]
     },
     "30D": {
@@ -4776,8 +4776,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        53.05
+        53.05,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -4788,19 +4788,19 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "Kkle56"
+        "Kkle56",
+        "sontanidonghei"
       ]
     }
   },
   "mira": {
     "7D": {
       "smart_followers_min": [
-        20.0,
         19.0,
         19.0,
         19.0,
         19.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -4808,11 +4808,11 @@
         13.0
       ],
       "smart_followers_min_users": [
-        "MrCryptoPandaa",
         "whosfarmin",
         "whosfarmin",
         "whosfarmin",
         "whosfarmin",
+        "CryptoMiner830",
         "CryptoMiner830",
         "CryptoMiner830",
         "CryptoMiner830",
@@ -4820,7 +4820,6 @@
         "CryptoMiner830"
       ],
       "yaps_min": [
-        1.23,
         18.97,
         18.97,
         18.97,
@@ -4829,10 +4828,10 @@
         18.97,
         18.97,
         1.23,
-        18.97
+        18.97,
+        1.23
       ],
       "yaps_min_users": [
-        "sontanidonghei",
         "heedan123",
         "heedan123",
         "heedan123",
@@ -4841,16 +4840,17 @@
         "heedan123",
         "heedan123",
         "sontanidonghei",
-        "heedan123"
+        "heedan123",
+        "sontanidonghei"
       ]
     },
     "30D": {
       "smart_followers_min": [
         24.0,
-        24.0,
         19.0,
         19.0,
         19.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -4859,10 +4859,10 @@
       ],
       "smart_followers_min_users": [
         "defikadic",
-        "defikadic",
         "0xAmberCT",
         "0xAmberCT",
         "0xAmberCT",
+        "CryptoMiner830",
         "CryptoMiner830",
         "CryptoMiner830",
         "CryptoMiner830",
@@ -4870,7 +4870,6 @@
         "CryptoMiner830"
       ],
       "yaps_min": [
-        18.97,
         18.97,
         18.97,
         3.97,
@@ -4879,10 +4878,10 @@
         18.97,
         18.97,
         18.97,
-        18.97
+        18.97,
+        3.97
       ],
       "yaps_min_users": [
-        "heedan123",
         "heedan123",
         "heedan123",
         "stone_gettings",
@@ -4891,14 +4890,15 @@
         "heedan123",
         "heedan123",
         "heedan123",
-        "heedan123"
+        "heedan123",
+        "stone_gettings"
       ]
     }
   },
   "mitosis": {
     "7D": {
       "smart_followers_min": [
-        2.0,
+        1.0,
         1.0,
         1.0,
         1.0,
@@ -4910,7 +4910,7 @@
         1.0
       ],
       "smart_followers_min_users": [
-        "sonyhexe",
+        "TouCee_D",
         "TouCee_D",
         "TouCee_D",
         "TouCee_D",
@@ -4923,7 +4923,6 @@
       ],
       "yaps_min": [
         2.56,
-        2.56,
         70.8,
         2.56,
         70.8,
@@ -4931,11 +4930,11 @@
         2.56,
         3.54,
         70.8,
-        33.2
+        33.2,
+        70.8
       ],
       "yaps_min_users": [
         "defi_mark",
-        "defi_mark",
         "gemspecialist01",
         "defi_mark",
         "gemspecialist01",
@@ -4943,7 +4942,8 @@
         "defi_mark",
         "0xgeneralll",
         "gemspecialist01",
-        "Uncle_vor"
+        "Uncle_vor",
+        "gemspecialist01"
       ]
     },
     "30D": {
@@ -4973,7 +4973,6 @@
       ],
       "yaps_min": [
         2.56,
-        2.56,
         36.84,
         2.56,
         70.8,
@@ -4981,10 +4980,10 @@
         2.56,
         3.54,
         36.84,
-        6.17
+        6.17,
+        36.84
       ],
       "yaps_min_users": [
-        "defi_mark",
         "defi_mark",
         "doosingod",
         "defi_mark",
@@ -4993,14 +4992,14 @@
         "defi_mark",
         "0xgeneralll",
         "doosingod",
-        "xzamd1"
+        "xzamd1",
+        "doosingod"
       ]
     }
   },
   "momentum": {
     "7D": {
       "smart_followers_min": [
-        47.0,
         47.0,
         58.0,
         58.0,
@@ -5009,10 +5008,10 @@
         60.0,
         60.0,
         60.0,
+        60.0,
         60.0
       ],
       "smart_followers_min_users": [
-        "ADanmaigoro",
         "ADanmaigoro",
         "GuigsLuke",
         "GuigsLuke",
@@ -5021,13 +5020,14 @@
         "yeonuk87",
         "yeonuk87",
         "yeonuk87",
+        "yeonuk87",
         "yeonuk87"
       ],
       "yaps_min": [
+        16.75,
+        16.75,
+        16.75,
         18.97,
-        16.75,
-        16.75,
-        16.75,
         18.97,
         18.97,
         18.97,
@@ -5036,10 +5036,10 @@
         18.97
       ],
       "yaps_min_users": [
+        "chuchuprotocol",
+        "chuchuprotocol",
+        "chuchuprotocol",
         "heedan123",
-        "chuchuprotocol",
-        "chuchuprotocol",
-        "chuchuprotocol",
         "heedan123",
         "heedan123",
         "heedan123",
@@ -5052,25 +5052,25 @@
       "smart_followers_min": [
         67.0,
         67.0,
+        60.0,
+        60.0,
+        60.0,
+        60.0,
+        60.0,
+        60.0,
         67.0,
-        60.0,
-        60.0,
-        60.0,
-        60.0,
-        60.0,
-        60.0,
         67.0
       ],
       "smart_followers_min_users": [
         "heedan123",
         "heedan123",
+        "yeonuk87",
+        "yeonuk87",
+        "yeonuk87",
+        "yeonuk87",
+        "yeonuk87",
+        "yeonuk87",
         "heedan123",
-        "yeonuk87",
-        "yeonuk87",
-        "yeonuk87",
-        "yeonuk87",
-        "yeonuk87",
-        "yeonuk87",
         "heedan123"
       ],
       "yaps_min": [
@@ -5103,7 +5103,6 @@
     "7D": {
       "smart_followers_min": [
         155.0,
-        155.0,
         156.0,
         156.0,
         156.0,
@@ -5111,7 +5110,8 @@
         157.0,
         156.0,
         156.0,
-        157.0
+        157.0,
+        158.0
       ],
       "smart_followers_min_users": [
         "0xGrimjow",
@@ -5126,7 +5126,6 @@
         "0xGrimjow"
       ],
       "yaps_min": [
-        526.12,
         526.58,
         496.33,
         496.62,
@@ -5135,10 +5134,10 @@
         503.72,
         278.52,
         507.31,
-        433.81
+        433.81,
+        507.31
       ],
       "yaps_min_users": [
-        "IPALAU1",
         "IPALAU1",
         "wyckoffweb",
         "wyckoffweb",
@@ -5147,7 +5146,8 @@
         "wyckoffweb",
         "cole0x",
         "wyckoffweb",
-        "opendanny"
+        "opendanny",
+        "wyckoffweb"
       ]
     },
     "30D": {
@@ -5157,9 +5157,9 @@
         68.0,
         68.0,
         68.0,
-        68.0,
         69.0,
         69.0,
+        135.0,
         135.0,
         135.0
       ],
@@ -5171,12 +5171,11 @@
         "notpopnad",
         "notpopnad",
         "notpopnad",
-        "notpopnad",
+        "thisisfin_",
         "thisisfin_",
         "thisisfin_"
       ],
       "yaps_min": [
-        536.46,
         542.86,
         496.33,
         186.35,
@@ -5185,10 +5184,10 @@
         503.72,
         403.55,
         507.31,
-        186.35
+        186.35,
+        507.31
       ],
       "yaps_min_users": [
-        "kimyg002",
         "kimyg002",
         "wyckoffweb",
         "thetinaverse",
@@ -5197,7 +5196,8 @@
         "wyckoffweb",
         "sungmo_nad",
         "wyckoffweb",
-        "thetinaverse"
+        "thetinaverse",
+        "wyckoffweb"
       ]
     }
   },
@@ -5205,7 +5205,6 @@
     "7D": {
       "smart_followers_min": [
         9.0,
-        9.0,
         10.0,
         9.0,
         9.0,
@@ -5213,10 +5212,10 @@
         9.0,
         10.0,
         10.0,
-        11.0
+        11.0,
+        10.0
       ],
       "smart_followers_min_users": [
-        "kjw29321",
         "kjw29321",
         "stein__nft",
         "donggooori",
@@ -5225,10 +5224,10 @@
         "donggooori",
         "donggooori",
         "donggooori",
-        "DaBirbci"
+        "DaBirbci",
+        "kjw29321"
       ],
       "yaps_min": [
-        25.99,
         0.92,
         0.92,
         26.62,
@@ -5237,13 +5236,14 @@
         0.92,
         0.92,
         0.92,
+        0.92,
         0.92
       ],
       "yaps_min_users": [
-        "kimgordong",
         "lks2342_",
         "lks2342_",
         "kimgordong",
+        "lks2342_",
         "lks2342_",
         "lks2342_",
         "lks2342_",
@@ -5254,7 +5254,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        10.0,
+        11.0,
         11.0,
         11.0,
         11.0,
@@ -5278,7 +5278,6 @@
         "DaBirbci"
       ],
       "yaps_min": [
-        36.84,
         33.58,
         36.84,
         36.84,
@@ -5287,10 +5286,10 @@
         36.84,
         27.78,
         26.62,
+        24.78,
         24.78
       ],
       "yaps_min_users": [
-        "doosingod",
         "giyu_eth_",
         "doosingod",
         "doosingod",
@@ -5299,6 +5298,7 @@
         "doosingod",
         "minggimsoo",
         "kimgordong",
+        "doubtful_dale",
         "doubtful_dale"
       ]
     }
@@ -5330,7 +5330,6 @@
         "ikakar95"
       ],
       "yaps_min": [
-        505.21,
         505.23,
         512.8,
         517.56,
@@ -5339,7 +5338,8 @@
         519.02,
         519.44,
         519.44,
-        565.48
+        565.48,
+        520.51
       ],
       "yaps_min_users": [
         "dee_nftarmy",
@@ -5350,8 +5350,8 @@
         "dee_nftarmy",
         "dee_nftarmy",
         "dee_nftarmy",
-        "dee_nftarmy",
-        "lovestern83"
+        "lovestern83",
+        "dee_nftarmy"
       ]
     },
     "30D": {
@@ -5380,7 +5380,6 @@
         "ikakar95"
       ],
       "yaps_min": [
-        505.21,
         155.78,
         156.19,
         517.56,
@@ -5389,10 +5388,10 @@
         157.29,
         157.66,
         519.44,
-        158.5
+        158.5,
+        520.51
       ],
       "yaps_min_users": [
-        "dee_nftarmy",
         "ank129048",
         "ank129048",
         "dee_nftarmy",
@@ -5401,14 +5400,15 @@
         "ank129048",
         "ank129048",
         "dee_nftarmy",
-        "ank129048"
+        "ank129048",
+        "dee_nftarmy"
       ]
     }
   },
   "msu": {
     "7D": {
       "smart_followers_min": [
-        109.0,
+        55.0,
         55.0,
         55.0,
         55.0,
@@ -5420,7 +5420,7 @@
         55.0
       ],
       "smart_followers_min_users": [
-        "doodlely213",
+        "subijjjang",
         "subijjjang",
         "subijjjang",
         "subijjjang",
@@ -5432,7 +5432,6 @@
         "subijjjang"
       ],
       "yaps_min": [
-        138.81,
         126.35,
         127.41,
         127.67,
@@ -5441,10 +5440,11 @@
         129.75,
         131.65,
         134.04,
+        134.97,
         134.97
       ],
       "yaps_min_users": [
-        "doodlely213",
+        "subijjjang",
         "subijjjang",
         "subijjjang",
         "subijjjang",
@@ -5458,7 +5458,6 @@
     },
     "30D": {
       "smart_followers_min": [
-        109.0,
         55.0,
         55.0,
         55.0,
@@ -5467,10 +5466,11 @@
         55.0,
         55.0,
         55.0,
-        55.0
+        55.0,
+        56.0
       ],
       "smart_followers_min_users": [
-        "doodlely213",
+        "subijjjang",
         "subijjjang",
         "subijjjang",
         "subijjjang",
@@ -5482,7 +5482,6 @@
         "subijjjang"
       ],
       "yaps_min": [
-        138.81,
         126.35,
         127.41,
         127.67,
@@ -5491,10 +5490,11 @@
         129.75,
         131.65,
         134.04,
+        134.97,
         134.97
       ],
       "yaps_min_users": [
-        "doodlely213",
+        "subijjjang",
         "subijjjang",
         "subijjjang",
         "subijjjang",
@@ -5512,19 +5512,19 @@
       "smart_followers_min": [
         58.0,
         58.0,
-        58.0,
         53.0,
         53.0,
         53.0,
         53.0,
         53.0,
         54.0,
+        54.0,
         54.0
       ],
       "smart_followers_min_users": [
         "etrouble562",
         "etrouble562",
-        "etrouble562",
+        "MartinHo99999",
         "MartinHo99999",
         "MartinHo99999",
         "MartinHo99999",
@@ -5534,7 +5534,6 @@
         "MartinHo99999"
       ],
       "yaps_min": [
-        65.59,
         60.82,
         65.89,
         60.82,
@@ -5543,10 +5542,10 @@
         61.43,
         61.43,
         66.46,
+        62.93,
         62.93
       ],
       "yaps_min_users": [
-        "COmang___",
         "Node_Park",
         "COmang___",
         "Node_Park",
@@ -5555,6 +5554,7 @@
         "Node_Park",
         "Node_Park",
         "COmang___",
+        "shl3376",
         "shl3376"
       ]
     },
@@ -5567,7 +5567,7 @@
         53.0,
         53.0,
         53.0,
-        53.0,
+        54.0,
         54.0,
         54.0
       ],
@@ -5584,7 +5584,6 @@
         "MartinHo99999"
       ],
       "yaps_min": [
-        65.59,
         60.82,
         65.89,
         60.82,
@@ -5593,10 +5592,10 @@
         61.43,
         61.43,
         66.46,
+        62.93,
         62.93
       ],
       "yaps_min_users": [
-        "COmang___",
         "Node_Park",
         "COmang___",
         "Node_Park",
@@ -5605,6 +5604,7 @@
         "Node_Park",
         "Node_Park",
         "COmang___",
+        "shl3376",
         "shl3376"
       ]
     }
@@ -5639,16 +5639,15 @@
         0.72,
         0.72,
         0.72,
-        0.72,
         14.69,
         0.72,
         0.72,
         0.72,
         0.72,
-        0.72
+        0.72,
+        14.92
       ],
       "yaps_min_users": [
-        "therealetinosa1",
         "therealetinosa1",
         "therealetinosa1",
         "therealetinosa1",
@@ -5657,7 +5656,8 @@
         "therealetinosa1",
         "therealetinosa1",
         "therealetinosa1",
-        "therealetinosa1"
+        "therealetinosa1",
+        "Joshy_159"
       ]
     },
     "30D": {
@@ -5686,7 +5686,6 @@
         "theweb3joker36"
       ],
       "yaps_min": [
-        3.11,
         14.69,
         14.69,
         0.86,
@@ -5695,10 +5694,10 @@
         14.69,
         0.86,
         14.69,
-        47.56
+        47.56,
+        14.92
       ],
       "yaps_min_users": [
-        "uncoolprecious",
         "Joshy_159",
         "Joshy_159",
         "ann_imoagene",
@@ -5707,7 +5706,8 @@
         "Joshy_159",
         "ann_imoagene",
         "Joshy_159",
-        "jungsama1101"
+        "jungsama1101",
+        "Joshy_159"
       ]
     }
   },
@@ -5721,7 +5721,7 @@
         73.0,
         73.0,
         73.0,
-        73.0,
+        74.0,
         74.0,
         74.0
       ],
@@ -5740,8 +5740,8 @@
       "yaps_min": [
         218.23,
         218.23,
-        218.23,
         218.46,
+        218.5,
         218.5,
         218.5,
         218.5,
@@ -5788,7 +5788,6 @@
         "Zpartanll7"
       ],
       "yaps_min": [
-        289.09,
         289.66,
         291.62,
         293.83,
@@ -5797,7 +5796,8 @@
         300.89,
         303.96,
         305.13,
-        305.87
+        305.87,
+        309.59
       ],
       "yaps_min_users": [
         "renksieth",
@@ -5840,7 +5840,6 @@
         "egoegodifi"
       ],
       "yaps_min": [
-        234.89,
         218.23,
         141.73,
         65.22,
@@ -5849,10 +5848,10 @@
         141.73,
         67.1,
         141.73,
+        141.73,
         141.73
       ],
       "yaps_min_users": [
-        "egoegodifi",
         "HodlethKR",
         "doodlely213",
         "asiel86",
@@ -5860,6 +5859,7 @@
         "asiel86",
         "doodlely213",
         "asiel86",
+        "doodlely213",
         "doodlely213",
         "doodlely213"
       ]
@@ -5891,7 +5891,6 @@
       ],
       "yaps_min": [
         65.22,
-        65.22,
         141.73,
         65.22,
         65.22,
@@ -5899,17 +5898,18 @@
         141.73,
         67.1,
         141.73,
+        141.73,
         141.73
       ],
       "yaps_min_users": [
         "asiel86",
-        "asiel86",
         "doodlely213",
         "asiel86",
         "asiel86",
         "asiel86",
         "doodlely213",
         "asiel86",
+        "doodlely213",
         "doodlely213",
         "doodlely213"
       ]
@@ -5926,7 +5926,7 @@
         6.0,
         6.0,
         6.0,
-        6.0,
+        7.0,
         7.0
       ],
       "smart_followers_min_users": [
@@ -5938,11 +5938,10 @@
         "faithiologyyy",
         "faithiologyyy",
         "faithiologyyy",
-        "faithiologyyy",
+        "herfizh",
         "herfizh"
       ],
       "yaps_min": [
-        6.78,
         12.0,
         9.43,
         9.61,
@@ -5951,10 +5950,10 @@
         6.78,
         10.25,
         10.04,
+        1.29,
         1.29
       ],
       "yaps_min_users": [
-        "leejg228",
         "donggu_1",
         "nadiweb3",
         "nadiweb3",
@@ -5963,12 +5962,13 @@
         "leejg228",
         "coco99125",
         "nadiweb3",
+        "yachin88",
         "yachin88"
       ]
     },
     "30D": {
       "smart_followers_min": [
-        6.0,
+        5.0,
         5.0,
         5.0,
         5.0,
@@ -5980,7 +5980,7 @@
         5.0
       ],
       "smart_followers_min_users": [
-        "faithiologyyy",
+        "Neeetu_eth",
         "Neeetu_eth",
         "Neeetu_eth",
         "Neeetu_eth",
@@ -6045,7 +6045,6 @@
       ],
       "yaps_min": [
         27.34,
-        27.34,
         28.95,
         29.66,
         29.8,
@@ -6053,11 +6052,11 @@
         27.34,
         29.8,
         29.8,
-        29.8
+        29.8,
+        27.34
       ],
       "yaps_min_users": [
         "tesla_1000",
-        "tesla_1000",
         "jiao_newlife",
         "jiao_newlife",
         "jiao_newlife",
@@ -6065,13 +6064,14 @@
         "tesla_1000",
         "jiao_newlife",
         "jiao_newlife",
-        "jiao_newlife"
+        "jiao_newlife",
+        "tesla_1000"
       ]
     },
     "30D": {
       "smart_followers_min": [
         11.0,
-        11.0,
+        12.0,
         12.0,
         12.0,
         12.0,
@@ -6083,7 +6083,7 @@
       ],
       "smart_followers_min_users": [
         "Knight22122",
-        "Knight22122",
+        "isturaf",
         "isturaf",
         "isturaf",
         "isturaf",
@@ -6095,7 +6095,6 @@
       ],
       "yaps_min": [
         27.34,
-        27.34,
         28.95,
         29.66,
         29.8,
@@ -6103,11 +6102,11 @@
         27.34,
         29.8,
         29.8,
-        29.8
+        29.8,
+        27.34
       ],
       "yaps_min_users": [
         "tesla_1000",
-        "tesla_1000",
         "jiao_newlife",
         "jiao_newlife",
         "jiao_newlife",
@@ -6115,7 +6114,8 @@
         "tesla_1000",
         "jiao_newlife",
         "jiao_newlife",
-        "jiao_newlife"
+        "jiao_newlife",
+        "tesla_1000"
       ]
     }
   },
@@ -6124,11 +6124,11 @@
       "smart_followers_min": [
         43.0,
         43.0,
-        43.0,
         44.0,
         44.0,
         44.0,
         44.0,
+        45.0,
         45.0,
         45.0,
         45.0
@@ -6147,7 +6147,6 @@
       ],
       "yaps_min": [
         65.22,
-        65.22,
         78.65,
         65.22,
         65.22,
@@ -6155,17 +6154,18 @@
         78.65,
         67.1,
         78.65,
+        78.65,
         78.65
       ],
       "yaps_min_users": [
         "asiel86",
-        "asiel86",
         "GreatZodd",
         "asiel86",
         "asiel86",
         "asiel86",
         "GreatZodd",
         "asiel86",
+        "GreatZodd",
         "GreatZodd",
         "GreatZodd"
       ]
@@ -6197,7 +6197,6 @@
       ],
       "yaps_min": [
         65.22,
-        65.22,
         78.65,
         65.22,
         65.22,
@@ -6205,17 +6204,18 @@
         78.65,
         67.1,
         78.65,
+        78.65,
         78.65
       ],
       "yaps_min_users": [
         "asiel86",
-        "asiel86",
         "GreatZodd",
         "asiel86",
         "asiel86",
         "asiel86",
         "GreatZodd",
         "asiel86",
+        "GreatZodd",
         "GreatZodd",
         "GreatZodd"
       ]
@@ -6248,7 +6248,6 @@
         "Yemiola_eth"
       ],
       "yaps_min": [
-        0.97,
         0.56,
         1.23,
         1.23,
@@ -6257,10 +6256,10 @@
         1.23,
         0.56,
         1.23,
-        5.24
+        5.24,
+        1.23
       ],
       "yaps_min_users": [
-        "Valtkey",
         "web3girlsarah",
         "sontanidonghei",
         "sontanidonghei",
@@ -6269,7 +6268,8 @@
         "sontanidonghei",
         "web3girlsarah",
         "sontanidonghei",
-        "Dalsu112"
+        "Dalsu112",
+        "sontanidonghei"
       ]
     },
     "30D": {
@@ -6298,7 +6298,6 @@
         "Yemiola_eth"
       ],
       "yaps_min": [
-        13.98,
         5.24,
         13.98,
         5.24,
@@ -6307,10 +6306,10 @@
         19.07,
         3.72,
         13.98,
-        5.24
+        5.24,
+        26.08
       ],
       "yaps_min_users": [
-        "Yemiola_eth",
         "Dalsu112",
         "Yemiola_eth",
         "Dalsu112",
@@ -6319,7 +6318,8 @@
         "_oxjayy",
         "D_blue_Sol",
         "Yemiola_eth",
-        "Dalsu112"
+        "Dalsu112",
+        "ElinaWeb3"
       ]
     }
   },
@@ -6334,7 +6334,7 @@
         48.0,
         48.0,
         48.0,
-        48.0,
+        49.0,
         49.0
       ],
       "smart_followers_min_users": [
@@ -6350,10 +6350,10 @@
         "noncesensicalll"
       ],
       "yaps_min": [
-        578.42,
         474.84,
         474.84,
         474.84,
+        324.4,
         324.4,
         324.4,
         324.4,
@@ -6362,10 +6362,10 @@
         324.4
       ],
       "yaps_min_users": [
-        "0xALTF4",
         "NewPaguinfo",
         "NewPaguinfo",
         "NewPaguinfo",
+        "auz2or",
         "auz2or",
         "auz2or",
         "auz2or",
@@ -6384,7 +6384,7 @@
         48.0,
         48.0,
         48.0,
-        48.0,
+        49.0,
         49.0
       ],
       "smart_followers_min_users": [
@@ -6400,10 +6400,10 @@
         "noncesensicalll"
       ],
       "yaps_min": [
-        578.42,
         474.84,
         474.84,
         474.84,
+        324.4,
         324.4,
         324.4,
         324.4,
@@ -6412,10 +6412,10 @@
         324.4
       ],
       "yaps_min_users": [
-        "0xALTF4",
         "NewPaguinfo",
         "NewPaguinfo",
         "NewPaguinfo",
+        "auz2or",
         "auz2or",
         "auz2or",
         "auz2or",
@@ -6429,11 +6429,11 @@
     "7D": {
       "smart_followers_min": [
         8.0,
-        8.0,
         10.0,
         8.0,
         10.0,
         10.0,
+        9.0,
         9.0,
         9.0,
         9.0,
@@ -6441,18 +6441,17 @@
       ],
       "smart_followers_min_users": [
         "77bncvbsdcg",
-        "77bncvbsdcg",
         "depinfluencer",
         "77bncvbsdcg",
         "depinfluencer",
         "depinfluencer",
+        "77bncvbsdcg",
         "77bncvbsdcg",
         "77bncvbsdcg",
         "77bncvbsdcg",
         "77bncvbsdcg"
       ],
       "yaps_min": [
-        37.97,
         0.11,
         37.97,
         0.11,
@@ -6461,10 +6460,10 @@
         37.97,
         38.21,
         39.71,
-        0.15
+        0.15,
+        14.13
       ],
       "yaps_min_users": [
-        "Joepcxc",
         "MahmoudH0110",
         "Joepcxc",
         "MahmoudH0110",
@@ -6473,7 +6472,8 @@
         "Joepcxc",
         "kevin0608x",
         "Joepcxc",
-        "MahmoudH0110"
+        "MahmoudH0110",
+        "depinfluencer"
       ]
     },
     "30D": {
@@ -6502,7 +6502,6 @@
         "depinfluencer"
       ],
       "yaps_min": [
-        37.97,
         13.2,
         37.97,
         14.13,
@@ -6511,10 +6510,10 @@
         37.97,
         16.23,
         39.71,
-        12.88
+        12.88,
+        14.13
       ],
       "yaps_min_users": [
-        "Joepcxc",
         "branovic1i",
         "Joepcxc",
         "depinfluencer",
@@ -6523,38 +6522,38 @@
         "Joepcxc",
         "Cryptobkjack",
         "Joepcxc",
-        "peaq_james"
+        "peaq_james",
+        "depinfluencer"
       ]
     }
   },
   "pengu": {
     "7D": {
       "smart_followers_min": [
-        17.0,
         21.0,
         21.0,
         21.0,
         21.0,
         21.0,
         21.0,
+        18.0,
         18.0,
         18.0,
         18.0
       ],
       "smart_followers_min_users": [
-        "TheBadBillyGoat",
         "DeanRossouw3",
         "DeanRossouw3",
         "DeanRossouw3",
         "DeanRossouw3",
         "DeanRossouw3",
         "DeanRossouw3",
+        "Zoloto231",
         "Zoloto231",
         "Zoloto231",
         "Zoloto231"
       ],
       "yaps_min": [
-        453.09,
         5.85,
         293.66,
         293.66,
@@ -6563,10 +6562,10 @@
         353.79,
         353.79,
         353.93,
-        290.0
+        290.0,
+        308.19
       ],
       "yaps_min_users": [
-        "metabloxx",
         "vincent_pp4806",
         "Gogogonum",
         "Gogogonum",
@@ -6575,7 +6574,8 @@
         "DrEinstein9999",
         "DrEinstein9999",
         "DrEinstein9999",
-        "tradesgiving"
+        "tradesgiving",
+        "ElCryptoDoc"
       ]
     },
     "30D": {
@@ -6604,7 +6604,6 @@
         "0xScott30"
       ],
       "yaps_min": [
-        669.65,
         107.87,
         357.62,
         358.15,
@@ -6613,10 +6612,10 @@
         362.53,
         362.97,
         670.59,
-        860.81
+        860.81,
+        672.79
       ],
       "yaps_min_users": [
-        "shotguncaio",
         "naskaaeth",
         "youngsunlive",
         "youngsunlive",
@@ -6625,14 +6624,15 @@
         "youngsunlive",
         "youngsunlive",
         "shotguncaio",
-        "sauciii__"
+        "sauciii__",
+        "shotguncaio"
       ]
     }
   },
   "playai": {
     "7D": {
       "smart_followers_min": [
-        2.0,
+        3.0,
         3.0,
         3.0,
         3.0,
@@ -6644,7 +6644,7 @@
         3.0
       ],
       "smart_followers_min_users": [
-        "KulupYT",
+        "Crypto_Matka",
         "Crypto_Matka",
         "Crypto_Matka",
         "Crypto_Matka",
@@ -6656,7 +6656,6 @@
         "Crypto_Matka"
       ],
       "yaps_min": [
-        0.48,
         3.49,
         1.27,
         11.0,
@@ -6665,10 +6664,10 @@
         1.27,
         1.27,
         1.27,
-        12.45
+        12.45,
+        1.27
       ],
       "yaps_min_users": [
-        "KulupYT",
         "CocopopzFTW",
         "Badcrypt1",
         "Smile_6922",
@@ -6677,14 +6676,15 @@
         "Badcrypt1",
         "Badcrypt1",
         "Badcrypt1",
-        "Amu6669"
+        "Amu6669",
+        "Badcrypt1"
       ]
     },
     "30D": {
       "smart_followers_min": [
         2.0,
         2.0,
-        2.0,
+        5.0,
         5.0,
         5.0,
         5.0,
@@ -6696,7 +6696,7 @@
       "smart_followers_min_users": [
         "CrazeDave2",
         "CrazeDave2",
-        "CrazeDave2",
+        "Fierce_vek3",
         "Fierce_vek3",
         "Fierce_vek3",
         "Fierce_vek3",
@@ -6706,7 +6706,6 @@
         "Fierce_vek3"
       ],
       "yaps_min": [
-        1.27,
         10.94,
         1.27,
         11.54,
@@ -6715,10 +6714,10 @@
         1.27,
         1.27,
         1.27,
-        11.54
+        11.54,
+        1.27
       ],
       "yaps_min_users": [
-        "Badcrypt1",
         "acrypto560",
         "Badcrypt1",
         "hilariousghost",
@@ -6727,16 +6726,17 @@
         "Badcrypt1",
         "Badcrypt1",
         "Badcrypt1",
-        "hilariousghost"
+        "hilariousghost",
+        "Badcrypt1"
       ]
     }
   },
   "polkadot": {
     "7D": {
       "smart_followers_min": [
+        57.0,
+        57.0,
         46.0,
-        57.0,
-        57.0,
         46.0,
         46.0,
         46.0,
@@ -6746,9 +6746,9 @@
         46.0
       ],
       "smart_followers_min_users": [
+        "ET90266",
+        "ET90266",
         "danicuki",
-        "ET90266",
-        "ET90266",
         "danicuki",
         "danicuki",
         "danicuki",
@@ -6758,7 +6758,6 @@
         "danicuki"
       ],
       "yaps_min": [
-        138.81,
         141.73,
         141.73,
         141.73,
@@ -6767,6 +6766,7 @@
         141.73,
         326.22,
         141.73,
+        141.73,
         141.73
       ],
       "yaps_min_users": [
@@ -6774,10 +6774,10 @@
         "doodlely213",
         "doodlely213",
         "doodlely213",
-        "doodlely213",
         "danicuki",
         "doodlely213",
         "DeFiDecoder_",
+        "doodlely213",
         "doodlely213",
         "doodlely213"
       ]
@@ -6808,7 +6808,6 @@
         "KarimJDDA"
       ],
       "yaps_min": [
-        138.81,
         141.73,
         141.73,
         141.73,
@@ -6817,6 +6816,7 @@
         141.73,
         326.22,
         141.73,
+        141.73,
         141.73
       ],
       "yaps_min_users": [
@@ -6824,10 +6824,10 @@
         "doodlely213",
         "doodlely213",
         "doodlely213",
-        "doodlely213",
         "danicuki",
         "doodlely213",
         "DeFiDecoder_",
+        "doodlely213",
         "doodlely213",
         "doodlely213"
       ]
@@ -6839,12 +6839,12 @@
         36.0,
         36.0,
         36.0,
-        36.0,
         37.0,
         37.0,
         38.0,
         39.0,
         38.0,
+        39.0,
         39.0
       ],
       "smart_followers_min_users": [
@@ -6860,7 +6860,6 @@
         "rudolphhh2000"
       ],
       "yaps_min": [
-        186.08,
         206.51,
         195.47,
         172.55,
@@ -6869,10 +6868,10 @@
         197.16,
         172.69,
         197.16,
-        172.69
+        172.69,
+        197.16
       ],
       "yaps_min_users": [
-        "rakermoon89",
         "rudolphhh2000",
         "rakermoon89",
         "xFactorPOL",
@@ -6881,26 +6880,27 @@
         "rakermoon89",
         "xFactorPOL",
         "rakermoon89",
-        "xFactorPOL"
+        "xFactorPOL",
+        "rakermoon89"
       ]
     },
     "30D": {
       "smart_followers_min": [
         58.0,
         58.0,
-        58.0,
         68.0,
         68.0,
         68.0,
         67.0,
         67.0,
         67.0,
+        68.0,
         68.0
       ],
       "smart_followers_min_users": [
         "etrouble562",
         "etrouble562",
-        "etrouble562",
+        "rtk17025",
         "rtk17025",
         "rtk17025",
         "rtk17025",
@@ -6910,7 +6910,6 @@
         "rtk17025"
       ],
       "yaps_min": [
-        186.08,
         351.05,
         195.47,
         196.67,
@@ -6919,10 +6918,10 @@
         197.16,
         177.16,
         197.16,
-        177.16
+        177.16,
+        197.16
       ],
       "yaps_min_users": [
-        "rakermoon89",
         "namnin_kr",
         "rakermoon89",
         "rakermoon89",
@@ -6931,7 +6930,8 @@
         "rakermoon89",
         "Plaxtico_",
         "rakermoon89",
-        "Plaxtico_"
+        "Plaxtico_",
+        "rakermoon89"
       ]
     }
   },
@@ -6962,7 +6962,6 @@
         "yardinho2"
       ],
       "yaps_min": [
-        1.57,
         0.38,
         1.17,
         0.48,
@@ -6971,10 +6970,10 @@
         0.48,
         0.13,
         3.86,
-        0.48
+        0.48,
+        1.17
       ],
       "yaps_min_users": [
-        "cryptounive_rse",
         "Chinsidaweb3",
         "zxcpm_wallet",
         "Crypto_S3th",
@@ -6983,7 +6982,8 @@
         "Crypto_S3th",
         "98_jebin",
         "choi_bn",
-        "Crypto_S3th"
+        "Crypto_S3th",
+        "zxcpm_wallet"
       ]
     },
     "30D": {
@@ -7012,7 +7012,6 @@
         "Gup45519Gupta"
       ],
       "yaps_min": [
-        3.97,
         0.38,
         1.17,
         0.48,
@@ -7021,10 +7020,10 @@
         0.48,
         0.48,
         3.86,
-        0.48
+        0.48,
+        1.17
       ],
       "yaps_min_users": [
-        "KingOfGma",
         "Chinsidaweb3",
         "zxcpm_wallet",
         "Crypto_S3th",
@@ -7033,7 +7032,8 @@
         "Crypto_S3th",
         "Crypto_S3th",
         "choi_bn",
-        "Crypto_S3th"
+        "Crypto_S3th",
+        "zxcpm_wallet"
       ]
     }
   },
@@ -7072,8 +7072,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        66.53
+        66.53,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -7084,8 +7084,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "COmang___"
+        "COmang___",
+        "sontanidonghei"
       ]
     },
     "30D": {
@@ -7122,8 +7122,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        66.53
+        66.53,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -7134,8 +7134,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "COmang___"
+        "COmang___",
+        "sontanidonghei"
       ]
     }
   },
@@ -7145,16 +7145,15 @@
         23.0,
         23.0,
         23.0,
-        23.0,
         71.0,
         71.0,
         71.0,
         71.0,
         58.0,
+        58.0,
         58.0
       ],
       "smart_followers_min_users": [
-        "bats4",
         "bats4",
         "bats4",
         "bats4",
@@ -7163,10 +7162,10 @@
         "hopheycaptain",
         "hopheycaptain",
         "huysuthat",
+        "huysuthat",
         "huysuthat"
       ],
       "yaps_min": [
-        138.81,
         103.51,
         103.51,
         103.51,
@@ -7175,10 +7174,11 @@
         103.75,
         103.82,
         103.82,
+        103.82,
         103.82
       ],
       "yaps_min_users": [
-        "doodlely213",
+        "firemrkim",
         "firemrkim",
         "firemrkim",
         "firemrkim",
@@ -7216,7 +7216,6 @@
         "bats4"
       ],
       "yaps_min": [
-        359.71,
         103.51,
         103.51,
         103.51,
@@ -7225,10 +7224,11 @@
         103.75,
         103.82,
         103.82,
+        103.82,
         103.82
       ],
       "yaps_min_users": [
-        "IamAqsaShaikh",
+        "firemrkim",
         "firemrkim",
         "firemrkim",
         "firemrkim",
@@ -7271,22 +7271,22 @@
         415.02,
         415.02,
         415.02,
-        415.02,
         1341.55,
         416.77,
         142.95,
         420.47,
         420.47,
+        439.71,
         439.71
       ],
       "yaps_min_users": [
         "hashcoin0",
         "hashcoin0",
         "hashcoin0",
-        "hashcoin0",
         "0xalank",
         "hashcoin0",
         "ChristopherNFGG",
+        "hashcoin0",
         "hashcoin0",
         "hashcoin0",
         "hashcoin0"
@@ -7318,7 +7318,6 @@
         "HemantVajaria"
       ],
       "yaps_min": [
-        142.95,
         234.89,
         234.89,
         234.89,
@@ -7327,10 +7326,10 @@
         234.89,
         439.71,
         234.89,
+        234.89,
         234.89
       ],
       "yaps_min_users": [
-        "ChristopherNFGG",
         "egoegodifi",
         "egoegodifi",
         "egoegodifi",
@@ -7338,6 +7337,7 @@
         "egoegodifi",
         "egoegodifi",
         "hashcoin0",
+        "egoegodifi",
         "egoegodifi",
         "egoegodifi"
       ]
@@ -7370,7 +7370,6 @@
         "captain_kent"
       ],
       "yaps_min": [
-        230.48,
         230.49,
         230.49,
         230.49,
@@ -7379,10 +7378,10 @@
         262.94,
         230.72,
         392.79,
-        265.98
+        265.98,
+        211.37
       ],
       "yaps_min_users": [
-        "timbro_bro",
         "timbro_bro",
         "timbro_bro",
         "timbro_bro",
@@ -7391,7 +7390,8 @@
         "ZhanweiC",
         "timbro_bro",
         "captain_kent",
-        "ZhanweiC"
+        "ZhanweiC",
+        "zuri_nft"
       ]
     },
     "30D": {
@@ -7403,7 +7403,7 @@
         87.0,
         87.0,
         87.0,
-        87.0,
+        83.0,
         83.0,
         83.0
       ],
@@ -7415,12 +7415,11 @@
         "captain_kent",
         "captain_kent",
         "captain_kent",
-        "captain_kent",
+        "liquidudor",
         "liquidudor",
         "liquidudor"
       ],
       "yaps_min": [
-        230.48,
         230.49,
         230.49,
         230.49,
@@ -7428,6 +7427,7 @@
         230.52,
         262.94,
         230.72,
+        106.21,
         106.21,
         106.21
       ],
@@ -7437,9 +7437,9 @@
         "timbro_bro",
         "timbro_bro",
         "timbro_bro",
-        "timbro_bro",
         "ZhanweiC",
         "timbro_bro",
+        "liquidudor",
         "liquidudor",
         "liquidudor"
       ]
@@ -7472,7 +7472,6 @@
         "signtheverse"
       ],
       "yaps_min": [
-        111.65,
         77.88,
         113.54,
         114.34,
@@ -7481,11 +7480,12 @@
         126.87,
         128.29,
         128.29,
+        128.29,
         128.29
       ],
       "yaps_min_users": [
-        "2_bp19",
         "KkultongY64109",
+        "2_bp19",
         "2_bp19",
         "2_bp19",
         "2_bp19",
@@ -7522,13 +7522,13 @@
         "signtheverse"
       ],
       "yaps_min": [
-        111.65,
         112.07,
         113.54,
         114.34,
         116.27,
         122.37,
         126.87,
+        128.29,
         128.29,
         128.29,
         128.29
@@ -7551,7 +7551,6 @@
     "7D": {
       "smart_followers_min": [
         40.0,
-        40.0,
         41.0,
         41.0,
         41.0,
@@ -7559,7 +7558,8 @@
         41.0,
         41.0,
         50.0,
-        50.0
+        50.0,
+        39.0
       ],
       "smart_followers_min_users": [
         "pendingbilonia",
@@ -7569,18 +7569,18 @@
         "pendingbilonia",
         "pendingbilonia",
         "pendingbilonia",
-        "pendingbilonia",
         "Berry_Sooll",
-        "Berry_Sooll"
+        "Berry_Sooll",
+        "obsrvgmi"
       ],
       "yaps_min": [
-        111.65,
         112.07,
         113.54,
         114.34,
         116.27,
         122.37,
         126.87,
+        128.29,
         128.29,
         128.29,
         128.29
@@ -7601,13 +7601,13 @@
     "30D": {
       "smart_followers_min": [
         38.0,
-        38.0,
         39.0,
         39.0,
         39.0,
         41.0,
         41.0,
         29.0,
+        31.0,
         31.0,
         31.0
       ],
@@ -7616,15 +7616,14 @@
         "obsrvgmi",
         "obsrvgmi",
         "obsrvgmi",
-        "obsrvgmi",
         "pendingbilonia",
         "pendingbilonia",
+        "CEORAEES",
         "CEORAEES",
         "CEORAEES",
         "CEORAEES"
       ],
       "yaps_min": [
-        111.65,
         100.77,
         113.54,
         114.34,
@@ -7633,10 +7632,10 @@
         200.46,
         200.46,
         200.46,
-        111.31
+        111.31,
+        113.61
       ],
       "yaps_min_users": [
-        "2_bp19",
         "coinboy717",
         "2_bp19",
         "2_bp19",
@@ -7645,6 +7644,7 @@
         "ausbro80",
         "ausbro80",
         "ausbro80",
+        "coinboy717",
         "coinboy717"
       ]
     }
@@ -7684,8 +7684,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        25.57
+        25.57,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -7696,8 +7696,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "yeonuk87"
+        "yeonuk87",
+        "sontanidonghei"
       ]
     },
     "30D": {
@@ -7734,8 +7734,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        62.93
+        62.93,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -7746,8 +7746,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "shl3376"
+        "shl3376",
+        "sontanidonghei"
       ]
     }
   },
@@ -7778,7 +7778,6 @@
         "CobraDecipher"
       ],
       "yaps_min": [
-        38.34,
         38.37,
         38.37,
         38.37,
@@ -7787,7 +7786,8 @@
         38.37,
         57.11,
         57.11,
-        40.17
+        40.17,
+        66.55
       ],
       "yaps_min_users": [
         "baggyudong78463",
@@ -7796,10 +7796,10 @@
         "baggyudong78463",
         "baggyudong78463",
         "baggyudong78463",
+        "OsorryKor",
+        "OsorryKor",
         "baggyudong78463",
-        "OsorryKor",
-        "OsorryKor",
-        "baggyudong78463"
+        "COmang___"
       ]
     },
     "30D": {
@@ -7828,7 +7828,6 @@
         "CobraDecipher"
       ],
       "yaps_min": [
-        38.34,
         38.37,
         38.37,
         38.37,
@@ -7837,7 +7836,8 @@
         38.37,
         66.46,
         66.46,
-        40.17
+        40.17,
+        66.55
       ],
       "yaps_min_users": [
         "baggyudong78463",
@@ -7846,10 +7846,10 @@
         "baggyudong78463",
         "baggyudong78463",
         "baggyudong78463",
+        "COmang___",
+        "COmang___",
         "baggyudong78463",
-        "COmang___",
-        "COmang___",
-        "baggyudong78463"
+        "COmang___"
       ]
     }
   },
@@ -7865,7 +7865,7 @@
         42.0,
         42.0,
         42.0,
-        42.0
+        48.0
       ],
       "smart_followers_min_users": [
         "Emma_Odia",
@@ -7877,10 +7877,9 @@
         "Emma_Odia",
         "Emma_Odia",
         "Emma_Odia",
-        "Emma_Odia"
+        "_HeyZing"
       ],
       "yaps_min": [
-        148.3,
         141.73,
         141.73,
         141.73,
@@ -7889,10 +7888,10 @@
         141.73,
         146.51,
         141.73,
-        2.39
+        2.39,
+        141.73
       ],
       "yaps_min_users": [
-        "ramztd",
         "doodlely213",
         "doodlely213",
         "doodlely213",
@@ -7901,7 +7900,8 @@
         "doodlely213",
         "WEB3_TREE",
         "doodlely213",
-        "aleksamil_"
+        "aleksamil_",
+        "doodlely213"
       ]
     },
     "30D": {
@@ -7930,7 +7930,6 @@
         "Emma_Odia"
       ],
       "yaps_min": [
-        121.3,
         134.75,
         134.75,
         134.75,
@@ -7939,10 +7938,10 @@
         134.75,
         134.75,
         134.75,
-        2.39
+        2.39,
+        134.75
       ],
       "yaps_min_users": [
-        "jundeu00",
         "0xCrocy",
         "0xCrocy",
         "0xCrocy",
@@ -7951,7 +7950,8 @@
         "0xCrocy",
         "0xCrocy",
         "0xCrocy",
-        "aleksamil_"
+        "aleksamil_",
+        "0xCrocy"
       ]
     }
   },
@@ -7959,30 +7959,29 @@
     "7D": {
       "smart_followers_min": [
         2.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
         2.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
         2.0,
         2.0,
         2.0
       ],
       "smart_followers_min_users": [
         "iKILZ80",
-        "iKILZ80",
         "itsAkz_",
         "itsAkz_",
         "itsAkz_",
         "itsAkz_",
         "itsAkz_",
+        "SavvyGirl2004",
         "SavvyGirl2004",
         "SavvyGirl2004",
         "SavvyGirl2004"
       ],
       "yaps_min": [
-        1.08,
         1.08,
         12.0,
         11.87,
@@ -7991,10 +7990,10 @@
         12.0,
         4.13,
         12.0,
+        3.8,
         3.8
       ],
       "yaps_min_users": [
-        "dldusrjf12",
         "dldusrjf12",
         "donggu_1",
         "Mint01333",
@@ -8003,6 +8002,7 @@
         "donggu_1",
         "acryptoniano",
         "donggu_1",
+        "dldusrjf12",
         "dldusrjf12"
       ]
     },
@@ -8011,8 +8011,8 @@
         2.0,
         2.0,
         2.0,
-        2.0,
         3.0,
+        2.0,
         2.0,
         2.0,
         2.0,
@@ -8023,8 +8023,8 @@
         "SavvyGirl2004",
         "SavvyGirl2004",
         "SavvyGirl2004",
-        "SavvyGirl2004",
         "itsAkz_",
+        "SavvyGirl2004",
         "SavvyGirl2004",
         "SavvyGirl2004",
         "SavvyGirl2004",
@@ -8032,7 +8032,6 @@
         "SavvyGirl2004"
       ],
       "yaps_min": [
-        12.0,
         4.13,
         11.91,
         11.91,
@@ -8040,11 +8039,11 @@
         12.0,
         12.0,
         4.13,
+        12.0,
         12.0,
         12.0
       ],
       "yaps_min_users": [
-        "donggu_1",
         "acryptoniano",
         "mrdejie",
         "mrdejie",
@@ -8052,6 +8051,7 @@
         "donggu_1",
         "donggu_1",
         "acryptoniano",
+        "donggu_1",
         "donggu_1",
         "donggu_1"
       ]
@@ -8060,7 +8060,7 @@
   "soon": {
     "7D": {
       "smart_followers_min": [
-        51.0,
+        55.0,
         55.0,
         55.0,
         55.0,
@@ -8072,7 +8072,7 @@
         55.0
       ],
       "smart_followers_min_users": [
-        "Intoxicated_Ki",
+        "0xChine",
         "0xChine",
         "0xChine",
         "0xChine",
@@ -8092,8 +8092,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        247.58
+        247.58,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -8104,13 +8104,13 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "flyiiawei"
+        "flyiiawei",
+        "sontanidonghei"
       ]
     },
     "30D": {
       "smart_followers_min": [
-        26.0,
+        55.0,
         55.0,
         55.0,
         55.0,
@@ -8122,7 +8122,7 @@
         55.0
       ],
       "smart_followers_min_users": [
-        "wojack_x",
+        "0xChine",
         "0xChine",
         "0xChine",
         "0xChine",
@@ -8142,8 +8142,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        134.97
+        134.97,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -8154,8 +8154,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "subijjjang"
+        "subijjjang",
+        "sontanidonghei"
       ]
     }
   },
@@ -8186,7 +8186,6 @@
         "yank_est"
       ],
       "yaps_min": [
-        314.35,
         290.0,
         316.29,
         317.18,
@@ -8195,10 +8194,10 @@
         321.45,
         322.5,
         323.44,
-        290.0
+        290.0,
+        325.29
       ],
       "yaps_min_users": [
-        "periagoge1",
         "tradesgiving",
         "periagoge1",
         "periagoge1",
@@ -8207,7 +8206,8 @@
         "periagoge1",
         "periagoge1",
         "periagoge1",
-        "tradesgiving"
+        "tradesgiving",
+        "periagoge1"
       ]
     },
     "30D": {
@@ -8218,7 +8218,7 @@
         27.0,
         27.0,
         27.0,
-        27.0,
+        28.0,
         28.0,
         28.0,
         28.0
@@ -8236,7 +8236,6 @@
         "DinoMaxZK"
       ],
       "yaps_min": [
-        762.02,
         405.24,
         762.02,
         405.24,
@@ -8245,10 +8244,10 @@
         409.94,
         557.15,
         557.77,
+        410.44,
         410.44
       ],
       "yaps_min_users": [
-        "0xGrimjow",
         "investingsadhu",
         "0xGrimjow",
         "investingsadhu",
@@ -8257,6 +8256,7 @@
         "investingsadhu",
         "hedacool",
         "hedacool",
+        "investingsadhu",
         "investingsadhu"
       ]
     }
@@ -8269,7 +8269,7 @@
         5.0,
         5.0,
         5.0,
-        5.0,
+        3.0,
         3.0,
         3.0,
         3.0,
@@ -8281,14 +8281,13 @@
         "hashedmystic",
         "hashedmystic",
         "hashedmystic",
-        "hashedmystic",
+        "otunbadewa",
         "otunbadewa",
         "otunbadewa",
         "otunbadewa",
         "otunbadewa"
       ],
       "yaps_min": [
-        58.94,
         59.01,
         59.07,
         60.14,
@@ -8297,7 +8296,8 @@
         63.51,
         64.54,
         104.26,
-        65.15
+        65.15,
+        65.65
       ],
       "yaps_min_users": [
         "nftsiy",
@@ -8307,8 +8307,8 @@
         "nftsiy",
         "nftsiy",
         "nftsiy",
-        "nftsiy",
         "0xElowen",
+        "nftsiy",
         "nftsiy"
       ]
     },
@@ -8319,7 +8319,7 @@
         5.0,
         5.0,
         5.0,
-        5.0,
+        3.0,
         3.0,
         3.0,
         3.0,
@@ -8331,14 +8331,13 @@
         "hashedmystic",
         "hashedmystic",
         "hashedmystic",
-        "hashedmystic",
+        "otunbadewa",
         "otunbadewa",
         "otunbadewa",
         "otunbadewa",
         "otunbadewa"
       ],
       "yaps_min": [
-        58.94,
         59.01,
         59.07,
         60.14,
@@ -8347,7 +8346,8 @@
         63.51,
         64.54,
         104.26,
-        65.15
+        65.15,
+        65.65
       ],
       "yaps_min_users": [
         "nftsiy",
@@ -8357,8 +8357,8 @@
         "nftsiy",
         "nftsiy",
         "nftsiy",
-        "nftsiy",
         "0xElowen",
+        "nftsiy",
         "nftsiy"
       ]
     }
@@ -8390,7 +8390,6 @@
         "fantxu13637"
       ],
       "yaps_min": [
-        138.81,
         60.82,
         141.73,
         60.82,
@@ -8399,10 +8398,10 @@
         61.43,
         61.43,
         226.9,
-        155.15
+        155.15,
+        68.62
       ],
       "yaps_min_users": [
-        "doodlely213",
         "Node_Park",
         "doodlely213",
         "Node_Park",
@@ -8411,19 +8410,20 @@
         "Node_Park",
         "Node_Park",
         "egyptk6",
-        "Crypto1Marine"
+        "Crypto1Marine",
+        "Node_Park"
       ]
     },
     "30D": {
       "smart_followers_min": [
         27.0,
-        27.0,
         28.0,
         28.0,
         28.0,
         29.0,
         29.0,
         29.0,
+        30.0,
         30.0,
         30.0
       ],
@@ -8440,7 +8440,6 @@
         "fantxu13637"
       ],
       "yaps_min": [
-        138.81,
         60.82,
         141.73,
         60.82,
@@ -8449,10 +8448,10 @@
         61.43,
         61.43,
         141.73,
-        141.73
+        141.73,
+        68.62
       ],
       "yaps_min_users": [
-        "doodlely213",
         "Node_Park",
         "doodlely213",
         "Node_Park",
@@ -8461,7 +8460,8 @@
         "Node_Park",
         "Node_Park",
         "doodlely213",
-        "doodlely213"
+        "doodlely213",
+        "Node_Park"
       ]
     }
   },
@@ -8492,7 +8492,7 @@
         "jeansonlau"
       ],
       "yaps_min": [
-        394.04,
+        78.65,
         78.65,
         78.65,
         78.65,
@@ -8504,7 +8504,7 @@
         78.65
       ],
       "yaps_min_users": [
-        "seongmoolee",
+        "GreatZodd",
         "GreatZodd",
         "GreatZodd",
         "GreatZodd",
@@ -8542,7 +8542,7 @@
         "jeansonlau"
       ],
       "yaps_min": [
-        156.06,
+        78.65,
         78.65,
         78.65,
         78.65,
@@ -8554,7 +8554,7 @@
         78.65
       ],
       "yaps_min_users": [
-        "ksssoon",
+        "GreatZodd",
         "GreatZodd",
         "GreatZodd",
         "GreatZodd",
@@ -8594,7 +8594,6 @@
         "amigooo777"
       ],
       "yaps_min": [
-        138.81,
         141.73,
         141.73,
         141.73,
@@ -8602,6 +8601,7 @@
         141.73,
         141.73,
         156.06,
+        141.73,
         141.73,
         141.73
       ],
@@ -8612,8 +8612,8 @@
         "doodlely213",
         "doodlely213",
         "doodlely213",
-        "doodlely213",
         "ksssoon",
+        "doodlely213",
         "doodlely213",
         "doodlely213"
       ]
@@ -8644,7 +8644,6 @@
         "amigooo777"
       ],
       "yaps_min": [
-        138.81,
         141.73,
         141.73,
         141.73,
@@ -8653,10 +8652,10 @@
         324.4,
         230.72,
         213.92,
-        214.7
+        214.7,
+        215.18
       ],
       "yaps_min_users": [
-        "doodlely213",
         "doodlely213",
         "doodlely213",
         "doodlely213",
@@ -8665,6 +8664,7 @@
         "auz2or",
         "timbro_bro",
         "gushanjishui",
+        "gushanjishui",
         "gushanjishui"
       ]
     }
@@ -8672,31 +8672,30 @@
   "surf": {
     "7D": {
       "smart_followers_min": [
-        8.0,
         10.0,
         10.0,
         10.0,
         11.0,
         11.0,
+        18.0,
         18.0,
         18.0,
         18.0,
         18.0
       ],
       "smart_followers_min_users": [
-        "zhumeifu3",
         "Ember_web3",
         "Ember_web3",
         "Ember_web3",
         "_JayCT",
         "_JayCT",
+        "vincentjuan0507",
         "vincentjuan0507",
         "vincentjuan0507",
         "vincentjuan0507",
         "vincentjuan0507"
       ],
       "yaps_min": [
-        61.27,
         60.82,
         61.42,
         2.74,
@@ -8705,10 +8704,10 @@
         61.42,
         57.43,
         62.78,
-        62.93
+        62.93,
+        41.27
       ],
       "yaps_min_users": [
-        "shl3376",
         "Node_Park",
         "shl3376",
         "_JayCT",
@@ -8717,12 +8716,13 @@
         "shl3376",
         "coldbellp",
         "shl3376",
-        "shl3376"
+        "shl3376",
+        "dimqtdl"
       ]
     },
     "30D": {
       "smart_followers_min": [
-        10.0,
+        11.0,
         11.0,
         11.0,
         11.0,
@@ -8734,7 +8734,7 @@
         11.0
       ],
       "smart_followers_min_users": [
-        "Ember_web3",
+        "_JayCT",
         "_JayCT",
         "_JayCT",
         "_JayCT",
@@ -8746,7 +8746,6 @@
         "_JayCT"
       ],
       "yaps_min": [
-        46.53,
         46.67,
         46.67,
         2.74,
@@ -8755,10 +8754,10 @@
         2.74,
         2.74,
         62.78,
+        2.74,
         2.74
       ],
       "yaps_min_users": [
-        "jungsama1101",
         "jungsama1101",
         "jungsama1101",
         "_JayCT",
@@ -8767,6 +8766,7 @@
         "_JayCT",
         "_JayCT",
         "shl3376",
+        "_JayCT",
         "_JayCT"
       ]
     }
@@ -8798,7 +8798,6 @@
         "mozartcadence"
       ],
       "yaps_min": [
-        55.75,
         25.62,
         55.75,
         113.64,
@@ -8807,10 +8806,10 @@
         55.75,
         55.75,
         55.75,
-        113.97
+        113.97,
+        68.46
       ],
       "yaps_min_users": [
-        "01solo01",
         "ChopinCadence",
         "01solo01",
         "semiko8585",
@@ -8819,7 +8818,8 @@
         "01solo01",
         "01solo01",
         "01solo01",
-        "semiko8585"
+        "semiko8585",
+        "Shin96004785"
       ]
     },
     "30D": {
@@ -8827,7 +8827,7 @@
         11.0,
         11.0,
         11.0,
-        11.0,
+        39.0,
         39.0,
         39.0,
         39.0,
@@ -8839,7 +8839,7 @@
         "Knight22122",
         "Knight22122",
         "Knight22122",
-        "Knight22122",
+        "mozartcadence",
         "mozartcadence",
         "mozartcadence",
         "mozartcadence",
@@ -8848,7 +8848,6 @@
         "mozartcadence"
       ],
       "yaps_min": [
-        55.75,
         25.62,
         55.75,
         110.53,
@@ -8857,10 +8856,10 @@
         55.75,
         55.75,
         55.75,
-        113.97
+        113.97,
+        68.46
       ],
       "yaps_min_users": [
-        "01solo01",
         "ChopinCadence",
         "01solo01",
         "Knight22122",
@@ -8869,7 +8868,8 @@
         "01solo01",
         "01solo01",
         "01solo01",
-        "semiko8585"
+        "semiko8585",
+        "Shin96004785"
       ]
     }
   },
@@ -8879,11 +8879,11 @@
         31.0,
         31.0,
         31.0,
-        31.0,
         25.0,
         25.0,
         25.0,
         25.0,
+        26.0,
         26.0,
         26.0
       ],
@@ -8891,7 +8891,7 @@
         "jeansonlau",
         "jeansonlau",
         "jeansonlau",
-        "jeansonlau",
+        "defikadic",
         "defikadic",
         "defikadic",
         "defikadic",
@@ -8927,13 +8927,13 @@
     "30D": {
       "smart_followers_min": [
         24.0,
-        24.0,
         25.0,
         25.0,
         25.0,
         25.0,
         25.0,
         25.0,
+        26.0,
         26.0,
         26.0
       ],
@@ -8950,7 +8950,6 @@
         "defikadic"
       ],
       "yaps_min": [
-        78.65,
         65.22,
         78.65,
         65.22,
@@ -8959,10 +8958,10 @@
         78.65,
         67.1,
         78.65,
+        78.65,
         78.65
       ],
       "yaps_min_users": [
-        "GreatZodd",
         "asiel86",
         "GreatZodd",
         "asiel86",
@@ -8970,6 +8969,7 @@
         "asiel86",
         "GreatZodd",
         "asiel86",
+        "GreatZodd",
         "GreatZodd",
         "GreatZodd"
       ]
@@ -9002,7 +9002,6 @@
         "JaphetzCruzz"
       ],
       "yaps_min": [
-        108.48,
         134.32,
         134.32,
         108.48,
@@ -9011,10 +9010,10 @@
         108.48,
         108.48,
         108.49,
-        148.72
+        148.72,
+        108.5
       ],
       "yaps_min_users": [
-        "JaphetzCruzz",
         "solace_okere",
         "solace_okere",
         "JaphetzCruzz",
@@ -9023,7 +9022,8 @@
         "JaphetzCruzz",
         "JaphetzCruzz",
         "JaphetzCruzz",
-        "heroman0x"
+        "heroman0x",
+        "JaphetzCruzz"
       ]
     },
     "30D": {
@@ -9052,7 +9052,6 @@
         "JaphetzCruzz"
       ],
       "yaps_min": [
-        108.48,
         134.32,
         134.32,
         108.48,
@@ -9061,10 +9060,10 @@
         108.48,
         108.48,
         108.49,
-        148.72
+        148.72,
+        108.5
       ],
       "yaps_min_users": [
-        "JaphetzCruzz",
         "solace_okere",
         "solace_okere",
         "JaphetzCruzz",
@@ -9073,7 +9072,8 @@
         "JaphetzCruzz",
         "JaphetzCruzz",
         "JaphetzCruzz",
-        "heroman0x"
+        "heroman0x",
+        "JaphetzCruzz"
       ]
     }
   },
@@ -9104,7 +9104,6 @@
         "0z1_x"
       ],
       "yaps_min": [
-        4.83,
         63.59,
         63.59,
         63.59,
@@ -9113,10 +9112,10 @@
         63.59,
         63.59,
         63.59,
-        50.69
+        50.69,
+        4.83
       ],
       "yaps_min_users": [
-        "0z1_x",
         "he3is_",
         "he3is_",
         "he3is_",
@@ -9125,7 +9124,8 @@
         "he3is_",
         "he3is_",
         "he3is_",
-        "Fijacyber_"
+        "Fijacyber_",
+        "0z1_x"
       ]
     },
     "30D": {
@@ -9154,7 +9154,6 @@
         "0z1_x"
       ],
       "yaps_min": [
-        4.83,
         63.59,
         63.59,
         63.59,
@@ -9163,10 +9162,10 @@
         63.59,
         63.59,
         63.59,
-        50.69
+        50.69,
+        4.83
       ],
       "yaps_min_users": [
-        "0z1_x",
         "he3is_",
         "he3is_",
         "he3is_",
@@ -9175,7 +9174,8 @@
         "he3is_",
         "he3is_",
         "he3is_",
-        "Fijacyber_"
+        "Fijacyber_",
+        "0z1_x"
       ]
     }
   },
@@ -9206,7 +9206,6 @@
         "wspugh01"
       ],
       "yaps_min": [
-        352.52,
         214.91,
         292.21,
         215.28,
@@ -9215,10 +9214,10 @@
         290.47,
         215.76,
         290.47,
+        215.76,
         215.76
       ],
       "yaps_min_users": [
-        "ix_wilson",
         "keenn_eth",
         "web3wikis",
         "keenn_eth",
@@ -9227,6 +9226,7 @@
         "wspugh01",
         "keenn_eth",
         "wspugh01",
+        "keenn_eth",
         "keenn_eth"
       ]
     },
@@ -9257,7 +9257,6 @@
       ],
       "yaps_min": [
         65.22,
-        65.22,
         211.99,
         65.22,
         65.22,
@@ -9265,10 +9264,10 @@
         106.96,
         67.1,
         106.96,
-        214.55
+        214.55,
+        215.76
       ],
       "yaps_min_users": [
-        "asiel86",
         "asiel86",
         "SaulWgmi",
         "asiel86",
@@ -9277,18 +9276,19 @@
         "DavyCryptoJones",
         "asiel86",
         "DavyCryptoJones",
-        "SaulWgmi"
+        "SaulWgmi",
+        "keenn_eth"
       ]
     }
   },
   "uxlink": {
     "7D": {
       "smart_followers_min": [
+        19.0,
+        19.0,
+        19.0,
+        19.0,
         20.0,
-        19.0,
-        19.0,
-        19.0,
-        19.0,
         20.0,
         20.0,
         20.0,
@@ -9316,8 +9316,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        25.57
+        25.57,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -9328,17 +9328,17 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "yeonuk87"
+        "yeonuk87",
+        "sontanidonghei"
       ]
     },
     "30D": {
       "smart_followers_min": [
+        19.0,
+        19.0,
+        19.0,
+        19.0,
         20.0,
-        19.0,
-        19.0,
-        19.0,
-        19.0,
         20.0,
         20.0,
         20.0,
@@ -9366,8 +9366,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        25.57
+        25.57,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -9378,8 +9378,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "yeonuk87"
+        "yeonuk87",
+        "sontanidonghei"
       ]
     }
   },
@@ -9391,7 +9391,7 @@
         2.0,
         2.0,
         2.0,
-        2.0,
+        1.0,
         1.0,
         1.0,
         1.0,
@@ -9403,14 +9403,13 @@
         "tokidokiloverr",
         "tokidokiloverr",
         "tokidokiloverr",
-        "tokidokiloverr",
+        "sirpkweb3",
         "sirpkweb3",
         "sirpkweb3",
         "sirpkweb3",
         "sirpkweb3"
       ],
       "yaps_min": [
-        6.66,
         106.74,
         28.66,
         5.14,
@@ -9419,10 +9418,10 @@
         5.14,
         5.14,
         5.14,
-        19.7
+        19.7,
+        17.6
       ],
       "yaps_min_users": [
-        "hephsho",
         "rayearthZero",
         "Mide_ox",
         "DrPep_web3",
@@ -9431,7 +9430,8 @@
         "DrPep_web3",
         "DrPep_web3",
         "DrPep_web3",
-        "Reiji4kt"
+        "Reiji4kt",
+        "HellRider070"
       ]
     },
     "30D": {
@@ -9445,7 +9445,7 @@
         3.0,
         3.0,
         3.0,
-        3.0
+        1.0
       ],
       "smart_followers_min_users": [
         "Cryptobuyer2024",
@@ -9457,10 +9457,9 @@
         "Cryptobuyer2024",
         "Cryptobuyer2024",
         "Cryptobuyer2024",
-        "Cryptobuyer2024"
+        "sirpkweb3"
       ],
       "yaps_min": [
-        12.16,
         49.92,
         50.02,
         50.22,
@@ -9469,10 +9468,10 @@
         107.98,
         51.3,
         107.98,
-        47.34
+        47.34,
+        17.6
       ],
       "yaps_min_users": [
-        "jack33336666",
         "ehmeeisaac",
         "ehmeeisaac",
         "ehmeeisaac",
@@ -9481,16 +9480,17 @@
         "rayearthZero",
         "ehmeeisaac",
         "rayearthZero",
-        "bloodredfrog"
+        "bloodredfrog",
+        "HellRider070"
       ]
     }
   },
   "walrus": {
     "7D": {
       "smart_followers_min": [
+        2.0,
+        2.0,
         6.0,
-        2.0,
-        2.0,
         6.0,
         6.0,
         6.0,
@@ -9500,9 +9500,9 @@
         6.0
       ],
       "smart_followers_min_users": [
+        "ChiefPengwyn",
+        "ChiefPengwyn",
         "PhamHauVan103",
-        "ChiefPengwyn",
-        "ChiefPengwyn",
         "PhamHauVan103",
         "PhamHauVan103",
         "PhamHauVan103",
@@ -9512,7 +9512,6 @@
         "PhamHauVan103"
       ],
       "yaps_min": [
-        10.89,
         25.6,
         57.11,
         57.11,
@@ -9521,10 +9520,10 @@
         57.11,
         57.11,
         57.11,
-        15.02
+        15.02,
+        62.93
       ],
       "yaps_min_users": [
-        "PhamHauVan103",
         "ZibahTheCreator",
         "OsorryKor",
         "OsorryKor",
@@ -9533,7 +9532,8 @@
         "OsorryKor",
         "OsorryKor",
         "OsorryKor",
-        "0xEdle"
+        "0xEdle",
+        "shl3376"
       ]
     },
     "30D": {
@@ -9570,8 +9570,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        57.11
+        57.11,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -9582,8 +9582,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "OsorryKor"
+        "OsorryKor",
+        "sontanidonghei"
       ]
     }
   },
@@ -9614,7 +9614,6 @@
         "ifyoss82"
       ],
       "yaps_min": [
-        1.27,
         2.01,
         3.92,
         3.92,
@@ -9623,10 +9622,10 @@
         1.74,
         1.27,
         1.74,
+        0.55,
         0.55
       ],
       "yaps_min_users": [
-        "Cryptopaves101",
         "Ozzygurl2",
         "0xLordsas",
         "0xLordsas",
@@ -9635,6 +9634,7 @@
         "Jonny_Gram0X",
         "Cryptopaves101",
         "Jonny_Gram0X",
+        "Allain_web3",
         "Allain_web3"
       ]
     },
@@ -9664,7 +9664,6 @@
         "Romeo_Onchain"
       ],
       "yaps_min": [
-        12.04,
         12.52,
         12.1,
         14.04,
@@ -9673,10 +9672,10 @@
         17.14,
         3.5,
         12.1,
+        3.5,
         3.5
       ],
       "yaps_min_users": [
-        "checheluna3",
         "GhostTabber",
         "checheluna3",
         "ifwayodeji",
@@ -9685,6 +9684,7 @@
         "dylan__hobbs",
         "_nfPrince",
         "checheluna3",
+        "_nfPrince",
         "_nfPrince"
       ]
     }
@@ -9716,7 +9716,6 @@
         "amigooo777"
       ],
       "yaps_min": [
-        307.5,
         243.89,
         243.89,
         307.5,
@@ -9725,10 +9724,10 @@
         307.5,
         307.5,
         307.5,
-        244.52
+        244.52,
+        245.04
       ],
       "yaps_min_users": [
-        "twix4us",
         "Mikadzyki_NFT",
         "Mikadzyki_NFT",
         "twix4us",
@@ -9737,6 +9736,7 @@
         "twix4us",
         "twix4us",
         "twix4us",
+        "Mikadzyki_NFT",
         "Mikadzyki_NFT"
       ]
     },
@@ -9766,7 +9766,6 @@
         "amigooo777"
       ],
       "yaps_min": [
-        307.5,
         206.33,
         206.44,
         206.67,
@@ -9775,10 +9774,10 @@
         278.84,
         307.5,
         307.5,
+        206.67,
         206.67
       ],
       "yaps_min_users": [
-        "twix4us",
         "0xVaha",
         "0xVaha",
         "0xVaha",
@@ -9787,6 +9786,7 @@
         "Senti__23",
         "twix4us",
         "twix4us",
+        "0xVaha",
         "0xVaha"
       ]
     }
@@ -9814,11 +9814,10 @@
         "marie_joe001",
         "marie_joe001",
         "marie_joe001",
-        "marie_joe001",
+        "Jinx5505",
         "Jinx5505"
       ],
       "yaps_min": [
-        32.31,
         5.96,
         6.16,
         3.07,
@@ -9827,10 +9826,10 @@
         32.31,
         3.07,
         32.31,
-        2.96
+        2.96,
+        4.57
       ],
       "yaps_min_users": [
-        "daniarchibong_",
         "about_crypto",
         "kayd_kova",
         "sherrythelast",
@@ -9839,7 +9838,8 @@
         "daniarchibong_",
         "sherrythelast",
         "daniarchibong_",
-        "Nandi_Xion"
+        "Nandi_Xion",
+        "_MiReTu_"
       ]
     },
     "30D": {
@@ -9868,7 +9868,6 @@
         "marie_joe001"
       ],
       "yaps_min": [
-        1.37,
         5.96,
         1.37,
         3.07,
@@ -9877,10 +9876,10 @@
         32.31,
         3.07,
         32.31,
-        2.96
+        2.96,
+        4.57
       ],
       "yaps_min_users": [
-        "Olahosts",
         "about_crypto",
         "Olahosts",
         "sherrythelast",
@@ -9889,7 +9888,8 @@
         "daniarchibong_",
         "sherrythelast",
         "daniarchibong_",
-        "Nandi_Xion"
+        "Nandi_Xion",
+        "_MiReTu_"
       ]
     }
   },
@@ -9920,7 +9920,6 @@
         "DrPorny"
       ],
       "yaps_min": [
-        206.15,
         77.88,
         206.12,
         206.15,
@@ -9929,10 +9928,10 @@
         209.15,
         206.57,
         206.59,
-        104.7
+        104.7,
+        205.66
       ],
       "yaps_min_users": [
-        "KingMaxra",
         "KkultongY64109",
         "Octavia_50",
         "KingMaxra",
@@ -9941,7 +9940,8 @@
         "AdebiyiChosen",
         "KingMaxra",
         "KingMaxra",
-        "JerzyNFT"
+        "JerzyNFT",
+        "Defi_Scribbler"
       ]
     },
     "30D": {
@@ -9955,7 +9955,7 @@
         11.0,
         11.0,
         11.0,
-        11.0
+        12.0
       ],
       "smart_followers_min_users": [
         "thimburat",
@@ -9970,7 +9970,6 @@
         "thimburat"
       ],
       "yaps_min": [
-        206.15,
         77.88,
         206.12,
         206.15,
@@ -9979,10 +9978,10 @@
         209.15,
         39.23,
         206.59,
-        104.7
+        104.7,
+        205.66
       ],
       "yaps_min_users": [
-        "KingMaxra",
         "KkultongY64109",
         "Octavia_50",
         "KingMaxra",
@@ -9991,7 +9990,8 @@
         "AdebiyiChosen",
         "thimburat",
         "KingMaxra",
-        "JerzyNFT"
+        "JerzyNFT",
+        "Defi_Scribbler"
       ]
     }
   },
@@ -10003,7 +10003,57 @@
         45.0,
         45.0,
         45.0,
+        46.0,
+        46.0,
+        47.0,
+        47.0,
+        47.0
+      ],
+      "smart_followers_min_users": [
+        "UnicornGonad",
+        "UnicornGonad",
+        "UnicornGonad",
+        "UnicornGonad",
+        "UnicornGonad",
+        "UnicornGonad",
+        "UnicornGonad",
+        "Zpartanll7",
+        "Zpartanll7",
+        "Zpartanll7"
+      ],
+      "yaps_min": [
+        2483.48,
+        2724.48,
+        2499.12,
+        2402.62,
+        749.1,
+        3598.42,
+        667.83,
+        760.04,
+        151.44,
+        1268.18
+      ],
+      "yaps_min_users": [
+        "OttoSuwenNFT",
+        "TheCryptoLark",
+        "OttoSuwenNFT",
+        "aaalexhl",
+        "VentureCoinist",
+        "zmanian",
+        "Anbessa100",
+        "pattchxbt",
+        "cryptodude999",
+        "AltCryptoGems"
+      ]
+    },
+    "30D": {
+      "smart_followers_min": [
         45.0,
+        45.0,
+        45.0,
+        45.0,
+        45.0,
+        46.0,
         46.0,
         46.0,
         47.0,
@@ -10022,57 +10072,6 @@
         "Zpartanll7"
       ],
       "yaps_min": [
-        2380.46,
-        2483.48,
-        2724.48,
-        2499.12,
-        2402.62,
-        749.1,
-        3598.42,
-        667.83,
-        760.04,
-        151.44
-      ],
-      "yaps_min_users": [
-        "aaalexhl",
-        "OttoSuwenNFT",
-        "TheCryptoLark",
-        "OttoSuwenNFT",
-        "aaalexhl",
-        "VentureCoinist",
-        "zmanian",
-        "Anbessa100",
-        "pattchxbt",
-        "cryptodude999"
-      ]
-    },
-    "30D": {
-      "smart_followers_min": [
-        45.0,
-        45.0,
-        45.0,
-        45.0,
-        45.0,
-        45.0,
-        46.0,
-        46.0,
-        46.0,
-        47.0
-      ],
-      "smart_followers_min_users": [
-        "UnicornGonad",
-        "UnicornGonad",
-        "UnicornGonad",
-        "UnicornGonad",
-        "UnicornGonad",
-        "UnicornGonad",
-        "UnicornGonad",
-        "UnicornGonad",
-        "UnicornGonad",
-        "Zpartanll7"
-      ],
-      "yaps_min": [
-        314.35,
         315.36,
         316.29,
         317.18,
@@ -10081,10 +10080,10 @@
         321.45,
         322.5,
         760.04,
-        273.6
+        273.6,
+        1188.49
       ],
       "yaps_min_users": [
-        "periagoge1",
         "periagoge1",
         "periagoge1",
         "periagoge1",
@@ -10093,14 +10092,15 @@
         "periagoge1",
         "periagoge1",
         "pattchxbt",
-        "avizurlo"
+        "avizurlo",
+        "_bfarmer"
       ]
     }
   },
   "doodles": {
     "7D": {
       "smart_followers_min": [
-        10.0,
+        3.0,
         3.0,
         3.0,
         3.0,
@@ -10112,7 +10112,7 @@
         3.0
       ],
       "smart_followers_min_users": [
-        "diego_ciborro",
+        "G0dsIntern",
         "G0dsIntern",
         "G0dsIntern",
         "G0dsIntern",
@@ -10124,7 +10124,6 @@
         "G0dsIntern"
       ],
       "yaps_min": [
-        25.99,
         26.01,
         26.43,
         1.87,
@@ -10132,25 +10131,26 @@
         12.67,
         1.87,
         1.87,
+        26.62,
         26.62,
         26.62
       ],
       "yaps_min_users": [
         "kimgordong",
         "kimgordong",
-        "kimgordong",
         "diego_ciborro",
         "kimgordong",
         "bitrise25",
         "diego_ciborro",
         "diego_ciborro",
         "kimgordong",
+        "kimgordong",
         "kimgordong"
       ]
     },
     "30D": {
       "smart_followers_min": [
-        10.0,
+        3.0,
         3.0,
         3.0,
         3.0,
@@ -10162,7 +10162,7 @@
         3.0
       ],
       "smart_followers_min_users": [
-        "diego_ciborro",
+        "G0dsIntern",
         "G0dsIntern",
         "G0dsIntern",
         "G0dsIntern",
@@ -10174,7 +10174,6 @@
         "G0dsIntern"
       ],
       "yaps_min": [
-        25.99,
         26.01,
         26.43,
         1.87,
@@ -10183,10 +10182,10 @@
         1.87,
         1.87,
         26.62,
-        15.26
+        15.26,
+        26.62
       ],
       "yaps_min_users": [
-        "kimgordong",
         "kimgordong",
         "kimgordong",
         "diego_ciborro",
@@ -10195,7 +10194,8 @@
         "diego_ciborro",
         "diego_ciborro",
         "kimgordong",
-        "Sotweb3"
+        "Sotweb3",
+        "kimgordong"
       ]
     }
   },
@@ -10226,7 +10226,6 @@
         "0X_Vetra"
       ],
       "yaps_min": [
-        38.34,
         38.37,
         38.37,
         38.37,
@@ -10235,7 +10234,8 @@
         38.37,
         18.97,
         89.67,
-        40.17
+        40.17,
+        47.67
       ],
       "yaps_min_users": [
         "baggyudong78463",
@@ -10244,17 +10244,17 @@
         "baggyudong78463",
         "baggyudong78463",
         "baggyudong78463",
-        "baggyudong78463",
         "heedan123",
         "whenmoonsoon",
-        "baggyudong78463"
+        "baggyudong78463",
+        "jungsama1101"
       ]
     },
     "30D": {
       "smart_followers_min": [
         36.0,
         36.0,
-        36.0,
+        37.0,
         37.0,
         37.0,
         37.0,
@@ -10276,7 +10276,6 @@
         "lxxxxxQAQ"
       ],
       "yaps_min": [
-        46.53,
         46.67,
         46.67,
         81.87,
@@ -10285,19 +10284,20 @@
         46.67,
         46.82,
         89.67,
-        40.17
+        40.17,
+        47.67
       ],
       "yaps_min_users": [
         "jungsama1101",
         "jungsama1101",
-        "jungsama1101",
         "whenmoonsoon",
         "jungsama1101",
         "jungsama1101",
         "jungsama1101",
         "jungsama1101",
         "whenmoonsoon",
-        "baggyudong78463"
+        "baggyudong78463",
+        "jungsama1101"
       ]
     }
   },
@@ -10334,7 +10334,7 @@
         0.59,
         0.59,
         0.59,
-        0.59,
+        0.94,
         0.94,
         0.94,
         0.94
@@ -10346,7 +10346,7 @@
         "Buks_way02",
         "Buks_way02",
         "Buks_way02",
-        "Buks_way02",
+        "TQ_Games",
         "TQ_Games",
         "TQ_Games",
         "TQ_Games"
@@ -10407,7 +10407,6 @@
     "7D": {
       "smart_followers_min": [
         4.0,
-        4.0,
         5.0,
         5.0,
         5.0,
@@ -10415,7 +10414,8 @@
         5.0,
         5.0,
         5.0,
-        5.0
+        5.0,
+        3.0
       ],
       "smart_followers_min_users": [
         "hassan_samimi",
@@ -10427,10 +10427,9 @@
         "hassan_samimi",
         "hassan_samimi",
         "hassan_samimi",
-        "hassan_samimi"
+        "datuuz76514"
       ],
       "yaps_min": [
-        0.04,
         0.04,
         0.14,
         0.04,
@@ -10439,10 +10438,10 @@
         4.8,
         0.04,
         0.04,
+        0.04,
         0.04
       ],
       "yaps_min_users": [
-        "wshowshow",
         "wshowshow",
         "Shine_JDR",
         "wshowshow",
@@ -10451,13 +10450,14 @@
         "ichangheon95715",
         "wshowshow",
         "wshowshow",
+        "wshowshow",
         "wshowshow"
       ]
     },
     "30D": {
       "smart_followers_min": [
         4.0,
-        4.0,
+        5.0,
         5.0,
         5.0,
         5.0,
@@ -10481,7 +10481,6 @@
       ],
       "yaps_min": [
         0.04,
-        0.04,
         12.48,
         0.04,
         10.52,
@@ -10489,16 +10488,17 @@
         10.44,
         0.04,
         0.04,
+        0.04,
         0.04
       ],
       "yaps_min_users": [
-        "wshowshow",
         "wshowshow",
         "hassan_samimi",
         "wshowshow",
         "halosunny21",
         "wshowshow",
         "bliss_rh",
+        "wshowshow",
         "wshowshow",
         "wshowshow",
         "wshowshow"
@@ -10509,7 +10509,7 @@
     "30D": {
       "smart_followers_min": [
         9.0,
-        9.0,
+        10.0,
         10.0,
         10.0,
         10.0,
@@ -10521,7 +10521,7 @@
       ],
       "smart_followers_min_users": [
         "PaulWagmi",
-        "PaulWagmi",
+        "ox_neato",
         "ox_neato",
         "ox_neato",
         "ox_neato",
@@ -10532,7 +10532,6 @@
         "ox_neato"
       ],
       "yaps_min": [
-        13.88,
         4.38,
         5.52,
         5.52,
@@ -10541,10 +10540,10 @@
         5.52,
         12.77,
         17.29,
-        17.22
+        17.22,
+        18.08
       ],
       "yaps_min_users": [
-        "ox_neato",
         "Babar_NFTs",
         "Nightmare27987",
         "Nightmare27987",
@@ -10553,7 +10552,8 @@
         "Nightmare27987",
         "PaulWagmi",
         "didi5894",
-        "junkribi"
+        "junkribi",
+        "Nightmare27987"
       ]
     },
     "7D": {
@@ -10578,11 +10578,10 @@
         "ox_neato",
         "ox_neato",
         "ox_neato",
-        "ox_neato",
+        "gemtoast",
         "gemtoast"
       ],
       "yaps_min": [
-        11.13,
         11.13,
         11.13,
         11.13,
@@ -10591,19 +10590,20 @@
         11.13,
         8.86,
         11.13,
-        11.13
+        11.13,
+        10.03
       ],
       "yaps_min_users": [
         "Dlawinweb3",
         "Dlawinweb3",
         "Dlawinweb3",
         "Dlawinweb3",
-        "Dlawinweb3",
         "Ichaka_001",
         "Dlawinweb3",
         "Ichaka_001",
         "Dlawinweb3",
-        "Dlawinweb3"
+        "Dlawinweb3",
+        "Ichaka_001"
       ]
     }
   },
@@ -10615,7 +10615,7 @@
         2.0,
         2.0,
         2.0,
-        2.0,
+        1.0,
         1.0,
         1.0,
         1.0,
@@ -10627,14 +10627,13 @@
         "grapes_ova",
         "grapes_ova",
         "grapes_ova",
-        "grapes_ova",
+        "halll1103",
         "halll1103",
         "halll1103",
         "halll1103",
         "halll1103"
       ],
       "yaps_min": [
-        10.88,
         2.24,
         4.85,
         2.24,
@@ -10643,10 +10642,10 @@
         7.73,
         7.19,
         2.68,
+        2.68,
         2.68
       ],
       "yaps_min_users": [
-        "zux_no",
         "Yeonsik_X",
         "winnercfc60702",
         "Yeonsik_X",
@@ -10655,13 +10654,14 @@
         "gonish77",
         "Ary_211",
         "hoho99875292",
+        "hoho99875292",
         "hoho99875292"
       ]
     },
     "30D": {
       "smart_followers_min": [
         2.0,
-        2.0,
+        9.0,
         9.0,
         9.0,
         9.0,
@@ -10673,7 +10673,7 @@
       ],
       "smart_followers_min_users": [
         "white_elvi72968",
-        "white_elvi72968",
+        "Duke_of_Defi",
         "Duke_of_Defi",
         "Duke_of_Defi",
         "Duke_of_Defi",
@@ -10684,7 +10684,6 @@
         "Duke_of_Defi"
       ],
       "yaps_min": [
-        10.88,
         4.85,
         4.85,
         4.85,
@@ -10693,10 +10692,10 @@
         11.44,
         10.52,
         11.44,
+        4.85,
         4.85
       ],
       "yaps_min_users": [
-        "zux_no",
         "winnercfc60702",
         "winnercfc60702",
         "winnercfc60702",
@@ -10705,6 +10704,7 @@
         "zux_no",
         "halosunny21",
         "zux_no",
+        "winnercfc60702",
         "winnercfc60702"
       ]
     }
@@ -10713,14 +10713,14 @@
     "7D": {
       "smart_followers_min": [
         4.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
         4.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
         4.0
       ],
       "smart_followers_min_users": [
@@ -10732,14 +10732,14 @@
         "hassan_samimi",
         "hassan_samimi",
         "hassan_samimi",
-        "hassan_samimi",
+        "tomoaki0252",
         "tomoaki0252"
       ],
       "yaps_min": [
-        11.8,
         12.48,
         11.87,
         11.87,
+        12.48,
         12.48,
         12.48,
         12.48,
@@ -10748,10 +10748,10 @@
         12.48
       ],
       "yaps_min_users": [
-        "Mint01333",
         "hassan_samimi",
         "Mint01333",
         "Mint01333",
+        "hassan_samimi",
         "hassan_samimi",
         "hassan_samimi",
         "hassan_samimi",
@@ -10770,7 +10770,7 @@
         2.0,
         2.0,
         2.0,
-        2.0,
+        5.0,
         5.0
       ],
       "smart_followers_min_users": [
@@ -10782,11 +10782,11 @@
         "rave0raven",
         "rave0raven",
         "rave0raven",
-        "rave0raven",
+        "tobi_chain",
         "tobi_chain"
       ],
       "yaps_min": [
-        12.3,
+        12.37,
         12.37,
         12.37,
         12.37,
@@ -10822,7 +10822,7 @@
         1.0,
         1.0,
         1.0,
-        1.0,
+        2.0,
         2.0
       ],
       "smart_followers_min_users": [
@@ -10831,14 +10831,13 @@
         "Rayn_khaan",
         "Rayn_khaan",
         "Rayn_khaan",
-        "Rayn_khaan",
         "GENMALAMIIOG",
         "GENMALAMIIOG",
         "GENMALAMIIOG",
+        "Tywice_O",
         "Tywice_O"
       ],
       "yaps_min": [
-        0.93,
         0.15,
         1.01,
         0.17,
@@ -10847,10 +10846,10 @@
         0.17,
         0.15,
         1.01,
-        0.15
+        0.15,
+        0.93
       ],
       "yaps_min_users": [
-        "AdeyemiSam52941",
         "Naghxbt",
         "Bemma_1",
         "HEiMajesty",
@@ -10859,7 +10858,8 @@
         "HEiMajesty",
         "Naghxbt",
         "Bemma_1",
-        "Naghxbt"
+        "Naghxbt",
+        "AdeyemiSam52941"
       ]
     },
     "30D": {
@@ -10879,16 +10879,15 @@
         "TheQueenPhasma",
         "TheQueenPhasma",
         "TheQueenPhasma",
-        "TheQueenPhasma",
         "INOKAMIKAGURA",
         "INOKAMIKAGURA",
         "INOKAMIKAGURA",
         "INOKAMIKAGURA",
         "Tywice_O",
+        "Tywice_O",
         "Tywice_O"
       ],
       "yaps_min": [
-        5.29,
         9.08,
         5.29,
         0.17,
@@ -10897,10 +10896,10 @@
         0.17,
         0.17,
         5.29,
-        5.29
+        5.29,
+        0.93
       ],
       "yaps_min_users": [
-        "skathdgus09",
         "princkisok",
         "skathdgus09",
         "HEiMajesty",
@@ -10909,7 +10908,8 @@
         "HEiMajesty",
         "HEiMajesty",
         "skathdgus09",
-        "skathdgus09"
+        "skathdgus09",
+        "AdeyemiSam52941"
       ]
     }
   },
@@ -10930,7 +10930,7 @@
       "smart_followers_min_users": [
         "phamtuan1493",
         "phamtuan1493",
-        "phamtuan1493",
+        "KtownSexyindian",
         "KtownSexyindian",
         "KtownSexyindian",
         "KtownSexyindian",
@@ -10940,7 +10940,6 @@
         "KtownSexyindian"
       ],
       "yaps_min": [
-        12.16,
         1.51,
         5.11,
         1.51,
@@ -10949,10 +10948,10 @@
         0.4,
         0.4,
         11.98,
-        0.52
+        0.52,
+        1.51
       ],
       "yaps_min_users": [
-        "jack33336666",
         "mr_saidia",
         "elltzy775",
         "mr_saidia",
@@ -10961,7 +10960,8 @@
         "KtownSexyindian",
         "KtownSexyindian",
         "jackiehua_eth",
-        "Zeras_24"
+        "Zeras_24",
+        "mr_saidia"
       ]
     },
     "30D": {
@@ -10990,7 +10990,6 @@
         "humble985435"
       ],
       "yaps_min": [
-        12.34,
         1.51,
         10.55,
         1.51,
@@ -10999,10 +10998,10 @@
         1.51,
         1.51,
         15.98,
-        4.74
+        4.74,
+        1.51
       ],
       "yaps_min_users": [
-        "NguyenHoangLevi",
         "mr_saidia",
         "congphuc89_",
         "mr_saidia",
@@ -11011,7 +11010,8 @@
         "mr_saidia",
         "mr_saidia",
         "Nick_HTLC",
-        "_Hyper66"
+        "_Hyper66",
+        "mr_saidia"
       ]
     }
   },
@@ -11075,7 +11075,7 @@
         870.0,
         870.0,
         870.0,
-        870.0,
+        871.0,
         871.0,
         871.0
       ],
@@ -11145,24 +11145,24 @@
       ],
       "yaps_min": [
         2.22,
-        2.22,
         11.7,
         11.7,
         11.7,
         11.7,
         11.7,
+        10.79,
         10.79,
         10.79,
         10.79
       ],
       "yaps_min_users": [
         "tarinaka383719",
-        "tarinaka383719",
         "dee_e6",
         "dee_e6",
         "dee_e6",
         "dee_e6",
         "dee_e6",
+        "_Juliaweb3",
         "_Juliaweb3",
         "_Juliaweb3",
         "_Juliaweb3"
@@ -11194,7 +11194,6 @@
         "s_i_gh"
       ],
       "yaps_min": [
-        0.95,
         1.47,
         1.47,
         1.47,
@@ -11203,10 +11202,10 @@
         1.47,
         4.79,
         1.74,
-        1.47
+        1.47,
+        12.45
       ],
       "yaps_min_users": [
-        "Universallbaby",
         "pelscrypt",
         "pelscrypt",
         "pelscrypt",
@@ -11215,7 +11214,8 @@
         "pelscrypt",
         "deadetol",
         "Universallbaby",
-        "pelscrypt"
+        "pelscrypt",
+        "Amu6669"
       ]
     }
   },
@@ -11249,16 +11249,15 @@
         1.09,
         1.09,
         1.09,
-        1.09,
         1.88,
         1.09,
         1.22,
         1.6,
         1.13,
+        1.72,
         1.72
       ],
       "yaps_min_users": [
-        "Abuh_abel",
         "Abuh_abel",
         "Abuh_abel",
         "Abuh_abel",
@@ -11267,6 +11266,7 @@
         "Abuh_abel",
         "Abuh_abel",
         "D_GREAT_EHMY",
+        "Abuh_abel",
         "Abuh_abel"
       ]
     },
@@ -11298,17 +11298,16 @@
       "yaps_min": [
         1.13,
         1.13,
-        1.13,
         4.44,
         10.19,
         1.13,
         10.19,
         2.65,
         1.13,
+        1.72,
         1.72
       ],
       "yaps_min_users": [
-        "D_GREAT_EHMY",
         "D_GREAT_EHMY",
         "D_GREAT_EHMY",
         "HeartyFgs",
@@ -11317,6 +11316,7 @@
         "JoshJosh45",
         "0xdarkie",
         "D_GREAT_EHMY",
+        "Abuh_abel",
         "Abuh_abel"
       ]
     }
@@ -11348,7 +11348,6 @@
         "Yemiola_eth"
       ],
       "yaps_min": [
-        0.24,
         8.75,
         0.24,
         13.26,
@@ -11357,10 +11356,10 @@
         14.85,
         16.54,
         13.98,
-        0.25
+        0.25,
+        13.99
       ],
       "yaps_min_users": [
-        "Abdulrahma3585",
         "kestercrypt",
         "Abdulrahma3585",
         "blank_ape",
@@ -11369,7 +11368,8 @@
         "Unique1her",
         "Crypto0304",
         "Yemiola_eth",
-        "meet_wtf_guy"
+        "meet_wtf_guy",
+        "cryptodoc_c"
       ]
     },
     "30D": {
@@ -11399,7 +11399,6 @@
       ],
       "yaps_min": [
         3.26,
-        3.26,
         13.66,
         13.86,
         13.86,
@@ -11407,10 +11406,10 @@
         13.86,
         13.86,
         13.86,
-        13.86
+        13.86,
+        13.99
       ],
       "yaps_min_users": [
-        "mintzy55",
         "mintzy55",
         "that_NFT_boy",
         "GNftarmy",
@@ -11419,7 +11418,8 @@
         "GNftarmy",
         "GNftarmy",
         "GNftarmy",
-        "GNftarmy"
+        "GNftarmy",
+        "cryptodoc_c"
       ]
     }
   },
@@ -11441,7 +11441,7 @@
         "alpukat168",
         "alpukat168",
         "alpukat168",
-        "alpukat168",
+        "GeeNwachi83785",
         "GeeNwachi83785",
         "GeeNwachi83785",
         "GeeNwachi83785",
@@ -11450,7 +11450,6 @@
         "GeeNwachi83785"
       ],
       "yaps_min": [
-        1.31,
         0.87,
         0.67,
         0.67,
@@ -11459,10 +11458,10 @@
         1.24,
         0.05,
         0.67,
-        0.05
+        0.05,
+        0.67
       ],
       "yaps_min_users": [
-        "IjeongU68167",
         "Hossein_esv",
         "GeeNwachi83785",
         "GeeNwachi83785",
@@ -11471,7 +11470,8 @@
         "Man_3hunting",
         "_dreallboy",
         "GeeNwachi83785",
-        "_dreallboy"
+        "_dreallboy",
+        "GeeNwachi83785"
       ]
     },
     "30D": {
@@ -11479,7 +11479,7 @@
         2.0,
         2.0,
         2.0,
-        2.0,
+        6.0,
         6.0,
         6.0,
         6.0,
@@ -11491,7 +11491,7 @@
         "alpukat168",
         "alpukat168",
         "alpukat168",
-        "alpukat168",
+        "Emalio_10",
         "Emalio_10",
         "Emalio_10",
         "Emalio_10",
@@ -11500,7 +11500,6 @@
         "Emalio_10"
       ],
       "yaps_min": [
-        2.08,
         1.58,
         1.88,
         10.19,
@@ -11509,10 +11508,10 @@
         10.19,
         1.58,
         1.98,
-        1.58
+        1.58,
+        1.88
       ],
       "yaps_min_users": [
-        "cct_pixie",
         "yunjae44024216",
         "radar2122",
         "JoshJosh45",
@@ -11521,7 +11520,8 @@
         "JoshJosh45",
         "yunjae44024216",
         "Emalio_10",
-        "yunjae44024216"
+        "yunjae44024216",
+        "radar2122"
       ]
     }
   },
@@ -11552,7 +11552,6 @@
         "HyraxLead"
       ],
       "yaps_min": [
-        2.01,
         2.59,
         2.59,
         2.59,
@@ -11561,19 +11560,20 @@
         9.36,
         4.34,
         9.6,
-        5.07
+        5.07,
+        11.23
       ],
       "yaps_min_users": [
         "madiweb3",
         "madiweb3",
         "madiweb3",
-        "madiweb3",
         "ambassador_grim",
         "madiweb3",
         "ambassador_grim",
         "madiweb3",
         "ambassador_grim",
-        "Skdnjsqo"
+        "Skdnjsqo",
+        "myao86"
       ]
     },
     "30D": {
@@ -11602,7 +11602,6 @@
         "HyraxLead"
       ],
       "yaps_min": [
-        2.01,
         1.19,
         2.59,
         1.19,
@@ -11611,10 +11610,10 @@
         9.36,
         4.34,
         1.19,
-        1.19
+        1.19,
+        9.6
       ],
       "yaps_min_users": [
-        "madiweb3",
         "00aerichan",
         "madiweb3",
         "00aerichan",
@@ -11623,7 +11622,8 @@
         "ambassador_grim",
         "madiweb3",
         "00aerichan",
-        "00aerichan"
+        "00aerichan",
+        "ambassador_grim"
       ]
     }
   },
@@ -11631,7 +11631,6 @@
     "7D": {
       "smart_followers_min": [
         24.0,
-        24.0,
         27.0,
         27.0,
         27.0,
@@ -11639,11 +11638,11 @@
         27.0,
         27.0,
         27.0,
-        27.0
+        27.0,
+        26.0
       ],
       "smart_followers_min_users": [
         "danivaweb3",
-        "danivaweb3",
         "WasimxWeb3",
         "WasimxWeb3",
         "WasimxWeb3",
@@ -11651,7 +11650,8 @@
         "WasimxWeb3",
         "WasimxWeb3",
         "WasimxWeb3",
-        "WasimxWeb3"
+        "WasimxWeb3",
+        "danivaweb3"
       ],
       "yaps_min": [
         1.23,
@@ -11662,8 +11662,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        18.97
+        18.97,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -11674,14 +11674,13 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "heedan123"
+        "heedan123",
+        "sontanidonghei"
       ]
     },
     "30D": {
       "smart_followers_min": [
         25.0,
-        25.0,
         27.0,
         27.0,
         27.0,
@@ -11689,7 +11688,8 @@
         27.0,
         27.0,
         27.0,
-        27.0
+        27.0,
+        57.0
       ],
       "smart_followers_min_users": [
         "WasimxWeb3",
@@ -11701,7 +11701,7 @@
         "WasimxWeb3",
         "WasimxWeb3",
         "WasimxWeb3",
-        "WasimxWeb3"
+        "Lilnikkihere"
       ],
       "yaps_min": [
         1.23,
@@ -11712,8 +11712,8 @@
         1.23,
         1.23,
         1.23,
-        1.23,
-        18.97
+        18.97,
+        1.23
       ],
       "yaps_min_users": [
         "sontanidonghei",
@@ -11724,8 +11724,8 @@
         "sontanidonghei",
         "sontanidonghei",
         "sontanidonghei",
-        "sontanidonghei",
-        "heedan123"
+        "heedan123",
+        "sontanidonghei"
       ]
     }
   },
@@ -11753,10 +11753,9 @@
         "Gbfless",
         "Gbfless",
         "Gbfless",
-        "Gbfless"
+        "alexanderflexzy"
       ],
       "yaps_min": [
-        0.26,
         1.01,
         0.26,
         0.26,
@@ -11765,10 +11764,10 @@
         0.26,
         1.01,
         0.26,
-        0.27
+        0.27,
+        0.26
       ],
       "yaps_min_users": [
-        "miykun105",
         "Bemma_1",
         "miykun105",
         "miykun105",
@@ -11777,13 +11776,14 @@
         "miykun105",
         "Bemma_1",
         "miykun105",
-        "Psalm_dav"
+        "Psalm_dav",
+        "miykun105"
       ]
     },
     "30D": {
       "smart_followers_min": [
         1.0,
-        1.0,
+        2.0,
         2.0,
         2.0,
         2.0,
@@ -11806,7 +11806,6 @@
         "LeonybenL"
       ],
       "yaps_min": [
-        3.65,
         0.64,
         3.65,
         0.64,
@@ -11815,13 +11814,14 @@
         5.68,
         5.68,
         5.68,
+        5.68,
         5.68
       ],
       "yaps_min_users": [
-        "thenameisjaypee",
         "SurvivorArc",
         "thenameisjaypee",
         "SurvivorArc",
+        "Benny___5",
         "Benny___5",
         "Benny___5",
         "Benny___5",
@@ -11841,12 +11841,14 @@
         9.0,
         9.0,
         9.0,
+        9.0,
         9.0
       ],
       "smart_followers_min_users": [
         "Aashir_beyg",
         "Aashir_beyg",
         "Aashir_beyg",
+        "MdNaim47763723",
         "MdNaim47763723",
         "MdNaim47763723",
         "MdNaim47763723",
@@ -11861,6 +11863,7 @@
         61.42,
         61.92,
         62.78,
+        62.93,
         62.93
       ],
       "yaps_min_users": [
@@ -11868,6 +11871,7 @@
         "shl3376",
         "shl3376",
         "wlgns5388",
+        "shl3376",
         "shl3376",
         "shl3376",
         "shl3376",
@@ -11883,6 +11887,7 @@
         15.0,
         15.0,
         15.0,
+        15.0,
         15.0
       ],
       "smart_followers_min_users": [
@@ -11890,6 +11895,7 @@
         "Aashir_beyg",
         "Amirirh1",
         "MdNaim47763723",
+        "Amirirh1",
         "Amirirh1",
         "Amirirh1",
         "Amirirh1",
@@ -11903,6 +11909,7 @@
         61.42,
         61.92,
         62.78,
+        62.93,
         62.93
       ],
       "yaps_min_users": [
@@ -11910,6 +11917,7 @@
         "shl3376",
         "shl3376",
         "wlgns5388",
+        "shl3376",
         "shl3376",
         "shl3376",
         "shl3376",
@@ -11927,11 +11935,13 @@
         9.0,
         9.0,
         10.0,
+        10.0,
         10.0
       ],
       "smart_followers_min_users": [
         "kobixyzHQ",
         "kobixyzHQ",
+        "erbagoragourav",
         "erbagoragourav",
         "erbagoragourav",
         "erbagoragourav",
@@ -11947,7 +11957,8 @@
         0.48,
         0.48,
         0.92,
-        0.48
+        0.48,
+        0.92
       ],
       "yaps_min_users": [
         "lks2342_",
@@ -11957,11 +11968,13 @@
         "Crypto_S3th",
         "Crypto_S3th",
         "lks2342_",
-        "Crypto_S3th"
+        "Crypto_S3th",
+        "lks2342_"
       ]
     },
     "30D": {
       "smart_followers_min": [
+        1.0,
         1.0,
         1.0,
         1.0,
@@ -11979,6 +11992,7 @@
         "ko_valeva",
         "ko_valeva",
         "ko_valeva",
+        "ko_valeva",
         "ko_valeva"
       ],
       "yaps_min": [
@@ -11989,7 +12003,8 @@
         0.48,
         0.48,
         0.92,
-        0.48
+        0.48,
+        0.92
       ],
       "yaps_min_users": [
         "lks2342_",
@@ -11999,7 +12014,8 @@
         "Crypto_S3th",
         "Crypto_S3th",
         "lks2342_",
-        "Crypto_S3th"
+        "Crypto_S3th",
+        "lks2342_"
       ]
     }
   }

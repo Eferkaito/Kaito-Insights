@@ -1151,6 +1151,51 @@
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FNOBLE%252FNOBLE.png/w=48&q=90",
       "id": 290,
       "infofi_type": "KAITO"
+    },
+    {
+      "name": "Xeet InfoFi",
+      "link": "xeet",
+      "category": "preTGE",
+      "ticker": "xeet",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1974980773657673728/Xdohv622_400x400.jpg",
+      "id": 291,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Solstice",
+      "link": "solstice",
+      "category": "preTGE",
+      "ticker": "solstice",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1916876277388046337/Qny5yRI2_400x400.png",
+      "id": 292,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "VDEX",
+      "link": "vdex",
+      "category": "preTGE",
+      "ticker": "vdex",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1965484007069564928/aBNhOiUU_400x400.jpg",
+      "id": 293,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Kona",
+      "link": "kona",
+      "category": "preTGE",
+      "ticker": "kona",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1962662588598362112/GS93TWpm_400x400.png",
+      "id": 294,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Myriad Markets",
+      "link": "myriad-market",
+      "category": "preTGE",
+      "ticker": "myriad-market",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1949824545403101184/bdrlDoUR_400x400.jpg",
+      "id": 295,
+      "infofi_type": "XEET"
     }
   ]
 }

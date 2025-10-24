@@ -7,15 +7,15 @@
       "user_id": "-1",
       "topic_id": "KAIA",
       "username": "pukerrainbrow",
-      "mindshare": 32.56,
+      "mindshare": 29.23,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1761220273601,
-      "follower_count": 78295,
+      "updatedAt": 1761268252666,
+      "follower_count": 78316,
       "smart_follower_count": 1050,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1267.02
+      "yaps_all": 1293.25
     },
     {
       "id": 3811178,
@@ -24,32 +24,32 @@
       "user_id": "-1",
       "topic_id": "KAIA",
       "username": "MOODOO_Diary",
-      "mindshare": 18.64,
+      "mindshare": 18.7,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1761220273601,
-      "follower_count": 12496,
+      "updatedAt": 1761268252666,
+      "follower_count": 12486,
       "smart_follower_count": 240,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 659.34
+      "yaps_all": null
     },
     {
       "id": 3811179,
-      "name": "EricF",
+      "name": "Daan Crypto Trades",
       "rank": 3,
       "user_id": "-1",
       "topic_id": "KAIA",
-      "username": "EricCLFung",
-      "mindshare": 3.47,
+      "username": "DaanCrypto",
+      "mindshare": 5.73,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1761220273601,
-      "follower_count": 19804,
-      "smart_follower_count": 1006,
+      "updatedAt": 1761268252666,
+      "follower_count": 415151,
+      "smart_follower_count": 1473,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 951.72
+      "yaps_all": null
     },
     {
       "id": 3811180,
@@ -58,11 +58,11 @@
       "user_id": "-1",
       "topic_id": "KAIA",
       "username": "bug4what",
-      "mindshare": 3.35,
+      "mindshare": 3.32,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1761220273601,
-      "follower_count": 11577,
+      "updatedAt": 1761268252666,
+      "follower_count": 11559,
       "smart_follower_count": 303,
       "insightfullness": null,
       "originality": null,
@@ -70,49 +70,32 @@
     },
     {
       "id": 3811181,
-      "name": "Daan Crypto Trades",
+      "name": "EricF",
       "rank": 5,
       "user_id": "-1",
       "topic_id": "KAIA",
-      "username": "DaanCrypto",
-      "mindshare": 3.11,
+      "username": "EricCLFung",
+      "mindshare": 3.15,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1761220273601,
-      "follower_count": 415264,
-      "smart_follower_count": 1475,
+      "updatedAt": 1761268252666,
+      "follower_count": 19815,
+      "smart_follower_count": 1007,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 953.51
     },
     {
       "id": 3811182,
-      "name": "riotboy⚡️ Ⓜ️Ⓜ️T",
+      "name": "Belinda",
       "rank": 6,
       "user_id": "-1",
       "topic_id": "KAIA",
-      "username": "riotboy2024",
-      "mindshare": 1.38,
-      "projectId": 35,
-      "duration": "7D",
-      "updatedAt": 1761220273601,
-      "follower_count": 6737,
-      "smart_follower_count": 116,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 562.65
-    },
-    {
-      "id": 3811183,
-      "name": "Belinda",
-      "rank": 7,
-      "user_id": "-1",
-      "topic_id": "KAIA",
       "username": "ciaobelindazhou",
-      "mindshare": 1.33,
+      "mindshare": 2.29,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1761220273601,
+      "updatedAt": 1761268252666,
       "follower_count": 9822,
       "smart_follower_count": 1000,
       "insightfullness": null,
@@ -120,21 +103,38 @@
       "yaps_all": null
     },
     {
-      "id": 7215337,
+      "id": 3811183,
       "name": "0xTodd",
-      "rank": 8,
+      "rank": 7,
       "user_id": "-1",
       "topic_id": "KAIA",
       "username": "0x_Todd",
-      "mindshare": 0.65,
+      "mindshare": 1.81,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1761220273601,
+      "updatedAt": 1761268252666,
       "follower_count": 67714,
       "smart_follower_count": 729,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
+    },
+    {
+      "id": 7215337,
+      "name": "riotboy⚡️ Ⓜ️Ⓜ️T",
+      "rank": 8,
+      "user_id": "-1",
+      "topic_id": "KAIA",
+      "username": "riotboy2024",
+      "mindshare": 1.38,
+      "projectId": 35,
+      "duration": "7D",
+      "updatedAt": 1761268252666,
+      "follower_count": 6731,
+      "smart_follower_count": 116,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 564.62
     },
     {
       "id": 8373965,
@@ -143,15 +143,15 @@
       "user_id": "-1",
       "topic_id": "KAIA",
       "username": "NewPaguinfo",
-      "mindshare": 0.2,
+      "mindshare": 0.21,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1761220273601,
-      "follower_count": 2834,
+      "updatedAt": 1761268252666,
+      "follower_count": 2835,
       "smart_follower_count": 118,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 474.84
+      "yaps_all": null
     },
     {
       "id": 8552438,
@@ -168,7 +168,7 @@
       "smart_follower_count": 160,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 496.14
+      "yaps_all": 497.88
     },
     {
       "id": 8588104,
@@ -185,7 +185,7 @@
       "smart_follower_count": 999,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 951.72
+      "yaps_all": 953.51
     },
     {
       "id": 8623592,
@@ -202,7 +202,7 @@
       "smart_follower_count": 267,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 570.88
+      "yaps_all": 572.61
     },
     {
       "id": 9267391,
@@ -219,7 +219,7 @@
       "smart_follower_count": 155,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 293.1
+      "yaps_all": 293.52
     },
     {
       "id": 9303221,
@@ -236,7 +236,7 @@
       "smart_follower_count": 268,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1264.62
+      "yaps_all": 1266.19
     },
     {
       "id": 9696612,
@@ -270,7 +270,7 @@
       "smart_follower_count": 179,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 329.2
+      "yaps_all": 330.79
     }
   ]
 }

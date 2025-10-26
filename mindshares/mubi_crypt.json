@@ -1,0 +1,21 @@
+{
+  "user": "mubi_crypt",
+  "timeframes": {
+    "7D": {
+      "vultisig": [
+        {
+          "t": 1761436871870,
+          "mindshare": 0.64
+        }
+      ]
+    },
+    "30D": {
+      "vultisig": [
+        {
+          "t": 1761436876566,
+          "mindshare": 0.68
+        }
+      ]
+    }
+  }
+}

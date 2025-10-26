@@ -1,0 +1,21 @@
+{
+  "user": "pinnaclecrypt",
+  "timeframes": {
+    "7D": {
+      "vultisig": [
+        {
+          "t": 1761436871870,
+          "mindshare": 0.23
+        }
+      ]
+    },
+    "30D": {
+      "vultisig": [
+        {
+          "t": 1761436876566,
+          "mindshare": 0.26
+        }
+      ]
+    }
+  }
+}

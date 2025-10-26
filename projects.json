@@ -1205,6 +1205,33 @@
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FVULT%252FVULTISIG.jpg/w=48&q=90",
       "id": 299,
       "infofi_type": "KAITO"
+    },
+    {
+      "name": "IOPn",
+      "link": "iopn",
+      "category": "preTGE",
+      "ticker": "iopn",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1929775799478956032/eNc_Kixr_400x400.jpg",
+      "id": 300,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Claynosaurz",
+      "link": "claynosaurz",
+      "category": "preTGE",
+      "ticker": "claynosaurz",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1927449655270416385/21LJ1SfL_400x400.jpg",
+      "id": 301,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Abstract",
+      "link": "abstract",
+      "category": "postTGE",
+      "ticker": "abstract",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1947751080705630208/0OQFUJxI_400x400.jpg",
+      "id": 302,
+      "infofi_type": "XEET"
     }
   ]
 }

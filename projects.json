@@ -1232,6 +1232,24 @@
       "imgUrl": "https://pbs.twimg.com/profile_images/1947751080705630208/0OQFUJxI_400x400.jpg",
       "id": 302,
       "infofi_type": "XEET"
+    },
+    {
+      "name": "Analog",
+      "link": "analog",
+      "category": "preTGE",
+      "ticker": "analog",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/Analog icon-social media.f6c135410e5ff250bd31af3b9ea05276.png",
+      "id": 304,
+      "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "Velvet",
+      "link": "velvet",
+      "category": "postTGE",
+      "ticker": "velvet",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/EDNgUErh_400x400.bf15b9c7af63343e76bf688278e3e059.jpg",
+      "id": 305,
+      "infofi_type": "WALLCHAIN"
     }
   ]
 }

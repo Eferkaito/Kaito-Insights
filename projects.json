@@ -1250,6 +1250,24 @@
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/EDNgUErh_400x400.bf15b9c7af63343e76bf688278e3e059.jpg",
       "id": 305,
       "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "ApeX",
+      "link": "apex",
+      "category": "postTGE",
+      "ticker": "APEX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FAPEX%252FAPEX.png/w=48&q=90",
+      "id": 306,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "Artery",
+      "link": "artery",
+      "category": "preTGE",
+      "ticker": "artery",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1920361142121033729/SLIR8rz7_400x400.jpg",
+      "id": 307,
+      "infofi_type": "XEET"
     }
   ]
 }

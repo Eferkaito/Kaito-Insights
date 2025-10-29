@@ -1200,7 +1200,7 @@
     {
       "name": "Vultisig",
       "link": "vultisig",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "VULT",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FVULT%252FVULTISIG.jpg/w=48&q=90",
       "id": 299,
@@ -1277,6 +1277,15 @@
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/ni8B0Piy_400x400.f8c06a2c93b67b8ca8d9481443921159.jpg",
       "id": 308,
       "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "STBL",
+      "link": "stbl",
+      "category": "postTGE",
+      "ticker": "STBL",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSTBL%252FSTBL.jpg/w=48&q=90",
+      "id": 309,
+      "infofi_type": "KAITO"
     }
   ]
 }

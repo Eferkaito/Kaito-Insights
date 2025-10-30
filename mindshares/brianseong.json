@@ -1,0 +1,33 @@
+{
+  "user": "brianseong",
+  "timeframes": {
+    "7D": {
+      "polygon": [
+        {
+          "t": 1761825739784,
+          "mindshare": 0.24
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1761825171703,
+          "mindshare": 1.27
+        }
+      ]
+    },
+    "30D": {
+      "polygon": [
+        {
+          "t": 1761825757314,
+          "mindshare": 0.3
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1761825177383,
+          "mindshare": 0.43
+        }
+      ]
+    }
+  }
+}

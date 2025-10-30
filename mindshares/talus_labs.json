@@ -1,0 +1,27 @@
+{
+  "user": "talus_labs",
+  "timeframes": {
+    "7D": {
+      "kaio": [
+        {
+          "t": 1761825205121,
+          "mindshare": 0.59
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1761825544725,
+          "mindshare": 0.31
+        }
+      ]
+    },
+    "30D": {
+      "kaio": [
+        {
+          "t": 1761825210009,
+          "mindshare": 0.31
+        }
+      ]
+    }
+  }
+}

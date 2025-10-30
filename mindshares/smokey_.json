@@ -1,0 +1,39 @@
+{
+  "user": "smokey_",
+  "timeframes": {
+    "7D": {
+      "monad": [
+        {
+          "t": 1761824783472,
+          "mindshare": 0.23
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1761825739784,
+          "mindshare": 2.59
+        }
+      ]
+    },
+    "30D": {
+      "monad": [
+        {
+          "t": 1761824803123,
+          "mindshare": 0.19
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1761825757314,
+          "mindshare": 2.58
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1761824605375,
+          "mindshare": 0.51
+        }
+      ]
+    }
+  }
+}

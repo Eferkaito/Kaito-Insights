@@ -2,54 +2,53 @@
   "data": [
     {
       "id": 199360,
-      "name": "Emir Beriker",
+      "name": null,
       "rank": 1,
       "user_id": "-1",
       "topic_id": "UNION",
-      "username": "e_beriker",
-      "mindshare": 3.08,
+      "username": null,
+      "mindshare": null,
       "projectId": 41,
       "duration": "30D",
-      "updatedAt": 1761721346244,
-      "follower_count": 76845,
+      "updatedAt": 1761825864270,
+      "follower_count": null,
+      "smart_follower_count": null,
+      "insightfullness": null,
+      "originality": null
+    },
+    {
+      "id": 199361,
+      "name": "Emir Beriker",
+      "rank": 2,
+      "user_id": "-1",
+      "topic_id": "UNION",
+      "username": "e_beriker",
+      "mindshare": 1.84,
+      "projectId": 41,
+      "duration": "30D",
+      "updatedAt": 1761825864270,
+      "follower_count": 76551,
       "smart_follower_count": 170,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
     },
     {
-      "id": 199361,
-      "name": "AInvestor",
-      "rank": 2,
-      "user_id": "-1",
-      "topic_id": "UNION",
-      "username": "AInvestor_11",
-      "mindshare": 1.8,
-      "projectId": 41,
-      "duration": "30D",
-      "updatedAt": 1761721346244,
-      "follower_count": 11256,
-      "smart_follower_count": 65,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 498.98
-    },
-    {
       "id": 199362,
-      "name": "cor",
+      "name": "AInvestor",
       "rank": 3,
       "user_id": "-1",
       "topic_id": "UNION",
-      "username": "corcoder",
-      "mindshare": 1.17,
+      "username": "AInvestor_11",
+      "mindshare": 1.79,
       "projectId": 41,
       "duration": "30D",
-      "updatedAt": 1761721346244,
-      "follower_count": 82422,
-      "smart_follower_count": 134,
+      "updatedAt": 1761825864270,
+      "follower_count": 11275,
+      "smart_follower_count": 66,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 498.98
     },
     {
       "id": 199363,
@@ -58,29 +57,29 @@
       "user_id": "-1",
       "topic_id": "UNION",
       "username": "martinezzart",
-      "mindshare": 0.65,
+      "mindshare": 0.64,
       "projectId": 41,
       "duration": "30D",
-      "updatedAt": 1761721346244,
-      "follower_count": 3705,
+      "updatedAt": 1761825864270,
+      "follower_count": 3694,
       "smart_follower_count": 33,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 378.04
+      "yaps_all": null
     },
     {
       "id": 199364,
-      "name": "ARNORMALY | NOYA.ai",
+      "name": "cor",
       "rank": 5,
       "user_id": "-1",
       "topic_id": "UNION",
-      "username": "wspugh01",
-      "mindshare": 0.05,
+      "username": "corcoder",
+      "mindshare": 0.41,
       "projectId": 41,
       "duration": "30D",
-      "updatedAt": 1761721346244,
-      "follower_count": 1496,
-      "smart_follower_count": 19,
+      "updatedAt": 1761825864270,
+      "follower_count": 82153,
+      "smart_follower_count": 134,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
@@ -117,7 +116,7 @@
       "smart_follower_count": 206,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 295.36
     },
     {
       "id": 199367,
@@ -134,7 +133,7 @@
       "smart_follower_count": 82,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 787.85
     },
     {
       "id": 199368,
@@ -151,7 +150,7 @@
       "smart_follower_count": 723,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 8193.57
+      "yaps_all": 8223.92
     },
     {
       "id": 199369,
@@ -168,7 +167,7 @@
       "smart_follower_count": 205,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 295.36
     },
     {
       "id": 199370,
@@ -202,7 +201,7 @@
       "smart_follower_count": 205,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 295.36
     },
     {
       "id": 199372,
@@ -270,7 +269,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199376,
@@ -287,7 +286,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199377,
@@ -304,7 +303,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199378,
@@ -321,7 +320,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199379,
@@ -338,7 +337,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199380,
@@ -355,7 +354,7 @@
       "smart_follower_count": 476,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1938.92
+      "yaps_all": 1942.53
     },
     {
       "id": 199381,
@@ -372,7 +371,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199382,
@@ -389,7 +388,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199383,
@@ -423,7 +422,7 @@
       "smart_follower_count": 535,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2268.11
+      "yaps_all": 2271.2
     },
     {
       "id": 199385,
@@ -440,7 +439,7 @@
       "smart_follower_count": 476,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1938.92
+      "yaps_all": 1942.53
     },
     {
       "id": 199386,
@@ -457,7 +456,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199387,
@@ -474,7 +473,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199388,
@@ -491,7 +490,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199389,
@@ -508,7 +507,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199390,
@@ -525,7 +524,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199391,
@@ -542,7 +541,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199392,
@@ -559,7 +558,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199393,
@@ -576,7 +575,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199394,
@@ -593,7 +592,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199395,
@@ -610,7 +609,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199396,
@@ -627,7 +626,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199397,
@@ -644,7 +643,7 @@
       "smart_follower_count": 1372,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199398,
@@ -661,7 +660,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199399,
@@ -678,7 +677,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199400,
@@ -695,7 +694,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199401,
@@ -712,7 +711,7 @@
       "smart_follower_count": 1370,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199402,
@@ -729,7 +728,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199403,
@@ -746,7 +745,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199404,
@@ -763,7 +762,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199405,
@@ -780,7 +779,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199406,
@@ -797,7 +796,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199407,
@@ -814,7 +813,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199408,
@@ -831,7 +830,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199409,
@@ -848,7 +847,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199410,
@@ -865,7 +864,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199411,
@@ -882,7 +881,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199412,
@@ -899,7 +898,7 @@
       "smart_follower_count": 1370,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199413,
@@ -916,7 +915,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199414,
@@ -933,7 +932,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199415,
@@ -950,7 +949,7 @@
       "smart_follower_count": 526,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2268.11
+      "yaps_all": 2271.2
     },
     {
       "id": 199416,
@@ -967,7 +966,7 @@
       "smart_follower_count": 159,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 965.12
+      "yaps_all": 969.43
     },
     {
       "id": 199417,
@@ -984,7 +983,7 @@
       "smart_follower_count": 1370,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199418,
@@ -1001,7 +1000,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199419,
@@ -1018,7 +1017,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199420,
@@ -1035,7 +1034,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199421,
@@ -1052,7 +1051,7 @@
       "smart_follower_count": 1370,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199422,
@@ -1069,7 +1068,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199423,
@@ -1086,7 +1085,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199424,
@@ -1103,7 +1102,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199425,
@@ -1120,7 +1119,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199426,
@@ -1137,7 +1136,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199427,
@@ -1154,7 +1153,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199428,
@@ -1171,7 +1170,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199429,
@@ -1188,7 +1187,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199430,
@@ -1205,7 +1204,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199431,
@@ -1222,7 +1221,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199432,
@@ -1239,7 +1238,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199433,
@@ -1256,7 +1255,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199434,
@@ -1273,7 +1272,7 @@
       "smart_follower_count": 104,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199435,
@@ -1290,7 +1289,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199436,
@@ -1307,7 +1306,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199437,
@@ -1324,7 +1323,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199438,
@@ -1341,7 +1340,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199439,
@@ -1358,7 +1357,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199440,
@@ -1375,7 +1374,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199441,
@@ -1392,7 +1391,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199442,
@@ -1409,7 +1408,7 @@
       "smart_follower_count": 1368,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 474.51
     },
     {
       "id": 199443,
@@ -1426,7 +1425,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199444,
@@ -1443,7 +1442,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199445,
@@ -1460,7 +1459,7 @@
       "smart_follower_count": 787,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 855.07
     },
     {
       "id": 199446,
@@ -1477,7 +1476,7 @@
       "smart_follower_count": 237,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 865.88
     },
     {
       "id": 199447,
@@ -1494,7 +1493,7 @@
       "smart_follower_count": 88,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 67.33
     },
     {
       "id": 199448,
@@ -1511,7 +1510,7 @@
       "smart_follower_count": 1140,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 3366.91
+      "yaps_all": 3373.55
     },
     {
       "id": 199449,
@@ -1545,7 +1544,7 @@
       "smart_follower_count": 411,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1003.35
     },
     {
       "id": 199451,
@@ -1562,7 +1561,7 @@
       "smart_follower_count": 184,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1060.65
+      "yaps_all": 1060.85
     },
     {
       "id": 199452,
@@ -1579,7 +1578,7 @@
       "smart_follower_count": 381,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 990.75
+      "yaps_all": 993.24
     },
     {
       "id": 199453,
@@ -1596,7 +1595,7 @@
       "smart_follower_count": 157,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 965.12
+      "yaps_all": 969.43
     },
     {
       "id": 199454,
@@ -1613,7 +1612,7 @@
       "smart_follower_count": 147,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 371.12
+      "yaps_all": 371.95
     },
     {
       "id": 199455,
@@ -1630,7 +1629,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199456,
@@ -1647,7 +1646,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199457,
@@ -1664,7 +1663,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199458,
@@ -1681,7 +1680,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     },
     {
       "id": 199459,
@@ -1698,7 +1697,7 @@
       "smart_follower_count": 103,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 215.76
+      "yaps_all": null
     }
   ]
 }

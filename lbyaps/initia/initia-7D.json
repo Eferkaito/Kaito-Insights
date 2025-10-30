@@ -2,34 +2,33 @@
   "data": [
     {
       "id": 3809100,
-      "name": "BirthdayBoi",
+      "name": null,
       "rank": 1,
       "user_id": "-1",
       "topic_id": "INITIA",
-      "username": "BirthdayBoiON",
-      "mindshare": 51.81,
+      "username": null,
+      "mindshare": null,
       "projectId": 34,
       "duration": "7D",
-      "updatedAt": 1761722683251,
-      "follower_count": 768,
-      "smart_follower_count": 44,
+      "updatedAt": 1761821841167,
+      "follower_count": null,
+      "smart_follower_count": null,
       "insightfullness": null,
-      "originality": null,
-      "yaps_all": null
+      "originality": null
     },
     {
       "id": 3809101,
-      "name": "funkmaster J",
+      "name": "BirthdayBoi",
       "rank": 2,
       "user_id": "-1",
       "topic_id": "INITIA",
-      "username": "0xPortola",
-      "mindshare": 23.95,
+      "username": "BirthdayBoiON",
+      "mindshare": null,
       "projectId": 34,
       "duration": "7D",
-      "updatedAt": 1761497464923,
-      "follower_count": 632,
-      "smart_follower_count": 41,
+      "updatedAt": 1761821841167,
+      "follower_count": null,
+      "smart_follower_count": null,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
@@ -168,7 +167,7 @@
       "smart_follower_count": 263,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1621.64
     },
     {
       "id": 3809110,
@@ -219,7 +218,7 @@
       "smart_follower_count": 307,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 2292.22
     },
     {
       "id": 3809113,
@@ -355,7 +354,7 @@
       "smart_follower_count": 12,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 27.53
     }
   ]
 }

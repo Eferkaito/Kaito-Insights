@@ -2,100 +2,133 @@
   "data": [
     {
       "id": 3799645,
-      "name": "ashen",
+      "name": null,
       "rank": 1,
       "user_id": "-1",
       "topic_id": "BLUE",
-      "username": "ashen_sol1",
-      "mindshare": 22.08,
+      "username": null,
+      "mindshare": null,
       "projectId": 97,
       "duration": "7D",
-      "updatedAt": 1761721911907,
-      "follower_count": 43751,
-      "smart_follower_count": 1490,
+      "updatedAt": 1761826498344,
+      "follower_count": null,
+      "smart_follower_count": null,
       "insightfullness": null,
-      "originality": null,
-      "yaps_all": null
+      "originality": null
     },
     {
       "id": 3799646,
-      "name": "加密狗",
+      "name": "ashen",
       "rank": 2,
       "user_id": "-1",
       "topic_id": "BLUE",
-      "username": "JiamigouCn",
-      "mindshare": 3.48,
+      "username": "ashen_one",
+      "mindshare": 19.34,
       "projectId": 97,
       "duration": "7D",
-      "updatedAt": 1761721911907,
-      "follower_count": 185530,
-      "smart_follower_count": 324,
+      "updatedAt": 1761815790549,
+      "follower_count": 43978,
+      "smart_follower_count": 1495,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 4800.59
     },
     {
       "id": 3799647,
-      "name": "Koob (T) 쿠쿠쿱 (T) | 𝔽rAI",
+      "name": "加密狗",
       "rank": 3,
       "user_id": "-1",
       "topic_id": "BLUE",
-      "username": "kimyg002",
-      "mindshare": 3.29,
+      "username": "JiamigouCn",
+      "mindshare": 2.86,
       "projectId": 97,
       "duration": "7D",
-      "updatedAt": 1761721911907,
-      "follower_count": 16516,
-      "smart_follower_count": 341,
+      "updatedAt": 1761815790549,
+      "follower_count": 185630,
+      "smart_follower_count": 324,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 577.7
+      "yaps_all": 785.14
     },
     {
       "id": 3799648,
-      "name": "Leo.Master",
+      "name": "Koob (T) 쿠쿠쿱 (T) | 𝔽rAI",
       "rank": 4,
       "user_id": "-1",
       "topic_id": "BLUE",
-      "username": "ezeroho8245",
-      "mindshare": 2.21,
+      "username": "kimyg002",
+      "mindshare": 2.78,
       "projectId": 97,
       "duration": "7D",
-      "updatedAt": 1761721911907,
-      "follower_count": 11331,
-      "smart_follower_count": 125,
+      "updatedAt": 1761815790549,
+      "follower_count": 16526,
+      "smart_follower_count": 341,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 662.03
+      "yaps_all": 578.53
     },
     {
       "id": 3799649,
-      "name": "jayplayco",
+      "name": "Leo.Master",
       "rank": 5,
       "user_id": "-1",
       "topic_id": "BLUE",
-      "username": "jayplayco",
-      "mindshare": 1.64,
+      "username": "ezeroho8245",
+      "mindshare": 1.9,
       "projectId": 97,
       "duration": "7D",
-      "updatedAt": 1761721911907,
-      "follower_count": 9355,
-      "smart_follower_count": 273,
+      "updatedAt": 1761815790549,
+      "follower_count": 11327,
+      "smart_follower_count": 125,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1319.06
+      "yaps_all": 665.31
     },
     {
       "id": 3799650,
-      "name": "Bongbong.ip",
+      "name": "jayplayco",
       "rank": 6,
       "user_id": "-1",
       "topic_id": "BLUE",
-      "username": "bongbongcrypto",
-      "mindshare": 0.67,
+      "username": "jayplayco",
+      "mindshare": 1.56,
       "projectId": 97,
       "duration": "7D",
-      "updatedAt": 1761721911907,
+      "updatedAt": 1761815790549,
+      "follower_count": 9361,
+      "smart_follower_count": 273,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 1328.26
+    },
+    {
+      "id": 3799651,
+      "name": "Eva 树姐👧🏻",
+      "rank": 7,
+      "user_id": "-1",
+      "topic_id": "BLUE",
+      "username": "EvaCmore",
+      "mindshare": 1.35,
+      "projectId": 97,
+      "duration": "7D",
+      "updatedAt": 1761815790549,
+      "follower_count": 60104,
+      "smart_follower_count": 270,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 1569.07
+    },
+    {
+      "id": 3799652,
+      "name": "Bongbong.ip",
+      "rank": 8,
+      "user_id": "-1",
+      "topic_id": "BLUE",
+      "username": "bongbongcrypto",
+      "mindshare": 0.57,
+      "projectId": 97,
+      "duration": "7D",
+      "updatedAt": 1761815790549,
       "follower_count": 7280,
       "smart_follower_count": 137,
       "insightfullness": null,
@@ -103,89 +136,55 @@
       "yaps_all": 341.54
     },
     {
-      "id": 3799651,
-      "name": "∑: MAGIC 🕯️Ⓜ️Ⓜ️T",
-      "rank": 7,
-      "user_id": "-1",
-      "topic_id": "BLUE",
-      "username": "IPALAU1",
-      "mindshare": 0.64,
-      "projectId": 97,
-      "duration": "7D",
-      "updatedAt": 1761721911907,
-      "follower_count": 7408,
-      "smart_follower_count": 209,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 534.84
-    },
-    {
-      "id": 3799652,
-      "name": "🩷💚khadee 🎩",
-      "rank": 8,
-      "user_id": "-1",
-      "topic_id": "BLUE",
-      "username": "dee_nftarmy",
-      "mindshare": 0.52,
-      "projectId": 97,
-      "duration": "7D",
-      "updatedAt": 1761721911907,
-      "follower_count": 5092,
-      "smart_follower_count": 83,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": null
-    },
-    {
       "id": 3799653,
-      "name": "0xfarmed",
+      "name": "∑: MAGIC 🕯️Ⓜ️Ⓜ️T",
       "rank": 9,
       "user_id": "-1",
       "topic_id": "BLUE",
-      "username": "0xfarmed",
-      "mindshare": 0.32,
+      "username": "IPALAU1",
+      "mindshare": 0.55,
       "projectId": 97,
       "duration": "7D",
-      "updatedAt": 1761721911907,
+      "updatedAt": 1761815790549,
+      "follower_count": 7411,
+      "smart_follower_count": 210,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 534.87
+    },
+    {
+      "id": 3799654,
+      "name": "🩷💚khadee 🎩",
+      "rank": 10,
+      "user_id": "-1",
+      "topic_id": "BLUE",
+      "username": "dee_nftarmy",
+      "mindshare": 0.49,
+      "projectId": 97,
+      "duration": "7D",
+      "updatedAt": 1761815790549,
+      "follower_count": 5119,
+      "smart_follower_count": 85,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 787.85
+    },
+    {
+      "id": 3799655,
+      "name": "0xfarmed",
+      "rank": 11,
+      "user_id": "-1",
+      "topic_id": "BLUE",
+      "username": "0xfarmed",
+      "mindshare": 0.18,
+      "projectId": 97,
+      "duration": "7D",
+      "updatedAt": 1761815790549,
       "follower_count": 1889,
       "smart_follower_count": 74,
       "insightfullness": null,
       "originality": null,
       "yaps_all": 604.7
-    },
-    {
-      "id": 3799654,
-      "name": "Cryptotiger",
-      "rank": 10,
-      "user_id": "-1",
-      "topic_id": "BLUE",
-      "username": "Bum_cryptotiger",
-      "mindshare": 0.12,
-      "projectId": 97,
-      "duration": "7D",
-      "updatedAt": 1761721911907,
-      "follower_count": 7093,
-      "smart_follower_count": 178,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 421.5
-    },
-    {
-      "id": 3799655,
-      "name": "Matteo.sui",
-      "rank": 11,
-      "user_id": "-1",
-      "topic_id": "BLUE",
-      "username": "matteodotsui",
-      "mindshare": 0.27,
-      "projectId": 97,
-      "duration": "7D",
-      "updatedAt": 1761635220211,
-      "follower_count": 38950,
-      "smart_follower_count": 335,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": null
     },
     {
       "id": 3799656,
@@ -236,7 +235,7 @@
       "smart_follower_count": 396,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1481.26
     },
     {
       "id": 3799659,
@@ -253,7 +252,7 @@
       "smart_follower_count": 720,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 8193.57
+      "yaps_all": 8223.92
     },
     {
       "id": 3799660,
@@ -270,7 +269,7 @@
       "smart_follower_count": 373,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 770.64
     },
     {
       "id": 3829860,
@@ -287,7 +286,7 @@
       "smart_follower_count": 1193,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 3460.29
     },
     {
       "id": 25680168,
@@ -304,7 +303,7 @@
       "smart_follower_count": 584,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 2099.61
     },
     {
       "id": 25680169,
@@ -321,7 +320,7 @@
       "smart_follower_count": 317,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 3061.88
+      "yaps_all": 3067.22
     },
     {
       "id": 25680170,
@@ -355,7 +354,7 @@
       "smart_follower_count": 716,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 904.2
     },
     {
       "id": 25680172,
@@ -389,7 +388,7 @@
       "smart_follower_count": 319,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 785.14
     },
     {
       "id": 25680174,
@@ -406,7 +405,7 @@
       "smart_follower_count": 553,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 2383.16
     },
     {
       "id": 25680175,
@@ -440,7 +439,7 @@
       "smart_follower_count": 329,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2703.5
+      "yaps_all": 2707.9
     },
     {
       "id": 25680177,
@@ -457,7 +456,7 @@
       "smart_follower_count": 179,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 357.53
+      "yaps_all": 359.76
     },
     {
       "id": 25680178,
@@ -491,7 +490,7 @@
       "smart_follower_count": 274,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1621.64
     },
     {
       "id": 25680180,
@@ -508,7 +507,7 @@
       "smart_follower_count": 122,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 662.03
+      "yaps_all": 665.31
     },
     {
       "id": 25680181,
@@ -525,7 +524,7 @@
       "smart_follower_count": 81,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 787.85
     },
     {
       "id": 25680182,

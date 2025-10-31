@@ -1,0 +1,51 @@
+{
+  "user": "day1global podcast",
+  "timeframes": {
+    "7D": {
+      "megaeth": [
+        {
+          "t": 1761909095539,
+          "mindshare": 0.26
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1761912692936,
+          "mindshare": 0.35
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1761913979614,
+          "mindshare": 1.09
+        }
+      ]
+    },
+    "30D": {
+      "huma": [
+        {
+          "t": 1761907623258,
+          "mindshare": 0.65
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1761913735639,
+          "mindshare": 0.19
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1761912703909,
+          "mindshare": 0.32
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1761913987236,
+          "mindshare": 0.88
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "user": "0xpandawhat",
+  "timeframes": {
+    "7D": {
+      "anichess": [
+        {
+          "t": 1761869501083,
+          "mindshare": 0.79
+        }
+      ],
+      "apex": [
+        {
+          "t": 1761871088107,
+          "mindshare": 0.52
+        }
+      ],
+      "bitdealer": [
+        {
+          "t": 1761871498051,
+          "mindshare": 0.23
+        }
+      ]
+    },
+    "30D": {
+      "anichess": [
+        {
+          "t": 1761869505703,
+          "mindshare": 0.26
+        }
+      ],
+      "apex": [
+        {
+          "t": 1761871093987,
+          "mindshare": 0.22
+        }
+      ]
+    }
+  }
+}

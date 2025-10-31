@@ -1,0 +1,39 @@
+{
+  "user": "chinsanity",
+  "timeframes": {
+    "7D": {
+      "moonbirds": [
+        {
+          "t": 1761869788513,
+          "mindshare": 1.07
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1761873098137,
+          "mindshare": 0.48
+        }
+      ]
+    },
+    "30D": {
+      "anichess": [
+        {
+          "t": 1761869505703,
+          "mindshare": 0.56
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1761869801426,
+          "mindshare": 0.35
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1761873108222,
+          "mindshare": 1.1
+        }
+      ]
+    }
+  }
+}

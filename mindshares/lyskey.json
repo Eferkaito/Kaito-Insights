@@ -1,0 +1,51 @@
+{
+  "user": "lyskey",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1761868912090,
+          "mindshare": 0.17
+        }
+      ],
+      "monad": [
+        {
+          "t": 1761872077258,
+          "mindshare": 0.2
+        }
+      ],
+      "paradex": [
+        {
+          "t": 1761870782020,
+          "mindshare": 6.58
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1761873369326,
+          "mindshare": 6.31
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1761873473025,
+          "mindshare": 0.28
+        }
+      ]
+    },
+    "30D": {
+      "paradex": [
+        {
+          "t": 1761870788806,
+          "mindshare": 2.91
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1761873376947,
+          "mindshare": 3.58
+        }
+      ]
+    }
+  }
+}

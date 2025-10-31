@@ -1,0 +1,75 @@
+{
+  "user": "cryptorand",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1761868912090,
+          "mindshare": 0.27
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1761869235622,
+          "mindshare": 6.53
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1761872950461,
+          "mindshare": 0.36
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1761871461201,
+          "mindshare": 1.3
+        }
+      ],
+      "sei": [
+        {
+          "t": 1761868731203,
+          "mindshare": 1.18
+        }
+      ]
+    },
+    "30D": {
+      "0g": [
+        {
+          "t": 1761870224415,
+          "mindshare": 1.9
+        }
+      ],
+      "defidotapp": [
+        {
+          "t": 1761869242025,
+          "mindshare": 1.01
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1761872964305,
+          "mindshare": 0.34
+        }
+      ],
+      "satlayer": [
+        {
+          "t": 1761871465641,
+          "mindshare": 2.57
+        }
+      ],
+      "sei": [
+        {
+          "t": 1761868739921,
+          "mindshare": 0.44
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1761870578850,
+          "mindshare": 0.75
+        }
+      ]
+    }
+  }
+}

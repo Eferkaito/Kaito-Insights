@@ -1,0 +1,27 @@
+{
+  "user": "0xpain",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1761868912090,
+          "mindshare": 0.15
+        }
+      ]
+    },
+    "30D": {
+      "goatnetwork": [
+        {
+          "t": 1761872706164,
+          "mindshare": 0.22
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1761872790059,
+          "mindshare": 0.24
+        }
+      ]
+    }
+  }
+}

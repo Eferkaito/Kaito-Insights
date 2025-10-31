@@ -1,0 +1,33 @@
+{
+  "user": "jeremybtc",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1761868950538,
+          "mindshare": 0.19
+        }
+      ],
+      "metawin": [
+        {
+          "t": 1761869578209,
+          "mindshare": 0.47
+        }
+      ]
+    },
+    "30D": {
+      "ethereum": [
+        {
+          "t": 1761868964789,
+          "mindshare": 0.16
+        }
+      ],
+      "metawin": [
+        {
+          "t": 1761869581790,
+          "mindshare": 1.42
+        }
+      ]
+    }
+  }
+}

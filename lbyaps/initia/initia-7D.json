@@ -10,7 +10,7 @@
       "mindshare": null,
       "projectId": 34,
       "duration": "7D",
-      "updatedAt": 1761821841167,
+      "updatedAt": 1761869100378,
       "follower_count": null,
       "smart_follower_count": null,
       "insightfullness": null,
@@ -23,12 +23,12 @@
       "user_id": "-1",
       "topic_id": "INITIA",
       "username": "BirthdayBoiON",
-      "mindshare": null,
+      "mindshare": 64.22,
       "projectId": 34,
       "duration": "7D",
-      "updatedAt": 1761821841167,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761869100378,
+      "follower_count": 768,
+      "smart_follower_count": 44,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
@@ -167,7 +167,7 @@
       "smart_follower_count": 263,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1621.64
+      "yaps_all": 1623.89
     },
     {
       "id": 3809110,
@@ -218,7 +218,7 @@
       "smart_follower_count": 307,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2292.22
+      "yaps_all": null
     },
     {
       "id": 3809113,
@@ -354,7 +354,7 @@
       "smart_follower_count": 12,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 27.53
+      "yaps_all": null
     }
   ]
 }

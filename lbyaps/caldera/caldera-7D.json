@@ -10,7 +10,7 @@
       "mindshare": null,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
+      "updatedAt": 1761869855923,
       "follower_count": null,
       "smart_follower_count": null,
       "insightfullness": null,
@@ -23,15 +23,15 @@
       "user_id": "-1",
       "topic_id": "CALDERA",
       "username": "CryptoUsopp",
-      "mindshare": null,
+      "mindshare": 18.18,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761869855923,
+      "follower_count": 44113,
+      "smart_follower_count": 344,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1109.05
+      "yaps_all": 1109.2
     },
     {
       "id": 3800711,
@@ -40,15 +40,15 @@
       "user_id": "-1",
       "topic_id": "CALDERA",
       "username": "0xkatz",
-      "mindshare": null,
+      "mindshare": 13.27,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761869855923,
+      "follower_count": 9054,
+      "smart_follower_count": 789,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 430.99
+      "yaps_all": null
     },
     {
       "id": 3800712,
@@ -57,15 +57,15 @@
       "user_id": "-1",
       "topic_id": "CALDERA",
       "username": "73lV_",
-      "mindshare": null,
+      "mindshare": 6.06,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761869855923,
+      "follower_count": 71373,
+      "smart_follower_count": 480,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1942.53
+      "yaps_all": 1944.31
     },
     {
       "id": 3800713,
@@ -74,15 +74,15 @@
       "user_id": "-1",
       "topic_id": "CALDERA",
       "username": "onchainmo",
-      "mindshare": null,
+      "mindshare": 3.99,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761869855923,
+      "follower_count": 39010,
+      "smart_follower_count": 1591,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 5541.08
+      "yaps_all": 5543.13
     },
     {
       "id": 3800714,
@@ -91,15 +91,15 @@
       "user_id": "-1",
       "topic_id": "CALDERA",
       "username": "brave_raf",
-      "mindshare": null,
+      "mindshare": 2.82,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761869855923,
+      "follower_count": 10507,
+      "smart_follower_count": 194,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1060.85
+      "yaps_all": null
     },
     {
       "id": 3800715,
@@ -108,49 +108,49 @@
       "user_id": "-1",
       "topic_id": "CALDERA",
       "username": "EasyEatsBodega",
-      "mindshare": null,
+      "mindshare": 2.47,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761869855923,
+      "follower_count": 140066,
+      "smart_follower_count": 2646,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 14130.63
+      "yaps_all": 14131.77
     },
     {
       "id": 3800716,
-      "name": "FIP Crypto | Footprint",
+      "name": "pika2zero",
       "rank": 8,
       "user_id": "-1",
       "topic_id": "CALDERA",
-      "username": "fipcrypto",
-      "mindshare": null,
-      "projectId": 13,
-      "duration": "7D",
-      "updatedAt": 1761822532002,
-      "follower_count": null,
-      "smart_follower_count": null,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": 982.61
-    },
-    {
-      "id": 3800717,
-      "name": "pika2zero",
-      "rank": 9,
-      "user_id": "-1",
-      "topic_id": "CALDERA",
       "username": "ruggedpikachu",
-      "mindshare": null,
+      "mindshare": 2.37,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761869855923,
+      "follower_count": 4278,
+      "smart_follower_count": 90,
       "insightfullness": null,
       "originality": null,
       "yaps_all": 823.56
+    },
+    {
+      "id": 3800717,
+      "name": "FIP Crypto | Footprint",
+      "rank": 9,
+      "user_id": "-1",
+      "topic_id": "CALDERA",
+      "username": "fipcrypto",
+      "mindshare": 2.18,
+      "projectId": 13,
+      "duration": "7D",
+      "updatedAt": 1761869855923,
+      "follower_count": 20334,
+      "smart_follower_count": 211,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": null
     },
     {
       "id": 3800718,
@@ -162,12 +162,12 @@
       "mindshare": null,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1761822532002,
+      "updatedAt": 1761849800575,
       "follower_count": null,
       "smart_follower_count": null,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 778.26
+      "yaps_all": null
     },
     {
       "id": 3800719,
@@ -184,7 +184,7 @@
       "smart_follower_count": null,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 2292.22
+      "yaps_all": null
     },
     {
       "id": 3800720,
@@ -201,7 +201,7 @@
       "smart_follower_count": 252,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1488.17
+      "yaps_all": 1490.99
     },
     {
       "id": 3800721,
@@ -218,7 +218,7 @@
       "smart_follower_count": 119,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 805.61
+      "yaps_all": null
     },
     {
       "id": 3800722,
@@ -235,7 +235,7 @@
       "smart_follower_count": 452,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1987.16
+      "yaps_all": null
     },
     {
       "id": 3800723,
@@ -252,7 +252,7 @@
       "smart_follower_count": 74,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 705.74
+      "yaps_all": null
     },
     {
       "id": 3800724,
@@ -286,7 +286,7 @@
       "smart_follower_count": 354,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 822.5
+      "yaps_all": 825.27
     },
     {
       "id": 3800726,
@@ -490,7 +490,7 @@
       "smart_follower_count": 194,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 898.63
+      "yaps_all": null
     },
     {
       "id": 3800737,
@@ -507,7 +507,7 @@
       "smart_follower_count": 194,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 898.63
+      "yaps_all": null
     },
     {
       "id": 3830162,
@@ -524,7 +524,7 @@
       "smart_follower_count": 194,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 898.63
+      "yaps_all": null
     },
     {
       "id": 3916925,
@@ -558,7 +558,7 @@
       "smart_follower_count": 192,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 898.63
+      "yaps_all": null
     }
   ]
 }

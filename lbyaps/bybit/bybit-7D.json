@@ -10,7 +10,7 @@
       "mindshare": null,
       "projectId": 95,
       "duration": "7D",
-      "updatedAt": 1761827292071,
+      "updatedAt": 1761868564029,
       "follower_count": null,
       "smart_follower_count": null,
       "insightfullness": null,
@@ -23,15 +23,15 @@
       "user_id": "-1",
       "topic_id": "BYBITTRADFI",
       "username": "tm_uchal",
-      "mindshare": null,
+      "mindshare": 3.13,
       "projectId": 95,
       "duration": "7D",
-      "updatedAt": 1761827292071,
-      "follower_count": null,
-      "smart_follower_count": null,
+      "updatedAt": 1761868564029,
+      "follower_count": 5400,
+      "smart_follower_count": 143,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 521.58
+      "yaps_all": 523.36
     },
     {
       "id": 3800303,
@@ -65,7 +65,7 @@
       "smart_follower_count": 699,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 8223.92
+      "yaps_all": 8248.89
     },
     {
       "id": 3800305,
@@ -82,7 +82,7 @@
       "smart_follower_count": 115,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 350.49
+      "yaps_all": null
     },
     {
       "id": 3800306,
@@ -99,7 +99,7 @@
       "smart_follower_count": 114,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 488.85
+      "yaps_all": 490.22
     }
   ]
 }

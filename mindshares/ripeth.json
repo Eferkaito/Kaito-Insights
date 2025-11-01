@@ -1,0 +1,33 @@
+{
+  "user": "ripeth",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1761955365147,
+          "mindshare": 0.51
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1761955399201,
+          "mindshare": 0.53
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1761955370742,
+          "mindshare": 0.31
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1761955415565,
+          "mindshare": 0.44
+        }
+      ]
+    }
+  }
+}

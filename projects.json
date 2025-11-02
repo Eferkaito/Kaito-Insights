@@ -1295,6 +1295,15 @@
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTRIA%252FTRIA.jpg/w=48&q=90",
       "id": 310,
       "infofi_type": "KAITO"
+    },
+    {
+      "name": "Beyond",
+      "link": "beyond",
+      "category": "preTGE",
+      "ticker": "beyond",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/q_T3lU0h_400x400.b9554292c42075ddc458b295e77d0e5e.jpg",
+      "id": 311,
+      "infofi_type": "WALLCHAIN"
     }
   ]
 }

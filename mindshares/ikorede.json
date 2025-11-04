@@ -1,0 +1,87 @@
+{
+  "user": "ikorede",
+  "timeframes": {
+    "7D": {
+      "fogo": [
+        {
+          "t": 1762215654253,
+          "mindshare": 0.03
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1762215799613,
+          "mindshare": 0.01
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1762215972104,
+          "mindshare": 0.05
+        }
+      ],
+      "noya": [
+        {
+          "t": 1762216038991,
+          "mindshare": 0.11
+        }
+      ],
+      "rainbow": [
+        {
+          "t": 1762215348580,
+          "mindshare": 0.28
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1762214453153,
+          "mindshare": 0.45
+        }
+      ],
+      "yeet": [
+        {
+          "t": 1762218425695,
+          "mindshare": 0.15
+        }
+      ]
+    },
+    "30D": {
+      "fogo": [
+        {
+          "t": 1762215664322,
+          "mindshare": 0.06
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1762215810392,
+          "mindshare": 0.09
+        }
+      ],
+      "moremarkets": [
+        {
+          "t": 1762215321771,
+          "mindshare": 0.3
+        }
+      ],
+      "noya": [
+        {
+          "t": 1762216050520,
+          "mindshare": 0.05
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1762214466120,
+          "mindshare": 0.15
+        }
+      ],
+      "yeet": [
+        {
+          "t": 1762218435693,
+          "mindshare": 0.11
+        }
+      ]
+    }
+  }
+}

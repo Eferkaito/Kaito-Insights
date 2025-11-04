@@ -1,0 +1,33 @@
+{
+  "user": "omgcorn",
+  "timeframes": {
+    "7D": {
+      "katana": [
+        {
+          "t": 1762218613412,
+          "mindshare": 1.43
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1762213371617,
+          "mindshare": 0.6
+        }
+      ]
+    },
+    "30D": {
+      "katana": [
+        {
+          "t": 1762218622729,
+          "mindshare": 0.57
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1762213384746,
+          "mindshare": 0.23
+        }
+      ]
+    }
+  }
+}

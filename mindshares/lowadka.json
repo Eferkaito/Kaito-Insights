@@ -1,0 +1,33 @@
+{
+  "user": "lowadka",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1762214520649,
+          "mindshare": 0.13
+        }
+      ],
+      "katana": [
+        {
+          "t": 1762218613412,
+          "mindshare": 0.2
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1762214526108,
+          "mindshare": 0.18
+        }
+      ],
+      "katana": [
+        {
+          "t": 1762218622729,
+          "mindshare": 0.22
+        }
+      ]
+    }
+  }
+}

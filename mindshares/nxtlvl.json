@@ -1,0 +1,27 @@
+{
+  "user": "nxtlvl",
+  "timeframes": {
+    "7D": {
+      "polygon": [
+        {
+          "t": 1762302546151,
+          "mindshare": 0.49
+        }
+      ]
+    },
+    "30D": {
+      "katana": [
+        {
+          "t": 1762300722582,
+          "mindshare": 0.1
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1762302559520,
+          "mindshare": 0.28
+        }
+      ]
+    }
+  }
+}

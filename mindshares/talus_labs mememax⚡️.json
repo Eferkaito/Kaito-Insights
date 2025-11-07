@@ -1,0 +1,33 @@
+{
+  "user": "talus_labs mememax⚡️",
+  "timeframes": {
+    "7D": {
+      "beldex": [
+        {
+          "t": 1762518362979,
+          "mindshare": 0.37
+        }
+      ],
+      "edgen": [
+        {
+          "t": 1762518395977,
+          "mindshare": 0.26
+        }
+      ],
+      "everlyn": [
+        {
+          "t": 1762519143589,
+          "mindshare": 0.34
+        }
+      ]
+    },
+    "30D": {
+      "beldex": [
+        {
+          "t": 1762518370101,
+          "mindshare": 0.35
+        }
+      ]
+    }
+  }
+}

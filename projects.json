@@ -147,7 +147,7 @@
     {
       "name": "Novastro",
       "link": "novastro",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "NYT",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FNYT%252FNYT.png/w=64&q=90",
       "id": 17,
@@ -831,7 +831,7 @@
     {
       "name": "Momentum",
       "link": "momentum",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "MOMENTUM",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMOMENTUM%252FMOMENTUM.png/w=64&q=90",
       "id": 98,
@@ -912,7 +912,7 @@
     {
       "name": "PlayAI",
       "link": "playai",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "PLAYAI",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPLAYAI%252FPLAYAI.jpg/w=64&q=90",
       "id": 107,
@@ -1200,7 +1200,7 @@
     {
       "name": "Vultisig",
       "link": "vultisig",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "VULT",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FVULT%252FVULTISIG.jpg/w=48&q=90",
       "id": 299,
@@ -1366,6 +1366,33 @@
       "ticker": "FLIPSTER",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fasset.cdn.kaito.ai%252Fticker-icons%252FFLIPSTER%252FFLIPSTER.jpg/w=48&q=90",
       "id": 318,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "Spaace",
+      "link": "spaace",
+      "category": "preTGE",
+      "ticker": "spaace",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/Spaace_avatar.38f8c5a9ef818037d1e121de02a03561.svg",
+      "id": 323,
+      "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "PiP World",
+      "link": "pip",
+      "category": "preTGE",
+      "ticker": "PIPWORLD",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPIPWORLD%252FPIPWORLD.jpg/w=48&q=90",
+      "id": 324,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "MemeMax",
+      "link": "mememax",
+      "category": "preTGE",
+      "ticker": "MEMEMAX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMEMEMAX%252FMEMEMAX.jpg/w=48&q=90",
+      "id": 325,
       "infofi_type": "KAITO"
     }
   ]

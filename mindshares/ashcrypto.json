@@ -1,0 +1,27 @@
+{
+  "user": "ashcrypto",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1762564178595,
+          "mindshare": 0.49
+        }
+      ]
+    },
+    "30D": {
+      "ethereum": [
+        {
+          "t": 1762564192227,
+          "mindshare": 0.3
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1762562541925,
+          "mindshare": 1.17
+        }
+      ]
+    }
+  }
+}

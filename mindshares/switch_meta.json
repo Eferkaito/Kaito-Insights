@@ -1,0 +1,27 @@
+{
+  "user": "switch_meta",
+  "timeframes": {
+    "7D": {
+      "monad": [
+        {
+          "t": 1762775526441,
+          "mindshare": 0.27
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1762776413548,
+          "mindshare": 0.87
+        }
+      ]
+    },
+    "30D": {
+      "polygon": [
+        {
+          "t": 1762776427006,
+          "mindshare": 0.18
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "user": "phuonguyen1409",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1762776941032,
+          "mindshare": 1.2
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1762775424806,
+          "mindshare": 0.25
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1762775932300,
+          "mindshare": 0.78
+        }
+      ]
+    },
+    "30D": {
+      "starknet": [
+        {
+          "t": 1762777015531,
+          "mindshare": 0.56
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1762775939141,
+          "mindshare": 0.23
+        }
+      ]
+    }
+  }
+}

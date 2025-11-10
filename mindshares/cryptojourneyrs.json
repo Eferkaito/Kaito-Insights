@@ -1,0 +1,25 @@
+{
+  "user": "cryptojourneyrs",
+  "timeframes": {
+    "7D": {
+      "injective": [
+        {
+          "t": 1762775659414,
+          "mindshare": 0.76
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1762776282523,
+          "mindshare": 0.63
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1762777006050,
+          "mindshare": 0.22
+        }
+      ]
+    }
+  }
+}

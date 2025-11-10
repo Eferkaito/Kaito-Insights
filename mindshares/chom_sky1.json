@@ -1,0 +1,33 @@
+{
+  "user": "chom_sky1",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1762776941032,
+          "mindshare": 0.84
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1762775424806,
+          "mindshare": 0.26
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1762775932300,
+          "mindshare": 0.15
+        }
+      ]
+    },
+    "30D": {
+      "berachain": [
+        {
+          "t": 1762776950165,
+          "mindshare": 0.33
+        }
+      ]
+    }
+  }
+}

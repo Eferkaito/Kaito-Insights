@@ -1,0 +1,33 @@
+{
+  "user": "adeoduy200",
+  "timeframes": {
+    "7D": {
+      "goatnetwork": [
+        {
+          "t": 1762776164641,
+          "mindshare": 0.93
+        }
+      ],
+      "tria": [
+        {
+          "t": 1762776475449,
+          "mindshare": 0.38
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1762777113531,
+          "mindshare": 0.19
+        }
+      ]
+    },
+    "30D": {
+      "goatnetwork": [
+        {
+          "t": 1762776172628,
+          "mindshare": 0.44
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "user": "kraken_ranger",
+  "timeframes": {
+    "7D": {
+      "monad": [
+        {
+          "t": 1762775526441,
+          "mindshare": 0.86
+        }
+      ]
+    },
+    "30D": {
+      "monad": [
+        {
+          "t": 1762775537729,
+          "mindshare": 0.43
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1762775292880,
+          "mindshare": 0.24
+        }
+      ]
+    }
+  }
+}

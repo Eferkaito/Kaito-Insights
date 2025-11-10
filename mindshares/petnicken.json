@@ -1,0 +1,27 @@
+{
+  "user": "petnicken",
+  "timeframes": {
+    "7D": {
+      "berachain": [
+        {
+          "t": 1762776941032,
+          "mindshare": 0.64
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1762775932300,
+          "mindshare": 1.66
+        }
+      ]
+    },
+    "30D": {
+      "succinct": [
+        {
+          "t": 1762775939141,
+          "mindshare": 0.35
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "user": "sycool_pro",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1762775283663,
+          "mindshare": 1.75
+        }
+      ],
+      "succinct": [
+        {
+          "t": 1762775932300,
+          "mindshare": 0.14
+        }
+      ]
+    },
+    "30D": {
+      "openledger": [
+        {
+          "t": 1762775292880,
+          "mindshare": 0.68
+        }
+      ]
+    }
+  }
+}

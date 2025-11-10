@@ -1,0 +1,73 @@
+{
+  "user": "real_tshelby",
+  "timeframes": {
+    "7D": {
+      "bluefin": [
+        {
+          "t": 1762777182448,
+          "mindshare": 0.26
+        }
+      ],
+      "creatorbid": [
+        {
+          "t": 1762777220954,
+          "mindshare": 0.26
+        }
+      ],
+      "dydx": [
+        {
+          "t": 1762775587967,
+          "mindshare": 0.22
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1762775086396,
+          "mindshare": 0.77
+        }
+      ],
+      "frax": [
+        {
+          "t": 1762775624522,
+          "mindshare": 0.2
+        }
+      ],
+      "integra": [
+        {
+          "t": 1762776381189,
+          "mindshare": 0.44
+        }
+      ],
+      "msu": [
+        {
+          "t": 1762775764641,
+          "mindshare": 0.18
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1762776252676,
+          "mindshare": 0.08
+        }
+      ],
+      "polkadot": [
+        {
+          "t": 1762776282523,
+          "mindshare": 0.69
+        }
+      ],
+      "sophon": [
+        {
+          "t": 1762776733941,
+          "mindshare": 0.21
+        }
+      ],
+      "uxlink": [
+        {
+          "t": 1762777061794,
+          "mindshare": 2.28
+        }
+      ]
+    }
+  }
+}

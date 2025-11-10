@@ -1,0 +1,27 @@
+{
+  "user": "vitoaph",
+  "timeframes": {
+    "7D": {
+      "starknet": [
+        {
+          "t": 1762777006050,
+          "mindshare": 0.75
+        }
+      ]
+    },
+    "30D": {
+      "sophon": [
+        {
+          "t": 1762776743535,
+          "mindshare": 0.72
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1762777015531,
+          "mindshare": 0.4
+        }
+      ]
+    }
+  }
+}

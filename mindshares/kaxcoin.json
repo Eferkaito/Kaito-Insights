@@ -1,0 +1,27 @@
+{
+  "user": "kaxcoin",
+  "timeframes": {
+    "7D": {
+      "polkadot": [
+        {
+          "t": 1762776282523,
+          "mindshare": 2.86
+        }
+      ],
+      "stbl": [
+        {
+          "t": 1762776535754,
+          "mindshare": 0.58
+        }
+      ]
+    },
+    "30D": {
+      "polkadot": [
+        {
+          "t": 1762776288941,
+          "mindshare": 0.32
+        }
+      ]
+    }
+  }
+}

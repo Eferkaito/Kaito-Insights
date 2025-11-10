@@ -1,0 +1,39 @@
+{
+  "user": "oldie9678",
+  "timeframes": {
+    "7D": {
+      "irys": [
+        {
+          "t": 1762775215082,
+          "mindshare": 0.34
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1762776321541,
+          "mindshare": 1.37
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1762776094407,
+          "mindshare": 0.7
+        }
+      ]
+    },
+    "30D": {
+      "multibank": [
+        {
+          "t": 1762776331814,
+          "mindshare": 0.46
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1762776105319,
+          "mindshare": 0.22
+        }
+      ]
+    }
+  }
+}

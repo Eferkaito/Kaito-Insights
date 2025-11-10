@@ -1,0 +1,27 @@
+{
+  "user": "m_jhaayy",
+  "timeframes": {
+    "7D": {
+      "openledger": [
+        {
+          "t": 1762775283663,
+          "mindshare": 0.41
+        }
+      ]
+    },
+    "30D": {
+      "openledger": [
+        {
+          "t": 1762775292880,
+          "mindshare": 0.55
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1762776256410,
+          "mindshare": 0.37
+        }
+      ]
+    }
+  }
+}

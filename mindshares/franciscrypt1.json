@@ -1,0 +1,33 @@
+{
+  "user": "franciscrypt1",
+  "timeframes": {
+    "7D": {
+      "dydx": [
+        {
+          "t": 1762775587967,
+          "mindshare": 2.27
+        }
+      ],
+      "injective": [
+        {
+          "t": 1762775659414,
+          "mindshare": 0.6
+        }
+      ],
+      "starknet": [
+        {
+          "t": 1762777006050,
+          "mindshare": 0.66
+        }
+      ]
+    },
+    "30D": {
+      "dydx": [
+        {
+          "t": 1762775595984,
+          "mindshare": 0.5
+        }
+      ]
+    }
+  }
+}

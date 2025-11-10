@@ -1,0 +1,19 @@
+{
+  "user": "0x_susie",
+  "timeframes": {
+    "30D": {
+      "polkadot": [
+        {
+          "t": 1762776288941,
+          "mindshare": 1.2
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1762777128358,
+          "mindshare": 0.28
+        }
+      ]
+    }
+  }
+}

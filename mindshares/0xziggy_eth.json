@@ -1,0 +1,39 @@
+{
+  "user": "0xziggy_eth",
+  "timeframes": {
+    "7D": {
+      "allora": [
+        {
+          "t": 1762776611876,
+          "mindshare": 0.36
+        }
+      ],
+      "goatnetwork": [
+        {
+          "t": 1762776164641,
+          "mindshare": 0.5
+        }
+      ],
+      "integra": [
+        {
+          "t": 1762776381189,
+          "mindshare": 1.05
+        }
+      ]
+    },
+    "30D": {
+      "allora": [
+        {
+          "t": 1762776616598,
+          "mindshare": 0.26
+        }
+      ],
+      "integra": [
+        {
+          "t": 1762776387388,
+          "mindshare": 0.36
+        }
+      ]
+    }
+  }
+}

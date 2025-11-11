@@ -1,0 +1,33 @@
+{
+  "user": "thenarrator",
+  "timeframes": {
+    "7D": {
+      "polygon": [
+        {
+          "t": 1762858082259,
+          "mindshare": 0.12
+        }
+      ],
+      "pyth": [
+        {
+          "t": 1762860836585,
+          "mindshare": 0.47
+        }
+      ],
+      "talus": [
+        {
+          "t": 1762861575609,
+          "mindshare": 0.27
+        }
+      ]
+    },
+    "30D": {
+      "pyth": [
+        {
+          "t": 1762860842627,
+          "mindshare": 1.02
+        }
+      ]
+    }
+  }
+}

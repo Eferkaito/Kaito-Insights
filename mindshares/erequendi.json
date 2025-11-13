@@ -1,0 +1,105 @@
+{
+  "user": "erequendi",
+  "timeframes": {
+    "7D": {
+      "irys": [
+        {
+          "t": 1762992661574,
+          "mindshare": 0.34
+        }
+      ],
+      "moremarkets": [
+        {
+          "t": 1762990667106,
+          "mindshare": 0.77
+        }
+      ],
+      "pip": [
+        {
+          "t": 1762996388211,
+          "mindshare": 1.5
+        }
+      ],
+      "sentient": [
+        {
+          "t": 1762992169585,
+          "mindshare": 0.23
+        }
+      ],
+      "tria": [
+        {
+          "t": 1762995603641,
+          "mindshare": 0.32
+        }
+      ]
+    },
+    "30D": {
+      "brevis": [
+        {
+          "t": 1762990645469,
+          "mindshare": 0.35
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1762994658676,
+          "mindshare": 0.28
+        }
+      ],
+      "irys": [
+        {
+          "t": 1762992672875,
+          "mindshare": 0.2
+        }
+      ],
+      "moremarkets": [
+        {
+          "t": 1762990671058,
+          "mindshare": 0.61
+        }
+      ],
+      "near": [
+        {
+          "t": 1762997023709,
+          "mindshare": 0.17
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1762995264869,
+          "mindshare": 0.57
+        }
+      ],
+      "pip": [
+        {
+          "t": 1762996393558,
+          "mindshare": 1.56
+        }
+      ],
+      "rainbow": [
+        {
+          "t": 1762990695796,
+          "mindshare": 0.25
+        }
+      ],
+      "sentient": [
+        {
+          "t": 1762992173097,
+          "mindshare": 0.27
+        }
+      ],
+      "tria": [
+        {
+          "t": 1762995616563,
+          "mindshare": 0.18
+        }
+      ],
+      "vultisig": [
+        {
+          "t": 1762992524449,
+          "mindshare": 0.23
+        }
+      ]
+    }
+  }
+}

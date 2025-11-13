@@ -1,0 +1,57 @@
+{
+  "user": "legendaryy",
+  "timeframes": {
+    "7D": {
+      "ethereum": [
+        {
+          "t": 1762996798152,
+          "mindshare": 0.43
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1762991735619,
+          "mindshare": 1.03
+        }
+      ],
+      "tria": [
+        {
+          "t": 1762995603641,
+          "mindshare": 1.64
+        }
+      ],
+      "yeet": [
+        {
+          "t": 1762991893670,
+          "mindshare": 0.82
+        }
+      ]
+    },
+    "30D": {
+      "ethereum": [
+        {
+          "t": 1762996811682,
+          "mindshare": 0.18
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1762991748529,
+          "mindshare": 0.61
+        }
+      ],
+      "tria": [
+        {
+          "t": 1762995616563,
+          "mindshare": 0.66
+        }
+      ],
+      "yeet": [
+        {
+          "t": 1762991903079,
+          "mindshare": 2.78
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "user": "nofuture",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1763077834191,
+          "mindshare": 0.27
+        }
+      ],
+      "katana": [
+        {
+          "t": 1763080291307,
+          "mindshare": 2.51
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1763082356959,
+          "mindshare": 0.87
+        }
+      ]
+    },
+    "30D": {
+      "katana": [
+        {
+          "t": 1763080303615,
+          "mindshare": 1.92
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1763082372486,
+          "mindshare": 0.8
+        }
+      ],
+      "tria": [
+        {
+          "t": 1763082451411,
+          "mindshare": 0.14
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1763081175550,
+          "mindshare": 0.01
+        }
+      ]
+    }
+  }
+}

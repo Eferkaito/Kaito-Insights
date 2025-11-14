@@ -1,0 +1,75 @@
+{
+  "user": "davidgmi",
+  "timeframes": {
+    "7D": {
+      "metawin": [
+        {
+          "t": 1763076549280,
+          "mindshare": 1.67
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1763080212748,
+          "mindshare": 0.34
+        }
+      ],
+      "noble": [
+        {
+          "t": 1763081910784,
+          "mindshare": 2.88
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1763081983437,
+          "mindshare": 0.68
+        }
+      ],
+      "tria": [
+        {
+          "t": 1763082436779,
+          "mindshare": 0.24
+        }
+      ]
+    },
+    "30D": {
+      "brevis": [
+        {
+          "t": 1763076632562,
+          "mindshare": 0.29
+        }
+      ],
+      "fogo": [
+        {
+          "t": 1763077098668,
+          "mindshare": 0.36
+        }
+      ],
+      "metawin": [
+        {
+          "t": 1763076556556,
+          "mindshare": 1.1
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1763080229450,
+          "mindshare": 0.19
+        }
+      ],
+      "noble": [
+        {
+          "t": 1763081924625,
+          "mindshare": 1.32
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1763081999420,
+          "mindshare": 0.43
+        }
+      ]
+    }
+  }
+}

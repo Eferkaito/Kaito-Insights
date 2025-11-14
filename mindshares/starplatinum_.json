@@ -1,0 +1,117 @@
+{
+  "user": "starplatinum_",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1763075726769,
+          "mindshare": 0.5
+        }
+      ],
+      "ethereum": [
+        {
+          "t": 1763075773506,
+          "mindshare": 0.18
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1763083414429,
+          "mindshare": 0.23
+        }
+      ],
+      "monad": [
+        {
+          "t": 1763081353587,
+          "mindshare": 0.2
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1763082356959,
+          "mindshare": 0.3
+        }
+      ],
+      "sei": [
+        {
+          "t": 1763075511635,
+          "mindshare": 0.91
+        }
+      ],
+      "sixr": [
+        {
+          "t": 1763080098603,
+          "mindshare": 3.95
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1763082747666,
+          "mindshare": 1.53
+        }
+      ],
+      "yeet": [
+        {
+          "t": 1763078179610,
+          "mindshare": 2.96
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1763083034849,
+          "mindshare": 0.24
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1763075735486,
+          "mindshare": 0.3
+        }
+      ],
+      "doodles": [
+        {
+          "t": 1763076509664,
+          "mindshare": 1.38
+        }
+      ],
+      "monad": [
+        {
+          "t": 1763081369859,
+          "mindshare": 0.16
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1763082372486,
+          "mindshare": 0.45
+        }
+      ],
+      "sei": [
+        {
+          "t": 1763075522122,
+          "mindshare": 0.62
+        }
+      ],
+      "sixr": [
+        {
+          "t": 1763080105755,
+          "mindshare": 1.58
+        }
+      ],
+      "story-protocol": [
+        {
+          "t": 1763082758416,
+          "mindshare": 1.34
+        }
+      ],
+      "yeet": [
+        {
+          "t": 1763078194324,
+          "mindshare": 1.55
+        }
+      ]
+    }
+  }
+}

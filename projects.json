@@ -1430,6 +1430,42 @@
       "imgUrl": "https://pbs.twimg.com/profile_images/1951942662258348032/oHD63ffQ_400x400.jpg",
       "id": 329,
       "infofi_type": "XEET"
+    },
+    {
+      "name": "zkPass",
+      "link": "zkpass",
+      "category": "preTGE",
+      "ticker": "ZKPASS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FZKPASS%252FZKPASS.jpg/w=48&q=90",
+      "id": 330,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "SIXR Cricket",
+      "link": "sixr",
+      "category": "preTGE",
+      "ticker": "SIXR",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSIXR%252FSIXR.jpg/w=48&q=90",
+      "id": 331,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "Reya",
+      "link": "reya",
+      "category": "preTGE",
+      "ticker": "reya",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/reya_avatar.f5563ec83e5a1109e726fa85dd528083.svg",
+      "id": 332,
+      "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "AlignerZ",
+      "link": "AlignerZ",
+      "category": "preTGE",
+      "ticker": "AlignerZ",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/bb6yU4dM_400x400.84039936f053dca7ff2e80988ea62b74.jpg",
+      "id": 333,
+      "infofi_type": "WALLCHAIN"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "user": "internxbt",
+  "timeframes": {
+    "7D": {
+      "brevis": [
+        {
+          "t": 1763165290464,
+          "mindshare": 0.34
+        }
+      ],
+      "cysic": [
+        {
+          "t": 1763161869133,
+          "mindshare": 0.36
+        }
+      ]
+    },
+    "30D": {
+      "cysic": [
+        {
+          "t": 1763161876471,
+          "mindshare": 0.24
+        }
+      ],
+      "moremarkets": [
+        {
+          "t": 1763165329853,
+          "mindshare": 0.3
+        }
+      ]
+    }
+  }
+}

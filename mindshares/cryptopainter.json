@@ -1,0 +1,111 @@
+{
+  "user": "cryptopainter",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1763166488651,
+          "mindshare": 1.12
+        }
+      ],
+      "bitdealer": [
+        {
+          "t": 1763169229731,
+          "mindshare": 0.86
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1763169487444,
+          "mindshare": 1.44
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1763164000728,
+          "mindshare": 0.58
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1763168873714,
+          "mindshare": 0.18
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1763162709241,
+          "mindshare": 18.94
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1763166366559,
+          "mindshare": 0.33
+        }
+      ],
+      "zkpass": [
+        {
+          "t": 1763168792130,
+          "mindshare": 1.15
+        }
+      ]
+    },
+    "30D": {
+      "billions": [
+        {
+          "t": 1763166494681,
+          "mindshare": 0.77
+        }
+      ],
+      "bitdealer": [
+        {
+          "t": 1763169235507,
+          "mindshare": 0.43
+        }
+      ],
+      "falcon": [
+        {
+          "t": 1763169495995,
+          "mindshare": 0.75
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1763164015985,
+          "mindshare": 0.44
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1763168888098,
+          "mindshare": 0.54
+        }
+      ],
+      "novastro": [
+        {
+          "t": 1763166538197,
+          "mindshare": 0.97
+        }
+      ],
+      "sidekick": [
+        {
+          "t": 1763162714802,
+          "mindshare": 11.23
+        }
+      ],
+      "theoriq": [
+        {
+          "t": 1763166377718,
+          "mindshare": 1.11
+        }
+      ],
+      "zkpass": [
+        {
+          "t": 1763168802196,
+          "mindshare": 2.1
+        }
+      ]
+    }
+  }
+}

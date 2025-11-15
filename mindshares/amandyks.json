@@ -1,0 +1,33 @@
+{
+  "user": "amandyks",
+  "timeframes": {
+    "7D": {
+      "polygon": [
+        {
+          "t": 1763162942881,
+          "mindshare": 0.18
+        }
+      ]
+    },
+    "30D": {
+      "moremarkets": [
+        {
+          "t": 1763165329853,
+          "mindshare": 0.28
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1763162760849,
+          "mindshare": 0.24
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1763162956939,
+          "mindshare": 0.15
+        }
+      ]
+    }
+  }
+}

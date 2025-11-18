@@ -1,0 +1,33 @@
+{
+  "user": "lukanoog",
+  "timeframes": {
+    "7D": {
+      "initia": [
+        {
+          "t": 1763425911122,
+          "mindshare": 7.8
+        }
+      ],
+      "momentum": [
+        {
+          "t": 1763422311247,
+          "mindshare": 0.16
+        }
+      ]
+    },
+    "30D": {
+      "falcon": [
+        {
+          "t": 1763422900383,
+          "mindshare": 0.01
+        }
+      ],
+      "initia": [
+        {
+          "t": 1763425916503,
+          "mindshare": 11.56
+        }
+      ]
+    }
+  }
+}

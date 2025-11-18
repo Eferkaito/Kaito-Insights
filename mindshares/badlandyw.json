@@ -1,0 +1,33 @@
+{
+  "user": "badlandyw",
+  "timeframes": {
+    "7D": {
+      "kaio": [
+        {
+          "t": 1763423784060,
+          "mindshare": 0.31
+        }
+      ],
+      "miden": [
+        {
+          "t": 1763424102447,
+          "mindshare": 1.26
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1763423942650,
+          "mindshare": 0.23
+        }
+      ]
+    },
+    "30D": {
+      "miden": [
+        {
+          "t": 1763424108579,
+          "mindshare": 0.74
+        }
+      ]
+    }
+  }
+}

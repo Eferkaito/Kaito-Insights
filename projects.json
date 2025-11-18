@@ -1466,6 +1466,15 @@
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/bb6yU4dM_400x400.84039936f053dca7ff2e80988ea62b74.jpg",
       "id": 333,
       "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "Miden",
+      "link": "miden",
+      "category": "preTGE",
+      "ticker": "MIDEN",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMIDEN%252FMIDEN.png/w=48&q=90",
+      "id": 334,
+      "infofi_type": "KAITO"
     }
   ]
 }

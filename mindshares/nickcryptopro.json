@@ -1,0 +1,27 @@
+{
+  "user": "nickcryptopro",
+  "timeframes": {
+    "7D": {
+      "walrus": [
+        {
+          "t": 1763465945737,
+          "mindshare": 0.25
+        }
+      ]
+    },
+    "30D": {
+      "caldera": [
+        {
+          "t": 1763467704858,
+          "mindshare": 0.23
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1763465960356,
+          "mindshare": 0.23
+        }
+      ]
+    }
+  }
+}

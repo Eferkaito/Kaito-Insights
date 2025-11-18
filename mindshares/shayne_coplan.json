@@ -1,0 +1,33 @@
+{
+  "user": "shayne_coplan",
+  "timeframes": {
+    "7D": {
+      "caldera": [
+        {
+          "t": 1763467690198,
+          "mindshare": 0.65
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1763465945737,
+          "mindshare": 0.39
+        }
+      ]
+    },
+    "30D": {
+      "caldera": [
+        {
+          "t": 1763467704858,
+          "mindshare": 0.25
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1763465960356,
+          "mindshare": 0.25
+        }
+      ]
+    }
+  }
+}

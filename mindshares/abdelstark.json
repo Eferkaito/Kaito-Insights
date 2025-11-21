@@ -1,0 +1,33 @@
+{
+  "user": "abdelstark",
+  "timeframes": {
+    "7D": {
+      "starknet": [
+        {
+          "t": 1763724278157,
+          "mindshare": 7.96
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1763724379699,
+          "mindshare": 0.63
+        }
+      ]
+    },
+    "30D": {
+      "starknet": [
+        {
+          "t": 1763724287156,
+          "mindshare": 7.41
+        }
+      ],
+      "zcash": [
+        {
+          "t": 1763724394527,
+          "mindshare": 0.47
+        }
+      ]
+    }
+  }
+}

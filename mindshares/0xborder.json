@@ -1,0 +1,57 @@
+{
+  "user": "0xborder",
+  "timeframes": {
+    "7D": {
+      "bitdealer": [
+        {
+          "t": 1763725242628,
+          "mindshare": 0.25
+        }
+      ],
+      "brevis": [
+        {
+          "t": 1763721093543,
+          "mindshare": 0.39
+        }
+      ],
+      "kaito": [
+        {
+          "t": 1763716981483,
+          "mindshare": 0.16
+        }
+      ],
+      "mememax": [
+        {
+          "t": 1763724627304,
+          "mindshare": 0.59
+        }
+      ],
+      "sentient": [
+        {
+          "t": 1763722951127,
+          "mindshare": 0.35
+        }
+      ]
+    },
+    "30D": {
+      "brevis": [
+        {
+          "t": 1763721099305,
+          "mindshare": 0.26
+        }
+      ],
+      "mememax": [
+        {
+          "t": 1763724641920,
+          "mindshare": 0.37
+        }
+      ],
+      "sentient": [
+        {
+          "t": 1763722958619,
+          "mindshare": 0.2
+        }
+      ]
+    }
+  }
+}

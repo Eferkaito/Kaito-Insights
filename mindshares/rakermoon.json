@@ -1,0 +1,27 @@
+{
+  "user": "rakermoon",
+  "timeframes": {
+    "7D": {
+      "polygon": [
+        {
+          "t": 1763688195973,
+          "mindshare": 0.42
+        }
+      ]
+    },
+    "30D": {
+      "polygon": [
+        {
+          "t": 1763688212751,
+          "mindshare": 0.27
+        }
+      ],
+      "turtleclub": [
+        {
+          "t": 1763688076350,
+          "mindshare": 0.49
+        }
+      ]
+    }
+  }
+}

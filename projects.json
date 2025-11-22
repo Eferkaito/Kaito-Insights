@@ -12,7 +12,7 @@
     {
       "name": "Thrive Protocol",
       "link": "thrive",
-      "category": "postTGE",
+      "category": "preTGE",
       "ticker": "THRIVE",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTHRIVE%252FTHRIVE.jpg/w=64&q=90",
       "id": 2,
@@ -273,7 +273,7 @@
     {
       "name": "YEET",
       "link": "yeet",
-      "category": "postTGE",
+      "category": "preTGE",
       "ticker": "YEET",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FYEET%252FYEET.jpg/w=64&q=90",
       "id": 32,
@@ -588,7 +588,7 @@
     {
       "name": "Multipli",
       "link": "multipli",
-      "category": "postTGE",
+      "category": "preTGE",
       "ticker": "MULTIPLI",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMULTIPLI%252FMULTIPLI.png/w=64&q=90",
       "id": 68,
@@ -597,7 +597,7 @@
     {
       "name": "PuffPaw",
       "link": "puffpaw",
-      "category": "postTGE",
+      "category": "preTGE",
       "ticker": "PUFFPAW",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPUFFPAW%252FPUFFPAW.png/w=64&q=90",
       "id": 69,
@@ -651,7 +651,7 @@
     {
       "name": "CreatorBid",
       "link": "creatorbid",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "CREATORBID",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FCREATORBID%252FCREATORBID.jpg/w=64&q=90",
       "id": 75,
@@ -759,7 +759,7 @@
     {
       "name": "MemeX",
       "link": "memex",
-      "category": "postTGE",
+      "category": "preTGE",
       "ticker": "MEMEX",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMEMEX%252FMEMEX.png%253Fv%253D1/w=64&q=90",
       "id": 89,
@@ -777,7 +777,7 @@
     {
       "name": "Surf",
       "link": "surf",
-      "category": "postTGE",
+      "category": "preTGE",
       "ticker": "SURF",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSURF%252FSURF.jpg/w=64&q=90",
       "id": 91,
@@ -867,7 +867,7 @@
     {
       "name": "Walrus",
       "link": "walrus",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "WAL",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FWAL%252FWAL.png/w=64&q=90",
       "id": 102,
@@ -948,7 +948,7 @@
     {
       "name": "Anichess",
       "link": "anichess",
-      "category": "postTGE",
+      "category": "preTGE",
       "ticker": "ANICHESS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANICHESS%252FANICHESS.jpg/w=48&q=90",
       "id": 239,
@@ -1020,7 +1020,7 @@
     {
       "name": "Beldex",
       "link": "beldex",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "BDX",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBDX%252FBDX.png/w=48&q=90",
       "id": 247,
@@ -1254,7 +1254,7 @@
     {
       "name": "ApeX",
       "link": "apex",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "APEX",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FAPEX%252FAPEX.png/w=48&q=90",
       "id": 306,
@@ -1474,6 +1474,15 @@
       "ticker": "MIDEN",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FMIDEN%252FMIDEN.png/w=48&q=90",
       "id": 334,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "OpenGradient",
+      "link": "opengradient",
+      "category": "preTGE",
+      "ticker": "OPENGRADIENT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FOPENGRADIENT%252FOPENGRADIENT.png/w=48&q=90",
+      "id": 335,
       "infofi_type": "KAITO"
     }
   ]

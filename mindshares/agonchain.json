@@ -1,0 +1,45 @@
+{
+  "user": "agonchain",
+  "timeframes": {
+    "7D": {
+      "openmind": [
+        {
+          "t": 1763857018325,
+          "mindshare": 0.67
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1763856752749,
+          "mindshare": 1.24
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1763858302487,
+          "mindshare": 1.41
+        }
+      ]
+    },
+    "30D": {
+      "openmind": [
+        {
+          "t": 1763857030898,
+          "mindshare": 0.31
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1763856767139,
+          "mindshare": 0.78
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1763858310103,
+          "mindshare": 0.59
+        }
+      ]
+    }
+  }
+}

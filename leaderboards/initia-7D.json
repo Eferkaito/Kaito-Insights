@@ -1,18 +1,34 @@
 {
   "data": [
     {
-      "id": 45798991,
+      "id": 45891418,
       "name": "BirthdayBoi",
       "rank": 1,
       "user_id": "-1",
       "topic_id": "INITIA",
       "username": "BirthdayBoiON",
-      "mindshare": 37.2,
+      "mindshare": 31.39,
       "projectId": 34,
       "duration": "7D",
-      "updatedAt": 1764028329373,
-      "follower_count": 804,
+      "updatedAt": 1764068731902,
+      "follower_count": 803,
       "smart_follower_count": 45,
+      "insightfullness": null,
+      "originality": null
+    },
+    {
+      "id": 46030387,
+      "name": "Sawit",
+      "rank": 2,
+      "user_id": "-1",
+      "topic_id": "INITIA",
+      "username": "tansawit",
+      "mindshare": 8.76,
+      "projectId": 34,
+      "duration": "7D",
+      "updatedAt": 1764068731902,
+      "follower_count": 5602,
+      "smart_follower_count": 450,
       "insightfullness": null,
       "originality": null
     }

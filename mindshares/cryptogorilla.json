@@ -1,0 +1,39 @@
+{
+  "user": "cryptogorilla",
+  "timeframes": {
+    "7D": {
+      "doodles": [
+        {
+          "t": 1764117465557,
+          "mindshare": 0.56
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1764118932978,
+          "mindshare": 0.25
+        }
+      ]
+    },
+    "30D": {
+      "doodles": [
+        {
+          "t": 1764117473359,
+          "mindshare": 0.76
+        }
+      ],
+      "megaeth": [
+        {
+          "t": 1764118948091,
+          "mindshare": 0.25
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1764117807337,
+          "mindshare": 0.94
+        }
+      ]
+    }
+  }
+}

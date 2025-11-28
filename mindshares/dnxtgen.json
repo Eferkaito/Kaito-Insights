@@ -1,0 +1,51 @@
+{
+  "user": "dnxtgen",
+  "timeframes": {
+    "7D": {
+      "moremarkets": [
+        {
+          "t": 1764288394867,
+          "mindshare": 0.3
+        }
+      ],
+      "noble": [
+        {
+          "t": 1764290880369,
+          "mindshare": 0.41
+        }
+      ],
+      "zkpass": [
+        {
+          "t": 1764282241203,
+          "mindshare": 0.52
+        }
+      ]
+    },
+    "30D": {
+      "miden": [
+        {
+          "t": 1764283410633,
+          "mindshare": 0.27
+        }
+      ],
+      "moremarkets": [
+        {
+          "t": 1764288401625,
+          "mindshare": 0.29
+        }
+      ],
+      "noble": [
+        {
+          "t": 1764290894533,
+          "mindshare": 0.26
+        }
+      ],
+      "zkpass": [
+        {
+          "t": 1764282253286,
+          "mindshare": 0.23
+        }
+      ]
+    }
+  }
+}

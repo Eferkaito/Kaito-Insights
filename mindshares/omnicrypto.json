@@ -1,0 +1,105 @@
+{
+  "user": "omnicrypto",
+  "timeframes": {
+    "7D": {
+      "integra": [
+        {
+          "t": 1764283582313,
+          "mindshare": 0.56
+        }
+      ],
+      "kaio": [
+        {
+          "t": 1764290808214,
+          "mindshare": 0.91
+        }
+      ],
+      "miden": [
+        {
+          "t": 1764291096678,
+          "mindshare": 0.46
+        }
+      ],
+      "noble": [
+        {
+          "t": 1764290880369,
+          "mindshare": 2.44
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1764290954151,
+          "mindshare": 1.29
+        }
+      ],
+      "rainbow": [
+        {
+          "t": 1764288444163,
+          "mindshare": 0.83
+        }
+      ],
+      "zkpass": [
+        {
+          "t": 1764282241203,
+          "mindshare": 1.46
+        }
+      ]
+    },
+    "30D": {
+      "integra": [
+        {
+          "t": 1764291292248,
+          "mindshare": 0.45
+        }
+      ],
+      "kaio": [
+        {
+          "t": 1764290813425,
+          "mindshare": 0.57
+        }
+      ],
+      "lumiterra": [
+        {
+          "t": 1764288962497,
+          "mindshare": 0.06
+        }
+      ],
+      "miden": [
+        {
+          "t": 1764283410633,
+          "mindshare": 0.72
+        }
+      ],
+      "moremarkets": [
+        {
+          "t": 1764288401625,
+          "mindshare": 0.54
+        }
+      ],
+      "noble": [
+        {
+          "t": 1764290894533,
+          "mindshare": 0.78
+        }
+      ],
+      "openmind": [
+        {
+          "t": 1764290967668,
+          "mindshare": 0.54
+        }
+      ],
+      "rainbow": [
+        {
+          "t": 1764288451306,
+          "mindshare": 0.56
+        }
+      ],
+      "zkpass": [
+        {
+          "t": 1764282253286,
+          "mindshare": 0.63
+        }
+      ]
+    }
+  }
+}

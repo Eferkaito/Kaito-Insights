@@ -1,0 +1,27 @@
+{
+  "user": "crypto_davys",
+  "timeframes": {
+    "7D": {
+      "falcon": [
+        {
+          "t": 1764286927924,
+          "mindshare": 0.89
+        }
+      ]
+    },
+    "30D": {
+      "falcon": [
+        {
+          "t": 1764286935871,
+          "mindshare": 0.39
+        }
+      ],
+      "mantle": [
+        {
+          "t": 1764286512325,
+          "mindshare": 0.16
+        }
+      ]
+    }
+  }
+}

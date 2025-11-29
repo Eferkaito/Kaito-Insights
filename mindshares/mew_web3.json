@@ -1,0 +1,45 @@
+{
+  "user": "mew_web3",
+  "timeframes": {
+    "7D": {
+      "apex": [
+        {
+          "t": 1764374606172,
+          "mindshare": 1.27
+        }
+      ],
+      "everlyn": [
+        {
+          "t": 1764373911457,
+          "mindshare": 0.5
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1764371786693,
+          "mindshare": 0.55
+        }
+      ]
+    },
+    "30D": {
+      "apex": [
+        {
+          "t": 1764374614467,
+          "mindshare": 0.45
+        }
+      ],
+      "everlyn": [
+        {
+          "t": 1764373918954,
+          "mindshare": 0.33
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1764371793623,
+          "mindshare": 0.99
+        }
+      ]
+    }
+  }
+}

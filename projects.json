@@ -1183,7 +1183,7 @@
       "name": "Kona",
       "link": "kona",
       "category": "preTGE",
-      "ticker": "kona",
+      "ticker": "",
       "imgUrl": "https://pbs.twimg.com/profile_images/1962662588598362112/GS93TWpm_400x400.png",
       "id": 294,
       "infofi_type": "XEET"
@@ -1193,7 +1193,7 @@
       "link": "myriad-market",
       "category": "preTGE",
       "ticker": "myriad-market",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1949824545403101184/bdrlDoUR_400x400.jpg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1986151223456587776/pamzJ-ln_400x400.jpg",
       "id": 295,
       "infofi_type": "XEET"
     },
@@ -1264,7 +1264,7 @@
       "name": "Artery",
       "link": "artery",
       "category": "preTGE",
-      "ticker": "artery",
+      "ticker": "",
       "imgUrl": "https://pbs.twimg.com/profile_images/1920361142121033729/SLIR8rz7_400x400.jpg",
       "id": 307,
       "infofi_type": "XEET"
@@ -1309,7 +1309,7 @@
       "name": "DeSci News",
       "link": "desci",
       "category": "preTGE",
-      "ticker": "desci",
+      "ticker": "",
       "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/c823dc1f-cdd2-4dc7-9d1d-ed117dc09371/1761518890670_1000165244.jpg?w=128&q=75",
       "id": 312,
       "infofi_type": "XEET"
@@ -1318,7 +1318,7 @@
       "name": "Valannia",
       "link": "valannia",
       "category": "preTGE",
-      "ticker": "valannia",
+      "ticker": "",
       "imgUrl": "https://pbs.twimg.com/profile_images/1965119608513241088/ZKlKna-J_400x400.jpg",
       "id": 313,
       "infofi_type": "XEET"
@@ -1327,7 +1327,7 @@
       "name": "Lute",
       "link": "lute",
       "category": "preTGE",
-      "ticker": "lute",
+      "ticker": "",
       "imgUrl": "https://pbs.twimg.com/profile_images/1982520824734048256/xn0sTpGa_400x400.jpg",
       "id": 314,
       "infofi_type": "XEET"
@@ -1336,7 +1336,7 @@
       "name": "World of Women",
       "link": "world-of-women",
       "category": "preTGE",
-      "ticker": "world-of-women",
+      "ticker": "",
       "imgUrl": "https://pbs.twimg.com/profile_images/1962854143422337024/FiIdP95H_400x400.jpg",
       "id": 315,
       "infofi_type": "XEET"
@@ -1354,7 +1354,7 @@
       "name": "MEGAWEAPON",
       "link": "megaweapon",
       "category": "preTGE",
-      "ticker": "megaweapon",
+      "ticker": "",
       "imgUrl": "https://pbs.twimg.com/profile_images/1628829445959057408/PpOIUyx3_400x400.jpg",
       "id": 317,
       "infofi_type": "XEET"
@@ -1399,7 +1399,7 @@
       "name": "Fight.ID",
       "link": "fight",
       "category": "preTGE",
-      "ticker": "fight",
+      "ticker": "",
       "imgUrl": "https://pbs.twimg.com/profile_images/1880419092256940032/EHbAKRlc_400x400.png",
       "id": 326,
       "infofi_type": "XEET"
@@ -1426,7 +1426,7 @@
       "name": "Cock.io",
       "link": "cock-io",
       "category": "preTGE",
-      "ticker": "cock-io",
+      "ticker": "",
       "imgUrl": "https://pbs.twimg.com/profile_images/1951942662258348032/oHD63ffQ_400x400.jpg",
       "id": 329,
       "infofi_type": "XEET"
@@ -1484,6 +1484,33 @@
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FOPENGRADIENT%252FOPENGRADIENT.png/w=48&q=90",
       "id": 335,
       "infofi_type": "KAITO"
+    },
+    {
+      "name": "Polysight",
+      "link": "polysight",
+      "category": "preTGE",
+      "ticker": "polysight",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/0bc9de0a-1e70-48da-9430-593c44dcc7af/1764077673302_vXLAspZr_400x400.jpg",
+      "id": 336,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Project Zero",
+      "link": "project-zero",
+      "category": "preTGE",
+      "ticker": "project-zero",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/233eb9d2-2a2a-414e-8b2f-d219c8578382/1762546582720_projectzero.jpg",
+      "id": 337,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Good Vibes Club",
+      "link": "good-vibes-club",
+      "category": "preTGE",
+      "ticker": "good-vibes-club",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/830dd1bb-bc09-41c5-9bb0-b08047e93289/1764092442846_123OV4DDsvw_400x400.jpg",
+      "id": 338,
+      "infofi_type": "XEET"
     }
   ]
 }

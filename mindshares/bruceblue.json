@@ -1,0 +1,33 @@
+{
+  "user": "bruceblue",
+  "timeframes": {
+    "7D": {
+      "brevis": [
+        {
+          "t": 1764637911046,
+          "mindshare": 0.24
+        }
+      ],
+      "moonbirds": [
+        {
+          "t": 1764638083555,
+          "mindshare": 0.28
+        }
+      ]
+    },
+    "30D": {
+      "moonbirds": [
+        {
+          "t": 1764638096822,
+          "mindshare": 0.36
+        }
+      ],
+      "talus": [
+        {
+          "t": 1764637630108,
+          "mindshare": 0.04
+        }
+      ]
+    }
+  }
+}

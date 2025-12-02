@@ -1,0 +1,51 @@
+{
+  "user": "lenion",
+  "timeframes": {
+    "7D": {
+      "infinit": [
+        {
+          "t": 1764637183943,
+          "mindshare": 0.15
+        }
+      ],
+      "irys": [
+        {
+          "t": 1764636481450,
+          "mindshare": 0.63
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1764638620165,
+          "mindshare": 0.27
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1764635676016,
+          "mindshare": 0.16
+        }
+      ],
+      "infinit": [
+        {
+          "t": 1764637198918,
+          "mindshare": 0.27
+        }
+      ],
+      "irys": [
+        {
+          "t": 1764636496885,
+          "mindshare": 0.21
+        }
+      ],
+      "multipli": [
+        {
+          "t": 1764638633820,
+          "mindshare": 0.43
+        }
+      ]
+    }
+  }
+}

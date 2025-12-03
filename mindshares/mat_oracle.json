@@ -1,0 +1,33 @@
+{
+  "user": "mat_oracle",
+  "timeframes": {
+    "7D": {
+      "injective": [
+        {
+          "t": 1764764016837,
+          "mindshare": 0.82
+        }
+      ],
+      "pyth": [
+        {
+          "t": 1764758051430,
+          "mindshare": 4.88
+        }
+      ]
+    },
+    "30D": {
+      "injective": [
+        {
+          "t": 1764764025744,
+          "mindshare": 2.18
+        }
+      ],
+      "pyth": [
+        {
+          "t": 1764758065223,
+          "mindshare": 4.88
+        }
+      ]
+    }
+  }
+}

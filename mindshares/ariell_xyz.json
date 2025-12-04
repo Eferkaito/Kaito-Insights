@@ -1,0 +1,27 @@
+{
+  "user": "ariell_xyz",
+  "timeframes": {
+    "7D": {
+      "vultisig": [
+        {
+          "t": 1764845213184,
+          "mindshare": 0.47
+        }
+      ]
+    },
+    "30D": {
+      "frax": [
+        {
+          "t": 1764851911232,
+          "mindshare": 0.02
+        }
+      ],
+      "vultisig": [
+        {
+          "t": 1764845220526,
+          "mindshare": 0.19
+        }
+      ]
+    }
+  }
+}

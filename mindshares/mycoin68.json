@@ -1,0 +1,27 @@
+{
+  "user": "mycoin68",
+  "timeframes": {
+    "7D": {
+      "edgen": [
+        {
+          "t": 1764847997295,
+          "mindshare": 0.28
+        }
+      ],
+      "vultisig": [
+        {
+          "t": 1764845213184,
+          "mindshare": 1.03
+        }
+      ]
+    },
+    "30D": {
+      "vultisig": [
+        {
+          "t": 1764845220526,
+          "mindshare": 0.42
+        }
+      ]
+    }
+  }
+}

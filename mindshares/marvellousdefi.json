@@ -1,0 +1,39 @@
+{
+  "user": "marvellousdefi",
+  "timeframes": {
+    "7D": {
+      "lombard": [
+        {
+          "t": 1764977801967,
+          "mindshare": 1.21
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1764982809240,
+          "mindshare": 0.35
+        }
+      ],
+      "sei": [
+        {
+          "t": 1764976331949,
+          "mindshare": 0.71
+        }
+      ]
+    },
+    "30D": {
+      "lombard": [
+        {
+          "t": 1764977807595,
+          "mindshare": 1.85
+        }
+      ],
+      "sei": [
+        {
+          "t": 1764976346595,
+          "mindshare": 1.07
+        }
+      ]
+    }
+  }
+}

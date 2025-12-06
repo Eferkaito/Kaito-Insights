@@ -21,7 +21,7 @@
     {
       "name": "Allora",
       "link": "allora",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "ALLORA",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FALLORA%252FALLORA.jpg/w=64&q=90",
       "id": 3,
@@ -1128,7 +1128,7 @@
     {
       "name": "Bitdealer",
       "link": "bitdealer",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "BITDEALER",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FBITDEALER%252FBITDEALER.jpg/w=256&q=90",
       "id": 273,
@@ -1511,6 +1511,42 @@
       "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/830dd1bb-bc09-41c5-9bb0-b08047e93289/1764092442846_123OV4DDsvw_400x400.jpg",
       "id": 338,
       "infofi_type": "XEET"
+    },
+    {
+      "name": "Nesa",
+      "link": "nesa",
+      "category": "preTGE",
+      "ticker": "NESA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fpbs.twimg.com%252Fprofile_images%252F1823693749966585857%252FLObf1KVA_400x400.jpg/w=48&q=90",
+      "id": 339,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "StandX",
+      "link": "standx",
+      "category": "preTGE",
+      "ticker": "STANDX",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FSTANDX%252FSTANDX.jpg/w=48&q=90",
+      "id": 340,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "Inference Labs",
+      "link": "inferencelabs",
+      "category": "preTGE",
+      "ticker": "INFERENCELABS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FINFERENCELABS%252FINFERENCELABS.png%253Fv%253D1/w=48&q=90",
+      "id": 341,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "Loaded Lions",
+      "link": "loadedlions",
+      "category": "postTGE",
+      "ticker": "LOADEDLIONS",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fpbs.twimg.com%252Fprofile_images%252F1961362536894492672%252F00S-WMf8_400x400.png/w=48&q=90",
+      "id": 342,
+      "infofi_type": "KAITO"
     }
   ]
 }

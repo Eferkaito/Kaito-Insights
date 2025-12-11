@@ -1547,6 +1547,24 @@
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fpbs.twimg.com%252Fprofile_images%252F1961362536894492672%252F00S-WMf8_400x400.png/w=48&q=90",
       "id": 342,
       "infofi_type": "KAITO"
+    },
+    {
+      "name": "Ferra",
+      "link": "ferra",
+      "category": "preTGE",
+      "ticker": "FERRA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FFERRA%252FFERRA.jpg/w=48&q=90",
+      "id": 343,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "Pudgy Party",
+      "link": "pudgy-party",
+      "category": "postTGE",
+      "ticker": "PUDGYPARTY",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPUDGYPARTY%252FPUDGYPARTY.jpg/w=48&q=90",
+      "id": 344,
+      "infofi_type": "KAITO"
     }
   ]
 }

@@ -948,7 +948,7 @@
     {
       "name": "Anichess",
       "link": "anichess",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "ANICHESS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANICHESS%252FANICHESS.jpg/w=48&q=90",
       "id": 239,
@@ -1292,9 +1292,9 @@
       "link": "tria",
       "category": "preTGE",
       "ticker": "TRIA",
-      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTRIA%252FTRIA.jpg/w=48&q=90",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1947271337057079296/_smOX_4e_400x400.jpg",
       "id": 310,
-      "infofi_type": "KAITO"
+      "infofi_type": "COOKIE"
     },
     {
       "name": "Beyond",
@@ -1373,9 +1373,9 @@
       "link": "spaace",
       "category": "preTGE",
       "ticker": "spaace",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/Spaace_avatar.38f8c5a9ef818037d1e121de02a03561.svg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1651202265405898753/6PanR3uY_400x400.jpg",
       "id": 323,
-      "infofi_type": "WALLCHAIN"
+      "infofi_type": "COOKIE"
     },
     {
       "name": "PiP World",
@@ -1564,6 +1564,132 @@
       "ticker": "PUDGYPARTY",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FPUDGYPARTY%252FPUDGYPARTY.jpg/w=48&q=90",
       "id": 344,
+      "infofi_type": "KAITO"
+    },
+    {
+      "name": "MagicBlock",
+      "link": "magicblock",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1915494761084944384/stEObS-j_400x400.jpg",
+      "id": 345,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Confidential Layer",
+      "link": "confidential-layer",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1966336478239166467/xqzlD4Rc_400x400.jpg",
+      "id": 346,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Altura",
+      "link": "alturax",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/2000629179449069578/eGhOEsH0_400x400.jpg",
+      "id": 347,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Space",
+      "link": "space-predictions",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1973360659569012736/zTlfPqWb_400x400.jpg",
+      "id": 348,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Rails",
+      "link": "rails",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1979902456273268736/9QVdMhk1_400x400.jpg",
+      "id": 349,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Veera",
+      "link": "veera",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1990352139168923648/PfeXQsSl_400x400.jpg",
+      "id": 350,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Superform",
+      "link": "superform",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1937588443166416896/4S5X6QSi_400x400.png",
+      "id": 352,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Glint Analytics",
+      "link": "glint-analytics",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1825445059375816705/th4KzmWL_400x400.jpg",
+      "id": 353,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Solv Protocol",
+      "link": "solv-protocol",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1971489442235092992/njLUqgMN_400x400.jpg",
+      "id": 354,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Pacifica",
+      "link": "pacifica",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1911022804159389696/THxMFj50_400x400.jpg",
+      "id": 355,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "LayerBank",
+      "link": "layerbank",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1999411315736297472/KpsvX1oH_400x400.jpg",
+      "id": 356,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Rayls",
+      "link": "rayls",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1787938574702116864/W_-vmST3_400x400.png",
+      "id": 358,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "vooi",
+      "link": "vooi",
+      "category": null,
+      "ticker": null,
+      "imgUrl": "https://pbs.twimg.com/profile_images/1938271243876155393/fXAC9P_h_400x400.jpg",
+      "id": 359,
+      "infofi_type": "COOKIE"
+    },
+    {
+      "name": "Verse 8",
+      "link": "verse8",
+      "category": "preTGE",
+      "ticker": "VERSEEIGHT",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fpbs.twimg.com%252Fprofile_images%252F1940980888780886016%252FIZVvW107_400x400.jpg/w=48&q=90",
+      "id": 390,
       "infofi_type": "KAITO"
     }
   ]

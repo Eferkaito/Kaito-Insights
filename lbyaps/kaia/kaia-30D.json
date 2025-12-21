@@ -7,15 +7,15 @@
       "user_id": null,
       "topic_id": "KAIA",
       "username": "pukerrainbrow",
-      "mindshare": 9.58,
+      "mindshare": 9.6,
       "projectId": 35,
       "duration": "30D",
-      "updatedAt": 1766275731402,
+      "updatedAt": 1766319147137,
       "follower_count": 79879,
       "smart_follower_count": 1068,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1682.12
+      "yaps_all": 1693.1
     },
     {
       "id": 54995530,
@@ -24,10 +24,10 @@
       "user_id": null,
       "topic_id": "KAIA",
       "username": "dcrypto",
-      "mindshare": 1.45,
+      "mindshare": 1.46,
       "projectId": 35,
       "duration": "30D",
-      "updatedAt": 1766275731402,
+      "updatedAt": 1766319147137,
       "follower_count": 5245,
       "smart_follower_count": 129,
       "insightfullness": null,
@@ -35,21 +35,38 @@
       "yaps_all": null
     },
     {
-      "id": 55331399,
+      "id": 55379235,
       "name": "0xTodd",
       "rank": 3,
       "user_id": null,
       "topic_id": "KAIA",
       "username": "0xTodd",
-      "mindshare": 0.52,
+      "mindshare": 0.5,
       "projectId": 35,
       "duration": "30D",
-      "updatedAt": 1766275731402,
+      "updatedAt": 1766319147137,
       "follower_count": 70461,
       "smart_follower_count": 741,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
+    },
+    {
+      "id": 55521775,
+      "name": "Kundo.base.eth MemeMax⚡️",
+      "rank": 4,
+      "user_id": null,
+      "topic_id": "KAIA",
+      "username": "kkangdh8294",
+      "mindshare": 0.07,
+      "projectId": 35,
+      "duration": "30D",
+      "updatedAt": 1766319147137,
+      "follower_count": 1492,
+      "smart_follower_count": 31,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 100.44
     }
   ]
 }

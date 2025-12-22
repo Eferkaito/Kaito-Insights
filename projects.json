@@ -1038,18 +1038,18 @@
     {
       "name": "Limitless",
       "link": "limitless",
-      "category": "preTGE",
+      "category": "pre_tge",
       "ticker": "limitless",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/Frame 1277653685.84866c09e1765015f954fce396cd32d8.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/limitless_avatar.911da601107c18be093355846995fd63.png",
       "id": 249,
       "infofi_type": "WALLCHAIN"
     },
     {
       "name": "Genome",
       "link": "genome",
-      "category": "preTGE",
+      "category": "pre_tge",
       "ticker": "genome",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/Frame 1277653685.84866c09e1765015f954fce396cd32d8.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/genome_avatar.55224a3547c5e3f82ccc04a58d20adbb.png",
       "id": 250,
       "infofi_type": "WALLCHAIN"
     },
@@ -1074,9 +1074,9 @@
     {
       "name": "idOS",
       "link": "idOS",
-      "category": "preTGE",
+      "category": "pre_tge",
       "ticker": "idOS",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/Frame 1277653692.85912cc41630e9f2e77f551487b25429.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/idOS_avatar.6573b776da29f65636647b5993e4d605.png",
       "id": 253,
       "infofi_type": "WALLCHAIN"
     },
@@ -1101,9 +1101,9 @@
     {
       "name": "Wallchain",
       "link": "wallchain",
-      "category": "preTGE",
+      "category": "pre_tge",
       "ticker": "wallchain",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/wallchain_company_logo.c9f58dc6f2b1469f2e50df93a940c8c0.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/1mouzk9k_400x400.e67cfb480ca280336b88a2974b1c618c.jpg",
       "id": 256,
       "infofi_type": "WALLCHAIN"
     },
@@ -1245,7 +1245,7 @@
     {
       "name": "Velvet",
       "link": "velvet",
-      "category": "postTGE",
+      "category": "pre_tge",
       "ticker": "velvet",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/EDNgUErh_400x400.bf15b9c7af63343e76bf688278e3e059.jpg",
       "id": 305,
@@ -1272,7 +1272,7 @@
     {
       "name": "SCOR",
       "link": "scor",
-      "category": "preTGE",
+      "category": "pre_tge",
       "ticker": "scor",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/ni8B0Piy_400x400.f8c06a2c93b67b8ca8d9481443921159.jpg",
       "id": 308,
@@ -1299,9 +1299,9 @@
     {
       "name": "Beyond",
       "link": "beyond",
-      "category": "preTGE",
+      "category": "alpha_stage",
       "ticker": "beyond",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/q_T3lU0h_400x400.b9554292c42075ddc458b295e77d0e5e.jpg",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/Image from x.com (1).b9554292c42075ddc458b295e77d0e5e.jpg",
       "id": 311,
       "infofi_type": "WALLCHAIN"
     },
@@ -1371,11 +1371,11 @@
     {
       "name": "Spaace",
       "link": "spaace",
-      "category": "preTGE",
+      "category": "pre_tge",
       "ticker": "spaace",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1651202265405898753/6PanR3uY_400x400.jpg",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/Spaace_avatar.38f8c5a9ef818037d1e121de02a03561.svg",
       "id": 323,
-      "infofi_type": "COOKIE"
+      "infofi_type": "WALLCHAIN"
     },
     {
       "name": "PiP World",
@@ -1452,7 +1452,7 @@
     {
       "name": "Reya",
       "link": "reya",
-      "category": "preTGE",
+      "category": "pre_tge",
       "ticker": "reya",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/reya_avatar.f5563ec83e5a1109e726fa85dd528083.svg",
       "id": 332,
@@ -1461,9 +1461,9 @@
     {
       "name": "AlignerZ",
       "link": "AlignerZ",
-      "category": "preTGE",
+      "category": "alpha_stage",
       "ticker": "AlignerZ",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/bb6yU4dM_400x400.84039936f053dca7ff2e80988ea62b74.jpg",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/AlignerZ_avatar.a0db52a9c127b973959923dec442d16b.png",
       "id": 333,
       "infofi_type": "WALLCHAIN"
     },
@@ -1700,6 +1700,24 @@
       "imgUrl": "https://pbs.twimg.com/profile_images/1945007873093984256/4dzdLzAx_400x400.jpg",
       "id": 391,
       "infofi_type": "COOKIE"
+    },
+    {
+      "name": "CodeXero by Cluster Protocol",
+      "link": "cluster",
+      "category": "alpha_stage",
+      "ticker": "cluster",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/cluster_avatar.a5478d93bd1652838caaa9cbf4f5a901.svg",
+      "id": 404,
+      "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "Kolo",
+      "link": "kolo",
+      "category": "alpha_stage",
+      "ticker": "kolo",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/kolo_avatar.03986f77a42d6f9b7bedac87e1170547.png",
+      "id": 405,
+      "infofi_type": "WALLCHAIN"
     }
   ]
 }

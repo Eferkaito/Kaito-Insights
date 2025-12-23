@@ -1,0 +1,27 @@
+{
+  "user": "iamchucky",
+  "timeframes": {
+    "7D": {
+      "brevis": [
+        {
+          "t": 1766478265400,
+          "mindshare": 0.32
+        }
+      ]
+    },
+    "30D": {
+      "opengradient": [
+        {
+          "t": 1766476793907,
+          "mindshare": 0.51
+        }
+      ],
+      "warden": [
+        {
+          "t": 1766478650301,
+          "mindshare": 0.28
+        }
+      ]
+    }
+  }
+}

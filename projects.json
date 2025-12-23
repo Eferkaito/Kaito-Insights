@@ -1153,9 +1153,9 @@
       "infofi_type": "KAITO"
     },
     {
-      "name": "Xeet InfoFi",
+      "name": "Xeet InfoFI",
       "link": "xeet",
-      "category": "preTGE",
+      "category": "Info Markets",
       "ticker": "xeet",
       "imgUrl": "https://pbs.twimg.com/profile_images/1974980773657673728/Xdohv622_400x400.jpg",
       "id": 291,
@@ -1164,16 +1164,16 @@
     {
       "name": "Solstice",
       "link": "solstice",
-      "category": "preTGE",
+      "category": "DeFI",
       "ticker": "solstice",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1916876277388046337/Qny5yRI2_400x400.png",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1916876277388046337/Qny5yRI2_normal.png",
       "id": 292,
       "infofi_type": "XEET"
     },
     {
       "name": "VDEX",
       "link": "vdex",
-      "category": "preTGE",
+      "category": "DeFI",
       "ticker": "vdex",
       "imgUrl": "https://pbs.twimg.com/profile_images/1965484007069564928/aBNhOiUU_400x400.jpg",
       "id": 293,
@@ -1182,18 +1182,18 @@
     {
       "name": "Kona",
       "link": "kona",
-      "category": "preTGE",
-      "ticker": "",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1962662588598362112/GS93TWpm_400x400.png",
+      "category": "DeFI",
+      "ticker": "kona",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1962662588598362112/GS93TWpm_normal.png",
       "id": 294,
       "infofi_type": "XEET"
     },
     {
       "name": "Myriad Markets",
       "link": "myriad-market",
-      "category": "preTGE",
+      "category": "Prediction Markets",
       "ticker": "myriad-market",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1986151223456587776/pamzJ-ln_400x400.jpg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1995822078407168000/SfwKVthF_400x400.jpg",
       "id": 295,
       "infofi_type": "XEET"
     },
@@ -1209,7 +1209,7 @@
     {
       "name": "IOPn",
       "link": "iopn",
-      "category": "preTGE",
+      "category": "L1",
       "ticker": "iopn",
       "imgUrl": "https://pbs.twimg.com/profile_images/1929775799478956032/eNc_Kixr_400x400.jpg",
       "id": 300,
@@ -1218,7 +1218,7 @@
     {
       "name": "Claynosaurz",
       "link": "claynosaurz",
-      "category": "preTGE",
+      "category": "NFT",
       "ticker": "claynosaurz",
       "imgUrl": "https://pbs.twimg.com/profile_images/1927449655270416385/21LJ1SfL_400x400.jpg",
       "id": 301,
@@ -1227,7 +1227,7 @@
     {
       "name": "Abstract",
       "link": "abstract",
-      "category": "postTGE",
+      "category": "L2",
       "ticker": "abstract",
       "imgUrl": "https://pbs.twimg.com/profile_images/1947751080705630208/0OQFUJxI_400x400.jpg",
       "id": 302,
@@ -1263,8 +1263,8 @@
     {
       "name": "Artery",
       "link": "artery",
-      "category": "preTGE",
-      "ticker": "",
+      "category": "L1",
+      "ticker": "artery",
       "imgUrl": "https://pbs.twimg.com/profile_images/1920361142121033729/SLIR8rz7_400x400.jpg",
       "id": 307,
       "infofi_type": "XEET"
@@ -1308,17 +1308,17 @@
     {
       "name": "DeSci News",
       "link": "desci",
-      "category": "preTGE",
-      "ticker": "",
-      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/c823dc1f-cdd2-4dc7-9d1d-ed117dc09371/1761518890670_1000165244.jpg?w=128&q=75",
+      "category": "DeSci",
+      "ticker": "desci",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1998855871032631296/uvIQox0D_400x400.jpg",
       "id": 312,
       "infofi_type": "XEET"
     },
     {
       "name": "Valannia",
       "link": "valannia",
-      "category": "preTGE",
-      "ticker": "",
+      "category": "Gaming",
+      "ticker": "valannia",
       "imgUrl": "https://pbs.twimg.com/profile_images/1965119608513241088/ZKlKna-J_400x400.jpg",
       "id": 313,
       "infofi_type": "XEET"
@@ -1326,8 +1326,8 @@
     {
       "name": "Lute",
       "link": "lute",
-      "category": "preTGE",
-      "ticker": "",
+      "category": "DeFI",
+      "ticker": "lute",
       "imgUrl": "https://pbs.twimg.com/profile_images/1982520824734048256/xn0sTpGa_400x400.jpg",
       "id": 314,
       "infofi_type": "XEET"
@@ -1335,9 +1335,9 @@
     {
       "name": "World of Women",
       "link": "world-of-women",
-      "category": "preTGE",
-      "ticker": "",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1962854143422337024/FiIdP95H_400x400.jpg",
+      "category": "NFT",
+      "ticker": "world-of-women",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1998387433189052416/UeosgKHY_400x400.jpg",
       "id": 315,
       "infofi_type": "XEET"
     },
@@ -1353,8 +1353,8 @@
     {
       "name": "MEGAWEAPON",
       "link": "megaweapon",
-      "category": "preTGE",
-      "ticker": "",
+      "category": "Gaming",
+      "ticker": "megaweapon",
       "imgUrl": "https://pbs.twimg.com/profile_images/1628829445959057408/PpOIUyx3_400x400.jpg",
       "id": 317,
       "infofi_type": "XEET"
@@ -1398,16 +1398,16 @@
     {
       "name": "Fight.ID",
       "link": "fight",
-      "category": "preTGE",
-      "ticker": "",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1880419092256940032/EHbAKRlc_400x400.png",
+      "category": "Sports",
+      "ticker": "fight",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1880419092256940032/EHbAKRlc_normal.png",
       "id": 326,
       "infofi_type": "XEET"
     },
     {
       "name": "Thrust",
       "link": "thrust",
-      "category": "preTGE",
+      "category": "Consumer",
       "ticker": "thrust",
       "imgUrl": "https://pbs.twimg.com/profile_images/1962603533829840896/JaSVM50U_400x400.jpg",
       "id": 327,
@@ -1416,18 +1416,18 @@
     {
       "name": "Gamblr",
       "link": "gamblr",
-      "category": "preTGE",
+      "category": "Gaming",
       "ticker": "gamblr",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1986416905305862144/cMrK8xhk_400x400.jpg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1986416905305862144/cMrK8xhk.jpg",
       "id": 328,
       "infofi_type": "XEET"
     },
     {
       "name": "Cock.io",
       "link": "cock-io",
-      "category": "preTGE",
-      "ticker": "",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1951942662258348032/oHD63ffQ_400x400.jpg",
+      "category": "Gaming",
+      "ticker": "cock-io",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1951942662258348032/oHD63ffQ.jpg",
       "id": 329,
       "infofi_type": "XEET"
     },
@@ -1497,7 +1497,7 @@
     {
       "name": "Project Zero",
       "link": "project-zero",
-      "category": "preTGE",
+      "category": "AI",
       "ticker": "project-zero",
       "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/233eb9d2-2a2a-414e-8b2f-d219c8578382/1762546582720_projectzero.jpg",
       "id": 337,
@@ -1506,7 +1506,7 @@
     {
       "name": "Good Vibes Club",
       "link": "good-vibes-club",
-      "category": "preTGE",
+      "category": "NFT",
       "ticker": "good-vibes-club",
       "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/830dd1bb-bc09-41c5-9bb0-b08047e93289/1764092442846_123OV4DDsvw_400x400.jpg",
       "id": 338,
@@ -1718,6 +1718,105 @@
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/kolo_avatar.03986f77a42d6f9b7bedac87e1170547.png",
       "id": 405,
       "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "Crypto Twitter",
+      "link": "ct",
+      "category": "Social",
+      "ticker": "ct",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1974980773657673728/Xdohv622_400x400.jpg",
+      "id": 493,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "ADI Chain",
+      "link": "adi",
+      "category": "L2",
+      "ticker": "adi",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/f0c843ae-2b8e-4265-a576-a1a49a4c27ce/1765205407210_7blaa3sz_400x400.jpg",
+      "id": 496,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Mezo",
+      "link": "mezo",
+      "category": "Bitcoin",
+      "ticker": "mezo",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/f288abfb-3432-4bf8-a8f2-8aac61adc3f2/1763546823254_KnBgdkXh_400x400.jpg",
+      "id": 497,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Xyber",
+      "link": "xyber",
+      "category": "AI",
+      "ticker": "xyber",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/6e3f1701-f77d-4f4f-88c5-32864a4b8ec4/1764332043110_aRSveyTn_400x400.png",
+      "id": 499,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Onsight",
+      "link": "onsight",
+      "category": "Prediction Markets",
+      "ticker": "onsight",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/0bc9de0a-1e70-48da-9430-593c44dcc7af/1764077673302_vXLAspZr_400x400.jpg",
+      "id": 501,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "LITVM",
+      "link": "litvm",
+      "category": "L2",
+      "ticker": "litvm",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/5f173ae8-a6b1-4520-999c-eefaf7eaea98/1762528103056_HCccENRu_400x400.png",
+      "id": 504,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Cipher",
+      "link": "cipher",
+      "category": "DeFI",
+      "ticker": "cipher",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1938110555434450944/pJbTjDLB_400x400.jpg",
+      "id": 506,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Blinko",
+      "link": "blinko",
+      "category": "Gaming",
+      "ticker": "blinko",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/c20985f3-fb2d-4bbc-afb4-1b90acf591f4/1763870289314_BLINKO_Icon.png",
+      "id": 507,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Santa Browser",
+      "link": "santa-browser",
+      "category": "Consumer",
+      "ticker": "santa-browser",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/ef304b38-bd71-4076-b1db-3cc58afc739e/1764987955222_santabrowser.jpg",
+      "id": 509,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Chimpers",
+      "link": "chimpers",
+      "category": "NFT",
+      "ticker": "chimpers",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1639033073902706689/R2kJDHDv_400x400.jpg",
+      "id": 512,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Xeetsgiving",
+      "link": "xeetsgiving",
+      "category": "Social",
+      "ticker": "xeetsgiving",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/2188ac27-368e-4b77-8a28-d0cec51abc34/1763906086861_turkey_xeetunnamed.jpg",
+      "id": 523,
+      "infofi_type": "XEET"
     }
   ]
 }

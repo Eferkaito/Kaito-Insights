@@ -1,18 +1,34 @@
 {
   "data": [
     {
-      "id": 55903944,
+      "id": 55998246,
       "name": "Dr Rafa",
       "rank": 1,
       "user_id": null,
       "topic_id": "CALDERA",
       "username": "brave_raf",
-      "mindshare": 2.03,
+      "mindshare": 2.33,
       "projectId": 13,
       "duration": "7D",
-      "updatedAt": 1766389383960,
+      "updatedAt": 1766446361853,
       "follower_count": 10474,
       "smart_follower_count": 204,
+      "insightfullness": null,
+      "originality": null
+    },
+    {
+      "id": 56093604,
+      "name": "Henri/MemeMax⚡️",
+      "rank": 2,
+      "user_id": null,
+      "topic_id": "CALDERA",
+      "username": "HenriLee92",
+      "mindshare": 1.27,
+      "projectId": 13,
+      "duration": "7D",
+      "updatedAt": 1766446361853,
+      "follower_count": 7072,
+      "smart_follower_count": 137,
       "insightfullness": null,
       "originality": null
     }

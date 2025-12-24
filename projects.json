@@ -201,7 +201,7 @@
     {
       "name": "Irys",
       "link": "irys",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "IRYS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FIRYS%252FIRYS.jpg/w=64&q=90",
       "id": 24,
@@ -345,7 +345,7 @@
     {
       "name": "Theoriq",
       "link": "theoriq",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "THEORIQ",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTHEORIQ%252FTHEORIQ.jpg/w=64&q=90",
       "id": 40,
@@ -579,7 +579,7 @@
     {
       "name": "Monad",
       "link": "monad",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "MONAD",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fyapper%252Ficon%252FMonad.png/w=64&q=90",
       "id": 67,
@@ -723,7 +723,7 @@
     {
       "name": "Turtle Club",
       "link": "turtleclub",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "TURTLECLUB",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTURTLECLUB%252FTURTLECLUB.png/w=64&q=90",
       "id": 85,
@@ -795,7 +795,7 @@
     {
       "name": "Cysic",
       "link": "cysic",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "CYSIC",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FCYSIC%252FCYSIC.png/w=64&q=90",
       "id": 94,
@@ -966,7 +966,7 @@
     {
       "name": "Talus",
       "link": "talus",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "TALUS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTALUS%252FTALUS.png/w=48&q=90",
       "id": 241,
@@ -1291,10 +1291,10 @@
       "name": "Tria",
       "link": "tria",
       "category": "preTGE",
-      "ticker": "tria",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1947271337057079296/_smOX_4e_400x400.jpg",
+      "ticker": "TRIA",
+      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTRIA%252FTRIA.jpg/w=48&q=90",
       "id": 310,
-      "infofi_type": "COOKIE"
+      "infofi_type": "KAITO"
     },
     {
       "name": "Beyond",
@@ -1434,7 +1434,7 @@
     {
       "name": "zkPass",
       "link": "zkpass",
-      "category": "preTGE",
+      "category": "postTGE",
       "ticker": "ZKPASS",
       "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FZKPASS%252FZKPASS.jpg/w=48&q=90",
       "id": 330,

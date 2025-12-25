@@ -1,0 +1,141 @@
+{
+  "user": "breyonchain",
+  "timeframes": {
+    "7D": {
+      "brevis": [
+        {
+          "t": 1766601993185,
+          "mindshare": 0.88
+        }
+      ],
+      "inferencelabs": [
+        {
+          "t": 1766601460682,
+          "mindshare": 1.37
+        }
+      ],
+      "integra": [
+        {
+          "t": 1766597521621,
+          "mindshare": 0.3
+        }
+      ],
+      "noble": [
+        {
+          "t": 1766597021462,
+          "mindshare": 0.25
+        }
+      ],
+      "opengradient": [
+        {
+          "t": 1766600332552,
+          "mindshare": 1.17
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1766596786124,
+          "mindshare": 0.25
+        }
+      ],
+      "pip": [
+        {
+          "t": 1766598983990,
+          "mindshare": 4.11
+        }
+      ],
+      "tria": [
+        {
+          "t": 1766605216700,
+          "mindshare": 0.16
+        }
+      ]
+    },
+    "30D": {
+      "brevis": [
+        {
+          "t": 1766602012894,
+          "mindshare": 0.49
+        }
+      ],
+      "inferencelabs": [
+        {
+          "t": 1766601467740,
+          "mindshare": 0.51
+        }
+      ],
+      "integra": [
+        {
+          "t": 1766597530600,
+          "mindshare": 0.67
+        }
+      ],
+      "kaio": [
+        {
+          "t": 1766596931490,
+          "mindshare": 0.86
+        }
+      ],
+      "miden": [
+        {
+          "t": 1766597306857,
+          "mindshare": 0.32
+        }
+      ],
+      "multibank": [
+        {
+          "t": 1766597431926,
+          "mindshare": 0.22
+        }
+      ],
+      "near": [
+        {
+          "t": 1766600792240,
+          "mindshare": 0.12
+        }
+      ],
+      "nesa": [
+        {
+          "t": 1766601383007,
+          "mindshare": 1.27
+        }
+      ],
+      "opengradient": [
+        {
+          "t": 1766600341241,
+          "mindshare": 0.74
+        }
+      ],
+      "peaq": [
+        {
+          "t": 1766596802187,
+          "mindshare": 0.37
+        }
+      ],
+      "pip": [
+        {
+          "t": 1766598992703,
+          "mindshare": 1.33
+        }
+      ],
+      "rainbow": [
+        {
+          "t": 1766602090073,
+          "mindshare": 0.48
+        }
+      ],
+      "sentient": [
+        {
+          "t": 1766604476946,
+          "mindshare": 0.37
+        }
+      ],
+      "tria": [
+        {
+          "t": 1766605237675,
+          "mindshare": 0.54
+        }
+      ]
+    }
+  }
+}

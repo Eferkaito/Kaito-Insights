@@ -1,0 +1,99 @@
+{
+  "user": "griffitxbt",
+  "timeframes": {
+    "7D": {
+      "ferra": [
+        {
+          "t": 1766793646979,
+          "mindshare": 0.38
+        }
+      ],
+      "huma": [
+        {
+          "t": 1766795144914,
+          "mindshare": 1.44
+        }
+      ],
+      "integra": [
+        {
+          "t": 1766788814255,
+          "mindshare": 0.56
+        }
+      ],
+      "nesa": [
+        {
+          "t": 1766795552798,
+          "mindshare": 0.33
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1766794046275,
+          "mindshare": 1.1
+        }
+      ],
+      "pip": [
+        {
+          "t": 1766792992405,
+          "mindshare": 0.79
+        }
+      ],
+      "talus": [
+        {
+          "t": 1766795675909,
+          "mindshare": 0.62
+        }
+      ]
+    },
+    "30D": {
+      "ferra": [
+        {
+          "t": 1766793659778,
+          "mindshare": 0.28
+        }
+      ],
+      "huma": [
+        {
+          "t": 1766795151868,
+          "mindshare": 0.54
+        }
+      ],
+      "inferencelabs": [
+        {
+          "t": 1766795622500,
+          "mindshare": 0.27
+        }
+      ],
+      "integra": [
+        {
+          "t": 1766788822456,
+          "mindshare": 0.3
+        }
+      ],
+      "nesa": [
+        {
+          "t": 1766795560992,
+          "mindshare": 0.53
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1766794055523,
+          "mindshare": 0.46
+        }
+      ],
+      "pip": [
+        {
+          "t": 1766793000721,
+          "mindshare": 0.54
+        }
+      ],
+      "talus": [
+        {
+          "t": 1766795720822,
+          "mindshare": 0.3
+        }
+      ]
+    }
+  }
+}

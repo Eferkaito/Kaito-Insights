@@ -1,0 +1,39 @@
+{
+  "user": "al_fulaty",
+  "timeframes": {
+    "7D": {
+      "billions": [
+        {
+          "t": 1766880054842,
+          "mindshare": 0.55
+        }
+      ],
+      "ferra": [
+        {
+          "t": 1766885214154,
+          "mindshare": 0.45
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1766885462360,
+          "mindshare": 0.42
+        }
+      ],
+      "parti": [
+        {
+          "t": 1766878905384,
+          "mindshare": 0.82
+        }
+      ]
+    },
+    "30D": {
+      "ferra": [
+        {
+          "t": 1766885220669,
+          "mindshare": 0.29
+        }
+      ]
+    }
+  }
+}

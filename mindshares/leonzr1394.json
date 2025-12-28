@@ -1,0 +1,39 @@
+{
+  "user": "leonzr1394",
+  "timeframes": {
+    "7D": {
+      "opengradient": [
+        {
+          "t": 1766910181475,
+          "mindshare": 0.58
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1766909803199,
+          "mindshare": 2.19
+        }
+      ]
+    },
+    "30D": {
+      "bitdealer": [
+        {
+          "t": 1766909623019,
+          "mindshare": 0.43
+        }
+      ],
+      "opengradient": [
+        {
+          "t": 1766910186741,
+          "mindshare": 0.45
+        }
+      ],
+      "openledger": [
+        {
+          "t": 1766909809914,
+          "mindshare": 1.97
+        }
+      ]
+    }
+  }
+}

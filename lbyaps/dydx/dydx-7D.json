@@ -7,15 +7,15 @@
       "user_id": null,
       "topic_id": "DYDX",
       "username": "feifan7686",
-      "mindshare": 5.09,
+      "mindshare": 5.15,
       "projectId": 33,
       "duration": "7D",
-      "updatedAt": 1767053521156,
-      "follower_count": 46245,
+      "updatedAt": 1767080532419,
+      "follower_count": 46120,
       "smart_follower_count": 221,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1152.64
     },
     {
       "id": 3803744,
@@ -24,15 +24,15 @@
       "user_id": null,
       "topic_id": "DYDX",
       "username": "btcohmann",
-      "mindshare": 2.92,
+      "mindshare": 2.78,
       "projectId": 33,
       "duration": "7D",
-      "updatedAt": 1767053521156,
-      "follower_count": 65718,
+      "updatedAt": 1767080532419,
+      "follower_count": 65680,
       "smart_follower_count": 155,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 901.98
+      "yaps_all": 910.43
     },
     {
       "id": 48066445,
@@ -41,15 +41,15 @@
       "user_id": null,
       "topic_id": "DYDX",
       "username": "charlesdhaussy",
-      "mindshare": 2.88,
+      "mindshare": 2.08,
       "projectId": 33,
       "duration": "7D",
-      "updatedAt": 1767053521156,
-      "follower_count": 9453,
+      "updatedAt": 1767080532419,
+      "follower_count": 9458,
       "smart_follower_count": 705,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 196.87
     },
     {
       "id": 48114415,
@@ -58,32 +58,49 @@
       "user_id": null,
       "topic_id": "DYDX",
       "username": "seongmoolee",
-      "mindshare": 1.75,
+      "mindshare": 1.69,
       "projectId": 33,
       "duration": "7D",
-      "updatedAt": 1767053521156,
-      "follower_count": 9585,
+      "updatedAt": 1767080532419,
+      "follower_count": 9591,
       "smart_follower_count": 163,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 889.92
+      "yaps_all": 894.11
     },
     {
-      "id": 57629125,
+      "id": 57721120,
       "name": "Sjuul | AltCryptoGems",
       "rank": 5,
       "user_id": null,
       "topic_id": "DYDX",
       "username": "AltCryptoGems",
-      "mindshare": 1,
+      "mindshare": 0.9,
       "projectId": 33,
       "duration": "7D",
-      "updatedAt": 1767053521156,
-      "follower_count": 477822,
+      "updatedAt": 1767080532419,
+      "follower_count": 477782,
       "smart_follower_count": 689,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
+      "yaps_all": 1760.84
+    },
+    {
+      "id": 57767188,
+      "name": "OneHopeA9",
+      "rank": 6,
+      "user_id": null,
+      "topic_id": "DYDX",
+      "username": "onehopeA9",
+      "mindshare": 0.19,
+      "projectId": 33,
+      "duration": "7D",
+      "updatedAt": 1767080532419,
+      "follower_count": 3401,
+      "smart_follower_count": 78,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 223.31
     }
   ]
 }

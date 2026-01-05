@@ -1,0 +1,51 @@
+{
+  "user": "msbintel",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1767608669509,
+          "mindshare": 0.65
+        }
+      ],
+      "sei": [
+        {
+          "t": 1767610447572,
+          "mindshare": 0.59
+        }
+      ]
+    },
+    "30D": {
+      "arbitrum": [
+        {
+          "t": 1767608678824,
+          "mindshare": 0.23
+        }
+      ],
+      "berachain": [
+        {
+          "t": 1767606930979,
+          "mindshare": 1.77
+        }
+      ],
+      "dydx": [
+        {
+          "t": 1767604994205,
+          "mindshare": 2.92
+        }
+      ],
+      "sei": [
+        {
+          "t": 1767610478320,
+          "mindshare": 0.98
+        }
+      ],
+      "walrus": [
+        {
+          "t": 1767607792203,
+          "mindshare": 1.32
+        }
+      ]
+    }
+  }
+}

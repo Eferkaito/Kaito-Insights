@@ -7,15 +7,15 @@
       "user_id": null,
       "topic_id": "KAIA",
       "username": "pukerrainbrow",
-      "mindshare": 34.78,
+      "mindshare": 23.08,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1767421139208,
-      "follower_count": 80186,
+      "updatedAt": 1767607390299,
+      "follower_count": 80601,
       "smart_follower_count": 1070,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1723.63
+      "yaps_all": 1726.08
     },
     {
       "id": 58692958,
@@ -24,15 +24,32 @@
       "user_id": null,
       "topic_id": "KAIA",
       "username": "0xTodd",
-      "mindshare": 9.05,
+      "mindshare": 4.36,
       "projectId": 35,
       "duration": "7D",
-      "updatedAt": 1767421139208,
-      "follower_count": 71128,
-      "smart_follower_count": 743,
+      "updatedAt": 1767607390299,
+      "follower_count": 71153,
+      "smart_follower_count": 742,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
+    },
+    {
+      "id": 58738019,
+      "name": "무두서일기.MOODOO📚",
+      "rank": 3,
+      "user_id": null,
+      "topic_id": "KAIA",
+      "username": "MOODOO_Diary",
+      "mindshare": 2.17,
+      "projectId": 35,
+      "duration": "7D",
+      "updatedAt": 1767607390299,
+      "follower_count": 13383,
+      "smart_follower_count": 254,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 1499.15
     }
   ]
 }

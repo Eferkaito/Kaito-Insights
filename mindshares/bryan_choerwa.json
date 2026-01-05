@@ -1,0 +1,33 @@
+{
+  "user": "bryan_choerwa",
+  "timeframes": {
+    "7D": {
+      "inferencelabs": [
+        {
+          "t": 1767609580521,
+          "mindshare": 0.45
+        }
+      ],
+      "rainbow": [
+        {
+          "t": 1767610067601,
+          "mindshare": 0.49
+        }
+      ]
+    },
+    "30D": {
+      "rainbow": [
+        {
+          "t": 1767610073457,
+          "mindshare": 0.25
+        }
+      ],
+      "talus": [
+        {
+          "t": 1767609652024,
+          "mindshare": 0.03
+        }
+      ]
+    }
+  }
+}

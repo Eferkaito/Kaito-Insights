@@ -687,9 +687,9 @@
     {
       "name": "Warden",
       "link": "warden",
-      "category": "Finished",
+      "category": "pre_tge",
       "ticker": "warden",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/covalent_avatar.810463f57a306f337512141223bdfeb8.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/nO3RP237_400x400.7085703ec3c7b1317be765fd2d90f2e0.jpg",
       "id": 81,
       "infofi_type": "WALLCHAIN"
     },
@@ -1038,16 +1038,16 @@
     {
       "name": "Limitless",
       "link": "limitless",
-      "category": "Finished",
+      "category": "pre_tge",
       "ticker": "limitless",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/genome_avatar.55224a3547c5e3f82ccc04a58d20adbb.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/limitless_avatar.911da601107c18be093355846995fd63.png",
       "id": 249,
       "infofi_type": "WALLCHAIN"
     },
     {
       "name": "Genome",
       "link": "genome",
-      "category": "pre_tge",
+      "category": "finished",
       "ticker": "genome",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/genome_avatar.55224a3547c5e3f82ccc04a58d20adbb.png",
       "id": 250,
@@ -1056,54 +1056,54 @@
     {
       "name": "Covalent",
       "link": "covalent",
-      "category": "preTGE",
+      "category": "finished",
       "ticker": "covalent",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/Covalent Logo.ef00864574177582643b5fd178e3e0ec.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/covalent_avatar.810463f57a306f337512141223bdfeb8.png",
       "id": 251,
       "infofi_type": "WALLCHAIN"
     },
     {
-      "name": "SCOR",
+      "name": "HeyElsa",
       "link": "heyelsa",
-      "category": "Finished",
+      "category": "pre_tge",
       "ticker": "heyelsa",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/ni8B0Piy_400x400.f8c06a2c93b67b8ca8d9481443921159.jpg",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/heyelsa_avatar.ac4bef0169bfb52eae4c13823f599e21.png",
       "id": 252,
       "infofi_type": "WALLCHAIN"
     },
     {
-      "name": "IdOS",
+      "name": "idOS",
       "link": "idOS",
-      "category": "Finished",
+      "category": "pre_tge",
       "ticker": "idOS",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/apecoin_avatar.4fdff75a4ff77d9281887a1676ceafc8.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/idOS_avatar.6573b776da29f65636647b5993e4d605.png",
       "id": 253,
       "infofi_type": "WALLCHAIN"
     },
     {
-      "name": "ApeCoin R.A.I.D Leaderboard",
+      "name": "Ape x OS",
       "link": "apecoin",
-      "category": "postTGE",
+      "category": "finished",
       "ticker": "apecoin",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/image-url/ApeCoin Profile Image.5792ada29bccfe100fb114e65840ae7e.jpg",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/apecoin_avatar.4fdff75a4ff77d9281887a1676ceafc8.png",
       "id": 254,
       "infofi_type": "WALLCHAIN"
     },
     {
       "name": "KLOUT",
       "link": "klout",
-      "category": "preTGE",
+      "category": "alpha_stage",
       "ticker": "klout",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/image.899095529dc46d26a5612181c88576c5.png",
       "id": 255,
       "infofi_type": "WALLCHAIN"
     },
     {
-      "name": "Apecoin R.A.I.D",
+      "name": "Wallchain",
       "link": "wallchain",
-      "category": "Finished",
+      "category": "pre_tge",
       "ticker": "wallchain",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/apecoin_avatar.4fdff75a4ff77d9281887a1676ceafc8.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/1mouzk9k_400x400.e67cfb480ca280336b88a2974b1c618c.jpg",
       "id": 256,
       "infofi_type": "WALLCHAIN"
     },
@@ -1236,7 +1236,7 @@
     {
       "name": "Analog",
       "link": "analog",
-      "category": "preTGE",
+      "category": "finished",
       "ticker": "analog",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/Analog icon-social media.f6c135410e5ff250bd31af3b9ea05276.png",
       "id": 304,
@@ -1245,7 +1245,7 @@
     {
       "name": "Velvet",
       "link": "velvet",
-      "category": "pre_tge",
+      "category": "finished",
       "ticker": "velvet",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/EDNgUErh_400x400.bf15b9c7af63343e76bf688278e3e059.jpg",
       "id": 305,
@@ -1272,7 +1272,7 @@
     {
       "name": "SCOR",
       "link": "scor",
-      "category": "pre_tge",
+      "category": "finished",
       "ticker": "scor",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/ni8B0Piy_400x400.f8c06a2c93b67b8ca8d9481443921159.jpg",
       "id": 308,
@@ -1369,11 +1369,11 @@
       "infofi_type": "KAITO"
     },
     {
-      "name": "Analog",
+      "name": "Spaace",
       "link": "spaace",
-      "category": "Finished",
+      "category": "pre_tge",
       "ticker": "spaace",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/Analog%20icon-social%20media.f6c135410e5ff250bd31af3b9ea05276.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/Spaace_avatar.38f8c5a9ef818037d1e121de02a03561.svg",
       "id": 323,
       "infofi_type": "WALLCHAIN"
     },
@@ -1450,20 +1450,20 @@
       "infofi_type": "KAITO"
     },
     {
-      "name": "Velvet",
+      "name": "Reya",
       "link": "reya",
-      "category": "Finished",
+      "category": "pre_tge",
       "ticker": "reya",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/EDNgUErh_400x400.bf15b9c7af63343e76bf688278e3e059.jpg",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/reya_avatar.f5563ec83e5a1109e726fa85dd528083.svg",
       "id": 332,
       "infofi_type": "WALLCHAIN"
     },
     {
-      "name": "ILLIQUID",
+      "name": "AlignerZ",
       "link": "AlignerZ",
-      "category": "Finished",
+      "category": "alpha_stage",
       "ticker": "AlignerZ",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/ILLIQUID_avatar.6647fd5abd2999b4f536f738762a81cc.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/AlignerZ_avatar.a0db52a9c127b973959923dec442d16b.png",
       "id": 333,
       "infofi_type": "WALLCHAIN"
     },
@@ -1702,20 +1702,20 @@
       "infofi_type": "COOKIE"
     },
     {
-      "name": "Avantis",
+      "name": "CodeXero by Cluster Protocol",
       "link": "cluster",
-      "category": "Finished",
+      "category": "alpha_stage",
       "ticker": "cluster",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/avantis_avatar.5de5b651e55fbea6e27019f65595858f.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/cluster_avatar.a5478d93bd1652838caaa9cbf4f5a901.svg",
       "id": 404,
       "infofi_type": "WALLCHAIN"
     },
     {
-      "name": "SOCKET",
+      "name": "Kolo",
       "link": "kolo",
-      "category": "Finished",
+      "category": "alpha_stage",
       "ticker": "kolo",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/socket_avatar.74f375f96c58c2bc47a7a4694945ac77.png",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/kolo_avatar.03986f77a42d6f9b7bedac87e1170547.png",
       "id": 405,
       "infofi_type": "WALLCHAIN"
     },
@@ -1821,7 +1821,7 @@
     {
       "name": "Apecoin R.A.I.D",
       "link": "raid",
-      "category": "Finished",
+      "category": "finished",
       "ticker": "raid",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/apecoin_avatar.4fdff75a4ff77d9281887a1676ceafc8.png",
       "id": 902,
@@ -1830,7 +1830,7 @@
     {
       "name": "Avantis",
       "link": "avantis",
-      "category": "Finished",
+      "category": "finished",
       "ticker": "avantis",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/avantis_avatar.5de5b651e55fbea6e27019f65595858f.png",
       "id": 903,
@@ -1839,19 +1839,10 @@
     {
       "name": "SOCKET",
       "link": "socket",
-      "category": "Finished",
+      "category": "finished",
       "ticker": "socket",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/socket_avatar.74f375f96c58c2bc47a7a4694945ac77.png",
       "id": 904,
-      "infofi_type": "WALLCHAIN"
-    },
-    {
-      "name": "ILLIQUID",
-      "link": "test",
-      "category": "finished",
-      "ticker": "test",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/ILLIQUID_avatar.6647fd5abd2999b4f536f738762a81cc.png",
-      "id": 965,
       "infofi_type": "WALLCHAIN"
     },
     {

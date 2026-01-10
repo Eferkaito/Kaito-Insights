@@ -1,0 +1,45 @@
+{
+  "user": "0xzagen",
+  "timeframes": {
+    "7D": {
+      "openmind": [
+        {
+          "t": 1768044936091,
+          "mindshare": 1.09
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1768044077218,
+          "mindshare": 36.2
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1768047615896,
+          "mindshare": 1.87
+        }
+      ]
+    },
+    "30D": {
+      "openmind": [
+        {
+          "t": 1768044949907,
+          "mindshare": 0.42
+        }
+      ],
+      "sapien": [
+        {
+          "t": 1768044082354,
+          "mindshare": 16.38
+        }
+      ],
+      "virtual": [
+        {
+          "t": 1768047626801,
+          "mindshare": 1.3
+        }
+      ]
+    }
+  }
+}

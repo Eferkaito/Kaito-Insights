@@ -1193,7 +1193,7 @@
       "link": "myriad-market",
       "category": "Prediction Markets",
       "ticker": "myriad-market",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1995822078407168000/SfwKVthF_400x400.jpg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/2007018360916115456/97AEdeKT_400x400.jpg",
       "id": 295,
       "infofi_type": "XEET"
     },
@@ -1220,7 +1220,7 @@
       "link": "claynosaurz",
       "category": "NFT",
       "ticker": "claynosaurz",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1927449655270416385/21LJ1SfL_400x400.jpg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/2008243392988508160/e6x2fTJD_400x400.jpg",
       "id": 301,
       "infofi_type": "XEET"
     },
@@ -1310,7 +1310,7 @@
       "link": "desci",
       "category": "DeSci",
       "ticker": "desci",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1998855871032631296/uvIQox0D_400x400.jpg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/2000611425832812544/crQJEn6E_400x400.jpg",
       "id": 312,
       "infofi_type": "XEET"
     },
@@ -1337,7 +1337,7 @@
       "link": "world-of-women",
       "category": "NFT",
       "ticker": "world-of-women",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1998387433189052416/UeosgKHY_400x400.jpg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/2005718174109687809/rNE9GYuj_400x400.jpg",
       "id": 315,
       "infofi_type": "XEET"
     },
@@ -1407,9 +1407,9 @@
     {
       "name": "Thrust",
       "link": "thrust",
-      "category": "Consumer",
+      "category": null,
       "ticker": "thrust",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1962603533829840896/JaSVM50U_400x400.jpg",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/6a7f71cf-3154-42b1-821c-d895ad4ddde7/1762544894819_JaSVM50U_400x400.jpg",
       "id": 327,
       "infofi_type": "XEET"
     },
@@ -1418,7 +1418,7 @@
       "link": "gamblr",
       "category": "Gaming",
       "ticker": "gamblr",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1986416905305862144/cMrK8xhk.jpg",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1986416905305862144/cMrK8xhk_400x400.jpg",
       "id": 328,
       "infofi_type": "XEET"
     },
@@ -1862,6 +1862,42 @@
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/solana_avatar.52ef9007ab70b22f37c5185f59a43281.png",
       "id": 967,
       "infofi_type": "WALLCHAIN"
+    },
+    {
+      "name": "Crypto Twitter",
+      "link": "ct",
+      "category": "Social",
+      "ticker": "ct",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1974980773657673728/Xdohv622_400x400.jpg",
+      "id": 1033,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "DataHaven",
+      "link": "datahaven",
+      "category": "Infrastructure",
+      "ticker": "datahaven",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/c8ddf253-cfa5-4422-9662-6c2e1cb15c72/1763731124875_9YuEYF8-_400x400.jpg",
+      "id": 1035,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Vault777",
+      "link": "vault777",
+      "category": "Gaming",
+      "ticker": "vault777",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/f8e9547a-37c0-40c8-8d34-87a701c5421c/1767111863399_kA8eRqfh_400x400.png",
+      "id": 1041,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Grimmy",
+      "link": "grimmy",
+      "category": "Gaming",
+      "ticker": "grimmy",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/22b82cc5-44b8-476d-a3c7-1d8bdc0d7390/1763870845515_Screenshot_2025-11-22_at_11.07.15_PM.png",
+      "id": 1043,
+      "infofi_type": "XEET"
     }
   ]
 }

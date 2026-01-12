@@ -685,11 +685,11 @@
       "infofi_type": "KAITO"
     },
     {
-      "name": "Warden Protocol",
+      "name": "Warden",
       "link": "warden",
-      "category": "preTGE",
-      "ticker": "WARP",
-      "imgUrl": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FWARP%252FWARP.png%253Fv%253D1/w=48&q=90",
+      "category": "pre_tge",
+      "ticker": "warden",
+      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/nO3RP237_400x400.7085703ec3c7b1317be765fd2d90f2e0.jpg",
       "id": 81,
       "infofi_type": "KAITO"
     },
@@ -1461,7 +1461,7 @@
     {
       "name": "AlignerZ",
       "link": "AlignerZ",
-      "category": "alpha_stage",
+      "category": "finished",
       "ticker": "AlignerZ",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/AlignerZ_avatar.a0db52a9c127b973959923dec442d16b.png",
       "id": 333,
@@ -1843,24 +1843,6 @@
       "ticker": "socket",
       "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/socket_avatar.74f375f96c58c2bc47a7a4694945ac77.png",
       "id": 904,
-      "infofi_type": "WALLCHAIN"
-    },
-    {
-      "name": "ApeChain",
-      "link": "apechain",
-      "category": "community_build_opportunities",
-      "ticker": "apechain",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/apechain_avatar.4fdff75a4ff77d9281887a1676ceafc8.png",
-      "id": 966,
-      "infofi_type": "WALLCHAIN"
-    },
-    {
-      "name": "Solana",
-      "link": "solana",
-      "category": "community_build_opportunities",
-      "ticker": "solana",
-      "imgUrl": "https://app.wallchain.xyz/external-bucket/hashed/logo-url/solana_avatar.52ef9007ab70b22f37c5185f59a43281.png",
-      "id": 967,
       "infofi_type": "WALLCHAIN"
     },
     {

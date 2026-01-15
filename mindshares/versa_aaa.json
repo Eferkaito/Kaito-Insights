@@ -1,0 +1,33 @@
+{
+  "user": "versa_aaa",
+  "timeframes": {
+    "7D": {
+      "pengu": [
+        {
+          "t": 1768438067989,
+          "mindshare": 0.01
+        }
+      ],
+      "pudgy-party": [
+        {
+          "t": 1768439534370,
+          "mindshare": 5.81
+        }
+      ]
+    },
+    "30D": {
+      "pengu": [
+        {
+          "t": 1768438075885,
+          "mindshare": 0.11
+        }
+      ],
+      "pudgy-party": [
+        {
+          "t": 1768439540258,
+          "mindshare": 2.78
+        }
+      ]
+    }
+  }
+}

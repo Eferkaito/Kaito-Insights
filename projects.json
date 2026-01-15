@@ -1866,8 +1866,8 @@
     {
       "name": "Vault777",
       "link": "vault777",
-      "category": "Gaming",
-      "ticker": "vault777",
+      "category": "finished",
+      "ticker": null,
       "imgUrl": "https://pbs.twimg.com/profile_images/2000612693930094617/kA8eRqfh_normal.png",
       "id": 1041,
       "infofi_type": "XEET"
@@ -1879,6 +1879,15 @@
       "ticker": "grimmy",
       "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/22b82cc5-44b8-476d-a3c7-1d8bdc0d7390/1763870845515_Screenshot_2025-11-22_at_11.07.15_PM.png",
       "id": 1043,
+      "infofi_type": "XEET"
+    },
+    {
+      "name": "Cryptoys",
+      "link": "cryptoys",
+      "category": "NFT",
+      "ticker": "cryptoys",
+      "imgUrl": "https://mz4jlwakbx2sduwl.public.blob.vercel-storage.com/accounts/a14da737-ebc1-42e4-b94e-18835dd54e86/1762965131592_lOX9P37X_400x400.jpg",
+      "id": 1257,
       "infofi_type": "XEET"
     }
   ]

@@ -7,15 +7,15 @@
       "user_id": null,
       "topic_id": "SYMPHONY",
       "username": "diego_defai",
-      "mindshare": 16.21,
+      "mindshare": 21.2,
       "projectId": 31,
       "duration": "7D",
-      "updatedAt": 1768451155701,
-      "follower_count": 6363,
+      "updatedAt": 1768612891419,
+      "follower_count": 6430,
       "smart_follower_count": 230,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1187.64
+      "yaps_all": null
     },
     {
       "id": 3819087,
@@ -24,10 +24,10 @@
       "user_id": null,
       "topic_id": "SYMPHONY",
       "username": "ChopinCadence",
-      "mindshare": 8.98,
+      "mindshare": 6.42,
       "projectId": 31,
       "duration": "7D",
-      "updatedAt": 1768451155701,
+      "updatedAt": 1768612891419,
       "follower_count": 1249,
       "smart_follower_count": 80,
       "insightfullness": null,
@@ -35,38 +35,21 @@
       "yaps_all": null
     },
     {
-      "id": 58170397,
+      "id": 60756599,
       "name": "Zeus",
       "rank": 3,
       "user_id": null,
       "topic_id": "SYMPHONY",
       "username": "Zuesthegods",
-      "mindshare": 2.47,
+      "mindshare": 1.89,
       "projectId": 31,
       "duration": "7D",
-      "updatedAt": 1768451155701,
-      "follower_count": 3872,
+      "updatedAt": 1768612891419,
+      "follower_count": 3866,
       "smart_follower_count": 18,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": null
-    },
-    {
-      "id": 60671133,
-      "name": "Mozart",
-      "rank": 4,
-      "user_id": null,
-      "topic_id": "SYMPHONY",
-      "username": "mozartcadence",
-      "mindshare": 1.65,
-      "projectId": 31,
-      "duration": "7D",
-      "updatedAt": 1768451155701,
-      "follower_count": 999,
-      "smart_follower_count": 43,
-      "insightfullness": null,
-      "originality": null,
-      "yaps_all": null
+      "yaps_all": 288.86
     }
   ]
 }

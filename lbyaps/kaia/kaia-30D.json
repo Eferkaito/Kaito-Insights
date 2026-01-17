@@ -7,12 +7,12 @@
       "user_id": null,
       "topic_id": "KAIA",
       "username": "0xTodd",
-      "mindshare": 9.17,
+      "mindshare": 9.03,
       "projectId": 35,
       "duration": "30D",
-      "updatedAt": 1768448088253,
-      "follower_count": 70942,
-      "smart_follower_count": 744,
+      "updatedAt": 1768609519428,
+      "follower_count": 70902,
+      "smart_follower_count": 745,
       "insightfullness": null,
       "originality": null,
       "yaps_all": null
@@ -24,15 +24,15 @@
       "user_id": null,
       "topic_id": "KAIA",
       "username": "pukerrainbrow",
-      "mindshare": 8.06,
+      "mindshare": 7.94,
       "projectId": 35,
       "duration": "30D",
-      "updatedAt": 1768448088253,
-      "follower_count": 80738,
+      "updatedAt": 1768609519428,
+      "follower_count": 80576,
       "smart_follower_count": 1076,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1775.85
+      "yaps_all": null
     },
     {
       "id": 60477617,
@@ -41,15 +41,15 @@
       "user_id": null,
       "topic_id": "KAIA",
       "username": "MOODOO_Diary",
-      "mindshare": 3.16,
+      "mindshare": 3.11,
       "projectId": 35,
       "duration": "30D",
-      "updatedAt": 1768448088253,
-      "follower_count": 13689,
+      "updatedAt": 1768609519428,
+      "follower_count": 13656,
       "smart_follower_count": 259,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 1761.03
+      "yaps_all": null
     },
     {
       "id": 60649978,
@@ -58,15 +58,32 @@
       "user_id": null,
       "topic_id": "KAIA",
       "username": "WEB3_TREE",
-      "mindshare": 2.09,
+      "mindshare": 1.89,
       "projectId": 35,
       "duration": "30D",
-      "updatedAt": 1768448088253,
-      "follower_count": 3469,
+      "updatedAt": 1768609519428,
+      "follower_count": 3458,
       "smart_follower_count": 100,
       "insightfullness": null,
       "originality": null,
-      "yaps_all": 506.19
+      "yaps_all": null
+    },
+    {
+      "id": 60735535,
+      "name": "dONΞ✳️디온",
+      "rank": 5,
+      "user_id": null,
+      "topic_id": "KAIA",
+      "username": "dcrypto",
+      "mindshare": 0.38,
+      "projectId": 35,
+      "duration": "30D",
+      "updatedAt": 1768609519428,
+      "follower_count": 5643,
+      "smart_follower_count": 136,
+      "insightfullness": null,
+      "originality": null,
+      "yaps_all": 839.02
     }
   ]
 }

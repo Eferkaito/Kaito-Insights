@@ -1,0 +1,21 @@
+{
+  "user": "sou_btc",
+  "timeframes": {
+    "7D": {
+      "starknet": [
+        {
+          "t": 1769083801894,
+          "mindshare": 0.03
+        }
+      ]
+    },
+    "30D": {
+      "starknet": [
+        {
+          "t": 1769083810742,
+          "mindshare": 0.01
+        }
+      ]
+    }
+  }
+}

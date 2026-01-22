@@ -1,0 +1,33 @@
+{
+  "user": "vadim_web3",
+  "timeframes": {
+    "7D": {
+      "arbitrum": [
+        {
+          "t": 1769043021158,
+          "mindshare": 0.32
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1769041994102,
+          "mindshare": 1.03
+        }
+      ]
+    },
+    "30D": {
+      "aptos": [
+        {
+          "t": 1769040288811,
+          "mindshare": 0.01
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1769042009401,
+          "mindshare": 0.52
+        }
+      ]
+    }
+  }
+}

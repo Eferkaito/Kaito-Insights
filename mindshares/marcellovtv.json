@@ -1,0 +1,39 @@
+{
+  "user": "marcellovtv",
+  "timeframes": {
+    "7D": {
+      "anichess": [
+        {
+          "t": 1769339750838,
+          "mindshare": 0.27
+        }
+      ],
+      "pengu": [
+        {
+          "t": 1769337716571,
+          "mindshare": 0.54
+        }
+      ],
+      "pudgy-party": [
+        {
+          "t": 1769340160753,
+          "mindshare": 10.9
+        }
+      ]
+    },
+    "30D": {
+      "pengu": [
+        {
+          "t": 1769337725820,
+          "mindshare": 0.25
+        }
+      ],
+      "pudgy-party": [
+        {
+          "t": 1769340167854,
+          "mindshare": 4.79
+        }
+      ]
+    }
+  }
+}

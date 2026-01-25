@@ -1,0 +1,63 @@
+{
+  "user": "tikoxbt",
+  "timeframes": {
+    "7D": {
+      "flipster": [
+        {
+          "t": 1769303627174,
+          "mindshare": 0.25
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1769298859845,
+          "mindshare": 0.21
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1769303097716,
+          "mindshare": 0.31
+        }
+      ]
+    },
+    "30D": {
+      "apex": [
+        {
+          "t": 1769301578095,
+          "mindshare": 0.18
+        }
+      ],
+      "flipster": [
+        {
+          "t": 1769303641567,
+          "mindshare": 0.51
+        }
+      ],
+      "integra": [
+        {
+          "t": 1769303274041,
+          "mindshare": 0.43
+        }
+      ],
+      "lombard": [
+        {
+          "t": 1769298871147,
+          "mindshare": 1.13
+        }
+      ],
+      "orderly": [
+        {
+          "t": 1769303106956,
+          "mindshare": 0.54
+        }
+      ],
+      "rainbow": [
+        {
+          "t": 1769299828035,
+          "mindshare": 0.19
+        }
+      ]
+    }
+  }
+}

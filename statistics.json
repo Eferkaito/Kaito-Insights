@@ -3028,16 +3028,16 @@
       "project": "flipster",
       "timeframe": "7D",
       "followers": {
-        "min": 1122.0,
-        "max": 18081.0,
-        "avg": 5296.0,
+        "min": 1129.0,
+        "max": 18037.0,
+        "avg": 5811.888888888889,
         "min-user": "@ByronSone",
         "max-user": "@888marui"
       },
       "smart_followers": {
-        "min": 26.0,
+        "min": 27.0,
         "max": 262.0,
-        "avg": 89.18181818181819,
+        "avg": 91.38888888888889,
         "min-user": "@Coingazura",
         "max-user": "@MOODOO_Diary"
       },
@@ -3048,23 +3048,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 22,
+      "count": 18,
       "path": "lbyaps/flipster/flipster-7D.json"
     },
     {
       "project": "flipster",
       "timeframe": "30D",
       "followers": {
-        "min": 1122.0,
-        "max": 133096.0,
-        "avg": 19573.31313131313,
+        "min": 1129.0,
+        "max": 133132.0,
+        "avg": 19582.21212121212,
         "min-user": "@ByronSone",
         "max-user": "@nftsiy"
       },
       "smart_followers": {
         "min": 13.0,
         "max": 857.0,
-        "avg": 157.35353535353536,
+        "avg": 157.45454545454547,
         "min-user": "@LucyXbtc",
         "max-user": "@youngsun"
       },
@@ -4594,18 +4594,18 @@
       "project": "katana",
       "timeframe": "7D",
       "followers": {
-        "min": 3260.0,
-        "max": 106692.0,
-        "avg": 27490.815789473683,
+        "min": 3277.0,
+        "max": 106721.0,
+        "avg": 27977.815789473683,
         "min-user": "@huynh_tinh1604",
         "max-user": "@ZF_lab"
       },
       "smart_followers": {
         "min": 17.0,
-        "max": 1769.0,
-        "avg": 421.7368421052632,
+        "max": 1978.0,
+        "avg": 468.6578947368421,
         "min-user": "@0xAhmadullah",
-        "max-user": "@xerocooleth"
+        "max-user": "@0xMarcB"
       },
       "yaps": {
         "min": null,
@@ -4622,17 +4622,17 @@
       "timeframe": "30D",
       "followers": {
         "min": 1357.0,
-        "max": 140560.0,
-        "avg": 28486.866666666665,
+        "max": 140643.0,
+        "avg": 28451.824175824175,
         "min-user": "@ettty_19",
         "max-user": "@maid_crypto"
       },
       "smart_followers": {
         "min": 17.0,
-        "max": 1769.0,
-        "avg": 411.7888888888889,
+        "max": 1978.0,
+        "avg": 429.24175824175825,
         "min-user": "@0xAhmadullah",
-        "max-user": "@xerocooleth"
+        "max-user": "@0xMarcB"
       },
       "yaps": {
         "min": null,
@@ -4641,7 +4641,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 90,
+      "count": 91,
       "path": "lbyaps/katana/katana-30D.json"
     },
     {

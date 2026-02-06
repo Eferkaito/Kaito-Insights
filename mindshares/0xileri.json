@@ -1,0 +1,27 @@
+{
+  "user": "0xileri",
+  "timeframes": {
+    "7D": {
+      "rainbow": [
+        {
+          "t": 1770313028551,
+          "mindshare": 0.35
+        }
+      ]
+    },
+    "30D": {
+      "rainbow": [
+        {
+          "t": 1770313044355,
+          "mindshare": 0.17
+        }
+      ],
+      "verse8": [
+        {
+          "t": 1770312260092,
+          "mindshare": 0.36
+        }
+      ]
+    }
+  }
+}

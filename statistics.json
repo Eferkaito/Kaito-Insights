@@ -5216,15 +5216,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 720.0,
-        "max": 163829.0,
-        "avg": 12940.926829268292,
+        "max": 163828.0,
+        "avg": 13463.657894736842,
         "min-user": "@faf_animation",
         "max-user": "@gcsbtc"
       },
       "smart_followers": {
         "min": 3.0,
         "max": 353.0,
-        "avg": 69.92682926829268,
+        "avg": 70.44736842105263,
         "min-user": "@faf_animation",
         "max-user": "@GuarEmperor"
       },
@@ -5235,7 +5235,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 41,
+      "count": 38,
       "path": "lbyaps/lumiterra/lumiterra-30D.json"
     },
     {

@@ -1,12 +1,21 @@
 {
   "data": [
     {
+      "user": " Consensus HK",
+      "yaps": null,
+      "30D": [
+        "anichess"
+      ],
+      "followers": 61323.0,
+      "smart_followers": 1258.0
+    },
+    {
       "user": " NYC ☦",
       "yaps": null,
       "30D": [
         "starknet"
       ],
-      "followers": 3231.0,
+      "followers": 3232.0,
       "smart_followers": 288.0
     },
     {
@@ -18,7 +27,7 @@
       "30D": [
         "soon"
       ],
-      "followers": 10062.0,
+      "followers": 10052.0,
       "smart_followers": 868.0
     },
     {
@@ -64,7 +73,7 @@
         "opengradient",
         "theo"
       ],
-      "followers": 7747.0,
+      "followers": 7743.0,
       "smart_followers": 18.0
     },
     {
@@ -101,7 +110,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 6360.0,
+      "followers": 6364.0,
       "smart_followers": 327.0
     },
     {
@@ -128,7 +137,7 @@
         "lombard",
         "orderly"
       ],
-      "followers": 28864.0,
+      "followers": 28874.0,
       "smart_followers": 138.0
     },
     {
@@ -170,7 +179,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 7935.0,
+      "followers": 7936.0,
       "smart_followers": 1008.0
     },
     {
@@ -184,7 +193,7 @@
         "mantle",
         "sei"
       ],
-      "followers": 38644.0,
+      "followers": 38539.0,
       "smart_followers": 244.0
     },
     {
@@ -228,17 +237,8 @@
         "tria",
         "warden"
       ],
-      "followers": 69667.0,
+      "followers": 69689.0,
       "smart_followers": 576.0
-    },
-    {
-      "user": "0xAbhiP",
-      "yaps": null,
-      "30D": [
-        "anichess"
-      ],
-      "followers": 61342.0,
-      "smart_followers": 1258.0
     },
     {
       "user": "0xAdmired",
@@ -272,7 +272,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 14511.0,
+      "followers": 14513.0,
       "smart_followers": 570.0
     },
     {
@@ -310,21 +310,18 @@
         "kaito",
         "standx"
       ],
-      "followers": 37966.0,
+      "followers": 37969.0,
       "smart_followers": 183.0
     },
     {
       "user": "0xAltKing",
       "yaps": null,
-      "7D": [
-        "standx"
-      ],
       "30D": [
         "ferra",
         "miden",
         "standx"
       ],
-      "followers": 46815.0,
+      "followers": 46814.0,
       "smart_followers": 88.0
     },
     {
@@ -399,7 +396,7 @@
       "30D": [
         "standx"
       ],
-      "followers": 131982.0,
+      "followers": 132068.0,
       "smart_followers": 392.0
     },
     {
@@ -415,7 +412,7 @@
         "sentient",
         "standx"
       ],
-      "followers": 41291.0,
+      "followers": 41317.0,
       "smart_followers": 514.0
     },
     {
@@ -436,7 +433,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 2738.0,
+      "followers": 2740.0,
       "smart_followers": 41.0
     },
     {
@@ -480,6 +477,7 @@
         "inferencelabs",
         "kaio",
         "mememax",
+        "miden",
         "opengradient",
         "stbl"
       ],
@@ -492,7 +490,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 7577.0,
+      "followers": 7574.0,
       "smart_followers": 60.0
     },
     {
@@ -511,7 +509,7 @@
         "megaeth",
         "monad"
       ],
-      "followers": 9257.0,
+      "followers": 9260.0,
       "smart_followers": 456.0
     },
     {
@@ -529,7 +527,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 7792.0,
+      "followers": 7817.0,
       "smart_followers": 21.0
     },
     {
@@ -580,7 +578,7 @@
       "30D": [
         "opengradient"
       ],
-      "followers": 2665.0,
+      "followers": 2674.0,
       "smart_followers": 354.0
     },
     {
@@ -592,8 +590,8 @@
       "30D": [
         "virtual"
       ],
-      "followers": 35679.0,
-      "smart_followers": 1351.0
+      "followers": 36232.0,
+      "smart_followers": 1354.0
     },
     {
       "user": "0xDeviron",
@@ -633,11 +631,13 @@
       "user": "0xElowen",
       "yaps": null,
       "7D": [
-        "0g"
+        "0g",
+        "opengradient"
       ],
       "30D": [
         "0g",
         "miden",
+        "opengradient",
         "soul",
         "standx",
         "stbl",
@@ -668,7 +668,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 4190.0,
+      "followers": 4196.0,
       "smart_followers": 243.0
     },
     {
@@ -686,7 +686,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 1643.0,
+      "followers": 1645.0,
       "smart_followers": 19.0
     },
     {
@@ -707,7 +707,7 @@
       "7D": [
         "huma"
       ],
-      "followers": 2332.0,
+      "followers": 2331.0,
       "smart_followers": 42.0
     },
     {
@@ -729,7 +729,7 @@
       "30D": [
         "kaito"
       ],
-      "followers": 11834.0,
+      "followers": 11851.0,
       "smart_followers": 65.0
     },
     {
@@ -767,7 +767,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 4444.0,
+      "followers": 4451.0,
       "smart_followers": 48.0
     },
     {
@@ -848,7 +848,7 @@
         "sei",
         "verse8"
       ],
-      "followers": 56995.0,
+      "followers": 57029.0,
       "smart_followers": 309.0
     },
     {
@@ -898,12 +898,11 @@
         "noble"
       ],
       "30D": [
-        "cysic",
         "edgen",
         "miden",
         "noble"
       ],
-      "followers": 4056.0,
+      "followers": 4055.0,
       "smart_followers": 74.0
     },
     {
@@ -913,7 +912,7 @@
         "lombard",
         "moremarkets"
       ],
-      "followers": 16598.0,
+      "followers": 16599.0,
       "smart_followers": 47.0
     },
     {
@@ -950,6 +949,15 @@
       "smart_followers": 456.0
     },
     {
+      "user": "0xMontBlanc",
+      "yaps": null,
+      "30D": [
+        "ethereum"
+      ],
+      "followers": 13914.0,
+      "smart_followers": 401.0
+    },
+    {
       "user": "0xNairolf",
       "yaps": null,
       "7D": [
@@ -962,7 +970,7 @@
         "miden",
         "monad"
       ],
-      "followers": 38544.0,
+      "followers": 38590.0,
       "smart_followers": 1851.0
     },
     {
@@ -976,7 +984,7 @@
         "huma",
         "kaito"
       ],
-      "followers": 14611.0,
+      "followers": 14622.0,
       "smart_followers": 175.0
     },
     {
@@ -987,7 +995,7 @@
         "cysic",
         "nesa"
       ],
-      "followers": 1699.0,
+      "followers": 1698.0,
       "smart_followers": 62.0
     },
     {
@@ -996,7 +1004,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 2826.0,
+      "followers": 2828.0,
       "smart_followers": 85.0
     },
     {
@@ -1017,7 +1025,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 7225.0,
+      "followers": 7250.0,
       "smart_followers": 98.0
     },
     {
@@ -1028,7 +1036,7 @@
         "inferencelabs",
         "miden"
       ],
-      "followers": 29155.0,
+      "followers": 29166.0,
       "smart_followers": 126.0
     },
     {
@@ -1057,13 +1065,10 @@
     {
       "user": "0xPickleCati",
       "yaps": null,
-      "7D": [
-        "ethereum"
-      ],
       "30D": [
         "ethereum"
       ],
-      "followers": 54619.0,
+      "followers": 54747.0,
       "smart_followers": 497.0
     },
     {
@@ -1082,7 +1087,7 @@
         "ethereum",
         "monad"
       ],
-      "followers": 18129.0,
+      "followers": 18134.0,
       "smart_followers": 559.0
     },
     {
@@ -1160,7 +1165,7 @@
         "arbitrum",
         "brevis"
       ],
-      "followers": 67831.0,
+      "followers": 67829.0,
       "smart_followers": 1285.0
     },
     {
@@ -1169,6 +1174,7 @@
       "7D": [
         "ethereum",
         "kaito",
+        "near",
         "surf",
         "talus",
         "virtual"
@@ -1181,8 +1187,8 @@
         "virtual",
         "walrus"
       ],
-      "followers": 88299.0,
-      "smart_followers": 3278.0
+      "followers": 88429.0,
+      "smart_followers": 3277.0
     },
     {
       "user": "0xSanixxx",
@@ -1217,7 +1223,7 @@
       "30D": [
         "pyth"
       ],
-      "followers": 6103.0,
+      "followers": 6104.0,
       "smart_followers": 391.0
     },
     {
@@ -1337,7 +1343,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 14897.0,
+      "followers": 14906.0,
       "smart_followers": 200.0
     },
     {
@@ -1375,7 +1381,7 @@
         "mira",
         "sei"
       ],
-      "followers": 24009.0,
+      "followers": 24031.0,
       "smart_followers": 68.0
     },
     {
@@ -1387,7 +1393,7 @@
       "30D": [
         "soon"
       ],
-      "followers": 37063.0,
+      "followers": 37082.0,
       "smart_followers": 220.0
     },
     {
@@ -1405,7 +1411,7 @@
       "30D": [
         "openledger"
       ],
-      "followers": 11682.0,
+      "followers": 11687.0,
       "smart_followers": 82.0
     },
     {
@@ -1426,7 +1432,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 6757.0,
+      "followers": 6756.0,
       "smart_followers": 47.0
     },
     {
@@ -1453,7 +1459,7 @@
         "pip",
         "rainbow"
       ],
-      "followers": 4059.0,
+      "followers": 4067.0,
       "smart_followers": 20.0
     },
     {
@@ -1614,7 +1620,7 @@
         "billions",
         "kaito"
       ],
-      "followers": 8816.0,
+      "followers": 8794.0,
       "smart_followers": 142.0
     },
     {
@@ -1663,7 +1669,7 @@
         "noya",
         "warden"
       ],
-      "followers": 14030.0,
+      "followers": 14036.0,
       "smart_followers": 80.0
     },
     {
@@ -1710,7 +1716,7 @@
         "miden",
         "warden"
       ],
-      "followers": 2128.0,
+      "followers": 2125.0,
       "smart_followers": 27.0
     },
     {
@@ -1733,7 +1739,7 @@
         "sixr",
         "tria"
       ],
-      "followers": 43875.0,
+      "followers": 43888.0,
       "smart_followers": 410.0
     },
     {
@@ -1754,7 +1760,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 2716.0,
+      "followers": 2721.0,
       "smart_followers": 435.0
     },
     {
@@ -1792,7 +1798,7 @@
       "30D": [
         "near"
       ],
-      "followers": 6069.0,
+      "followers": 6072.0,
       "smart_followers": 723.0
     },
     {
@@ -1880,7 +1886,7 @@
         "sei",
         "theo"
       ],
-      "followers": 15217.0,
+      "followers": 15227.0,
       "smart_followers": 53.0
     },
     {
@@ -1959,7 +1965,7 @@
         "rainbow",
         "sixr"
       ],
-      "followers": 1919.0,
+      "followers": 1921.0,
       "smart_followers": 24.0
     },
     {
@@ -2025,7 +2031,7 @@
       "30D": [
         "bitdealer"
       ],
-      "followers": 3063.0,
+      "followers": 3065.0,
       "smart_followers": 41.0
     },
     {
@@ -2040,9 +2046,6 @@
     {
       "user": "0xmani",
       "yaps": null,
-      "7D": [
-        "miden"
-      ],
       "30D": [
         "sixr"
       ],
@@ -2054,7 +2057,6 @@
       "yaps": null,
       "30D": [
         "edgen",
-        "miden",
         "noble",
         "opengradient",
         "openmind",
@@ -2088,7 +2090,7 @@
         "anichess",
         "mira"
       ],
-      "followers": 2532.0,
+      "followers": 2533.0,
       "smart_followers": 51.0
     },
     {
@@ -2128,20 +2130,17 @@
         "anichess",
         "openledger"
       ],
-      "followers": 1946.0,
+      "followers": 1952.0,
       "smart_followers": 18.0
     },
     {
       "user": "0xsexybanana",
       "yaps": null,
-      "7D": [
-        "kaito"
-      ],
       "30D": [
         "kaito",
         "megaeth"
       ],
-      "followers": 39727.0,
+      "followers": 39745.0,
       "smart_followers": 819.0
     },
     {
@@ -2178,7 +2177,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 26958.0,
+      "followers": 26962.0,
       "smart_followers": 2258.0
     },
     {
@@ -2199,7 +2198,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 10487.0,
+      "followers": 10485.0,
       "smart_followers": 978.0
     },
     {
@@ -2266,7 +2265,6 @@
         "inferencelabs",
         "mememax",
         "miden",
-        "opengradient",
         "standx",
         "warden"
       ],
@@ -2302,7 +2300,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 20522.0,
+      "followers": 20564.0,
       "smart_followers": 1628.0
     },
     {
@@ -2327,7 +2325,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 71546.0,
+      "followers": 71609.0,
       "smart_followers": 299.0
     },
     {
@@ -2341,7 +2339,7 @@
         "creatorbid",
         "virtual"
       ],
-      "followers": 21155.0,
+      "followers": 21170.0,
       "smart_followers": 298.0
     },
     {
@@ -2413,7 +2411,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 725.0,
+      "followers": 727.0,
       "smart_followers": 11.0
     },
     {
@@ -2422,7 +2420,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 1754.0,
+      "followers": 1751.0,
       "smart_followers": 17.0
     },
     {
@@ -2435,7 +2433,7 @@
         "openmind",
         "polygon"
       ],
-      "followers": 106778.0,
+      "followers": 106821.0,
       "smart_followers": 681.0
     },
     {
@@ -2517,6 +2515,18 @@
       "smart_followers": 1227.0
     },
     {
+      "user": "3DMax_Virtuals",
+      "yaps": null,
+      "7D": [
+        "virtual"
+      ],
+      "30D": [
+        "virtual"
+      ],
+      "followers": 7108.0,
+      "smart_followers": 93.0
+    },
+    {
       "user": "3liXBT",
       "yaps": null,
       "7D": [
@@ -2536,7 +2546,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 6557.0,
+      "followers": 6559.0,
       "smart_followers": 912.0
     },
     {
@@ -2664,7 +2674,6 @@
         "huma",
         "integra",
         "lombard",
-        "miden",
         "mira",
         "stbl",
         "verse8"
@@ -2712,7 +2721,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 10993.0,
+      "followers": 11016.0,
       "smart_followers": 57.0
     },
     {
@@ -2773,7 +2782,7 @@
         "opengradient",
         "yeet"
       ],
-      "followers": 4143.0,
+      "followers": 4150.0,
       "smart_followers": 63.0
     },
     {
@@ -2787,7 +2796,7 @@
         "starknet",
         "zcash"
       ],
-      "followers": 31039.0,
+      "followers": 31033.0,
       "smart_followers": 1134.0
     },
     {
@@ -2841,7 +2850,7 @@
         "standx",
         "stbl"
       ],
-      "followers": 11963.0,
+      "followers": 11970.0,
       "smart_followers": 143.0
     },
     {
@@ -2878,7 +2887,7 @@
         "polygon",
         "theoriq"
       ],
-      "followers": 1511.0,
+      "followers": 1504.0,
       "smart_followers": 70.0
     },
     {
@@ -2902,10 +2911,13 @@
     {
       "user": "AdrianoFeria",
       "yaps": null,
+      "7D": [
+        "ethereum"
+      ],
       "30D": [
         "ethereum"
       ],
-      "followers": 20831.0,
+      "followers": 20829.0,
       "smart_followers": 768.0
     },
     {
@@ -2973,12 +2985,13 @@
       "user": "AirdropAlchemis",
       "yaps": null,
       "7D": [
-        "huma"
+        "huma",
+        "polygon"
       ],
       "30D": [
         "huma"
       ],
-      "followers": 53412.0,
+      "followers": 53464.0,
       "smart_followers": 154.0
     },
     {
@@ -3037,7 +3050,7 @@
         "anichess",
         "noble"
       ],
-      "followers": 4454.0,
+      "followers": 4468.0,
       "smart_followers": 43.0
     },
     {
@@ -3065,7 +3078,7 @@
         "irys",
         "mavryk"
       ],
-      "followers": 63226.0,
+      "followers": 63270.0,
       "smart_followers": 25.0
     },
     {
@@ -3098,7 +3111,6 @@
         "lumiterra",
         "multipli",
         "noya",
-        "openledger",
         "theoriq"
       ],
       "followers": 2613.0,
@@ -3110,7 +3122,7 @@
       "30D": [
         "near"
       ],
-      "followers": 31688.0,
+      "followers": 31681.0,
       "smart_followers": 560.0
     },
     {
@@ -3129,7 +3141,7 @@
         "miden",
         "sixr"
       ],
-      "followers": 6185.0,
+      "followers": 6219.0,
       "smart_followers": 129.0
     },
     {
@@ -3168,7 +3180,7 @@
       "30D": [
         "irys"
       ],
-      "followers": 55799.0,
+      "followers": 55806.0,
       "smart_followers": 724.0
     },
     {
@@ -3182,7 +3194,7 @@
       "30D": [
         "sei"
       ],
-      "followers": 479935.0,
+      "followers": 480112.0,
       "smart_followers": 693.0
     },
     {
@@ -3250,7 +3262,7 @@
         "peaq",
         "virtual"
       ],
-      "followers": 22094.0,
+      "followers": 22099.0,
       "smart_followers": 815.0
     },
     {
@@ -3265,21 +3277,12 @@
       "smart_followers": 18.0
     },
     {
-      "user": "AndyGuzmanEth",
-      "yaps": null,
-      "7D": [
-        "ethereum"
-      ],
-      "followers": 3389.0,
-      "smart_followers": 480.0
-    },
-    {
       "user": "Angello3400PRMR",
       "yaps": null,
       "30D": [
         "miden"
       ],
-      "followers": 2327.0,
+      "followers": 2331.0,
       "smart_followers": 150.0
     },
     {
@@ -3289,7 +3292,7 @@
         "polygon",
         "sei"
       ],
-      "followers": 11279.0,
+      "followers": 11297.0,
       "smart_followers": 288.0
     },
     {
@@ -3301,7 +3304,7 @@
       "30D": [
         "mememax"
       ],
-      "followers": 7642.0,
+      "followers": 7646.0,
       "smart_followers": 137.0
     },
     {
@@ -3377,7 +3380,7 @@
         "lombard",
         "somnia"
       ],
-      "followers": 3257.0,
+      "followers": 3259.0,
       "smart_followers": 339.0
     },
     {
@@ -3436,7 +3439,7 @@
         "soul",
         "yeet"
       ],
-      "followers": 3503.0,
+      "followers": 3500.0,
       "smart_followers": 58.0
     },
     {
@@ -3450,7 +3453,7 @@
         "kaito",
         "moonbirds"
       ],
-      "followers": 11714.0,
+      "followers": 11769.0,
       "smart_followers": 294.0
     },
     {
@@ -3497,7 +3500,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 68365.0,
+      "followers": 68372.0,
       "smart_followers": 1219.0
     },
     {
@@ -3507,14 +3510,13 @@
         "opengradient",
         "rainbow"
       ],
-      "followers": 10292.0,
+      "followers": 10335.0,
       "smart_followers": 74.0
     },
     {
       "user": "AwbczBTC",
       "yaps": null,
       "7D": [
-        "ferra",
         "moremarkets"
       ],
       "30D": [
@@ -3525,8 +3527,8 @@
         "mira",
         "moremarkets"
       ],
-      "followers": 13496.0,
-      "smart_followers": 48.0
+      "followers": 12700.0,
+      "smart_followers": 44.0
     },
     {
       "user": "AxelBeastt",
@@ -3536,16 +3538,19 @@
         "miden",
         "pip"
       ],
-      "followers": 53885.0,
+      "followers": 53941.0,
       "smart_followers": 298.0
     },
     {
       "user": "Axel_bitblaze69",
       "yaps": null,
+      "7D": [
+        "ethereum"
+      ],
       "30D": [
         "aptos"
       ],
-      "followers": 125805.0,
+      "followers": 125927.0,
       "smart_followers": 809.0
     },
     {
@@ -3578,8 +3583,8 @@
       "30D": [
         "brevis"
       ],
-      "followers": 28766.0,
-      "smart_followers": 1968.0
+      "followers": 28769.0,
+      "smart_followers": 1965.0
     },
     {
       "user": "BCheque1",
@@ -3610,7 +3615,7 @@
         "arbitrum",
         "polygon"
       ],
-      "followers": 15764.0,
+      "followers": 15770.0,
       "smart_followers": 970.0
     },
     {
@@ -3620,12 +3625,11 @@
         "opengradient"
       ],
       "30D": [
-        "arbitrum",
         "flipster",
         "kindred",
         "stbl"
       ],
-      "followers": 6032.0,
+      "followers": 6031.0,
       "smart_followers": 118.0
     },
     {
@@ -3640,7 +3644,7 @@
         "mantle",
         "puffpaw"
       ],
-      "followers": 21277.0,
+      "followers": 21275.0,
       "smart_followers": 323.0
     },
     {
@@ -3717,11 +3721,9 @@
       "user": "BagCalls",
       "yaps": null,
       "7D": [
-        "anichess",
         "kaito",
         "metawin",
-        "polygon",
-        "standx"
+        "polygon"
       ],
       "30D": [
         "anichess",
@@ -3735,14 +3737,13 @@
         "virtual",
         "warden"
       ],
-      "followers": 103659.0,
+      "followers": 103632.0,
       "smart_followers": 338.0
     },
     {
       "user": "Baili1018",
       "yaps": null,
       "7D": [
-        "ferra",
         "kaito",
         "warden"
       ],
@@ -3760,7 +3761,7 @@
         "stbl",
         "warden"
       ],
-      "followers": 78765.0,
+      "followers": 78773.0,
       "smart_followers": 176.0
     },
     {
@@ -3808,7 +3809,7 @@
         "standx",
         "theo"
       ],
-      "followers": 13029.0,
+      "followers": 13165.0,
       "smart_followers": 88.0
     },
     {
@@ -3946,7 +3947,7 @@
         "arbitrum",
         "warden"
       ],
-      "followers": 50440.0,
+      "followers": 50453.0,
       "smart_followers": 134.0
     },
     {
@@ -3981,7 +3982,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 16532.0,
+      "followers": 16530.0,
       "smart_followers": 608.0
     },
     {
@@ -3999,7 +4000,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 15566.0,
+      "followers": 15562.0,
       "smart_followers": 27.0
     },
     {
@@ -4026,7 +4027,7 @@
       "30D": [
         "pip"
       ],
-      "followers": 116417.0,
+      "followers": 116455.0,
       "smart_followers": 175.0
     },
     {
@@ -4047,7 +4048,7 @@
       "30D": [
         "initia"
       ],
-      "followers": 945.0,
+      "followers": 956.0,
       "smart_followers": 52.0
     },
     {
@@ -4059,7 +4060,7 @@
       "30D": [
         "cysic"
       ],
-      "followers": 38332.0,
+      "followers": 38345.0,
       "smart_followers": 279.0
     },
     {
@@ -4085,7 +4086,6 @@
       "user": "Bitcoineo",
       "yaps": null,
       "7D": [
-        "ethereum",
         "megaeth"
       ],
       "30D": [
@@ -4139,7 +4139,7 @@
         "kaito",
         "standx"
       ],
-      "followers": 361522.0,
+      "followers": 361788.0,
       "smart_followers": 802.0
     },
     {
@@ -4151,7 +4151,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 2460.0,
+      "followers": 2462.0,
       "smart_followers": 30.0
     },
     {
@@ -4228,7 +4228,7 @@
       "30D": [
         "bybit"
       ],
-      "followers": 136291.0,
+      "followers": 136337.0,
       "smart_followers": 437.0
     },
     {
@@ -4294,7 +4294,7 @@
         "surf",
         "virtual"
       ],
-      "followers": 117740.0,
+      "followers": 117760.0,
       "smart_followers": 825.0
     },
     {
@@ -4305,7 +4305,6 @@
       ],
       "30D": [
         "pengu",
-        "virtual",
         "zkpass"
       ],
       "followers": 5946.0,
@@ -4346,7 +4345,7 @@
         "standx",
         "stbl"
       ],
-      "followers": 10538.0,
+      "followers": 10529.0,
       "smart_followers": 150.0
     },
     {
@@ -4468,7 +4467,7 @@
         "sentient",
         "verse8"
       ],
-      "followers": 3314.0,
+      "followers": 3316.0,
       "smart_followers": 74.0
     },
     {
@@ -4511,7 +4510,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 2386.0,
+      "followers": 2384.0,
       "smart_followers": 206.0
     },
     {
@@ -4523,7 +4522,7 @@
       "30D": [
         "near"
       ],
-      "followers": 13973.0,
+      "followers": 13975.0,
       "smart_followers": 658.0
     },
     {
@@ -4532,7 +4531,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 93511.0,
+      "followers": 93520.0,
       "smart_followers": 3643.0
     },
     {
@@ -4575,7 +4574,7 @@
         "sentient",
         "warden"
       ],
-      "followers": 29841.0,
+      "followers": 29768.0,
       "smart_followers": 170.0
     },
     {
@@ -4637,10 +4636,11 @@
       "30D": [
         "anichess",
         "kindred",
+        "miden",
         "noble",
         "openledger"
       ],
-      "followers": 1809.0,
+      "followers": 1817.0,
       "smart_followers": 34.0
     },
     {
@@ -4661,7 +4661,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 4886.0,
+      "followers": 4894.0,
       "smart_followers": 192.0
     },
     {
@@ -4697,7 +4697,7 @@
         "mira",
         "stbl"
       ],
-      "followers": 39237.0,
+      "followers": 39238.0,
       "smart_followers": 53.0
     },
     {
@@ -4736,7 +4736,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 18820.0,
+      "followers": 19046.0,
       "smart_followers": 199.0
     },
     {
@@ -4790,7 +4790,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 2136.0,
+      "followers": 2141.0,
       "smart_followers": 25.0
     },
     {
@@ -4802,7 +4802,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 6061.0,
+      "followers": 6063.0,
       "smart_followers": 504.0
     },
     {
@@ -4815,7 +4815,7 @@
         "creatorbid",
         "virtual"
       ],
-      "followers": 12267.0,
+      "followers": 12271.0,
       "smart_followers": 162.0
     },
     {
@@ -4839,7 +4839,7 @@
         "mememax",
         "miden"
       ],
-      "followers": 27058.0,
+      "followers": 27122.0,
       "smart_followers": 70.0
     },
     {
@@ -4894,7 +4894,8 @@
         "integra",
         "kaio",
         "moonbirds",
-        "opengradient"
+        "opengradient",
+        "openledger"
       ],
       "30D": [
         "integra",
@@ -4912,7 +4913,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 30786.0,
+      "followers": 30781.0,
       "smart_followers": 1887.0
     },
     {
@@ -4921,7 +4922,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 5923.0,
+      "followers": 5925.0,
       "smart_followers": 108.0
     },
     {
@@ -5047,7 +5048,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 21863.0,
+      "followers": 21875.0,
       "smart_followers": 169.0
     },
     {
@@ -5119,7 +5120,7 @@
         "arbitrum",
         "injective"
       ],
-      "followers": 187202.0,
+      "followers": 187260.0,
       "smart_followers": 223.0
     },
     {
@@ -5150,10 +5151,11 @@
         "arbitrum"
       ],
       "30D": [
+        "arbitrum",
         "pip",
         "tria"
       ],
-      "followers": 60553.0,
+      "followers": 60606.0,
       "smart_followers": 131.0
     },
     {
@@ -5194,7 +5196,7 @@
         "moremarkets",
         "warden"
       ],
-      "followers": 36571.0,
+      "followers": 36557.0,
       "smart_followers": 555.0
     },
     {
@@ -5236,7 +5238,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 7763.0,
+      "followers": 7768.0,
       "smart_followers": 141.0
     },
     {
@@ -5248,19 +5250,16 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 730422.0,
+      "followers": 730504.0,
       "smart_followers": 4477.0
     },
     {
       "user": "CryptoKatze",
       "yaps": null,
-      "7D": [
-        "virtual"
-      ],
       "30D": [
         "virtual"
       ],
-      "followers": 2583.0,
+      "followers": 2587.0,
       "smart_followers": 27.0
     },
     {
@@ -5289,7 +5288,7 @@
         "peaq",
         "sei"
       ],
-      "followers": 819077.0,
+      "followers": 819349.0,
       "smart_followers": 1339.0
     },
     {
@@ -5352,7 +5351,7 @@
         "sentient",
         "sidekick"
       ],
-      "followers": 94872.0,
+      "followers": 94893.0,
       "smart_followers": 407.0
     },
     {
@@ -5361,7 +5360,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 15797.0,
+      "followers": 15816.0,
       "smart_followers": 64.0
     },
     {
@@ -5370,7 +5369,7 @@
       "30D": [
         "standx"
       ],
-      "followers": 24347.0,
+      "followers": 24361.0,
       "smart_followers": 217.0
     },
     {
@@ -5442,7 +5441,7 @@
         "kindred",
         "warden"
       ],
-      "followers": 55299.0,
+      "followers": 55305.0,
       "smart_followers": 101.0
     },
     {
@@ -5468,7 +5467,7 @@
         "polygon",
         "tria"
       ],
-      "followers": 47094.0,
+      "followers": 47104.0,
       "smart_followers": 461.0
     },
     {
@@ -5520,7 +5519,7 @@
       "30D": [
         "sentient"
       ],
-      "followers": 92266.0,
+      "followers": 92269.0,
       "smart_followers": 325.0
     },
     {
@@ -5582,7 +5581,7 @@
         "openmind",
         "turtleclub"
       ],
-      "followers": 9054.0,
+      "followers": 9066.0,
       "smart_followers": 130.0
     },
     {
@@ -5600,7 +5599,7 @@
       "7D": [
         "miden"
       ],
-      "followers": 6103.0,
+      "followers": 6113.0,
       "smart_followers": 72.0
     },
     {
@@ -5621,7 +5620,7 @@
       "7D": [
         "arbitrum"
       ],
-      "followers": 5255.0,
+      "followers": 5259.0,
       "smart_followers": 95.0
     },
     {
@@ -5632,7 +5631,7 @@
         "polygon",
         "sentient"
       ],
-      "followers": 77800.0,
+      "followers": 77795.0,
       "smart_followers": 82.0
     },
     {
@@ -5665,7 +5664,7 @@
         "arbitrum",
         "ethereum"
       ],
-      "followers": 10440.0,
+      "followers": 10439.0,
       "smart_followers": 1010.0
     },
     {
@@ -5674,7 +5673,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 9594.0,
+      "followers": 9589.0,
       "smart_followers": 94.0
     },
     {
@@ -5690,7 +5689,7 @@
         "stbl",
         "walrus"
       ],
-      "followers": 2084.0,
+      "followers": 2096.0,
       "smart_followers": 66.0
     },
     {
@@ -5708,7 +5707,7 @@
         "soul",
         "stbl"
       ],
-      "followers": 84147.0,
+      "followers": 84167.0,
       "smart_followers": 326.0
     },
     {
@@ -5729,7 +5728,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 274266.0,
+      "followers": 274464.0,
       "smart_followers": 6905.0
     },
     {
@@ -5767,7 +5766,7 @@
       "30D": [
         "irys"
       ],
-      "followers": 6841.0,
+      "followers": 6840.0,
       "smart_followers": 117.0
     },
     {
@@ -5817,7 +5816,7 @@
       "30D": [
         "cysic"
       ],
-      "followers": 14411.0,
+      "followers": 14410.0,
       "smart_followers": 114.0
     },
     {
@@ -5859,7 +5858,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 1500.0,
+      "followers": 1502.0,
       "smart_followers": 22.0
     },
     {
@@ -5926,7 +5925,7 @@
       "7D": [
         "polygon"
       ],
-      "followers": 5424.0,
+      "followers": 5421.0,
       "smart_followers": 563.0
     },
     {
@@ -5935,7 +5934,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 37217.0,
+      "followers": 37244.0,
       "smart_followers": 464.0
     },
     {
@@ -5956,8 +5955,8 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 27654.0,
-      "smart_followers": 1059.0
+      "followers": 27711.0,
+      "smart_followers": 1056.0
     },
     {
       "user": "DavideFi",
@@ -6007,7 +6006,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 44221.0,
+      "followers": 44255.0,
       "smart_followers": 566.0
     },
     {
@@ -6037,7 +6036,7 @@
       "30D": [
         "sonic"
       ],
-      "followers": 6100.0,
+      "followers": 6099.0,
       "smart_followers": 161.0
     },
     {
@@ -6049,7 +6048,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 2596.0,
+      "followers": 2595.0,
       "smart_followers": 9.0
     },
     {
@@ -6065,12 +6064,13 @@
       "30D": [
         "aptos",
         "beldex",
+        "kaito",
         "mememax",
         "peaq",
         "polkadot",
         "sixr"
       ],
-      "followers": 19046.0,
+      "followers": 18148.0,
       "smart_followers": 98.0
     },
     {
@@ -6129,7 +6129,7 @@
         "kaio",
         "tria"
       ],
-      "followers": 1220.0,
+      "followers": 1221.0,
       "smart_followers": 27.0
     },
     {
@@ -6144,7 +6144,7 @@
         "arbitrum",
         "ethereum"
       ],
-      "followers": 177314.0,
+      "followers": 177340.0,
       "smart_followers": 4582.0
     },
     {
@@ -6219,7 +6219,7 @@
       "30D": [
         "kaito"
       ],
-      "followers": 53068.0,
+      "followers": 53069.0,
       "smart_followers": 922.0
     },
     {
@@ -6242,7 +6242,6 @@
         "megaeth"
       ],
       "30D": [
-        "arbitrum",
         "ethereum",
         "megaeth",
         "zcash"
@@ -6267,14 +6266,13 @@
         "integra",
         "sixr"
       ],
-      "followers": 167335.0,
+      "followers": 167340.0,
       "smart_followers": 221.0
     },
     {
       "user": "Defi_Scribbler",
       "yaps": null,
       "7D": [
-        "anichess",
         "kaito"
       ],
       "30D": [
@@ -6286,7 +6284,7 @@
         "theoriq",
         "yeet"
       ],
-      "followers": 21579.0,
+      "followers": 21574.0,
       "smart_followers": 119.0
     },
     {
@@ -6311,7 +6309,7 @@
         "theo",
         "virtual"
       ],
-      "followers": 42589.0,
+      "followers": 42498.0,
       "smart_followers": 630.0
     },
     {
@@ -6354,7 +6352,7 @@
       "7D": [
         "miden"
       ],
-      "followers": 1588.0,
+      "followers": 1589.0,
       "smart_followers": 25.0
     },
     {
@@ -6376,7 +6374,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 4019.0,
+      "followers": 4022.0,
       "smart_followers": 407.0
     },
     {
@@ -6422,7 +6420,7 @@
         "opengradient",
         "pip"
       ],
-      "followers": 1647.0,
+      "followers": 1648.0,
       "smart_followers": 45.0
     },
     {
@@ -6453,7 +6451,7 @@
       "30D": [
         "cysic"
       ],
-      "followers": 4730.0,
+      "followers": 4729.0,
       "smart_followers": 79.0
     },
     {
@@ -6477,7 +6475,7 @@
         "pyth",
         "tria"
       ],
-      "followers": 3377.0,
+      "followers": 3374.0,
       "smart_followers": 77.0
     },
     {
@@ -6486,7 +6484,7 @@
       "30D": [
         "sonic"
       ],
-      "followers": 18649.0,
+      "followers": 18644.0,
       "smart_followers": 312.0
     },
     {
@@ -6495,7 +6493,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 23947.0,
+      "followers": 23946.0,
       "smart_followers": 702.0
     },
     {
@@ -6540,7 +6538,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 4528.0,
+      "followers": 4534.0,
       "smart_followers": 555.0
     },
     {
@@ -6582,7 +6580,6 @@
       "user": "Doonbo_artist",
       "yaps": null,
       "7D": [
-        "billions",
         "cysic",
         "kaito",
         "kindred"
@@ -6601,7 +6598,7 @@
         "standx",
         "stbl"
       ],
-      "followers": 8649.0,
+      "followers": 8648.0,
       "smart_followers": 133.0
     },
     {
@@ -6648,7 +6645,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 6930.0,
+      "followers": 6940.0,
       "smart_followers": 388.0
     },
     {
@@ -6721,10 +6718,11 @@
       "user": "DukeD_Defi",
       "yaps": null,
       "30D": [
+        "arbitrum",
         "sixr",
         "stbl"
       ],
-      "followers": 3827.0,
+      "followers": 3835.0,
       "smart_followers": 59.0
     },
     {
@@ -6736,7 +6734,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 2683.0,
+      "followers": 2681.0,
       "smart_followers": 52.0
     },
     {
@@ -6795,7 +6793,7 @@
         "miden",
         "sixr"
       ],
-      "followers": 2429.0,
+      "followers": 2430.0,
       "smart_followers": 19.0
     },
     {
@@ -6822,15 +6820,6 @@
       "smart_followers": 769.0
     },
     {
-      "user": "EgorikNFT",
-      "yaps": null,
-      "30D": [
-        "anichess"
-      ],
-      "followers": 3083.0,
-      "smart_followers": 62.0
-    },
-    {
       "user": "Egwuatue",
       "yaps": null,
       "30D": [
@@ -6845,7 +6834,7 @@
       "30D": [
         "openledger"
       ],
-      "followers": 4819.0,
+      "followers": 4825.0,
       "smart_followers": 205.0
     },
     {
@@ -6873,22 +6862,19 @@
         "starknet",
         "zcash"
       ],
-      "followers": 51751.0,
+      "followers": 51761.0,
       "smart_followers": 2649.0
     },
     {
       "user": "ElinaWeb3",
       "yaps": null,
-      "7D": [
-        "arbitrum"
-      ],
       "30D": [
         "anichess",
         "arbitrum",
         "flipster",
         "orderly"
       ],
-      "followers": 49305.0,
+      "followers": 49355.0,
       "smart_followers": 56.0
     },
     {
@@ -6902,7 +6888,7 @@
         "cysic",
         "megaeth"
       ],
-      "followers": 9071.0,
+      "followers": 9062.0,
       "smart_followers": 160.0
     },
     {
@@ -6914,7 +6900,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 85517.0,
+      "followers": 85539.0,
       "smart_followers": 1154.0
     },
     {
@@ -6923,7 +6909,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 95348.0,
+      "followers": 95361.0,
       "smart_followers": 328.0
     },
     {
@@ -6957,7 +6943,7 @@
         "somnia",
         "yeet"
       ],
-      "followers": 19771.0,
+      "followers": 19806.0,
       "smart_followers": 1019.0
     },
     {
@@ -6978,7 +6964,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 1814.0,
+      "followers": 1815.0,
       "smart_followers": 24.0
     },
     {
@@ -6987,7 +6973,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 4472.0,
+      "followers": 4473.0,
       "smart_followers": 234.0
     },
     {
@@ -7001,7 +6987,7 @@
         "sentient",
         "surf"
       ],
-      "followers": 65653.0,
+      "followers": 65677.0,
       "smart_followers": 300.0
     },
     {
@@ -7086,7 +7072,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 4025.0,
+      "followers": 4022.0,
       "smart_followers": 572.0
     },
     {
@@ -7096,7 +7082,7 @@
         "huma",
         "moonbirds"
       ],
-      "followers": 75332.0,
+      "followers": 75371.0,
       "smart_followers": 922.0
     },
     {
@@ -7172,9 +7158,10 @@
         "everlyn",
         "fogo",
         "lumiterra",
+        "opengradient",
         "tria"
       ],
-      "followers": 5072.0,
+      "followers": 5081.0,
       "smart_followers": 60.0
     },
     {
@@ -7201,7 +7188,7 @@
       "30D": [
         "pip"
       ],
-      "followers": 13622.0,
+      "followers": 13633.0,
       "smart_followers": 61.0
     },
     {
@@ -7214,7 +7201,7 @@
         "moonbirds",
         "polygon"
       ],
-      "followers": 8273.0,
+      "followers": 8274.0,
       "smart_followers": 327.0
     },
     {
@@ -7275,14 +7262,11 @@
     {
       "user": "Finance__Nomad",
       "yaps": null,
-      "7D": [
-        "anichess"
-      ],
       "30D": [
         "anichess"
       ],
-      "followers": 2657.0,
-      "smart_followers": 62.0
+      "followers": 2664.0,
+      "smart_followers": 63.0
     },
     {
       "user": "Finkded",
@@ -7340,7 +7324,6 @@
       "user": "FokLouis144",
       "yaps": null,
       "7D": [
-        "ferra",
         "kaito"
       ],
       "30D": [
@@ -7395,7 +7378,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 2780.0,
+      "followers": 2782.0,
       "smart_followers": 42.0
     },
     {
@@ -7423,7 +7406,7 @@
       "30D": [
         "pip"
       ],
-      "followers": 7753.0,
+      "followers": 7757.0,
       "smart_followers": 26.0
     },
     {
@@ -7457,7 +7440,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 11480.0,
+      "followers": 11478.0,
       "smart_followers": 445.0
     },
     {
@@ -7487,7 +7470,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 5696.0,
+      "followers": 5690.0,
       "smart_followers": 20.0
     },
     {
@@ -7517,7 +7500,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 46618.0,
+      "followers": 46652.0,
       "smart_followers": 937.0
     },
     {
@@ -7526,7 +7509,7 @@
       "7D": [
         "miden"
       ],
-      "followers": 108629.0,
+      "followers": 108628.0,
       "smart_followers": 123.0
     },
     {
@@ -7551,7 +7534,7 @@
       "30D": [
         "pyth"
       ],
-      "followers": 6998.0,
+      "followers": 6994.0,
       "smart_followers": 487.0
     },
     {
@@ -7582,7 +7565,7 @@
       "30D": [
         "sixr"
       ],
-      "followers": 3827.0,
+      "followers": 3825.0,
       "smart_followers": 35.0
     },
     {
@@ -7621,7 +7604,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 17643.0,
+      "followers": 17645.0,
       "smart_followers": 1372.0
     },
     {
@@ -7630,7 +7613,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 3102.0,
+      "followers": 3106.0,
       "smart_followers": 62.0
     },
     {
@@ -7654,7 +7637,7 @@
         "rainbow",
         "yeet"
       ],
-      "followers": 2614.0,
+      "followers": 2617.0,
       "smart_followers": 79.0
     },
     {
@@ -7718,9 +7701,6 @@
     {
       "user": "GoodnessDeFi",
       "yaps": null,
-      "7D": [
-        "anichess"
-      ],
       "30D": [
         "anichess",
         "goatnetwork",
@@ -7767,7 +7747,6 @@
         "lumiterra",
         "mavryk",
         "mememax",
-        "miden",
         "moremarkets",
         "noble",
         "noya",
@@ -7804,7 +7783,7 @@
         "walrus",
         "yeet"
       ],
-      "followers": 10023.0,
+      "followers": 10031.0,
       "smart_followers": 97.0
     },
     {
@@ -7869,7 +7848,7 @@
         "cysic",
         "peaq"
       ],
-      "followers": 3535.0,
+      "followers": 3531.0,
       "smart_followers": 70.0
     },
     {
@@ -7914,7 +7893,6 @@
       "user": "Gyokeres_eth",
       "yaps": null,
       "7D": [
-        "arbitrum",
         "cysic",
         "kaito",
         "megaeth",
@@ -7944,7 +7922,7 @@
         "tria",
         "yeet"
       ],
-      "followers": 14909.0,
+      "followers": 14994.0,
       "smart_followers": 170.0
     },
     {
@@ -8022,6 +8000,15 @@
       "smart_followers": 118.0
     },
     {
+      "user": "HakResearch",
+      "yaps": null,
+      "7D": [
+        "arbitrum"
+      ],
+      "followers": 48437.0,
+      "smart_followers": 144.0
+    },
+    {
       "user": "Hakan0xNFT",
       "yaps": null,
       "30D": [
@@ -8045,7 +8032,7 @@
       "7D": [
         "kaito"
       ],
-      "followers": 80405.0,
+      "followers": 80408.0,
       "smart_followers": 1112.0
     },
     {
@@ -8054,7 +8041,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 4707.0,
+      "followers": 4709.0,
       "smart_followers": 77.0
     },
     {
@@ -8096,15 +8083,6 @@
       ],
       "followers": 7060.0,
       "smart_followers": 238.0
-    },
-    {
-      "user": "Hasnain_Akhtar_",
-      "yaps": null,
-      "7D": [
-        "billions"
-      ],
-      "followers": 2613.0,
-      "smart_followers": 18.0
     },
     {
       "user": "Haywhy_Lambo",
@@ -8170,15 +8148,6 @@
       "smart_followers": 6.0
     },
     {
-      "user": "Hendrixblair359",
-      "yaps": null,
-      "30D": [
-        "bitdealer"
-      ],
-      "followers": 456.0,
-      "smart_followers": 3.0
-    },
-    {
       "user": "HenriLee92",
       "yaps": null,
       "7D": [
@@ -8232,7 +8201,7 @@
         "arbitrum",
         "brevis"
       ],
-      "followers": 46630.0,
+      "followers": 46652.0,
       "smart_followers": 663.0
     },
     {
@@ -8264,7 +8233,7 @@
         "parti",
         "theo"
       ],
-      "followers": 2591.0,
+      "followers": 2598.0,
       "smart_followers": 41.0
     },
     {
@@ -8411,7 +8380,7 @@
         "mavryk",
         "tria"
       ],
-      "followers": 131673.0,
+      "followers": 131714.0,
       "smart_followers": 1744.0
     },
     {
@@ -8438,7 +8407,7 @@
         "miden",
         "sentient"
       ],
-      "followers": 4289.0,
+      "followers": 4288.0,
       "smart_followers": 53.0
     },
     {
@@ -8466,14 +8435,13 @@
         "tria",
         "yeet"
       ],
-      "followers": 2468.0,
+      "followers": 2470.0,
       "smart_followers": 59.0
     },
     {
       "user": "Iamceejaymac",
       "yaps": null,
       "30D": [
-        "cysic",
         "goatnetwork"
       ],
       "followers": 4507.0,
@@ -8501,7 +8469,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 2331.0,
+      "followers": 2332.0,
       "smart_followers": 56.0
     },
     {
@@ -8518,7 +8486,7 @@
         "standx",
         "tria"
       ],
-      "followers": 25252.0,
+      "followers": 25238.0,
       "smart_followers": 257.0
     },
     {
@@ -8536,7 +8504,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 15022.0,
+      "followers": 15034.0,
       "smart_followers": 37.0
     },
     {
@@ -8604,7 +8572,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 9255.0,
+      "followers": 9262.0,
       "smart_followers": 1206.0
     },
     {
@@ -8692,7 +8660,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 2648.0,
+      "followers": 2649.0,
       "smart_followers": 479.0
     },
     {
@@ -8706,7 +8674,7 @@
         "kaio",
         "tria"
       ],
-      "followers": 49233.0,
+      "followers": 49247.0,
       "smart_followers": 501.0
     },
     {
@@ -8763,7 +8731,7 @@
       "30D": [
         "humanity"
       ],
-      "followers": 36418.0,
+      "followers": 36432.0,
       "smart_followers": 421.0
     },
     {
@@ -8784,7 +8752,7 @@
       "30D": [
         "bitdealer"
       ],
-      "followers": 3069.0,
+      "followers": 3065.0,
       "smart_followers": 22.0
     },
     {
@@ -8837,7 +8805,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 75733.0,
+      "followers": 76483.0,
       "smart_followers": 589.0
     },
     {
@@ -8849,7 +8817,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 9117.0,
+      "followers": 9116.0,
       "smart_followers": 1312.0
     },
     {
@@ -8878,7 +8846,7 @@
         "nesa",
         "standx"
       ],
-      "followers": 17961.0,
+      "followers": 17969.0,
       "smart_followers": 213.0
     },
     {
@@ -8940,7 +8908,7 @@
         "ethereum",
         "polygon"
       ],
-      "followers": 129312.0,
+      "followers": 129307.0,
       "smart_followers": 4615.0
     },
     {
@@ -8954,7 +8922,7 @@
         "ferra",
         "miden"
       ],
-      "followers": 25065.0,
+      "followers": 25061.0,
       "smart_followers": 128.0
     },
     {
@@ -8968,8 +8936,8 @@
         "opengradient",
         "openledger"
       ],
-      "followers": 8632.0,
-      "smart_followers": 131.0
+      "followers": 8753.0,
+      "smart_followers": 132.0
     },
     {
       "user": "JayM9x",
@@ -8982,7 +8950,7 @@
         "openledger",
         "sixr"
       ],
-      "followers": 3835.0,
+      "followers": 3837.0,
       "smart_followers": 45.0
     },
     {
@@ -9000,13 +8968,11 @@
       "7D": [
         "billions",
         "multipli",
-        "near",
         "openledger",
         "sei",
         "tria"
       ],
       "30D": [
-        "arbitrum",
         "billions",
         "katana",
         "lombard",
@@ -9024,7 +8990,7 @@
         "turtleclub",
         "warden"
       ],
-      "followers": 24777.0,
+      "followers": 24779.0,
       "smart_followers": 1606.0
     },
     {
@@ -9039,7 +9005,7 @@
         "integra",
         "openledger"
       ],
-      "followers": 3900.0,
+      "followers": 3934.0,
       "smart_followers": 16.0
     },
     {
@@ -9162,7 +9128,7 @@
         "stbl",
         "surf"
       ],
-      "followers": 26029.0,
+      "followers": 26056.0,
       "smart_followers": 195.0
     },
     {
@@ -9305,7 +9271,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 771.0,
+      "followers": 772.0,
       "smart_followers": 7.0
     },
     {
@@ -9348,7 +9314,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 6846.0,
+      "followers": 6853.0,
       "smart_followers": 28.0
     },
     {
@@ -9366,15 +9332,12 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 16224.0,
+      "followers": 16216.0,
       "smart_followers": 1034.0
     },
     {
       "user": "Jt46LtzhPv74Mmm",
       "yaps": null,
-      "7D": [
-        "huma"
-      ],
       "30D": [
         "huma"
       ],
@@ -9395,7 +9358,6 @@
       "yaps": null,
       "7D": [
         "0g",
-        "anichess",
         "ferra"
       ],
       "30D": [
@@ -9443,7 +9405,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 5774.0,
+      "followers": 5779.0,
       "smart_followers": 89.0
     },
     {
@@ -9472,7 +9434,7 @@
         "theoriq",
         "virtual"
       ],
-      "followers": 19771.0,
+      "followers": 19776.0,
       "smart_followers": 214.0
     },
     {
@@ -9509,7 +9471,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 25072.0,
+      "followers": 25073.0,
       "smart_followers": 1033.0
     },
     {
@@ -9532,7 +9494,7 @@
         "brevis",
         "zcash"
       ],
-      "followers": 29474.0,
+      "followers": 29519.0,
       "smart_followers": 149.0
     },
     {
@@ -9616,7 +9578,7 @@
         "sentient",
         "zcash"
       ],
-      "followers": 59814.0,
+      "followers": 59811.0,
       "smart_followers": 1744.0
     },
     {
@@ -9700,7 +9662,7 @@
         "ethereum",
         "polygon"
       ],
-      "followers": 20645.0,
+      "followers": 20704.0,
       "smart_followers": 1134.0
     },
     {
@@ -9718,7 +9680,7 @@
         "openmind",
         "pengu"
       ],
-      "followers": 17957.0,
+      "followers": 17961.0,
       "smart_followers": 1002.0
     },
     {
@@ -9738,12 +9700,11 @@
       "yaps": null,
       "30D": [
         "billions",
-        "kaito",
         "miden",
         "soul",
         "verse8"
       ],
-      "followers": 8915.0,
+      "followers": 8908.0,
       "smart_followers": 142.0
     },
     {
@@ -9752,7 +9713,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 2360.0,
+      "followers": 2358.0,
       "smart_followers": 116.0
     },
     {
@@ -9764,7 +9725,7 @@
         "mememax",
         "memex"
       ],
-      "followers": 8163.0,
+      "followers": 8469.0,
       "smart_followers": 69.0
     },
     {
@@ -9835,9 +9796,10 @@
       "user": "KriptoLisa",
       "yaps": null,
       "30D": [
+        "mememax",
         "miden"
       ],
-      "followers": 63125.0,
+      "followers": 63133.0,
       "smart_followers": 227.0
     },
     {
@@ -9866,9 +9828,10 @@
         "miden"
       ],
       "30D": [
-        "kaio"
+        "kaio",
+        "miden"
       ],
-      "followers": 27162.0,
+      "followers": 27139.0,
       "smart_followers": 56.0
     },
     {
@@ -9898,14 +9861,13 @@
       "30D": [
         "billions"
       ],
-      "followers": 13912.0,
+      "followers": 13907.0,
       "smart_followers": 46.0
     },
     {
       "user": "Krystal_Eth",
       "yaps": null,
       "7D": [
-        "billions",
         "moremarkets"
       ],
       "30D": [
@@ -9913,8 +9875,8 @@
         "moremarkets",
         "sixr"
       ],
-      "followers": 58355.0,
-      "smart_followers": 251.0
+      "followers": 57620.0,
+      "smart_followers": 247.0
     },
     {
       "user": "KuiGas",
@@ -9923,19 +9885,16 @@
         "aptos",
         "brevis"
       ],
-      "followers": 106416.0,
+      "followers": 106479.0,
       "smart_followers": 638.0
     },
     {
       "user": "KuingBoy",
       "yaps": null,
-      "7D": [
-        "verse8"
-      ],
       "30D": [
         "verse8"
       ],
-      "followers": 2134.0,
+      "followers": 2133.0,
       "smart_followers": 44.0
     },
     {
@@ -9966,7 +9925,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 15332.0,
+      "followers": 15334.0,
       "smart_followers": 409.0
     },
     {
@@ -9979,7 +9938,7 @@
         "aptos",
         "walrus"
       ],
-      "followers": 290434.0,
+      "followers": 290438.0,
       "smart_followers": 1205.0
     },
     {
@@ -10050,7 +10009,7 @@
       "7D": [
         "polygon"
       ],
-      "followers": 71615.0,
+      "followers": 71640.0,
       "smart_followers": 2578.0
     },
     {
@@ -10093,10 +10052,9 @@
       ],
       "30D": [
         "arbitrum",
-        "ethereum",
-        "polygon"
+        "ethereum"
       ],
-      "followers": 11733.0,
+      "followers": 11764.0,
       "smart_followers": 228.0
     },
     {
@@ -10149,7 +10107,7 @@
         "stbl",
         "theo"
       ],
-      "followers": 42837.0,
+      "followers": 42849.0,
       "smart_followers": 156.0
     },
     {
@@ -10176,7 +10134,7 @@
         "anichess",
         "orderly"
       ],
-      "followers": 25769.0,
+      "followers": 25761.0,
       "smart_followers": 86.0
     },
     {
@@ -10188,7 +10146,7 @@
       "30D": [
         "falcon"
       ],
-      "followers": 3953.0,
+      "followers": 3960.0,
       "smart_followers": 402.0
     },
     {
@@ -10241,12 +10199,13 @@
       "user": "Live_2_Earn",
       "yaps": null,
       "7D": [
+        "kaito",
         "surf"
       ],
       "30D": [
         "surf"
       ],
-      "followers": 2213.0,
+      "followers": 2219.0,
       "smart_followers": 49.0
     },
     {
@@ -10391,7 +10350,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 21536.0,
+      "followers": 21525.0,
       "smart_followers": 68.0
     },
     {
@@ -10413,7 +10372,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 69339.0,
+      "followers": 69356.0,
       "smart_followers": 250.0
     },
     {
@@ -10551,7 +10510,6 @@
       "user": "Mackypeee",
       "yaps": null,
       "7D": [
-        "anichess",
         "moremarkets"
       ],
       "30D": [
@@ -10561,8 +10519,8 @@
         "sei",
         "yeet"
       ],
-      "followers": 3513.0,
-      "smart_followers": 38.0
+      "followers": 3468.0,
+      "smart_followers": 31.0
     },
     {
       "user": "MacroCRG",
@@ -10664,7 +10622,7 @@
       "30D": [
         "kaito"
       ],
-      "followers": 6775.0,
+      "followers": 6772.0,
       "smart_followers": 285.0
     },
     {
@@ -10673,7 +10631,10 @@
       "7D": [
         "arbitrum"
       ],
-      "followers": 17388.0,
+      "30D": [
+        "arbitrum"
+      ],
+      "followers": 17394.0,
       "smart_followers": 512.0
     },
     {
@@ -10694,7 +10655,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 11585.0,
+      "followers": 11592.0,
       "smart_followers": 297.0
     },
     {
@@ -10724,6 +10685,9 @@
     {
       "user": "Mars_DeFi",
       "yaps": null,
+      "7D": [
+        "polygon"
+      ],
       "30D": [
         "brevis",
         "virtual"
@@ -10802,7 +10766,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 4955.0,
+      "followers": 4952.0,
       "smart_followers": 7.0
     },
     {
@@ -10830,7 +10794,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 18770.0,
+      "followers": 18806.0,
       "smart_followers": 1962.0
     },
     {
@@ -10874,7 +10838,6 @@
       "user": "Mdsaif33",
       "yaps": null,
       "30D": [
-        "mememax",
         "miden"
       ],
       "followers": 731.0,
@@ -10911,6 +10874,15 @@
       "smart_followers": 66.0
     },
     {
+      "user": "Mellow_",
+      "yaps": null,
+      "7D": [
+        "kaito"
+      ],
+      "followers": 7537.0,
+      "smart_followers": 139.0
+    },
+    {
       "user": "Melly_10X",
       "yaps": null,
       "7D": [
@@ -10928,7 +10900,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 3796.0,
+      "followers": 3797.0,
       "smart_followers": 256.0
     },
     {
@@ -10937,7 +10909,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 7614.0,
+      "followers": 7615.0,
       "smart_followers": 768.0
     },
     {
@@ -10950,7 +10922,7 @@
         "arbitrum",
         "polygon"
       ],
-      "followers": 4742.0,
+      "followers": 4755.0,
       "smart_followers": 274.0
     },
     {
@@ -11001,7 +10973,7 @@
       "30D": [
         "infinit"
       ],
-      "followers": 12230.0,
+      "followers": 12238.0,
       "smart_followers": 287.0
     },
     {
@@ -11020,7 +10992,7 @@
         "openledger",
         "theo"
       ],
-      "followers": 10755.0,
+      "followers": 10725.0,
       "smart_followers": 66.0
     },
     {
@@ -11032,7 +11004,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 5051.0,
+      "followers": 5103.0,
       "smart_followers": 85.0
     },
     {
@@ -11044,7 +11016,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 38407.0,
+      "followers": 38421.0,
       "smart_followers": 2300.0
     },
     {
@@ -11077,7 +11049,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 143886.0,
+      "followers": 143912.0,
       "smart_followers": 754.0
     },
     {
@@ -11100,7 +11072,6 @@
       "user": "Misstang1102",
       "yaps": null,
       "7D": [
-        "ferra",
         "inferencelabs",
         "opengradient",
         "openledger",
@@ -11128,7 +11099,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 952.0,
+      "followers": 957.0,
       "smart_followers": 16.0
     },
     {
@@ -11136,7 +11107,6 @@
       "yaps": null,
       "7D": [
         "anichess",
-        "ferra",
         "moremarkets"
       ],
       "30D": [
@@ -11184,7 +11154,7 @@
       "30D": [
         "standx"
       ],
-      "followers": 148047.0,
+      "followers": 148143.0,
       "smart_followers": 344.0
     },
     {
@@ -11209,7 +11179,7 @@
         "polygon",
         "tria"
       ],
-      "followers": 28322.0,
+      "followers": 28345.0,
       "smart_followers": 415.0
     },
     {
@@ -11237,7 +11207,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 306768.0,
+      "followers": 306780.0,
       "smart_followers": 4274.0
     },
     {
@@ -11273,7 +11243,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 16545.0,
+      "followers": 16567.0,
       "smart_followers": 113.0
     },
     {
@@ -11361,7 +11331,7 @@
         "cysic",
         "moonbirds"
       ],
-      "followers": 16930.0,
+      "followers": 16928.0,
       "smart_followers": 184.0
     },
     {
@@ -11392,7 +11362,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 69088.0,
+      "followers": 69090.0,
       "smart_followers": 3128.0
     },
     {
@@ -11518,7 +11488,7 @@
         "megaeth",
         "openmind"
       ],
-      "followers": 16019.0,
+      "followers": 16041.0,
       "smart_followers": 1531.0
     },
     {
@@ -11557,7 +11527,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 74647.0,
+      "followers": 74646.0,
       "smart_followers": 967.0
     },
     {
@@ -11651,7 +11621,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 74453.0,
+      "followers": 74454.0,
       "smart_followers": 746.0
     },
     {
@@ -11663,7 +11633,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 3120.0,
+      "followers": 3123.0,
       "smart_followers": 73.0
     },
     {
@@ -11675,7 +11645,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 15348.0,
+      "followers": 15358.0,
       "smart_followers": 364.0
     },
     {
@@ -11700,7 +11670,6 @@
       "user": "Nick_Researcher",
       "yaps": null,
       "7D": [
-        "ethereum",
         "falcon",
         "kaio",
         "mantle",
@@ -11730,7 +11699,7 @@
         "verse8",
         "virtual"
       ],
-      "followers": 10253.0,
+      "followers": 10295.0,
       "smart_followers": 158.0
     },
     {
@@ -11739,7 +11708,7 @@
       "30D": [
         "kaito"
       ],
-      "followers": 14903.0,
+      "followers": 14907.0,
       "smart_followers": 691.0
     },
     {
@@ -11751,7 +11720,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 5137.0,
+      "followers": 5134.0,
       "smart_followers": 7.0
     },
     {
@@ -11768,7 +11737,7 @@
         "theo",
         "verse8"
       ],
-      "followers": 4021.0,
+      "followers": 4017.0,
       "smart_followers": 87.0
     },
     {
@@ -11813,7 +11782,7 @@
       "30D": [
         "opengradient"
       ],
-      "followers": 3023.0,
+      "followers": 3022.0,
       "smart_followers": 21.0
     },
     {
@@ -11856,7 +11825,7 @@
         "katana",
         "polygon"
       ],
-      "followers": 9153.0,
+      "followers": 9156.0,
       "smart_followers": 219.0
     },
     {
@@ -11870,6 +11839,7 @@
       "30D": [
         "flipster",
         "inferencelabs",
+        "kaito",
         "katana",
         "megaeth",
         "miden",
@@ -11878,7 +11848,7 @@
         "sentient",
         "standx"
       ],
-      "followers": 48578.0,
+      "followers": 48605.0,
       "smart_followers": 558.0
     },
     {
@@ -11895,7 +11865,7 @@
         "sixr",
         "yeet"
       ],
-      "followers": 4670.0,
+      "followers": 4669.0,
       "smart_followers": 45.0
     },
     {
@@ -11904,7 +11874,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 1528.0,
+      "followers": 1527.0,
       "smart_followers": 196.0
     },
     {
@@ -11914,7 +11884,7 @@
         "cysic",
         "integra"
       ],
-      "followers": 74540.0,
+      "followers": 74579.0,
       "smart_followers": 116.0
     },
     {
@@ -11923,7 +11893,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 3381.0,
+      "followers": 3383.0,
       "smart_followers": 527.0
     },
     {
@@ -12037,7 +12007,7 @@
         "mantle",
         "megaeth"
       ],
-      "followers": 41441.0,
+      "followers": 41457.0,
       "smart_followers": 754.0
     },
     {
@@ -12064,17 +12034,8 @@
         "sentient",
         "tria"
       ],
-      "followers": 4250.0,
+      "followers": 4259.0,
       "smart_followers": 118.0
-    },
-    {
-      "user": "OritsetsemayeL",
-      "yaps": null,
-      "30D": [
-        "huma"
-      ],
-      "followers": 1443.0,
-      "smart_followers": 11.0
     },
     {
       "user": "Oscar_Defii",
@@ -12095,7 +12056,7 @@
         "stbl",
         "verse8"
       ],
-      "followers": 3844.0,
+      "followers": 3840.0,
       "smart_followers": 78.0
     },
     {
@@ -12104,7 +12065,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 175866.0,
+      "followers": 175896.0,
       "smart_followers": 1639.0
     },
     {
@@ -12156,7 +12117,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 7147.0,
+      "followers": 7157.0,
       "smart_followers": 439.0
     },
     {
@@ -12185,7 +12146,7 @@
       "30D": [
         "mememax"
       ],
-      "followers": 16137.0,
+      "followers": 16145.0,
       "smart_followers": 184.0
     },
     {
@@ -12238,7 +12199,7 @@
         "polygon",
         "verse8"
       ],
-      "followers": 91753.0,
+      "followers": 92213.0,
       "smart_followers": 701.0
     },
     {
@@ -12260,7 +12221,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 20940.0,
+      "followers": 20945.0,
       "smart_followers": 1459.0
     },
     {
@@ -12346,7 +12307,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 1500.0,
+      "followers": 1499.0,
       "smart_followers": 46.0
     },
     {
@@ -12365,7 +12326,7 @@
         "anichess",
         "standx"
       ],
-      "followers": 34724.0,
+      "followers": 34767.0,
       "smart_followers": 1297.0
     },
     {
@@ -12401,7 +12362,7 @@
         "polygon",
         "theoriq"
       ],
-      "followers": 16582.0,
+      "followers": 16579.0,
       "smart_followers": 620.0
     },
     {
@@ -12449,7 +12410,7 @@
         "msu",
         "openmind"
       ],
-      "followers": 33200.0,
+      "followers": 33215.0,
       "smart_followers": 592.0
     },
     {
@@ -12467,7 +12428,7 @@
       "30D": [
         "kaito"
       ],
-      "followers": 66724.0,
+      "followers": 66730.0,
       "smart_followers": 3230.0
     },
     {
@@ -12552,7 +12513,7 @@
         "polygon",
         "sentient"
       ],
-      "followers": 14093.0,
+      "followers": 14090.0,
       "smart_followers": 275.0
     },
     {
@@ -12576,7 +12537,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 2550.0,
+      "followers": 2548.0,
       "smart_followers": 63.0
     },
     {
@@ -12607,7 +12568,7 @@
         "theo",
         "virtual"
       ],
-      "followers": 8071.0,
+      "followers": 8066.0,
       "smart_followers": 114.0
     },
     {
@@ -12616,7 +12577,7 @@
       "30D": [
         "cysic"
       ],
-      "followers": 2688.0,
+      "followers": 2686.0,
       "smart_followers": 125.0
     },
     {
@@ -12658,7 +12619,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 9908.0,
+      "followers": 9904.0,
       "smart_followers": 166.0
     },
     {
@@ -12671,7 +12632,7 @@
       "30D": [
         "kaito"
       ],
-      "followers": 31886.0,
+      "followers": 31889.0,
       "smart_followers": 414.0
     },
     {
@@ -12778,7 +12739,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 3835.0,
+      "followers": 3846.0,
       "smart_followers": 37.0
     },
     {
@@ -12810,7 +12771,7 @@
         "stbl",
         "verse8"
       ],
-      "followers": 6056.0,
+      "followers": 6060.0,
       "smart_followers": 92.0
     },
     {
@@ -12846,7 +12807,7 @@
         "mememax",
         "miden"
       ],
-      "followers": 24485.0,
+      "followers": 24509.0,
       "smart_followers": 244.0
     },
     {
@@ -12920,7 +12881,7 @@
         "noya",
         "sixr"
       ],
-      "followers": 2055.0,
+      "followers": 2060.0,
       "smart_followers": 24.0
     },
     {
@@ -13010,7 +12971,7 @@
         "arbitrum",
         "ethereum"
       ],
-      "followers": 273940.0,
+      "followers": 273982.0,
       "smart_followers": 5436.0
     },
     {
@@ -13033,7 +12994,7 @@
         "sixr",
         "yeet"
       ],
-      "followers": 3573.0,
+      "followers": 3576.0,
       "smart_followers": 87.0
     },
     {
@@ -13051,7 +13012,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 4509.0,
+      "followers": 4508.0,
       "smart_followers": 65.0
     },
     {
@@ -13069,7 +13030,7 @@
       "30D": [
         "pudgy-party"
       ],
-      "followers": 7187.0,
+      "followers": 7196.0,
       "smart_followers": 467.0
     },
     {
@@ -13097,7 +13058,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 136684.0,
+      "followers": 136772.0,
       "smart_followers": 133.0
     },
     {
@@ -13146,7 +13107,7 @@
         "anichess",
         "ferra"
       ],
-      "followers": 11803.0,
+      "followers": 11915.0,
       "smart_followers": 45.0
     },
     {
@@ -13168,7 +13129,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 13679.0,
+      "followers": 13686.0,
       "smart_followers": 93.0
     },
     {
@@ -13218,7 +13179,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 88953.0,
+      "followers": 89108.0,
       "smart_followers": 233.0
     },
     {
@@ -13256,7 +13217,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 4350.0,
+      "followers": 4354.0,
       "smart_followers": 574.0
     },
     {
@@ -13311,7 +13272,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 2652.0,
+      "followers": 2654.0,
       "smart_followers": 159.0
     },
     {
@@ -13330,7 +13291,6 @@
       "user": "SeyiVibez123",
       "yaps": null,
       "7D": [
-        "anichess",
         "inferencelabs",
         "openledger",
         "rainbow"
@@ -13357,7 +13317,7 @@
         "opengradient",
         "sei"
       ],
-      "followers": 52213.0,
+      "followers": 52202.0,
       "smart_followers": 344.0
     },
     {
@@ -13386,7 +13346,7 @@
         "sixr",
         "theoriq"
       ],
-      "followers": 19488.0,
+      "followers": 19786.0,
       "smart_followers": 58.0
     },
     {
@@ -13412,7 +13372,7 @@
         "opengradient",
         "sentient"
       ],
-      "followers": 13698.0,
+      "followers": 13712.0,
       "smart_followers": 235.0
     },
     {
@@ -13444,7 +13404,6 @@
       "user": "ShinKiro14",
       "yaps": null,
       "30D": [
-        "defidotapp",
         "katana",
         "tria"
       ],
@@ -13466,7 +13425,7 @@
       "30D": [
         "cysic"
       ],
-      "followers": 29676.0,
+      "followers": 29657.0,
       "smart_followers": 208.0
     },
     {
@@ -13483,7 +13442,7 @@
         "opengradient",
         "sixr"
       ],
-      "followers": 43155.0,
+      "followers": 42399.0,
       "smart_followers": 130.0
     },
     {
@@ -13502,7 +13461,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 6156.0,
+      "followers": 6161.0,
       "smart_followers": 75.0
     },
     {
@@ -13520,7 +13479,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 11599.0,
+      "followers": 11605.0,
       "smart_followers": 305.0
     },
     {
@@ -13561,7 +13520,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 2560.0,
+      "followers": 2575.0,
       "smart_followers": 19.0
     },
     {
@@ -13587,7 +13546,7 @@
         "kaito",
         "polygon"
       ],
-      "followers": 42154.0,
+      "followers": 42185.0,
       "smart_followers": 1320.0
     },
     {
@@ -13607,9 +13566,6 @@
     {
       "user": "Snapcrackle",
       "yaps": null,
-      "7D": [
-        "ethereum"
-      ],
       "30D": [
         "ethereum"
       ],
@@ -13631,7 +13587,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 4265.0,
+      "followers": 4275.0,
       "smart_followers": 25.0
     },
     {
@@ -13640,7 +13596,7 @@
       "7D": [
         "arbitrum"
       ],
-      "followers": 12384.0,
+      "followers": 12378.0,
       "smart_followers": 156.0
     },
     {
@@ -13709,7 +13665,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 2483.0,
+      "followers": 2488.0,
       "smart_followers": 106.0
     },
     {
@@ -13753,7 +13709,7 @@
         "polygon",
         "yeet"
       ],
-      "followers": 92674.0,
+      "followers": 92715.0,
       "smart_followers": 1204.0
     },
     {
@@ -13812,16 +13768,13 @@
     {
       "user": "Subit_Crypto",
       "yaps": null,
-      "7D": [
-        "anichess"
-      ],
       "30D": [
         "anichess",
         "integra",
         "opengradient",
         "rainbow"
       ],
-      "followers": 12473.0,
+      "followers": 12545.0,
       "smart_followers": 52.0
     },
     {
@@ -13849,7 +13802,6 @@
       "user": "Supers6061",
       "yaps": null,
       "7D": [
-        "ferra",
         "sei"
       ],
       "30D": [
@@ -13865,7 +13817,7 @@
         "sei",
         "stbl"
       ],
-      "followers": 99776.0,
+      "followers": 99737.0,
       "smart_followers": 236.0
     },
     {
@@ -13886,7 +13838,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 21761.0,
+      "followers": 21758.0,
       "smart_followers": 1301.0
     },
     {
@@ -13898,7 +13850,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 12662.0,
+      "followers": 12661.0,
       "smart_followers": 97.0
     },
     {
@@ -13981,7 +13933,7 @@
         "stbl",
         "warden"
       ],
-      "followers": 19161.0,
+      "followers": 19456.0,
       "smart_followers": 382.0
     },
     {
@@ -14034,7 +13986,7 @@
         "arbitrum",
         "ethereum"
       ],
-      "followers": 271321.0,
+      "followers": 271574.0,
       "smart_followers": 1094.0
     },
     {
@@ -14044,7 +13996,7 @@
         "miden",
         "opengradient"
       ],
-      "followers": 7909.0,
+      "followers": 7901.0,
       "smart_followers": 61.0
     },
     {
@@ -14058,7 +14010,6 @@
         "flipster",
         "kaito",
         "lombard",
-        "miden",
         "noble",
         "soul",
         "standx",
@@ -14068,6 +14019,15 @@
       ],
       "followers": 54201.0,
       "smart_followers": 249.0
+    },
+    {
+      "user": "Tenkacrypto",
+      "yaps": null,
+      "30D": [
+        "miden"
+      ],
+      "followers": 2163.0,
+      "smart_followers": 46.0
     },
     {
       "user": "TheBullishTradR",
@@ -14108,7 +14068,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 19995.0,
+      "followers": 19838.0,
       "smart_followers": 248.0
     },
     {
@@ -14121,7 +14081,7 @@
         "arbitrum",
         "infinit"
       ],
-      "followers": 52621.0,
+      "followers": 52628.0,
       "smart_followers": 221.0
     },
     {
@@ -14167,7 +14127,7 @@
         "opengradient",
         "openledger"
       ],
-      "followers": 2970.0,
+      "followers": 2967.0,
       "smart_followers": 38.0
     },
     {
@@ -14197,7 +14157,7 @@
       "30D": [
         "ferra"
       ],
-      "followers": 14181.0,
+      "followers": 14186.0,
       "smart_followers": 48.0
     },
     {
@@ -14227,7 +14187,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 71842.0,
+      "followers": 71872.0,
       "smart_followers": 2972.0
     },
     {
@@ -14288,7 +14248,7 @@
       "30D": [
         "opengradient"
       ],
-      "followers": 28708.0,
+      "followers": 28709.0,
       "smart_followers": 150.0
     },
     {
@@ -14297,7 +14257,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 147214.0,
+      "followers": 147242.0,
       "smart_followers": 3897.0
     },
     {
@@ -14305,7 +14265,6 @@
       "yaps": null,
       "7D": [
         "infinex",
-        "irys",
         "miden",
         "moonbirds",
         "nesa",
@@ -14343,7 +14302,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 20663.0,
+      "followers": 20670.0,
       "smart_followers": 15.0
     },
     {
@@ -14398,7 +14357,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 25957.0,
+      "followers": 25961.0,
       "smart_followers": 1110.0
     },
     {
@@ -14423,7 +14382,7 @@
         "moonbirds",
         "orderly"
       ],
-      "followers": 57702.0,
+      "followers": 57713.0,
       "smart_followers": 151.0
     },
     {
@@ -14482,7 +14441,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 11785.0,
+      "followers": 11823.0,
       "smart_followers": 25.0
     },
     {
@@ -14550,7 +14509,7 @@
         "megaeth",
         "openmind"
       ],
-      "followers": 252695.0,
+      "followers": 252721.0,
       "smart_followers": 5883.0
     },
     {
@@ -14598,6 +14557,15 @@
       "smart_followers": 60.0
     },
     {
+      "user": "TylerDurden",
+      "yaps": null,
+      "7D": [
+        "ethereum"
+      ],
+      "followers": 222868.0,
+      "smart_followers": 2156.0
+    },
+    {
       "user": "Tyler_Did_It",
       "yaps": null,
       "7D": [
@@ -14636,7 +14604,7 @@
         "nesa",
         "rainbow"
       ],
-      "followers": 6616.0,
+      "followers": 6608.0,
       "smart_followers": 103.0
     },
     {
@@ -14658,22 +14626,13 @@
       "smart_followers": 6.0
     },
     {
-      "user": "UncleRewards",
-      "yaps": null,
-      "7D": [
-        "ethereum"
-      ],
-      "followers": 3317.0,
-      "smart_followers": 293.0
-    },
-    {
       "user": "UnicornBitcoin",
       "yaps": null,
       "30D": [
         "bybit",
         "standx"
       ],
-      "followers": 133865.0,
+      "followers": 133900.0,
       "smart_followers": 382.0
     },
     {
@@ -14745,14 +14704,11 @@
     {
       "user": "Vanquan_titans",
       "yaps": null,
-      "7D": [
-        "arbitrum"
-      ],
       "30D": [
         "arbitrum",
         "tria"
       ],
-      "followers": 52724.0,
+      "followers": 52731.0,
       "smart_followers": 127.0
     },
     {
@@ -14773,7 +14729,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 5182.0,
+      "followers": 5179.0,
       "smart_followers": 42.0
     },
     {
@@ -14811,7 +14767,7 @@
         "sixr",
         "standx"
       ],
-      "followers": 17082.0,
+      "followers": 17073.0,
       "smart_followers": 166.0
     },
     {
@@ -14842,7 +14798,7 @@
         "noble",
         "theo"
       ],
-      "followers": 4251.0,
+      "followers": 4259.0,
       "smart_followers": 105.0
     },
     {
@@ -14860,7 +14816,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 1083.0,
+      "followers": 1082.0,
       "smart_followers": 18.0
     },
     {
@@ -14925,8 +14881,8 @@
         "ethereum",
         "polygon"
       ],
-      "followers": 123802.0,
-      "smart_followers": 671.0
+      "followers": 123843.0,
+      "smart_followers": 672.0
     },
     {
       "user": "VivekVentures",
@@ -14937,7 +14893,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 18372.0,
+      "followers": 18385.0,
       "smart_followers": 1267.0
     },
     {
@@ -14947,7 +14903,7 @@
         "huma",
         "sixr"
       ],
-      "followers": 15120.0,
+      "followers": 15126.0,
       "smart_followers": 27.0
     },
     {
@@ -14983,7 +14939,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 88858.0,
+      "followers": 88910.0,
       "smart_followers": 631.0
     },
     {
@@ -15011,7 +14967,6 @@
       "user": "WWTLitee",
       "yaps": null,
       "7D": [
-        "ferra",
         "moonbirds"
       ],
       "30D": [
@@ -15027,7 +14982,7 @@
         "orderly",
         "stbl"
       ],
-      "followers": 68572.0,
+      "followers": 68558.0,
       "smart_followers": 160.0
     },
     {
@@ -15054,7 +15009,7 @@
       "30D": [
         "mantle"
       ],
-      "followers": 22706.0,
+      "followers": 22703.0,
       "smart_followers": 910.0
     },
     {
@@ -15101,17 +15056,8 @@
         "moremarkets",
         "multipli"
       ],
-      "followers": 18556.0,
+      "followers": 18561.0,
       "smart_followers": 146.0
-    },
-    {
-      "user": "Web3Feng",
-      "yaps": null,
-      "7D": [
-        "kaito"
-      ],
-      "followers": 80224.0,
-      "smart_followers": 674.0
     },
     {
       "user": "Web3NAPP",
@@ -15175,7 +15121,7 @@
         "sixr",
         "soul"
       ],
-      "followers": 8050.0,
+      "followers": 8060.0,
       "smart_followers": 44.0
     },
     {
@@ -15253,15 +15199,14 @@
       "yaps": null,
       "7D": [
         "mantle",
-        "metawin",
-        "starknet"
+        "metawin"
       ],
       "30D": [
         "mantle",
         "metawin",
         "starknet"
       ],
-      "followers": 116232.0,
+      "followers": 116354.0,
       "smart_followers": 805.0
     },
     {
@@ -15275,7 +15220,7 @@
         "kaito",
         "theoriq"
       ],
-      "followers": 74978.0,
+      "followers": 75019.0,
       "smart_followers": 734.0
     },
     {
@@ -15306,14 +15251,13 @@
         "sentient",
         "standx"
       ],
-      "followers": 143264.0,
-      "smart_followers": 119.0
+      "followers": 143439.0,
+      "smart_followers": 120.0
     },
     {
       "user": "XammieCrypt",
       "yaps": null,
       "30D": [
-        "miden",
         "sixr"
       ],
       "followers": 11094.0,
@@ -15348,9 +15292,6 @@
     {
       "user": "XiaoZhi_BTC",
       "yaps": null,
-      "7D": [
-        "ferra"
-      ],
       "30D": [
         "arbitrum",
         "cysic",
@@ -15359,7 +15300,7 @@
         "openledger",
         "pip"
       ],
-      "followers": 13276.0,
+      "followers": 13279.0,
       "smart_followers": 75.0
     },
     {
@@ -15388,7 +15329,7 @@
       "30D": [
         "openledger"
       ],
-      "followers": 2929.0,
+      "followers": 2931.0,
       "smart_followers": 115.0
     },
     {
@@ -15411,7 +15352,6 @@
       "30D": [
         "loadedlions",
         "nesa",
-        "opengradient",
         "openledger",
         "stbl",
         "verse8"
@@ -15429,7 +15369,7 @@
       "30D": [
         "infinit"
       ],
-      "followers": 8935.0,
+      "followers": 8936.0,
       "smart_followers": 337.0
     },
     {
@@ -15502,7 +15442,7 @@
         "miden",
         "standx"
       ],
-      "followers": 7554.0,
+      "followers": 7561.0,
       "smart_followers": 54.0
     },
     {
@@ -15526,7 +15466,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 3556.0,
+      "followers": 3553.0,
       "smart_followers": 6.0
     },
     {
@@ -15561,11 +15501,10 @@
         "polygon",
         "rainbow",
         "standx",
-        "stbl",
         "theoriq",
         "tria"
       ],
-      "followers": 37865.0,
+      "followers": 37924.0,
       "smart_followers": 568.0
     },
     {
@@ -15609,6 +15548,7 @@
         "kaito",
         "miden",
         "openmind",
+        "polygon",
         "rainbow",
         "surf"
       ],
@@ -15624,7 +15564,7 @@
         "surf",
         "tria"
       ],
-      "followers": 106716.0,
+      "followers": 106823.0,
       "smart_followers": 381.0
     },
     {
@@ -15693,7 +15633,7 @@
         "miden",
         "pip"
       ],
-      "followers": 40398.0,
+      "followers": 40371.0,
       "smart_followers": 169.0
     },
     {
@@ -15759,7 +15699,7 @@
         "arbitrum",
         "theo"
       ],
-      "followers": 24749.0,
+      "followers": 24781.0,
       "smart_followers": 506.0
     },
     {
@@ -15788,7 +15728,7 @@
         "sentient",
         "standx"
       ],
-      "followers": 10517.0,
+      "followers": 10564.0,
       "smart_followers": 150.0
     },
     {
@@ -15797,7 +15737,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 6201.0,
+      "followers": 6203.0,
       "smart_followers": 41.0
     },
     {
@@ -15821,7 +15761,7 @@
       "30D": [
         "megaeth"
       ],
-      "followers": 7301.0,
+      "followers": 7293.0,
       "smart_followers": 561.0
     },
     {
@@ -15915,7 +15855,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 6883.0,
+      "followers": 6885.0,
       "smart_followers": 716.0
     },
     {
@@ -15942,7 +15882,7 @@
         "pip",
         "turtleclub"
       ],
-      "followers": 6743.0,
+      "followers": 6745.0,
       "smart_followers": 128.0
     },
     {
@@ -15965,7 +15905,7 @@
         "polygon",
         "puffpaw"
       ],
-      "followers": 10279.0,
+      "followers": 10270.0,
       "smart_followers": 194.0
     },
     {
@@ -15995,7 +15935,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 2149.0,
+      "followers": 2161.0,
       "smart_followers": 30.0
     },
     {
@@ -16076,7 +16016,7 @@
         "anichess",
         "multipli"
       ],
-      "followers": 4955.0,
+      "followers": 4957.0,
       "smart_followers": 204.0
     },
     {
@@ -16085,7 +16025,7 @@
       "30D": [
         "sonic"
       ],
-      "followers": 11404.0,
+      "followers": 11400.0,
       "smart_followers": 366.0
     },
     {
@@ -16119,7 +16059,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 1803.0,
+      "followers": 1805.0,
       "smart_followers": 261.0
     },
     {
@@ -16131,7 +16071,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 6473.0,
+      "followers": 6472.0,
       "smart_followers": 131.0
     },
     {
@@ -16140,7 +16080,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 6489.0,
+      "followers": 6490.0,
       "smart_followers": 134.0
     },
     {
@@ -16153,7 +16093,7 @@
         "lombard",
         "rainbow"
       ],
-      "followers": 24392.0,
+      "followers": 24385.0,
       "smart_followers": 57.0
     },
     {
@@ -16189,10 +16129,13 @@
     {
       "user": "a1research__",
       "yaps": null,
+      "7D": [
+        "ethereum"
+      ],
       "30D": [
         "brevis"
       ],
-      "followers": 9875.0,
+      "followers": 9876.0,
       "smart_followers": 542.0
     },
     {
@@ -16229,8 +16172,17 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 1411.0,
+      "followers": 1412.0,
       "smart_followers": 117.0
+    },
+    {
+      "user": "abraar_69",
+      "yaps": null,
+      "30D": [
+        "ferra"
+      ],
+      "followers": 4933.0,
+      "smart_followers": 23.0
     },
     {
       "user": "adamagb",
@@ -16250,7 +16202,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 1797.0,
+      "followers": 1825.0,
       "smart_followers": 8.0
     },
     {
@@ -16270,7 +16222,7 @@
       "30D": [
         "opengradient"
       ],
-      "followers": 12629.0,
+      "followers": 12630.0,
       "smart_followers": 427.0
     },
     {
@@ -16300,7 +16252,7 @@
       "30D": [
         "falcon"
       ],
-      "followers": 82553.0,
+      "followers": 82548.0,
       "smart_followers": 1885.0
     },
     {
@@ -16321,7 +16273,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 33198.0,
+      "followers": 33224.0,
       "smart_followers": 2186.0
     },
     {
@@ -16342,7 +16294,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 45758.0,
+      "followers": 46446.0,
       "smart_followers": 1639.0
     },
     {
@@ -16395,7 +16347,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 12160.0,
+      "followers": 12159.0,
       "smart_followers": 1443.0
     },
     {
@@ -16490,7 +16442,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 37515.0,
+      "followers": 37521.0,
       "smart_followers": 87.0
     },
     {
@@ -16499,7 +16451,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 1810.0,
+      "followers": 1811.0,
       "smart_followers": 136.0
     },
     {
@@ -16508,7 +16460,7 @@
       "7D": [
         "miden"
       ],
-      "followers": 4014.0,
+      "followers": 4010.0,
       "smart_followers": 147.0
     },
     {
@@ -16562,7 +16514,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 2128.0,
+      "followers": 2131.0,
       "smart_followers": 35.0
     },
     {
@@ -16571,7 +16523,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 41005.0,
+      "followers": 41007.0,
       "smart_followers": 326.0
     },
     {
@@ -16589,7 +16541,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 10131.0,
+      "followers": 10130.0,
       "smart_followers": 1407.0
     },
     {
@@ -16616,7 +16568,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 5967.0,
+      "followers": 5964.0,
       "smart_followers": 137.0
     },
     {
@@ -16643,7 +16595,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 47878.0,
+      "followers": 47889.0,
       "smart_followers": 3122.0
     },
     {
@@ -16680,7 +16632,7 @@
       "30D": [
         "pip"
       ],
-      "followers": 1395.0,
+      "followers": 1398.0,
       "smart_followers": 29.0
     },
     {
@@ -16728,7 +16680,7 @@
         "infinex",
         "megaeth"
       ],
-      "followers": 74926.0,
+      "followers": 74944.0,
       "smart_followers": 3450.0
     },
     {
@@ -16737,7 +16689,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 31435.0,
+      "followers": 31433.0,
       "smart_followers": 134.0
     },
     {
@@ -16746,7 +16698,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 18635.0,
+      "followers": 18682.0,
       "smart_followers": 92.0
     },
     {
@@ -16773,7 +16725,7 @@
         "infinex",
         "surf"
       ],
-      "followers": 30026.0,
+      "followers": 30024.0,
       "smart_followers": 569.0
     },
     {
@@ -16839,7 +16791,7 @@
         "miden",
         "polygon"
       ],
-      "followers": 6209.0,
+      "followers": 6207.0,
       "smart_followers": 513.0
     },
     {
@@ -16871,7 +16823,7 @@
         "polygon",
         "zcash"
       ],
-      "followers": 47546.0,
+      "followers": 47550.0,
       "smart_followers": 1020.0
     },
     {
@@ -16880,7 +16832,7 @@
       "30D": [
         "bitdealer"
       ],
-      "followers": 1129.0,
+      "followers": 1123.0,
       "smart_followers": 14.0
     },
     {
@@ -16921,7 +16873,7 @@
       "7D": [
         "opengradient"
       ],
-      "followers": 94253.0,
+      "followers": 94276.0,
       "smart_followers": 1816.0
     },
     {
@@ -16930,7 +16882,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 8539.0,
+      "followers": 8574.0,
       "smart_followers": 53.0
     },
     {
@@ -16939,6 +16891,7 @@
       "7D": [
         "doodles",
         "hana",
+        "kaito",
         "kindred",
         "moonbirds",
         "story-protocol",
@@ -16978,7 +16931,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 65997.0,
+      "followers": 66094.0,
       "smart_followers": 3429.0
     },
     {
@@ -17014,7 +16967,7 @@
         "sixr",
         "tria"
       ],
-      "followers": 26287.0,
+      "followers": 26284.0,
       "smart_followers": 358.0
     },
     {
@@ -17026,7 +16979,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 3772.0,
+      "followers": 3773.0,
       "smart_followers": 481.0
     },
     {
@@ -17035,7 +16988,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 44438.0,
+      "followers": 44441.0,
       "smart_followers": 2040.0
     },
     {
@@ -17047,7 +17000,7 @@
       "30D": [
         "stbl"
       ],
-      "followers": 8802.0,
+      "followers": 8801.0,
       "smart_followers": 243.0
     },
     {
@@ -17098,7 +17051,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 30723.0,
+      "followers": 30737.0,
       "smart_followers": 1037.0
     },
     {
@@ -17122,7 +17075,7 @@
         "miden",
         "sei"
       ],
-      "followers": 30035.0,
+      "followers": 29881.0,
       "smart_followers": 122.0
     },
     {
@@ -17151,7 +17104,7 @@
         "sentient",
         "verse8"
       ],
-      "followers": 4701.0,
+      "followers": 4797.0,
       "smart_followers": 133.0
     },
     {
@@ -17176,10 +17129,11 @@
       ],
       "30D": [
         "flipster",
+        "huma",
         "miden",
         "tria"
       ],
-      "followers": 4871.0,
+      "followers": 4868.0,
       "smart_followers": 64.0
     },
     {
@@ -17211,9 +17165,10 @@
       "user": "banditxbt",
       "yaps": null,
       "7D": [
+        "kaito",
         "megaeth"
       ],
-      "followers": 46243.0,
+      "followers": 46238.0,
       "smart_followers": 1505.0
     },
     {
@@ -17233,7 +17188,7 @@
         "loadedlions",
         "pip"
       ],
-      "followers": 6650.0,
+      "followers": 6646.0,
       "smart_followers": 26.0
     },
     {
@@ -17274,7 +17229,7 @@
         "standx",
         "theoriq"
       ],
-      "followers": 3977.0,
+      "followers": 3981.0,
       "smart_followers": 133.0
     },
     {
@@ -17305,8 +17260,8 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 37011.0,
-      "smart_followers": 2503.0
+      "followers": 37453.0,
+      "smart_followers": 2504.0
     },
     {
       "user": "bclaobai",
@@ -17319,7 +17274,7 @@
         "huma",
         "sentient"
       ],
-      "followers": 18722.0,
+      "followers": 18727.0,
       "smart_followers": 138.0
     },
     {
@@ -17395,7 +17350,7 @@
       "30D": [
         "mantle"
       ],
-      "followers": 61167.0,
+      "followers": 61168.0,
       "smart_followers": 859.0
     },
     {
@@ -17437,7 +17392,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 8507.0,
+      "followers": 8504.0,
       "smart_followers": 522.0
     },
     {
@@ -17480,7 +17435,7 @@
         "integra",
         "opengradient"
       ],
-      "followers": 3771.0,
+      "followers": 3769.0,
       "smart_followers": 51.0
     },
     {
@@ -17497,7 +17452,6 @@
         "theo"
       ],
       "30D": [
-        "aptos",
         "frax",
         "injective",
         "integra",
@@ -17562,7 +17516,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 2504.0,
+      "followers": 2505.0,
       "smart_followers": 40.0
     },
     {
@@ -17599,7 +17553,7 @@
         "creatorbid",
         "virtual"
       ],
-      "followers": 13102.0,
+      "followers": 13112.0,
       "smart_followers": 261.0
     },
     {
@@ -17615,7 +17569,7 @@
         "noble",
         "opengradient"
       ],
-      "followers": 3949.0,
+      "followers": 3967.0,
       "smart_followers": 44.0
     },
     {
@@ -17634,13 +17588,12 @@
         "ferra",
         "inferencelabs",
         "kaio",
-        "kaito",
         "lombard",
         "mememax",
         "sei",
         "standx"
       ],
-      "followers": 59036.0,
+      "followers": 59047.0,
       "smart_followers": 227.0
     },
     {
@@ -17652,7 +17605,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 44346.0,
+      "followers": 44352.0,
       "smart_followers": 3764.0
     },
     {
@@ -17702,7 +17655,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 33522.0,
+      "followers": 33515.0,
       "smart_followers": 961.0
     },
     {
@@ -17744,7 +17697,7 @@
       "30D": [
         "creatorbid"
       ],
-      "followers": 983.0,
+      "followers": 981.0,
       "smart_followers": 32.0
     },
     {
@@ -17762,7 +17715,7 @@
         "sixr",
         "tria"
       ],
-      "followers": 50951.0,
+      "followers": 50953.0,
       "smart_followers": 355.0
     },
     {
@@ -17817,7 +17770,7 @@
       "30D": [
         "sonic"
       ],
-      "followers": 38658.0,
+      "followers": 38681.0,
       "smart_followers": 306.0
     },
     {
@@ -17874,7 +17827,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 881.0,
+      "followers": 880.0,
       "smart_followers": 10.0
     },
     {
@@ -17890,7 +17843,7 @@
         "theo",
         "verse8"
       ],
-      "followers": 7292.0,
+      "followers": 7293.0,
       "smart_followers": 144.0
     },
     {
@@ -17911,17 +17864,8 @@
         "openledger",
         "skate"
       ],
-      "followers": 1269.0,
+      "followers": 1266.0,
       "smart_followers": 21.0
-    },
-    {
-      "user": "boyboye9",
-      "yaps": null,
-      "30D": [
-        "huma"
-      ],
-      "followers": 1637.0,
-      "smart_followers": 9.0
     },
     {
       "user": "boyykennn",
@@ -17970,7 +17914,7 @@
         "openmind",
         "polygon"
       ],
-      "followers": 59239.0,
+      "followers": 59298.0,
       "smart_followers": 3354.0
     },
     {
@@ -18000,7 +17944,7 @@
         "miden",
         "rainbow"
       ],
-      "followers": 255493.0,
+      "followers": 255519.0,
       "smart_followers": 220.0
     },
     {
@@ -18018,9 +17962,6 @@
     {
       "user": "brucelolzz",
       "yaps": null,
-      "7D": [
-        "kaito"
-      ],
       "30D": [
         "surf"
       ],
@@ -18098,7 +18039,7 @@
         "standx",
         "stbl"
       ],
-      "followers": 31279.0,
+      "followers": 31282.0,
       "smart_followers": 164.0
     },
     {
@@ -18107,7 +18048,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 2033.0,
+      "followers": 2031.0,
       "smart_followers": 40.0
     },
     {
@@ -18182,7 +18123,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 4139.0,
+      "followers": 4140.0,
       "smart_followers": 71.0
     },
     {
@@ -18225,7 +18166,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 5045.0,
+      "followers": 5049.0,
       "smart_followers": 170.0
     },
     {
@@ -18234,7 +18175,7 @@
       "30D": [
         "pip"
       ],
-      "followers": 2189.0,
+      "followers": 2207.0,
       "smart_followers": 33.0
     },
     {
@@ -18290,7 +18231,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 3916.0,
+      "followers": 3920.0,
       "smart_followers": 151.0
     },
     {
@@ -18311,13 +18252,14 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 3637.0,
+      "followers": 3642.0,
       "smart_followers": 112.0
     },
     {
       "user": "chainyoda",
       "yaps": null,
       "7D": [
+        "ethereum",
         "noble",
         "openmind",
         "polygon"
@@ -18328,7 +18270,7 @@
         "polygon",
         "zcash"
       ],
-      "followers": 43334.0,
+      "followers": 43347.0,
       "smart_followers": 2806.0
     },
     {
@@ -18357,15 +18299,12 @@
         "sentient",
         "standx"
       ],
-      "followers": 54078.0,
+      "followers": 54116.0,
       "smart_followers": 181.0
     },
     {
       "user": "charles48011843",
       "yaps": null,
-      "7D": [
-        "polygon"
-      ],
       "30D": [
         "ferra",
         "inferencelabs",
@@ -18376,7 +18315,7 @@
         "soul",
         "standx"
       ],
-      "followers": 134019.0,
+      "followers": 134073.0,
       "smart_followers": 315.0
     },
     {
@@ -18472,7 +18411,7 @@
         "stbl",
         "theo"
       ],
-      "followers": 14459.0,
+      "followers": 14473.0,
       "smart_followers": 101.0
     },
     {
@@ -18485,7 +18424,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 3696.0,
+      "followers": 3708.0,
       "smart_followers": 44.0
     },
     {
@@ -18547,7 +18486,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 5156.0,
+      "followers": 5162.0,
       "smart_followers": 118.0
     },
     {
@@ -18559,7 +18498,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 19004.0,
+      "followers": 19007.0,
       "smart_followers": 1771.0
     },
     {
@@ -18580,7 +18519,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 4615.0,
+      "followers": 4616.0,
       "smart_followers": 108.0
     },
     {
@@ -18591,7 +18530,7 @@
         "stbl",
         "theo"
       ],
-      "followers": 2520.0,
+      "followers": 2518.0,
       "smart_followers": 66.0
     },
     {
@@ -18625,7 +18564,7 @@
         "brevis",
         "polygon"
       ],
-      "followers": 55030.0,
+      "followers": 55036.0,
       "smart_followers": 736.0
     },
     {
@@ -18635,7 +18574,6 @@
         "kaio"
       ],
       "30D": [
-        "cysic",
         "flipster",
         "kaio",
         "mememax",
@@ -18670,7 +18608,7 @@
         "stbl",
         "theo"
       ],
-      "followers": 5123.0,
+      "followers": 5135.0,
       "smart_followers": 43.0
     },
     {
@@ -18743,7 +18681,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 1589.0,
+      "followers": 1682.0,
       "smart_followers": 27.0
     },
     {
@@ -18811,7 +18749,7 @@
         "rainbow",
         "yeet"
       ],
-      "followers": 5432.0,
+      "followers": 5429.0,
       "smart_followers": 39.0
     },
     {
@@ -18820,7 +18758,6 @@
       "7D": [
         "kaio",
         "openmind",
-        "virtual",
         "warden"
       ],
       "30D": [
@@ -18843,7 +18780,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 2051.0,
+      "followers": 2052.0,
       "smart_followers": 174.0
     },
     {
@@ -18883,7 +18820,7 @@
         "billions",
         "huma"
       ],
-      "followers": 2402.0,
+      "followers": 2431.0,
       "smart_followers": 53.0
     },
     {
@@ -18903,15 +18840,6 @@
       ],
       "followers": 5616.0,
       "smart_followers": 53.0
-    },
-    {
-      "user": "cowooding",
-      "yaps": null,
-      "30D": [
-        "verse8"
-      ],
-      "followers": 15346.0,
-      "smart_followers": 395.0
     },
     {
       "user": "cozymaximalist",
@@ -18941,7 +18869,7 @@
         "billions",
         "somnia"
       ],
-      "followers": 4945.0,
+      "followers": 4956.0,
       "smart_followers": 141.0
     },
     {
@@ -18950,7 +18878,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 38777.0,
+      "followers": 38793.0,
       "smart_followers": 59.0
     },
     {
@@ -19024,7 +18952,7 @@
         "miden",
         "rainbow"
       ],
-      "followers": 2878.0,
+      "followers": 2879.0,
       "smart_followers": 36.0
     },
     {
@@ -19071,7 +18999,7 @@
         "miden",
         "theo"
       ],
-      "followers": 9842.0,
+      "followers": 9908.0,
       "smart_followers": 51.0
     },
     {
@@ -19085,7 +19013,7 @@
         "kaito",
         "monad"
       ],
-      "followers": 209800.0,
+      "followers": 209832.0,
       "smart_followers": 505.0
     },
     {
@@ -19124,7 +19052,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 8966.0,
+      "followers": 8979.0,
       "smart_followers": 309.0
     },
     {
@@ -19156,7 +19084,7 @@
         "ethereum",
         "zcash"
       ],
-      "followers": 971996.0,
+      "followers": 972050.0,
       "smart_followers": 2830.0
     },
     {
@@ -19167,7 +19095,7 @@
         "ethereum",
         "polygon"
       ],
-      "followers": 333731.0,
+      "followers": 333844.0,
       "smart_followers": 1535.0
     },
     {
@@ -19176,7 +19104,7 @@
       "30D": [
         "infinit"
       ],
-      "followers": 10752.0,
+      "followers": 10751.0,
       "smart_followers": 165.0
     },
     {
@@ -19185,7 +19113,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 1534.0,
+      "followers": 1536.0,
       "smart_followers": 895.0
     },
     {
@@ -19216,7 +19144,7 @@
         "arbitrum",
         "mememax"
       ],
-      "followers": 8403.0,
+      "followers": 8409.0,
       "smart_followers": 192.0
     },
     {
@@ -19256,7 +19184,7 @@
         "opengradient",
         "pip"
       ],
-      "followers": 11623.0,
+      "followers": 11631.0,
       "smart_followers": 95.0
     },
     {
@@ -19265,7 +19193,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 1133.0,
+      "followers": 1137.0,
       "smart_followers": 47.0
     },
     {
@@ -19274,7 +19202,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 23992.0,
+      "followers": 23989.0,
       "smart_followers": 272.0
     },
     {
@@ -19286,7 +19214,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 38192.0,
+      "followers": 38194.0,
       "smart_followers": 2373.0
     },
     {
@@ -19379,7 +19307,7 @@
         "noble",
         "walrus"
       ],
-      "followers": 1625.0,
+      "followers": 1630.0,
       "smart_followers": 22.0
     },
     {
@@ -19513,17 +19441,8 @@
         "stbl",
         "theo"
       ],
-      "followers": 4139.0,
+      "followers": 4134.0,
       "smart_followers": 120.0
-    },
-    {
-      "user": "ddazmon",
-      "yaps": null,
-      "30D": [
-        "standx"
-      ],
-      "followers": 5280.0,
-      "smart_followers": 99.0
     },
     {
       "user": "ddtp112",
@@ -19547,6 +19466,7 @@
         "theoriq"
       ],
       "30D": [
+        "arbitrum",
         "cysic",
         "goatnetwork",
         "katana",
@@ -19557,7 +19477,7 @@
         "theo",
         "theoriq"
       ],
-      "followers": 6179.0,
+      "followers": 6182.0,
       "smart_followers": 100.0
     },
     {
@@ -19572,6 +19492,15 @@
       "smart_followers": 87.0
     },
     {
+      "user": "defi_explora",
+      "yaps": null,
+      "7D": [
+        "miden"
+      ],
+      "followers": 17583.0,
+      "smart_followers": 81.0
+    },
+    {
       "user": "defi_mago",
       "yaps": null,
       "7D": [
@@ -19579,11 +19508,10 @@
         "sei"
       ],
       "30D": [
-        "aptos",
         "infinit",
         "sei"
       ],
-      "followers": 11579.0,
+      "followers": 11576.0,
       "smart_followers": 189.0
     },
     {
@@ -19595,7 +19523,6 @@
       ],
       "30D": [
         "apex",
-        "arbitrum",
         "edgen",
         "inferencelabs",
         "lombard",
@@ -19687,7 +19614,7 @@
         "union",
         "yeet"
       ],
-      "followers": 3321.0,
+      "followers": 3325.0,
       "smart_followers": 63.0
     },
     {
@@ -19712,10 +19639,11 @@
       ],
       "30D": [
         "kindred",
+        "miden",
         "noya",
         "pip"
       ],
-      "followers": 2274.0,
+      "followers": 2323.0,
       "smart_followers": 13.0
     },
     {
@@ -19737,7 +19665,7 @@
       "30D": [
         "cysic"
       ],
-      "followers": 919.0,
+      "followers": 923.0,
       "smart_followers": 22.0
     },
     {
@@ -19793,7 +19721,7 @@
         "symphony",
         "virtual"
       ],
-      "followers": 6823.0,
+      "followers": 6835.0,
       "smart_followers": 237.0
     },
     {
@@ -19830,7 +19758,6 @@
       "user": "diora_anr",
       "yaps": null,
       "7D": [
-        "ferra",
         "inferencelabs",
         "nesa",
         "warden"
@@ -19841,7 +19768,6 @@
         "kaio",
         "kindred",
         "loadedlions",
-        "lombard",
         "mavryk",
         "miden",
         "mira",
@@ -19868,7 +19794,7 @@
         "noya",
         "opengradient"
       ],
-      "followers": 15095.0,
+      "followers": 15102.0,
       "smart_followers": 45.0
     },
     {
@@ -19878,7 +19804,7 @@
         "irys",
         "megaeth"
       ],
-      "followers": 77684.0,
+      "followers": 77700.0,
       "smart_followers": 3295.0
     },
     {
@@ -19894,7 +19820,7 @@
         "mememax",
         "tria"
       ],
-      "followers": 49712.0,
+      "followers": 49725.0,
       "smart_followers": 181.0
     },
     {
@@ -19906,9 +19832,10 @@
       "30D": [
         "anichess",
         "goatnetwork",
-        "integra"
+        "integra",
+        "verse8"
       ],
-      "followers": 2843.0,
+      "followers": 2844.0,
       "smart_followers": 38.0
     },
     {
@@ -19926,7 +19853,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 1241.0,
+      "followers": 1244.0,
       "smart_followers": 6.0
     },
     {
@@ -19952,7 +19879,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 7348.0,
+      "followers": 7347.0,
       "smart_followers": 1039.0
     },
     {
@@ -19970,13 +19897,10 @@
     {
       "user": "doodlely213",
       "yaps": null,
-      "7D": [
-        "kaito"
-      ],
       "30D": [
         "puffpaw"
       ],
-      "followers": 5768.0,
+      "followers": 5769.0,
       "smart_followers": 118.0
     },
     {
@@ -20009,7 +19933,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 29166.0,
+      "followers": 29224.0,
       "smart_followers": 570.0
     },
     {
@@ -20045,7 +19969,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 4780.0,
+      "followers": 4773.0,
       "smart_followers": 554.0
     },
     {
@@ -20064,7 +19988,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 6583.0,
+      "followers": 6577.0,
       "smart_followers": 312.0
     },
     {
@@ -20158,17 +20082,8 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 3944.0,
+      "followers": 3951.0,
       "smart_followers": 238.0
-    },
-    {
-      "user": "eddy_crypt409",
-      "yaps": null,
-      "30D": [
-        "ferra"
-      ],
-      "followers": 6301.0,
-      "smart_followers": 32.0
     },
     {
       "user": "edoweb3",
@@ -20191,10 +20106,13 @@
     {
       "user": "efo_xx",
       "yaps": null,
+      "7D": [
+        "virtual"
+      ],
       "30D": [
         "virtual"
       ],
-      "followers": 1746.0,
+      "followers": 1750.0,
       "smart_followers": 55.0
     },
     {
@@ -20214,7 +20132,6 @@
       "user": "egyptk6",
       "yaps": null,
       "7D": [
-        "ferra",
         "kaio"
       ],
       "30D": [
@@ -20235,7 +20152,7 @@
         "miden",
         "opengradient"
       ],
-      "followers": 17245.0,
+      "followers": 17256.0,
       "smart_followers": 1576.0
     },
     {
@@ -20286,7 +20203,7 @@
         "edgen",
         "openledger"
       ],
-      "followers": 2377.0,
+      "followers": 2371.0,
       "smart_followers": 31.0
     },
     {
@@ -20319,6 +20236,7 @@
       "7D": [
         "megaeth",
         "openmind",
+        "polygon",
         "sei"
       ],
       "30D": [
@@ -20339,7 +20257,7 @@
         "standx",
         "tria"
       ],
-      "followers": 80400.0,
+      "followers": 80413.0,
       "smart_followers": 541.0
     },
     {
@@ -20348,7 +20266,7 @@
       "30D": [
         "standx"
       ],
-      "followers": 10148.0,
+      "followers": 10152.0,
       "smart_followers": 170.0
     },
     {
@@ -20361,7 +20279,7 @@
         "sentient",
         "tria"
       ],
-      "followers": 22609.0,
+      "followers": 22764.0,
       "smart_followers": 243.0
     },
     {
@@ -20386,7 +20304,7 @@
         "pengu",
         "standx"
       ],
-      "followers": 191778.0,
+      "followers": 191793.0,
       "smart_followers": 895.0
     },
     {
@@ -20432,7 +20350,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 8546.0,
+      "followers": 8566.0,
       "smart_followers": 114.0
     },
     {
@@ -20451,7 +20369,7 @@
         "anichess",
         "orderly"
       ],
-      "followers": 8946.0,
+      "followers": 8944.0,
       "smart_followers": 276.0
     },
     {
@@ -20472,7 +20390,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 72440.0,
+      "followers": 72507.0,
       "smart_followers": 254.0
     },
     {
@@ -20496,7 +20414,6 @@
         "kindred",
         "loadedlions",
         "lombard",
-        "miden",
         "nesa",
         "openledger",
         "pyth",
@@ -20505,7 +20422,7 @@
         "theoriq",
         "verse8"
       ],
-      "followers": 12504.0,
+      "followers": 12512.0,
       "smart_followers": 134.0
     },
     {
@@ -20523,7 +20440,7 @@
       "7D": [
         "kaito"
       ],
-      "followers": 7218.0,
+      "followers": 7239.0,
       "smart_followers": 119.0
     },
     {
@@ -20581,7 +20498,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 51806.0,
+      "followers": 51791.0,
       "smart_followers": 2117.0
     },
     {
@@ -20590,7 +20507,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 47356.0,
+      "followers": 47353.0,
       "smart_followers": 222.0
     },
     {
@@ -20659,7 +20576,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 204280.0,
+      "followers": 204300.0,
       "smart_followers": 4826.0
     },
     {
@@ -20679,7 +20596,7 @@
         "verse8",
         "walrus"
       ],
-      "followers": 15925.0,
+      "followers": 15922.0,
       "smart_followers": 314.0
     },
     {
@@ -20693,7 +20610,7 @@
         "lombard",
         "moremarkets"
       ],
-      "followers": 17816.0,
+      "followers": 17817.0,
       "smart_followers": 235.0
     },
     {
@@ -20725,7 +20642,7 @@
         "theo",
         "virtual"
       ],
-      "followers": 40429.0,
+      "followers": 40438.0,
       "smart_followers": 116.0
     },
     {
@@ -20743,14 +20660,13 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 27046.0,
+      "followers": 27086.0,
       "smart_followers": 1540.0
     },
     {
       "user": "francis_cgl",
       "yaps": null,
       "7D": [
-        "anichess",
         "metawin"
       ],
       "30D": [
@@ -20780,7 +20696,7 @@
         "miden",
         "verse8"
       ],
-      "followers": 3870.0,
+      "followers": 3875.0,
       "smart_followers": 105.0
     },
     {
@@ -20802,7 +20718,7 @@
         "miden",
         "sentient"
       ],
-      "followers": 31247.0,
+      "followers": 31252.0,
       "smart_followers": 263.0
     },
     {
@@ -20814,6 +20730,7 @@
         "miden",
         "mira",
         "nesa",
+        "opengradient",
         "pip"
       ],
       "followers": 4667.0,
@@ -20828,7 +20745,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 588987.0,
+      "followers": 589142.0,
       "smart_followers": 3257.0
     },
     {
@@ -20849,7 +20766,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 321775.0,
+      "followers": 321774.0,
       "smart_followers": 1437.0
     },
     {
@@ -20869,8 +20786,7 @@
         "zcash"
       ],
       "30D": [
-        "infinex",
-        "pyth"
+        "infinex"
       ],
       "followers": 325699.0,
       "smart_followers": 4381.0
@@ -20899,7 +20815,7 @@
       "30D": [
         "sonic"
       ],
-      "followers": 21644.0,
+      "followers": 21648.0,
       "smart_followers": 135.0
     },
     {
@@ -20942,7 +20858,7 @@
         "opengradient",
         "tria"
       ],
-      "followers": 21131.0,
+      "followers": 21136.0,
       "smart_followers": 291.0
     },
     {
@@ -21006,7 +20922,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 44122.0,
+      "followers": 44176.0,
       "smart_followers": 1075.0
     },
     {
@@ -21021,9 +20937,6 @@
     {
       "user": "gigiz_eth",
       "yaps": null,
-      "7D": [
-        "ferra"
-      ],
       "30D": [
         "aptos",
         "berachain",
@@ -21040,7 +20953,7 @@
         "sei",
         "standx"
       ],
-      "followers": 52994.0,
+      "followers": 53002.0,
       "smart_followers": 304.0
     },
     {
@@ -21052,7 +20965,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 19063.0,
+      "followers": 19144.0,
       "smart_followers": 666.0
     },
     {
@@ -21076,7 +20989,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 53138.0,
+      "followers": 53139.0,
       "smart_followers": 2435.0
     },
     {
@@ -21087,13 +21000,14 @@
         "theoriq",
         "turtleclub"
       ],
-      "followers": 70041.0,
+      "followers": 70111.0,
       "smart_followers": 77.0
     },
     {
       "user": "gn_zebraleyuan",
       "yaps": null,
       "7D": [
+        "kaito",
         "katana"
       ],
       "30D": [
@@ -21109,7 +21023,7 @@
         "stbl",
         "theo"
       ],
-      "followers": 57087.0,
+      "followers": 57100.0,
       "smart_followers": 164.0
     },
     {
@@ -21171,7 +21085,6 @@
       "7D": [
         "hana",
         "katana",
-        "miden",
         "tria"
       ],
       "30D": [
@@ -21209,7 +21122,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 7992.0,
+      "followers": 8004.0,
       "smart_followers": 219.0
     },
     {
@@ -21227,7 +21140,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 31820.0,
+      "followers": 31826.0,
       "smart_followers": 289.0
     },
     {
@@ -21336,7 +21249,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 3651.0,
+      "followers": 3646.0,
       "smart_followers": 77.0
     },
     {
@@ -21345,7 +21258,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 22737.0,
+      "followers": 22746.0,
       "smart_followers": 1352.0
     },
     {
@@ -21354,7 +21267,6 @@
       "7D": [
         "anichess",
         "inferencelabs",
-        "lombard",
         "openledger",
         "pip"
       ],
@@ -21368,7 +21280,7 @@
         "sixr",
         "theoriq"
       ],
-      "followers": 2077.0,
+      "followers": 2076.0,
       "smart_followers": 33.0
     },
     {
@@ -21378,7 +21290,7 @@
         "opengradient",
         "verse8"
       ],
-      "followers": 5474.0,
+      "followers": 5440.0,
       "smart_followers": 102.0
     },
     {
@@ -21439,7 +21351,7 @@
         "miden",
         "standx"
       ],
-      "followers": 4743.0,
+      "followers": 4742.0,
       "smart_followers": 116.0
     },
     {
@@ -21455,7 +21367,6 @@
       "user": "hackapreneur",
       "yaps": null,
       "7D": [
-        "defidotapp",
         "mantle",
         "polygon",
         "sentient"
@@ -21469,7 +21380,7 @@
         "sentient",
         "tria"
       ],
-      "followers": 280185.0,
+      "followers": 280181.0,
       "smart_followers": 1670.0
     },
     {
@@ -21487,17 +21398,16 @@
       "30D": [
         "billions"
       ],
-      "followers": 3779.0,
+      "followers": 3796.0,
       "smart_followers": 58.0
     },
     {
       "user": "hangome_sol",
       "yaps": null,
       "30D": [
-        "miden",
         "moremarkets"
       ],
-      "followers": 4405.0,
+      "followers": 4515.0,
       "smart_followers": 169.0
     },
     {
@@ -21506,7 +21416,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 7239.0,
+      "followers": 7240.0,
       "smart_followers": 100.0
     },
     {
@@ -21519,7 +21429,7 @@
         "moonbirds",
         "orderly"
       ],
-      "followers": 72711.0,
+      "followers": 72699.0,
       "smart_followers": 349.0
     },
     {
@@ -21537,7 +21447,10 @@
       "7D": [
         "polygon"
       ],
-      "followers": 30458.0,
+      "30D": [
+        "polygon"
+      ],
+      "followers": 30468.0,
       "smart_followers": 658.0
     },
     {
@@ -21609,7 +21522,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 251798.0,
+      "followers": 251828.0,
       "smart_followers": 3751.0
     },
     {
@@ -21639,7 +21552,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 355310.0,
+      "followers": 355501.0,
       "smart_followers": 7131.0
     },
     {
@@ -21706,7 +21619,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 4660.0,
+      "followers": 4662.0,
       "smart_followers": 67.0
     },
     {
@@ -21787,7 +21700,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 4631.0,
+      "followers": 4632.0,
       "smart_followers": 349.0
     },
     {
@@ -21804,7 +21717,7 @@
         "sixr",
         "standx"
       ],
-      "followers": 48331.0,
+      "followers": 48336.0,
       "smart_followers": 141.0
     },
     {
@@ -21821,7 +21734,7 @@
         "standx",
         "theo"
       ],
-      "followers": 52222.0,
+      "followers": 52240.0,
       "smart_followers": 321.0
     },
     {
@@ -21842,7 +21755,7 @@
       "30D": [
         "pyth"
       ],
-      "followers": 2465.0,
+      "followers": 2467.0,
       "smart_followers": 71.0
     },
     {
@@ -21887,7 +21800,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 4240.0,
+      "followers": 4273.0,
       "smart_followers": 57.0
     },
     {
@@ -21896,7 +21809,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 4290.0,
+      "followers": 4288.0,
       "smart_followers": 154.0
     },
     {
@@ -21914,7 +21827,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 57428.0,
+      "followers": 57429.0,
       "smart_followers": 2936.0
     },
     {
@@ -21935,7 +21848,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 6132.0,
+      "followers": 6134.0,
       "smart_followers": 116.0
     },
     {
@@ -21961,7 +21874,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 44263.0,
+      "followers": 44275.0,
       "smart_followers": 560.0
     },
     {
@@ -22061,7 +21974,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 3803.0,
+      "followers": 3808.0,
       "smart_followers": 69.0
     },
     {
@@ -22093,7 +22006,7 @@
         "miden",
         "mira"
       ],
-      "followers": 12535.0,
+      "followers": 12542.0,
       "smart_followers": 119.0
     },
     {
@@ -22157,7 +22070,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 158711.0,
+      "followers": 158717.0,
       "smart_followers": 2433.0
     },
     {
@@ -22209,7 +22122,6 @@
       "user": "ibcig",
       "yaps": null,
       "7D": [
-        "defidotapp",
         "moremarkets"
       ],
       "30D": [
@@ -22217,8 +22129,8 @@
         "moremarkets",
         "standx"
       ],
-      "followers": 519458.0,
-      "smart_followers": 355.0
+      "followers": 520650.0,
+      "smart_followers": 352.0
     },
     {
       "user": "icefrog_sol",
@@ -22247,7 +22159,7 @@
         "openmind",
         "zcash"
       ],
-      "followers": 68718.0,
+      "followers": 68743.0,
       "smart_followers": 2709.0
     },
     {
@@ -22276,7 +22188,7 @@
         "puffpaw",
         "verse8"
       ],
-      "followers": 4063.0,
+      "followers": 4067.0,
       "smart_followers": 103.0
     },
     {
@@ -22334,7 +22246,7 @@
         "sixr",
         "yeet"
       ],
-      "followers": 9384.0,
+      "followers": 9385.0,
       "smart_followers": 92.0
     },
     {
@@ -22347,7 +22259,7 @@
         "moremarkets",
         "near"
       ],
-      "followers": 109337.0,
+      "followers": 109352.0,
       "smart_followers": 2558.0
     },
     {
@@ -22361,8 +22273,7 @@
         "multipli",
         "noya",
         "theoriq",
-        "turtleclub",
-        "walrus"
+        "turtleclub"
       ],
       "followers": 1032.0,
       "smart_followers": 26.0
@@ -22373,7 +22284,7 @@
       "7D": [
         "kaito"
       ],
-      "followers": 92333.0,
+      "followers": 92408.0,
       "smart_followers": 926.0
     },
     {
@@ -22416,7 +22327,7 @@
         "kaito",
         "peaq"
       ],
-      "followers": 2193.0,
+      "followers": 2198.0,
       "smart_followers": 224.0
     },
     {
@@ -22455,7 +22366,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 5408.0,
+      "followers": 5407.0,
       "smart_followers": 9.0
     },
     {
@@ -22533,8 +22444,7 @@
         "katana",
         "lombard",
         "miden",
-        "nesa",
-        "pip"
+        "nesa"
       ],
       "followers": 9998.0,
       "smart_followers": 314.0
@@ -22554,7 +22464,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 2377.0,
+      "followers": 2373.0,
       "smart_followers": 10.0
     },
     {
@@ -22621,7 +22531,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 47497.0,
+      "followers": 47522.0,
       "smart_followers": 1970.0
     },
     {
@@ -22721,6 +22631,7 @@
         "multipli",
         "polygon",
         "puffpaw",
+        "standx",
         "stbl",
         "theo",
         "theoriq",
@@ -22779,7 +22690,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 7624.0,
+      "followers": 7621.0,
       "smart_followers": 877.0
     },
     {
@@ -22794,8 +22705,17 @@
         "katana",
         "wayfinder"
       ],
-      "followers": 4804.0,
+      "followers": 4798.0,
       "smart_followers": 251.0
+    },
+    {
+      "user": "jeffthedunker",
+      "yaps": null,
+      "7D": [
+        "ethereum"
+      ],
+      "followers": 9912.0,
+      "smart_followers": 597.0
     },
     {
       "user": "jelena_noble",
@@ -22837,7 +22757,7 @@
       "30D": [
         "openledger"
       ],
-      "followers": 4407.0,
+      "followers": 4413.0,
       "smart_followers": 53.0
     },
     {
@@ -22853,8 +22773,20 @@
         "openmind",
         "virtual"
       ],
-      "followers": 344686.0,
+      "followers": 345004.0,
       "smart_followers": 7253.0
+    },
+    {
+      "user": "jessiexiao_eth",
+      "yaps": null,
+      "7D": [
+        "starknet"
+      ],
+      "30D": [
+        "starknet"
+      ],
+      "followers": 133736.0,
+      "smart_followers": 327.0
     },
     {
       "user": "jgonzalezferrer",
@@ -22879,7 +22811,7 @@
         "stbl",
         "theo"
       ],
-      "followers": 62446.0,
+      "followers": 62521.0,
       "smart_followers": 641.0
     },
     {
@@ -22903,11 +22835,10 @@
       ],
       "30D": [
         "inferencelabs",
-        "mememax",
         "standx",
         "thrive"
       ],
-      "followers": 4913.0,
+      "followers": 4919.0,
       "smart_followers": 64.0
     },
     {
@@ -22945,7 +22876,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 25070.0,
+      "followers": 25252.0,
       "smart_followers": 1931.0
     },
     {
@@ -22963,7 +22894,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 1983.0,
+      "followers": 1984.0,
       "smart_followers": 69.0
     },
     {
@@ -22981,7 +22912,6 @@
       "user": "jjjjjj9002",
       "yaps": null,
       "30D": [
-        "cysic",
         "miden",
         "stbl",
         "theo"
@@ -23010,15 +22940,6 @@
       ],
       "followers": 1011.0,
       "smart_followers": 23.0
-    },
-    {
-      "user": "joechalom",
-      "yaps": null,
-      "7D": [
-        "ethereum"
-      ],
-      "followers": 15425.0,
-      "smart_followers": 579.0
     },
     {
       "user": "john0xlook",
@@ -23072,7 +22993,7 @@
         "miden",
         "theo"
       ],
-      "followers": 4385.0,
+      "followers": 4411.0,
       "smart_followers": 93.0
     },
     {
@@ -23099,7 +23020,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 1699.0,
+      "followers": 1696.0,
       "smart_followers": 31.0
     },
     {
@@ -23108,7 +23029,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 2837.0,
+      "followers": 2839.0,
       "smart_followers": 417.0
     },
     {
@@ -23117,7 +23038,7 @@
       "30D": [
         "opengradient"
       ],
-      "followers": 8563.0,
+      "followers": 8574.0,
       "smart_followers": 230.0
     },
     {
@@ -23126,7 +23047,7 @@
       "30D": [
         "irys"
       ],
-      "followers": 14359.0,
+      "followers": 14353.0,
       "smart_followers": 620.0
     },
     {
@@ -23138,7 +23059,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 169299.0,
+      "followers": 169315.0,
       "smart_followers": 786.0
     },
     {
@@ -23225,7 +23146,7 @@
         "miden",
         "starknet"
       ],
-      "followers": 7460.0,
+      "followers": 7459.0,
       "smart_followers": 120.0
     },
     {
@@ -23361,7 +23282,7 @@
         "infinex",
         "zcash"
       ],
-      "followers": 145313.0,
+      "followers": 145315.0,
       "smart_followers": 5513.0
     },
     {
@@ -23434,7 +23355,7 @@
         "tria",
         "zcash"
       ],
-      "followers": 27758.0,
+      "followers": 27749.0,
       "smart_followers": 1246.0
     },
     {
@@ -23446,7 +23367,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 16229.0,
+      "followers": 16238.0,
       "smart_followers": 150.0
     },
     {
@@ -23478,7 +23399,7 @@
         "walrus",
         "warden"
       ],
-      "followers": 17166.0,
+      "followers": 17172.0,
       "smart_followers": 154.0
     },
     {
@@ -23504,7 +23425,7 @@
         "kaito",
         "miden"
       ],
-      "followers": 8671.0,
+      "followers": 8665.0,
       "smart_followers": 253.0
     },
     {
@@ -23540,7 +23461,7 @@
         "parti",
         "rainbow"
       ],
-      "followers": 5348.0,
+      "followers": 5357.0,
       "smart_followers": 32.0
     },
     {
@@ -23570,7 +23491,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 3722.0,
+      "followers": 3720.0,
       "smart_followers": 13.0
     },
     {
@@ -23603,7 +23524,7 @@
         "noya",
         "sixr"
       ],
-      "followers": 4775.0,
+      "followers": 4781.0,
       "smart_followers": 95.0
     },
     {
@@ -23623,7 +23544,6 @@
         "flipster",
         "huma",
         "kaio",
-        "miden",
         "moonbirds"
       ],
       "followers": 2684.0,
@@ -23700,7 +23620,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 56528.0,
+      "followers": 56546.0,
       "smart_followers": 2997.0
     },
     {
@@ -23730,7 +23650,7 @@
         "stbl",
         "tria"
       ],
-      "followers": 3050.0,
+      "followers": 3046.0,
       "smart_followers": 88.0
     },
     {
@@ -23766,7 +23686,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 2808.0,
+      "followers": 2812.0,
       "smart_followers": 88.0
     },
     {
@@ -23796,7 +23716,7 @@
       "30D": [
         "opengradient"
       ],
-      "followers": 1167.0,
+      "followers": 1169.0,
       "smart_followers": 94.0
     },
     {
@@ -23830,15 +23750,6 @@
       "smart_followers": 574.0
     },
     {
-      "user": "kvnqobi",
-      "yaps": null,
-      "7D": [
-        "huma"
-      ],
-      "followers": 39729.0,
-      "smart_followers": 29.0
-    },
-    {
       "user": "kyle_yuk",
       "yaps": null,
       "7D": [
@@ -23860,7 +23771,7 @@
         "theoriq",
         "verse8"
       ],
-      "followers": 2704.0,
+      "followers": 2709.0,
       "smart_followers": 95.0
     },
     {
@@ -23904,7 +23815,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 659.0,
+      "followers": 662.0,
       "smart_followers": 6.0
     },
     {
@@ -23914,11 +23825,9 @@
         "virtual"
       ],
       "30D": [
-        "arbitrum",
-        "ethereum",
         "virtual"
       ],
-      "followers": 71872.0,
+      "followers": 71906.0,
       "smart_followers": 552.0
     },
     {
@@ -23934,7 +23843,7 @@
         "noble",
         "walrus"
       ],
-      "followers": 281737.0,
+      "followers": 281755.0,
       "smart_followers": 6108.0
     },
     {
@@ -23951,9 +23860,7 @@
       "user": "leaf_swan",
       "yaps": null,
       "7D": [
-        "billions",
         "kaito",
-        "polygon",
         "warden"
       ],
       "30D": [
@@ -23965,7 +23872,7 @@
         "sixr",
         "warden"
       ],
-      "followers": 70478.0,
+      "followers": 70506.0,
       "smart_followers": 1383.0
     },
     {
@@ -23974,7 +23881,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 7323.0,
+      "followers": 7329.0,
       "smart_followers": 173.0
     },
     {
@@ -24013,7 +23920,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 12197.0,
+      "followers": 12208.0,
       "smart_followers": 259.0
     },
     {
@@ -24036,7 +23943,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 2805.0,
+      "followers": 2806.0,
       "smart_followers": 270.0
     },
     {
@@ -24063,7 +23970,7 @@
         "megaeth",
         "zcash"
       ],
-      "followers": 76918.0,
+      "followers": 76945.0,
       "smart_followers": 3877.0
     },
     {
@@ -24095,7 +24002,7 @@
         "standx",
         "starknet"
       ],
-      "followers": 67666.0,
+      "followers": 67669.0,
       "smart_followers": 130.0
     },
     {
@@ -24169,6 +24076,15 @@
       "smart_followers": 220.0
     },
     {
+      "user": "litocoen",
+      "yaps": null,
+      "7D": [
+        "ethereum"
+      ],
+      "followers": 33069.0,
+      "smart_followers": 2379.0
+    },
+    {
       "user": "liuxiaoling933",
       "yaps": null,
       "7D": [
@@ -24201,7 +24117,7 @@
         "ferra",
         "kindred"
       ],
-      "followers": 8949.0,
+      "followers": 8950.0,
       "smart_followers": 71.0
     },
     {
@@ -24213,7 +24129,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 10980.0,
+      "followers": 10974.0,
       "smart_followers": 88.0
     },
     {
@@ -24222,7 +24138,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 2996.0,
+      "followers": 2994.0,
       "smart_followers": 74.0
     },
     {
@@ -24234,7 +24150,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 15165.0,
+      "followers": 15174.0,
       "smart_followers": 1721.0
     },
     {
@@ -24257,7 +24173,7 @@
         "huma",
         "moonbirds"
       ],
-      "followers": 14255.0,
+      "followers": 14295.0,
       "smart_followers": 168.0
     },
     {
@@ -24270,7 +24186,7 @@
         "miden",
         "rainbow"
       ],
-      "followers": 3841.0,
+      "followers": 3844.0,
       "smart_followers": 143.0
     },
     {
@@ -24320,7 +24236,10 @@
       "7D": [
         "huma"
       ],
-      "followers": 28333.0,
+      "30D": [
+        "huma"
+      ],
+      "followers": 28360.0,
       "smart_followers": 406.0
     },
     {
@@ -24332,7 +24251,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 6125.0,
+      "followers": 6124.0,
       "smart_followers": 698.0
     },
     {
@@ -24363,7 +24282,7 @@
         "miden",
         "moremarkets"
       ],
-      "followers": 8631.0,
+      "followers": 8656.0,
       "smart_followers": 94.0
     },
     {
@@ -24390,7 +24309,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 2163.0,
+      "followers": 2172.0,
       "smart_followers": 46.0
     },
     {
@@ -24417,8 +24336,10 @@
         "yeet"
       ],
       "30D": [
+        "anichess",
         "lombard",
         "lumiterra",
+        "miden",
         "multipli",
         "openledger",
         "soul",
@@ -24426,7 +24347,7 @@
         "walrus",
         "yeet"
       ],
-      "followers": 2276.0,
+      "followers": 2286.0,
       "smart_followers": 54.0
     },
     {
@@ -24567,7 +24488,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 23710.0,
+      "followers": 23717.0,
       "smart_followers": 103.0
     },
     {
@@ -24585,7 +24506,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 2189.0,
+      "followers": 2193.0,
       "smart_followers": 42.0
     },
     {
@@ -24635,14 +24556,15 @@
       "yaps": null,
       "7D": [
         "anichess",
-        "pengu"
+        "pengu",
+        "pudgy-party"
       ],
       "30D": [
         "anichess",
         "pengu",
         "pudgy-party"
       ],
-      "followers": 15190.0,
+      "followers": 15211.0,
       "smart_followers": 616.0
     },
     {
@@ -24684,7 +24606,7 @@
         "polygon",
         "starknet"
       ],
-      "followers": 9540.0,
+      "followers": 9555.0,
       "smart_followers": 161.0
     },
     {
@@ -24728,7 +24650,7 @@
         "arbitrum",
         "goatnetwork"
       ],
-      "followers": 2539.0,
+      "followers": 2544.0,
       "smart_followers": 16.0
     },
     {
@@ -24751,7 +24673,7 @@
         "ethereum",
         "infinex"
       ],
-      "followers": 5565.0,
+      "followers": 5566.0,
       "smart_followers": 284.0
     },
     {
@@ -24779,7 +24701,7 @@
         "sei",
         "sonic"
       ],
-      "followers": 2669.0,
+      "followers": 2668.0,
       "smart_followers": 39.0
     },
     {
@@ -24800,7 +24722,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 3332.0,
+      "followers": 3331.0,
       "smart_followers": 263.0
     },
     {
@@ -24840,7 +24762,7 @@
       "30D": [
         "pyth"
       ],
-      "followers": 9218.0,
+      "followers": 9216.0,
       "smart_followers": 621.0
     },
     {
@@ -24861,7 +24783,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 2946.0,
+      "followers": 2957.0,
       "smart_followers": 35.0
     },
     {
@@ -24873,7 +24795,7 @@
       "30D": [
         "cysic"
       ],
-      "followers": 13754.0,
+      "followers": 13752.0,
       "smart_followers": 259.0
     },
     {
@@ -24908,7 +24830,7 @@
         "near",
         "zcash"
       ],
-      "followers": 319881.0,
+      "followers": 320200.0,
       "smart_followers": 5849.0
     },
     {
@@ -24961,7 +24883,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 15627.0,
+      "followers": 15656.0,
       "smart_followers": 273.0
     },
     {
@@ -25030,7 +24952,7 @@
         "standx",
         "stbl"
       ],
-      "followers": 22744.0,
+      "followers": 22750.0,
       "smart_followers": 240.0
     },
     {
@@ -25054,7 +24976,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 7449.0,
+      "followers": 7452.0,
       "smart_followers": 421.0
     },
     {
@@ -25066,7 +24988,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 8339.0,
+      "followers": 8349.0,
       "smart_followers": 284.0
     },
     {
@@ -25093,7 +25015,10 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 51971.0,
+      "30D": [
+        "ethereum"
+      ],
+      "followers": 51982.0,
       "smart_followers": 1615.0
     },
     {
@@ -25103,7 +25028,7 @@
         "ferra",
         "mira"
       ],
-      "followers": 16571.0,
+      "followers": 16578.0,
       "smart_followers": 25.0
     },
     {
@@ -25112,7 +25037,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 13313.0,
+      "followers": 13349.0,
       "smart_followers": 248.0
     },
     {
@@ -25152,7 +25077,7 @@
       "30D": [
         "bybit"
       ],
-      "followers": 99878.0,
+      "followers": 99893.0,
       "smart_followers": 305.0
     },
     {
@@ -25164,7 +25089,7 @@
       "30D": [
         "infinit"
       ],
-      "followers": 12507.0,
+      "followers": 12506.0,
       "smart_followers": 488.0
     },
     {
@@ -25195,7 +25120,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 4140.0,
+      "followers": 4137.0,
       "smart_followers": 166.0
     },
     {
@@ -25249,7 +25174,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 1277.0,
+      "followers": 1278.0,
       "smart_followers": 169.0
     },
     {
@@ -25260,15 +25185,6 @@
       ],
       "followers": 990.0,
       "smart_followers": 43.0
-    },
-    {
-      "user": "mr_cbillionaire",
-      "yaps": null,
-      "7D": [
-        "billions"
-      ],
-      "followers": 213342.0,
-      "smart_followers": 36.0
     },
     {
       "user": "mr_ferdiansah",
@@ -25320,7 +25236,7 @@
         "soul",
         "yeet"
       ],
-      "followers": 2425.0,
+      "followers": 2428.0,
       "smart_followers": 28.0
     },
     {
@@ -25403,7 +25319,7 @@
         "virtual",
         "zkpass"
       ],
-      "followers": 5457.0,
+      "followers": 5463.0,
       "smart_followers": 167.0
     },
     {
@@ -25424,7 +25340,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 104497.0,
+      "followers": 104506.0,
       "smart_followers": 325.0
     },
     {
@@ -25439,14 +25355,10 @@
     {
       "user": "naruto11eth",
       "yaps": null,
-      "7D": [
-        "polygon"
-      ],
       "30D": [
-        "ethereum",
         "polygon"
       ],
-      "followers": 21860.0,
+      "followers": 21858.0,
       "smart_followers": 1426.0
     },
     {
@@ -25572,7 +25484,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 8446.0,
+      "followers": 8450.0,
       "smart_followers": 1000.0
     },
     {
@@ -25615,7 +25527,7 @@
         "opengradient",
         "tria"
       ],
-      "followers": 4908.0,
+      "followers": 4914.0,
       "smart_followers": 192.0
     },
     {
@@ -25667,7 +25579,7 @@
         "sentient",
         "theoriq"
       ],
-      "followers": 111024.0,
+      "followers": 111064.0,
       "smart_followers": 412.0
     },
     {
@@ -25729,7 +25641,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 438458.0,
+      "followers": 438577.0,
       "smart_followers": 5607.0
     },
     {
@@ -25787,7 +25699,7 @@
       "30D": [
         "pyth"
       ],
-      "followers": 2975.0,
+      "followers": 2977.0,
       "smart_followers": 101.0
     },
     {
@@ -25810,7 +25722,7 @@
         "goatnetwork",
         "pip"
       ],
-      "followers": 1343.0,
+      "followers": 1340.0,
       "smart_followers": 41.0
     },
     {
@@ -25840,7 +25752,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 1673.0,
+      "followers": 1678.0,
       "smart_followers": 22.0
     },
     {
@@ -25852,7 +25764,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 5736.0,
+      "followers": 5738.0,
       "smart_followers": 557.0
     },
     {
@@ -25917,7 +25829,7 @@
         "katana",
         "polygon"
       ],
-      "followers": 12781.0,
+      "followers": 12790.0,
       "smart_followers": 599.0
     },
     {
@@ -25930,7 +25842,7 @@
         "orderly",
         "starknet"
       ],
-      "followers": 33760.0,
+      "followers": 33764.0,
       "smart_followers": 530.0
     },
     {
@@ -26003,7 +25915,7 @@
         "huma",
         "openledger"
       ],
-      "followers": 3098.0,
+      "followers": 3106.0,
       "smart_followers": 45.0
     },
     {
@@ -26026,7 +25938,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 66964.0,
+      "followers": 66967.0,
       "smart_followers": 789.0
     },
     {
@@ -26035,7 +25947,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 2440.0,
+      "followers": 2453.0,
       "smart_followers": 63.0
     },
     {
@@ -26046,7 +25958,7 @@
         "miden",
         "sentient"
       ],
-      "followers": 4276.0,
+      "followers": 4275.0,
       "smart_followers": 58.0
     },
     {
@@ -26055,7 +25967,7 @@
       "30D": [
         "near"
       ],
-      "followers": 106897.0,
+      "followers": 106904.0,
       "smart_followers": 487.0
     },
     {
@@ -26068,7 +25980,7 @@
         "paradex",
         "starknet"
       ],
-      "followers": 38088.0,
+      "followers": 38097.0,
       "smart_followers": 1288.0
     },
     {
@@ -26088,7 +26000,7 @@
         "noya",
         "rainbow"
       ],
-      "followers": 2986.0,
+      "followers": 2988.0,
       "smart_followers": 28.0
     },
     {
@@ -26141,7 +26053,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 7247.0,
+      "followers": 7254.0,
       "smart_followers": 42.0
     },
     {
@@ -26166,7 +26078,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 1524.0,
+      "followers": 1523.0,
       "smart_followers": 164.0
     },
     {
@@ -26196,7 +26108,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 3193.0,
+      "followers": 3198.0,
       "smart_followers": 172.0
     },
     {
@@ -26240,7 +26152,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 2359.0,
+      "followers": 2357.0,
       "smart_followers": 43.0
     },
     {
@@ -26260,7 +26172,6 @@
       "yaps": null,
       "7D": [
         "goatnetwork",
-        "lombard",
         "moremarkets",
         "sei",
         "virtual"
@@ -26289,7 +26200,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 4290.0,
+      "followers": 4311.0,
       "smart_followers": 82.0
     },
     {
@@ -26371,7 +26282,7 @@
         "megaeth",
         "verse8"
       ],
-      "followers": 71645.0,
+      "followers": 71686.0,
       "smart_followers": 576.0
     },
     {
@@ -26380,7 +26291,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 5084.0,
+      "followers": 5081.0,
       "smart_followers": 83.0
     },
     {
@@ -26501,7 +26412,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 30644.0,
+      "followers": 30646.0,
       "smart_followers": 1785.0
     },
     {
@@ -26509,6 +26420,9 @@
       "yaps": null,
       "7D": [
         "kaio"
+      ],
+      "30D": [
+        "mememax"
       ],
       "followers": 50258.0,
       "smart_followers": 114.0
@@ -26521,7 +26435,7 @@
         "inferencelabs",
         "theo"
       ],
-      "followers": 38255.0,
+      "followers": 38238.0,
       "smart_followers": 89.0
     },
     {
@@ -26582,7 +26496,7 @@
       "30D": [
         "polygon"
       ],
-      "followers": 3239.0,
+      "followers": 3240.0,
       "smart_followers": 392.0
     },
     {
@@ -26640,7 +26554,7 @@
       "30D": [
         "creatorbid"
       ],
-      "followers": 4408.0,
+      "followers": 4409.0,
       "smart_followers": 222.0
     },
     {
@@ -26652,7 +26566,7 @@
         "kaito",
         "sentient"
       ],
-      "followers": 15204.0,
+      "followers": 15201.0,
       "smart_followers": 186.0
     },
     {
@@ -26671,14 +26585,12 @@
       "user": "phtevenstrong",
       "yaps": null,
       "7D": [
-        "arbitrum",
-        "mantle"
+        "arbitrum"
       ],
       "30D": [
-        "arbitrum",
-        "mantle"
+        "arbitrum"
       ],
-      "followers": 118241.0,
+      "followers": 118240.0,
       "smart_followers": 2136.0
     },
     {
@@ -26717,6 +26629,9 @@
       "7D": [
         "arbitrum"
       ],
+      "30D": [
+        "arbitrum"
+      ],
       "followers": 1708.0,
       "smart_followers": 68.0
     },
@@ -26735,7 +26650,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 4716.0,
+      "followers": 4718.0,
       "smart_followers": 484.0
     },
     {
@@ -26759,7 +26674,7 @@
         "standx",
         "theo"
       ],
-      "followers": 3376.0,
+      "followers": 3373.0,
       "smart_followers": 93.0
     },
     {
@@ -26790,7 +26705,7 @@
         "billions",
         "miden"
       ],
-      "followers": 387727.0,
+      "followers": 387832.0,
       "smart_followers": 1550.0
     },
     {
@@ -26819,7 +26734,7 @@
         "miden",
         "tria"
       ],
-      "followers": 81236.0,
+      "followers": 81174.0,
       "smart_followers": 1078.0
     },
     {
@@ -26855,15 +26770,12 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 134410.0,
+      "followers": 134458.0,
       "smart_followers": 5107.0
     },
     {
       "user": "q2q2cc",
       "yaps": null,
-      "7D": [
-        "verse8"
-      ],
       "30D": [
         "goatnetwork",
         "kindred",
@@ -26897,7 +26809,7 @@
         "sei",
         "standx"
       ],
-      "followers": 34485.0,
+      "followers": 34488.0,
       "smart_followers": 59.0
     },
     {
@@ -26934,7 +26846,7 @@
         "pengu",
         "tria"
       ],
-      "followers": 23777.0,
+      "followers": 23776.0,
       "smart_followers": 879.0
     },
     {
@@ -26950,9 +26862,9 @@
       "user": "quilix",
       "yaps": null,
       "7D": [
-        "kaito"
+        "polygon"
       ],
-      "followers": 20866.0,
+      "followers": 20865.0,
       "smart_followers": 138.0
     },
     {
@@ -26992,7 +26904,7 @@
         "stbl",
         "theo"
       ],
-      "followers": 14671.0,
+      "followers": 14672.0,
       "smart_followers": 321.0
     },
     {
@@ -27099,7 +27011,6 @@
       "7D": [
         "kaito",
         "moonbirds",
-        "polygon",
         "rainbow"
       ],
       "30D": [
@@ -27128,7 +27039,7 @@
         "theoriq",
         "verse8"
       ],
-      "followers": 4371.0,
+      "followers": 4356.0,
       "smart_followers": 118.0
     },
     {
@@ -27149,7 +27060,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 11321.0,
+      "followers": 11357.0,
       "smart_followers": 390.0
     },
     {
@@ -27165,7 +27076,7 @@
         "stbl",
         "xion"
       ],
-      "followers": 23806.0,
+      "followers": 23879.0,
       "smart_followers": 223.0
     },
     {
@@ -27186,7 +27097,7 @@
       "30D": [
         "billions"
       ],
-      "followers": 4687.0,
+      "followers": 4686.0,
       "smart_followers": 170.0
     },
     {
@@ -27220,8 +27131,8 @@
       "30D": [
         "virtual"
       ],
-      "followers": 21289.0,
-      "smart_followers": 667.0
+      "followers": 21322.0,
+      "smart_followers": 668.0
     },
     {
       "user": "rdlgyweb3lad",
@@ -27244,7 +27155,7 @@
       "30D": [
         "pyth"
       ],
-      "followers": 6915.0,
+      "followers": 6916.0,
       "smart_followers": 275.0
     },
     {
@@ -27256,7 +27167,7 @@
       "30D": [
         "pyth"
       ],
-      "followers": 8278.0,
+      "followers": 8282.0,
       "smart_followers": 572.0
     },
     {
@@ -27304,7 +27215,7 @@
         "mantle",
         "megaeth"
       ],
-      "followers": 106020.0,
+      "followers": 106075.0,
       "smart_followers": 1984.0
     },
     {
@@ -27414,7 +27325,7 @@
         "kaio",
         "miden"
       ],
-      "followers": 7066.0,
+      "followers": 7084.0,
       "smart_followers": 124.0
     },
     {
@@ -27440,7 +27351,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 27610.0,
+      "followers": 27613.0,
       "smart_followers": 2001.0
     },
     {
@@ -27587,7 +27498,7 @@
         "megaeth",
         "polygon"
       ],
-      "followers": 2384.0,
+      "followers": 2383.0,
       "smart_followers": 185.0
     },
     {
@@ -27609,7 +27520,7 @@
         "polygon",
         "sei"
       ],
-      "followers": 8476.0,
+      "followers": 8475.0,
       "smart_followers": 139.0
     },
     {
@@ -27618,7 +27529,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 6302.0,
+      "followers": 6298.0,
       "smart_followers": 980.0
     },
     {
@@ -27647,15 +27558,6 @@
       "smart_followers": 69.0
     },
     {
-      "user": "ruthybuilds",
-      "yaps": null,
-      "30D": [
-        "verse8"
-      ],
-      "followers": 42588.0,
-      "smart_followers": 601.0
-    },
-    {
       "user": "ryanberckmans",
       "yaps": null,
       "7D": [
@@ -27664,7 +27566,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 31948.0,
+      "followers": 31960.0,
       "smart_followers": 1921.0
     },
     {
@@ -27696,15 +27598,6 @@
       ],
       "followers": 11940.0,
       "smart_followers": 1155.0
-    },
-    {
-      "user": "sai0xgen",
-      "yaps": null,
-      "30D": [
-        "cysic"
-      ],
-      "followers": 1736.0,
-      "smart_followers": 29.0
     },
     {
       "user": "saifmr20",
@@ -27763,8 +27656,8 @@
       "30D": [
         "polygon"
       ],
-      "followers": 350270.0,
-      "smart_followers": 4656.0
+      "followers": 350312.0,
+      "smart_followers": 4657.0
     },
     {
       "user": "sandraleow",
@@ -27772,7 +27665,7 @@
       "30D": [
         "kaito"
       ],
-      "followers": 47641.0,
+      "followers": 47623.0,
       "smart_followers": 2902.0
     },
     {
@@ -27802,7 +27695,7 @@
       "7D": [
         "kaito"
       ],
-      "followers": 263413.0,
+      "followers": 263594.0,
       "smart_followers": 548.0
     },
     {
@@ -27820,7 +27713,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 296538.0,
+      "followers": 296600.0,
       "smart_followers": 5825.0
     },
     {
@@ -27960,7 +27853,8 @@
       "yaps": null,
       "30D": [
         "kindred",
-        "miden"
+        "miden",
+        "stbl"
       ],
       "followers": 168442.0,
       "smart_followers": 278.0
@@ -28154,7 +28048,7 @@
         "arbitrum",
         "ethereum"
       ],
-      "followers": 37614.0,
+      "followers": 37626.0,
       "smart_followers": 2733.0
     },
     {
@@ -28252,7 +28146,7 @@
         "stbl",
         "theo"
       ],
-      "followers": 4637.0,
+      "followers": 4636.0,
       "smart_followers": 95.0
     },
     {
@@ -28298,7 +28192,7 @@
         "anichess",
         "pengu"
       ],
-      "followers": 1544.0,
+      "followers": 1549.0,
       "smart_followers": 66.0
     },
     {
@@ -28319,7 +28213,7 @@
         "ferra",
         "verse8"
       ],
-      "followers": 4162.0,
+      "followers": 4171.0,
       "smart_followers": 66.0
     },
     {
@@ -28367,7 +28261,7 @@
         "cysic",
         "miden"
       ],
-      "followers": 10036.0,
+      "followers": 10043.0,
       "smart_followers": 65.0
     },
     {
@@ -28375,7 +28269,6 @@
       "yaps": null,
       "7D": [
         "huma",
-        "mememax",
         "surf"
       ],
       "30D": [
@@ -28387,7 +28280,7 @@
         "surf",
         "theo"
       ],
-      "followers": 52359.0,
+      "followers": 52381.0,
       "smart_followers": 143.0
     },
     {
@@ -28422,7 +28315,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 10337.0,
+      "followers": 10588.0,
       "smart_followers": 983.0
     },
     {
@@ -28437,7 +28330,7 @@
         "monad",
         "virtual"
       ],
-      "followers": 29713.0,
+      "followers": 29719.0,
       "smart_followers": 388.0
     },
     {
@@ -28447,7 +28340,7 @@
         "opengradient",
         "openledger"
       ],
-      "followers": 3232.0,
+      "followers": 3235.0,
       "smart_followers": 11.0
     },
     {
@@ -28459,7 +28352,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 3836.0,
+      "followers": 3835.0,
       "smart_followers": 429.0
     },
     {
@@ -28506,7 +28399,7 @@
         "orderly",
         "stbl"
       ],
-      "followers": 3452.0,
+      "followers": 3613.0,
       "smart_followers": 61.0
     },
     {
@@ -28514,6 +28407,7 @@
       "yaps": null,
       "30D": [
         "flipster",
+        "lombard",
         "mememax",
         "orderly",
         "stbl"
@@ -28579,7 +28473,7 @@
       "30D": [
         "mantle"
       ],
-      "followers": 34189.0,
+      "followers": 34191.0,
       "smart_followers": 562.0
     },
     {
@@ -28602,7 +28496,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 2745.0,
+      "followers": 2753.0,
       "smart_followers": 433.0
     },
     {
@@ -28683,7 +28577,7 @@
         "standx",
         "stbl"
       ],
-      "followers": 31818.0,
+      "followers": 31824.0,
       "smart_followers": 398.0
     },
     {
@@ -28729,7 +28623,7 @@
       "7D": [
         "kaito"
       ],
-      "followers": 8056.0,
+      "followers": 8066.0,
       "smart_followers": 175.0
     },
     {
@@ -28738,7 +28632,7 @@
       "30D": [
         "starknet"
       ],
-      "followers": 2311.0,
+      "followers": 2315.0,
       "smart_followers": 170.0
     },
     {
@@ -28786,7 +28680,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 24676.0,
+      "followers": 24674.0,
       "smart_followers": 1975.0
     },
     {
@@ -28815,7 +28709,7 @@
       "30D": [
         "kaito"
       ],
-      "followers": 26329.0,
+      "followers": 26328.0,
       "smart_followers": 743.0
     },
     {
@@ -28836,7 +28730,7 @@
       "30D": [
         "standx"
       ],
-      "followers": 30365.0,
+      "followers": 30360.0,
       "smart_followers": 561.0
     },
     {
@@ -28845,7 +28739,7 @@
       "30D": [
         "verse8"
       ],
-      "followers": 3474.0,
+      "followers": 3477.0,
       "smart_followers": 74.0
     },
     {
@@ -28955,7 +28849,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 1250.0,
+      "followers": 1255.0,
       "smart_followers": 40.0
     },
     {
@@ -29009,7 +28903,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 34104.0,
+      "followers": 34102.0,
       "smart_followers": 45.0
     },
     {
@@ -29030,7 +28924,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 42126.0,
+      "followers": 42144.0,
       "smart_followers": 2404.0
     },
     {
@@ -29039,7 +28933,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 24912.0,
+      "followers": 24917.0,
       "smart_followers": 1517.0
     },
     {
@@ -29081,7 +28975,7 @@
         "miden",
         "sentient"
       ],
-      "followers": 10337.0,
+      "followers": 10376.0,
       "smart_followers": 115.0
     },
     {
@@ -29160,7 +29054,7 @@
       "30D": [
         "irys"
       ],
-      "followers": 105057.0,
+      "followers": 105139.0,
       "smart_followers": 602.0
     },
     {
@@ -29169,7 +29063,7 @@
       "30D": [
         "mantra"
       ],
-      "followers": 692.0,
+      "followers": 690.0,
       "smart_followers": 10.0
     },
     {
@@ -29196,7 +29090,7 @@
         "miden",
         "starknet"
       ],
-      "followers": 23283.0,
+      "followers": 23285.0,
       "smart_followers": 385.0
     },
     {
@@ -29230,7 +29124,7 @@
       "30D": [
         "pudgy-party"
       ],
-      "followers": 9985.0,
+      "followers": 9986.0,
       "smart_followers": 598.0
     },
     {
@@ -29275,7 +29169,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 1391.0,
+      "followers": 1393.0,
       "smart_followers": 14.0
     },
     {
@@ -29347,18 +29241,15 @@
     {
       "user": "timbrobro",
       "yaps": null,
-      "7D": [
-        "arbitrum",
-        "ferra"
-      ],
       "30D": [
         "anichess",
+        "arbitrum",
         "brevis",
         "ferra",
         "miden",
         "moremarkets"
       ],
-      "followers": 51459.0,
+      "followers": 51548.0,
       "smart_followers": 109.0
     },
     {
@@ -29409,7 +29300,6 @@
         "moremarkets",
         "multipli",
         "nesa",
-        "opengradient",
         "sentient",
         "stbl",
         "theoriq",
@@ -29437,7 +29327,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 28509.0,
+      "followers": 28507.0,
       "smart_followers": 2562.0
     },
     {
@@ -29450,7 +29340,7 @@
         "loadedlions",
         "rainbow"
       ],
-      "followers": 2005.0,
+      "followers": 2008.0,
       "smart_followers": 27.0
     },
     {
@@ -29467,7 +29357,7 @@
         "theoriq",
         "verse8"
       ],
-      "followers": 5611.0,
+      "followers": 5603.0,
       "smart_followers": 150.0
     },
     {
@@ -29515,7 +29405,7 @@
         "cysic",
         "infinex"
       ],
-      "followers": 44840.0,
+      "followers": 44850.0,
       "smart_followers": 359.0
     },
     {
@@ -29533,7 +29423,7 @@
       "7D": [
         "ethereum"
       ],
-      "followers": 707476.0,
+      "followers": 708412.0,
       "smart_followers": 7829.0
     },
     {
@@ -29554,7 +29444,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 16822.0,
+      "followers": 16823.0,
       "smart_followers": 1118.0
     },
     {
@@ -29609,7 +29499,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 8111.0,
+      "followers": 8118.0,
       "smart_followers": 112.0
     },
     {
@@ -29627,7 +29517,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 8727.0,
+      "followers": 8739.0,
       "smart_followers": 217.0
     },
     {
@@ -29636,7 +29526,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 155489.0,
+      "followers": 155494.0,
       "smart_followers": 2784.0
     },
     {
@@ -29647,7 +29537,6 @@
       ],
       "30D": [
         "beldex",
-        "cysic",
         "ferra",
         "inferencelabs",
         "mira",
@@ -29677,8 +29566,8 @@
         "standx",
         "tria"
       ],
-      "followers": 33745.0,
-      "smart_followers": 832.0
+      "followers": 33757.0,
+      "smart_followers": 833.0
     },
     {
       "user": "trent_vanepps",
@@ -29686,7 +29575,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 31381.0,
+      "followers": 31398.0,
       "smart_followers": 2220.0
     },
     {
@@ -29728,9 +29617,10 @@
       ],
       "30D": [
         "huma",
+        "miden",
         "surf"
       ],
-      "followers": 3422.0,
+      "followers": 3421.0,
       "smart_followers": 74.0
     },
     {
@@ -29751,7 +29641,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 13798.0,
+      "followers": 13812.0,
       "smart_followers": 76.0
     },
     {
@@ -29760,7 +29650,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 19474.0,
+      "followers": 19467.0,
       "smart_followers": 179.0
     },
     {
@@ -29769,7 +29659,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 1425.0,
+      "followers": 1424.0,
       "smart_followers": 41.0
     },
     {
@@ -29794,7 +29684,7 @@
         "ethereum",
         "zcash"
       ],
-      "followers": 6372.0,
+      "followers": 6373.0,
       "smart_followers": 922.0
     },
     {
@@ -29813,7 +29703,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 3497.0,
+      "followers": 3510.0,
       "smart_followers": 71.0
     },
     {
@@ -29850,7 +29740,7 @@
         "tria",
         "verse8"
       ],
-      "followers": 16109.0,
+      "followers": 16106.0,
       "smart_followers": 120.0
     },
     {
@@ -29921,7 +29811,7 @@
         "arbitrum",
         "polygon"
       ],
-      "followers": 2072.0,
+      "followers": 2074.0,
       "smart_followers": 86.0
     },
     {
@@ -29930,7 +29820,7 @@
       "30D": [
         "virtual"
       ],
-      "followers": 2989.0,
+      "followers": 3006.0,
       "smart_followers": 33.0
     },
     {
@@ -29957,8 +29847,8 @@
         "polygon",
         "zcash"
       ],
-      "followers": 48290.0,
-      "smart_followers": 1772.0
+      "followers": 48317.0,
+      "smart_followers": 1773.0
     },
     {
       "user": "vickydiamond21",
@@ -29992,7 +29882,7 @@
         "near",
         "zcash"
       ],
-      "followers": 10888.0,
+      "followers": 10889.0,
       "smart_followers": 148.0
     },
     {
@@ -30037,7 +29927,6 @@
       "user": "vletsuuu",
       "yaps": null,
       "7D": [
-        "billions",
         "ferra",
         "kindred",
         "miden",
@@ -30066,7 +29955,7 @@
       "30D": [
         "huma"
       ],
-      "followers": 847.0,
+      "followers": 849.0,
       "smart_followers": 16.0
     },
     {
@@ -30104,7 +29993,7 @@
       "30D": [
         "mantle"
       ],
-      "followers": 206075.0,
+      "followers": 206060.0,
       "smart_followers": 1313.0
     },
     {
@@ -30142,21 +30031,18 @@
         "moonbirds",
         "openmind"
       ],
-      "followers": 30165.0,
+      "followers": 30179.0,
       "smart_followers": 800.0
     },
     {
       "user": "wang_xiaolou",
       "yaps": null,
-      "7D": [
-        "polygon"
-      ],
       "30D": [
         "huma",
         "polygon",
         "surf"
       ],
-      "followers": 30409.0,
+      "followers": 30477.0,
       "smart_followers": 365.0
     },
     {
@@ -30249,7 +30135,7 @@
         "billions",
         "tria"
       ],
-      "followers": 13492.0,
+      "followers": 13489.0,
       "smart_followers": 125.0
     },
     {
@@ -30312,7 +30198,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 49707.0,
+      "followers": 49737.0,
       "smart_followers": 866.0
     },
     {
@@ -30433,7 +30319,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 36030.0,
+      "followers": 36026.0,
       "smart_followers": 981.0
     },
     {
@@ -30498,7 +30384,7 @@
         "billions",
         "kaito"
       ],
-      "followers": 31626.0,
+      "followers": 31637.0,
       "smart_followers": 564.0
     },
     {
@@ -30598,7 +30484,7 @@
         "opengradient",
         "sixr"
       ],
-      "followers": 52773.0,
+      "followers": 52780.0,
       "smart_followers": 183.0
     },
     {
@@ -30638,7 +30524,7 @@
       "30D": [
         "irys"
       ],
-      "followers": 5469.0,
+      "followers": 5474.0,
       "smart_followers": 116.0
     },
     {
@@ -30673,15 +30559,6 @@
       "smart_followers": 126.0
     },
     {
-      "user": "xbruhh_",
-      "yaps": null,
-      "30D": [
-        "arbitrum"
-      ],
-      "followers": 1293.0,
-      "smart_followers": 21.0
-    },
-    {
       "user": "xerocooleth",
       "yaps": null,
       "7D": [
@@ -30704,7 +30581,7 @@
       "30D": [
         "walrus"
       ],
-      "followers": 25558.0,
+      "followers": 25566.0,
       "smart_followers": 50.0
     },
     {
@@ -30713,7 +30590,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 12960.0,
+      "followers": 12965.0,
       "smart_followers": 99.0
     },
     {
@@ -30726,7 +30603,7 @@
         "goatnetwork",
         "huma"
       ],
-      "followers": 19462.0,
+      "followers": 19456.0,
       "smart_followers": 78.0
     },
     {
@@ -30738,7 +30615,7 @@
         "sentient",
         "soul"
       ],
-      "followers": 2832.0,
+      "followers": 2834.0,
       "smart_followers": 173.0
     },
     {
@@ -30792,7 +30669,7 @@
         "standx",
         "tria"
       ],
-      "followers": 44214.0,
+      "followers": 44259.0,
       "smart_followers": 314.0
     },
     {
@@ -30823,15 +30700,14 @@
       "30D": [
         "billions"
       ],
-      "followers": 2920.0,
+      "followers": 2918.0,
       "smart_followers": 35.0
     },
     {
       "user": "y_cryptoanalyst",
       "yaps": null,
       "7D": [
-        "polygon",
-        "starknet"
+        "polygon"
       ],
       "30D": [
         "arbitrum",
@@ -30843,7 +30719,7 @@
         "sonic",
         "starknet"
       ],
-      "followers": 26186.0,
+      "followers": 26189.0,
       "smart_followers": 375.0
     },
     {
@@ -30874,7 +30750,7 @@
         "inferencelabs",
         "verse8"
       ],
-      "followers": 14496.0,
+      "followers": 14520.0,
       "smart_followers": 60.0
     },
     {
@@ -30898,7 +30774,7 @@
       "30D": [
         "aptos"
       ],
-      "followers": 5402.0,
+      "followers": 5405.0,
       "smart_followers": 57.0
     },
     {
@@ -31050,7 +30926,7 @@
         "kaito",
         "polygon"
       ],
-      "followers": 14098.0,
+      "followers": 14110.0,
       "smart_followers": 857.0
     },
     {
@@ -31103,7 +30979,7 @@
         "monad",
         "polygon"
       ],
-      "followers": 90693.0,
+      "followers": 90704.0,
       "smart_followers": 1323.0
     },
     {
@@ -31112,7 +30988,7 @@
       "30D": [
         "anichess"
       ],
-      "followers": 167945.0,
+      "followers": 167947.0,
       "smart_followers": 4044.0
     },
     {
@@ -31130,7 +31006,7 @@
         "virtual",
         "zcash"
       ],
-      "followers": 49925.0,
+      "followers": 49975.0,
       "smart_followers": 806.0
     },
     {
@@ -31139,7 +31015,7 @@
       "7D": [
         "kaito"
       ],
-      "followers": 29725.0,
+      "followers": 29746.0,
       "smart_followers": 894.0
     },
     {
@@ -31189,7 +31065,7 @@
       "30D": [
         "ethereum"
       ],
-      "followers": 24495.0,
+      "followers": 24499.0,
       "smart_followers": 1902.0
     },
     {
@@ -31213,7 +31089,7 @@
       "30D": [
         "near"
       ],
-      "followers": 10315.0,
+      "followers": 10320.0,
       "smart_followers": 103.0
     },
     {
@@ -31320,7 +31196,7 @@
         "kaio",
         "sei"
       ],
-      "followers": 3477.0,
+      "followers": 3493.0,
       "smart_followers": 58.0
     },
     {
@@ -31338,7 +31214,7 @@
         "edgen",
         "virtual"
       ],
-      "followers": 29077.0,
+      "followers": 29081.0,
       "smart_followers": 226.0
     },
     {
@@ -31397,7 +31273,7 @@
         "inferencelabs",
         "orderly"
       ],
-      "followers": 13336.0,
+      "followers": 13334.0,
       "smart_followers": 98.0
     },
     {
@@ -31422,7 +31298,7 @@
       "30D": [
         "miden"
       ],
-      "followers": 1467.0,
+      "followers": 1466.0,
       "smart_followers": 116.0
     },
     {
@@ -31434,7 +31310,7 @@
       "30D": [
         "arbitrum"
       ],
-      "followers": 4821.0,
+      "followers": 4820.0,
       "smart_followers": 437.0
     },
     {
@@ -31510,7 +31386,7 @@
         "sentient",
         "surf"
       ],
-      "followers": 12172.0,
+      "followers": 12409.0,
       "smart_followers": 604.0
     },
     {
@@ -31544,7 +31420,7 @@
         "sixr",
         "warden"
       ],
-      "followers": 26604.0,
+      "followers": 26595.0,
       "smart_followers": 129.0
     },
     {
@@ -31553,7 +31429,7 @@
       "30D": [
         "lombard"
       ],
-      "followers": 50577.0,
+      "followers": 50593.0,
       "smart_followers": 579.0
     },
     {
@@ -31571,9 +31447,6 @@
     {
       "user": "zzw110112",
       "yaps": null,
-      "7D": [
-        "ferra"
-      ],
       "30D": [
         "ferra",
         "miden",

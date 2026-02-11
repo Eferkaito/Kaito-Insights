@@ -1,0 +1,37 @@
+{
+  "user": "montimania",
+  "timeframes": {
+    "30D": {
+      "kaito": [
+        {
+          "t": 1770721263979,
+          "mindshare": 0.19
+        }
+      ],
+      "katana": [
+        {
+          "t": 1770726463393,
+          "mindshare": 0.61
+        }
+      ],
+      "miden": [
+        {
+          "t": 1770722207500,
+          "mindshare": 0.13
+        }
+      ],
+      "polygon": [
+        {
+          "t": 1770722719260,
+          "mindshare": 0.52
+        }
+      ],
+      "tria": [
+        {
+          "t": 1770727249101,
+          "mindshare": 0.25
+        }
+      ]
+    }
+  }
+}

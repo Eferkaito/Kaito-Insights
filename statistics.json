@@ -326,6 +326,33 @@
     },
     {
       "project": "analog",
+      "timeframe": "7D",
+      "followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "smart_followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 0,
+      "path": "lbyaps/analog/analog-7D.json"
+    },
+    {
+      "project": "analog",
       "timeframe": "30D",
       "followers": {
         "min": null,
@@ -539,6 +566,33 @@
       },
       "count": 0,
       "path": "lbyaps/apecoin/apecoin-7D.json"
+    },
+    {
+      "project": "apecoin",
+      "timeframe": "30D",
+      "followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "smart_followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 0,
+      "path": "lbyaps/apecoin/apecoin-30D.json"
     },
     {
       "project": "apex",
@@ -4942,6 +4996,33 @@
       "path": "lbyaps/limitless/limitless-7D.json"
     },
     {
+      "project": "limitless",
+      "timeframe": "30D",
+      "followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "smart_followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 0,
+      "path": "lbyaps/limitless/limitless-30D.json"
+    },
+    {
       "project": "litvm",
       "timeframe": "7D",
       "followers": {
@@ -5507,6 +5588,33 @@
       },
       "count": 0,
       "path": "lbyaps/megaweapon/megaweapon-7D.json"
+    },
+    {
+      "project": "megaweapon",
+      "timeframe": "30D",
+      "followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "smart_followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 0,
+      "path": "lbyaps/megaweapon/megaweapon-30D.json"
     },
     {
       "project": "mememax",
@@ -9776,6 +9884,33 @@
     },
     {
       "project": "thrust",
+      "timeframe": "7D",
+      "followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "smart_followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 0,
+      "path": "lbyaps/thrust/thrust-7D.json"
+    },
+    {
+      "project": "thrust",
       "timeframe": "30D",
       "followers": {
         "min": null,
@@ -10529,6 +10664,33 @@
       },
       "count": 0,
       "path": "lbyaps/wallchain/wallchain-7D.json"
+    },
+    {
+      "project": "wallchain",
+      "timeframe": "30D",
+      "followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "smart_followers": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 0,
+      "path": "lbyaps/wallchain/wallchain-30D.json"
     },
     {
       "project": "walrus",

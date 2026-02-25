@@ -10154,33 +10154,6 @@
     },
     {
       "project": "valannia",
-      "timeframe": "7D",
-      "followers": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "smart_followers": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "yaps": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "count": 0,
-      "path": "lbyaps/valannia/valannia-7D.json"
-    },
-    {
-      "project": "valannia",
       "timeframe": "30D",
       "followers": {
         "min": null,

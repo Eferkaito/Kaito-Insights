@@ -1,0 +1,33 @@
+{
+  "user": "addyyyonchain",
+  "timeframes": {
+    "7D": {
+      "miden": [
+        {
+          "t": 1771949856156,
+          "mindshare": 0.28
+        }
+      ]
+    },
+    "30D": {
+      "integra": [
+        {
+          "t": 1771955155108,
+          "mindshare": 1.93
+        }
+      ],
+      "miden": [
+        {
+          "t": 1771949872757,
+          "mindshare": 0.12
+        }
+      ],
+      "soul": [
+        {
+          "t": 1771952412308,
+          "mindshare": 2.57
+        }
+      ]
+    }
+  }
+}

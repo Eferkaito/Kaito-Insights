@@ -4,16 +4,16 @@
       "project": "0g",
       "timeframe": "7D",
       "followers": {
-        "min": 2287.0,
-        "max": 60975.0,
-        "avg": 14461.0,
+        "min": 2286.0,
+        "max": 18276.0,
+        "avg": 6310.0,
         "min-user": "@0x0g4i",
-        "max-user": "@spark_ren"
+        "max-user": "@Jtsong2"
       },
       "smart_followers": {
         "min": 13.0,
         "max": 386.0,
-        "avg": 162.0,
+        "avg": 123.83333333333333,
         "min-user": "@derrelreyhan",
         "max-user": "@Jtsong2"
       },
@@ -24,23 +24,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 8,
+      "count": 6,
       "path": "lbyaps/0g/0g-7D.json"
     },
     {
       "project": "0g",
       "timeframe": "30D",
       "followers": {
-        "min": 2287.0,
-        "max": 270143.0,
-        "avg": 53502.0,
+        "min": 2286.0,
+        "max": 270053.0,
+        "avg": 53480.8,
         "min-user": "@0x0g4i",
         "max-user": "@michaelh_0g"
       },
       "smart_followers": {
         "min": 13.0,
         "max": 722.0,
-        "avg": 248.9,
+        "avg": 249.0,
         "min-user": "@derrelreyhan",
         "max-user": "@michaelh_0g"
       },
@@ -221,8 +221,8 @@
       "timeframe": "7D",
       "followers": {
         "min": 4369.0,
-        "max": 19731.0,
-        "avg": 12050.0,
+        "max": 19730.0,
+        "avg": 12049.5,
         "min-user": "@ChainlinkMongol",
         "max-user": "@0xFeetPic"
       },
@@ -248,8 +248,8 @@
       "timeframe": "30D",
       "followers": {
         "min": 487.0,
-        "max": 19731.0,
-        "avg": 8660.25,
+        "max": 19730.0,
+        "avg": 8659.5,
         "min-user": "@jiangdifeng",
         "max-user": "@0xFeetPic"
       },
@@ -383,15 +383,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 139.0,
-        "max": 172873.0,
-        "avg": 23233.7,
+        "max": 172872.0,
+        "avg": 22981.0,
         "min-user": "@reyes_jerven",
         "max-user": "@yellowpantherx"
       },
       "smart_followers": {
         "min": 2.0,
         "max": 1741.0,
-        "avg": 382.2,
+        "avg": 376.5,
         "min-user": "@reyes_jerven",
         "max-user": "@yellowpantherx"
       },
@@ -410,15 +410,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 106.0,
-        "max": 172873.0,
-        "avg": 27978.25,
+        "max": 172872.0,
+        "avg": 27010.55172413793,
         "min-user": "@blankydotmoca",
         "max-user": "@yellowpantherx"
       },
       "smart_followers": {
         "min": 2.0,
         "max": 4049.0,
-        "avg": 423.17857142857144,
+        "avg": 408.9655172413793,
         "min-user": "@reyes_jerven",
         "max-user": "@ysiu"
       },
@@ -429,7 +429,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 28,
+      "count": 29,
       "path": "lbyaps/anichess/anichess-30D.json"
     },
     {
@@ -517,9 +517,9 @@
       "project": "anoma",
       "timeframe": "30D",
       "followers": {
-        "min": 32506.0,
-        "max": 32506.0,
-        "avg": 32506.0,
+        "min": 32510.0,
+        "max": 32510.0,
+        "avg": 32510.0,
         "min-user": "@2lambro",
         "max-user": "@2lambro"
       },
@@ -598,16 +598,16 @@
       "project": "apex",
       "timeframe": "7D",
       "followers": {
-        "min": 5863.0,
-        "max": 18719.0,
-        "avg": 13884.0,
+        "min": 5872.0,
+        "max": 18580.0,
+        "avg": 13844.333333333334,
         "min-user": "@david_seroy",
         "max-user": "@MrQin_BTC"
       },
       "smart_followers": {
         "min": 77.0,
         "max": 470.0,
-        "avg": 320.3333333333333,
+        "avg": 320.6666666666667,
         "min-user": "@MrQin_BTC",
         "max-user": "@elaineyang73"
       },
@@ -626,15 +626,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 4340.0,
-        "max": 304364.0,
-        "avg": 64749.333333333336,
+        "max": 304372.0,
+        "avg": 64738.555555555555,
         "min-user": "@KathySats",
         "max-user": "@thedefiedge"
       },
       "smart_followers": {
         "min": 77.0,
-        "max": 3496.0,
-        "avg": 873.5555555555555,
+        "max": 3498.0,
+        "avg": 874.1111111111111,
         "min-user": "@MrQin_BTC",
         "max-user": "@thedefiedge"
       },
@@ -652,17 +652,17 @@
       "project": "aptos",
       "timeframe": "7D",
       "followers": {
-        "min": 764.0,
-        "max": 209570.0,
-        "avg": 30837.17391304348,
+        "min": 770.0,
+        "max": 209608.0,
+        "avg": 32555.0,
         "min-user": "@MonsterCpgt",
         "max-user": "@cryptobraveHQ"
       },
       "smart_followers": {
         "min": 13.0,
-        "max": 1695.0,
-        "avg": 359.7826086956522,
-        "min-user": "@MonsterCpgt",
+        "max": 1696.0,
+        "avg": 300.1666666666667,
+        "min-user": "@Ghosterx4x",
         "max-user": "@stacy_muur"
       },
       "yaps": {
@@ -672,24 +672,24 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 23,
+      "count": 30,
       "path": "lbyaps/aptos/aptos-7D.json"
     },
     {
       "project": "aptos",
       "timeframe": "30D",
       "followers": {
-        "min": 764.0,
-        "max": 291127.0,
-        "avg": 45661.11111111111,
+        "min": 770.0,
+        "max": 291143.0,
+        "avg": 46287.825,
         "min-user": "@MonsterCpgt",
         "max-user": "@Kylechasse"
       },
       "smart_followers": {
         "min": 13.0,
-        "max": 1695.0,
-        "avg": 355.8888888888889,
-        "min-user": "@MonsterCpgt",
+        "max": 1696.0,
+        "avg": 332.1,
+        "min-user": "@Ghosterx4x",
         "max-user": "@stacy_muur"
       },
       "yaps": {
@@ -699,23 +699,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 36,
+      "count": 40,
       "path": "lbyaps/aptos/aptos-30D.json"
     },
     {
       "project": "arbitrum",
       "timeframe": "7D",
       "followers": {
-        "min": 325.0,
-        "max": 187428.0,
-        "avg": 30773.29268292683,
+        "min": 326.0,
+        "max": 177835.0,
+        "avg": 27513.536585365855,
         "min-user": "@blockbyvlog",
-        "max-user": "@CryptoTeca__"
+        "max-user": "@DeFi_Dad"
       },
       "smart_followers": {
         "min": 24.0,
-        "max": 4602.0,
-        "avg": 687.780487804878,
+        "max": 4603.0,
+        "avg": 701.439024390244,
         "min-user": "@blockbyvlog",
         "max-user": "@DeFi_Dad"
       },
@@ -733,16 +733,16 @@
       "project": "arbitrum",
       "timeframe": "30D",
       "followers": {
-        "min": 325.0,
-        "max": 278913.0,
-        "avg": 35342.0,
+        "min": 326.0,
+        "max": 279148.0,
+        "avg": 35611.782608695656,
         "min-user": "@blockbyvlog",
         "max-user": "@TedPillows"
       },
       "smart_followers": {
         "min": 24.0,
-        "max": 4602.0,
-        "avg": 608.7352941176471,
+        "max": 4603.0,
+        "avg": 609.7536231884058,
         "min-user": "@blockbyvlog",
         "max-user": "@DeFi_Dad"
       },
@@ -753,7 +753,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 68,
+      "count": 69,
       "path": "lbyaps/arbitrum/arbitrum-30D.json"
     },
     {
@@ -868,17 +868,17 @@
       "project": "beldex",
       "timeframe": "7D",
       "followers": {
-        "min": 17825.0,
-        "max": 255525.0,
-        "avg": 72689.25,
-        "min-user": "@FabiusDefi",
+        "min": 6339.0,
+        "max": 255537.0,
+        "avg": 61558.65,
+        "min-user": "@Yaki_fomoArt",
         "max-user": "@bricexeth"
       },
       "smart_followers": {
-        "min": 95.0,
+        "min": 66.0,
         "max": 825.0,
-        "avg": 360.4166666666667,
-        "min-user": "@DeFiDecoder_",
+        "avg": 280.9,
+        "min-user": "@Yaki_fomoArt",
         "max-user": "@HOSS_ibc"
       },
       "yaps": {
@@ -888,23 +888,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 12,
+      "count": 20,
       "path": "lbyaps/beldex/beldex-7D.json"
     },
     {
       "project": "beldex",
       "timeframe": "30D",
       "followers": {
-        "min": 4196.0,
-        "max": 255525.0,
-        "avg": 62141.8,
+        "min": 4193.0,
+        "max": 255537.0,
+        "avg": 56140.30434782609,
         "min-user": "@traviSKrypto",
         "max-user": "@bricexeth"
       },
       "smart_followers": {
         "min": 58.0,
         "max": 825.0,
-        "avg": 308.93333333333334,
+        "avg": 257.69565217391306,
         "min-user": "@traviSKrypto",
         "max-user": "@HOSS_ibc"
       },
@@ -915,16 +915,16 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 15,
+      "count": 23,
       "path": "lbyaps/beldex/beldex-30D.json"
     },
     {
       "project": "berachain",
       "timeframe": "7D",
       "followers": {
-        "min": 1608.0,
-        "max": 117926.0,
-        "avg": 41186.25,
+        "min": 1607.0,
+        "max": 117904.0,
+        "avg": 41183.25,
         "min-user": "@RezMah",
         "max-user": "@SmokeyTheBera"
       },
@@ -949,16 +949,16 @@
       "project": "berachain",
       "timeframe": "30D",
       "followers": {
-        "min": 1029.0,
-        "max": 117926.0,
-        "avg": 21355.272727272728,
+        "min": 1028.0,
+        "max": 117904.0,
+        "avg": 21352.909090909092,
         "min-user": "@niz0rg",
         "max-user": "@SmokeyTheBera"
       },
       "smart_followers": {
         "min": 29.0,
         "max": 3257.0,
-        "avg": 740.8181818181819,
+        "avg": 740.9090909090909,
         "min-user": "@niz0rg",
         "max-user": "@SmokeyTheBera"
       },
@@ -1031,15 +1031,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 785.0,
-        "max": 350662.0,
-        "avg": 39648.954545454544,
+        "max": 350719.0,
+        "avg": 34701.769230769234,
         "min-user": "@ehidonaldo",
         "max-user": "@sandeepnailwal"
       },
       "smart_followers": {
         "min": 2.0,
-        "max": 4665.0,
-        "avg": 303.95454545454544,
+        "max": 4663.0,
+        "avg": 271.96153846153845,
         "min-user": "@Smolder_AR",
         "max-user": "@sandeepnailwal"
       },
@@ -1050,7 +1050,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 22,
+      "count": 26,
       "path": "lbyaps/billions/billions-7D.json"
     },
     {
@@ -1058,15 +1058,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 785.0,
-        "max": 350662.0,
-        "avg": 39648.954545454544,
+        "max": 350719.0,
+        "avg": 34701.769230769234,
         "min-user": "@ehidonaldo",
         "max-user": "@sandeepnailwal"
       },
       "smart_followers": {
         "min": 2.0,
-        "max": 4665.0,
-        "avg": 303.95454545454544,
+        "max": 4663.0,
+        "avg": 271.96153846153845,
         "min-user": "@Smolder_AR",
         "max-user": "@sandeepnailwal"
       },
@@ -1077,7 +1077,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 22,
+      "count": 26,
       "path": "lbyaps/billions/billions-30D.json"
     },
     {
@@ -1111,9 +1111,9 @@
       "project": "bitdealer",
       "timeframe": "30D",
       "followers": {
-        "min": 3497.0,
-        "max": 3497.0,
-        "avg": 3497.0,
+        "min": 3508.0,
+        "max": 3508.0,
+        "avg": 3508.0,
         "min-user": "@crypton11te",
         "max-user": "@crypton11te"
       },
@@ -1138,16 +1138,16 @@
       "project": "bless",
       "timeframe": "7D",
       "followers": {
-        "min": 15120.0,
-        "max": 15120.0,
-        "avg": 15120.0,
+        "min": 15111.0,
+        "max": 15111.0,
+        "avg": 15111.0,
         "min-user": "@mchen8864",
         "max-user": "@mchen8864"
       },
       "smart_followers": {
-        "min": 181.0,
-        "max": 181.0,
-        "avg": 181.0,
+        "min": 180.0,
+        "max": 180.0,
+        "avg": 180.0,
         "min-user": "@mchen8864",
         "max-user": "@mchen8864"
       },
@@ -1165,16 +1165,16 @@
       "project": "bless",
       "timeframe": "30D",
       "followers": {
-        "min": 4912.0,
-        "max": 15120.0,
-        "avg": 10016.0,
+        "min": 4899.0,
+        "max": 15111.0,
+        "avg": 10005.0,
         "min-user": "@derparsel",
         "max-user": "@mchen8864"
       },
       "smart_followers": {
         "min": 42.0,
-        "max": 181.0,
-        "avg": 111.5,
+        "max": 180.0,
+        "avg": 111.0,
         "min-user": "@derparsel",
         "max-user": "@mchen8864"
       },
@@ -1246,16 +1246,16 @@
       "project": "bluefin",
       "timeframe": "7D",
       "followers": {
-        "min": 72546.0,
-        "max": 190756.0,
-        "avg": 103747.25,
-        "min-user": "@jussy_world",
+        "min": 37484.0,
+        "max": 190739.0,
+        "avg": 90502.6,
+        "min-user": "@matteodotsui",
         "max-user": "@jiamigou"
       },
       "smart_followers": {
         "min": 339.0,
-        "max": 1695.0,
-        "avg": 902.25,
+        "max": 1696.0,
+        "avg": 791.0,
         "min-user": "@jiamigou",
         "max-user": "@stacy_muur"
       },
@@ -1266,23 +1266,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 4,
+      "count": 5,
       "path": "lbyaps/bluefin/bluefin-7D.json"
     },
     {
       "project": "bluefin",
       "timeframe": "30D",
       "followers": {
-        "min": 37471.0,
-        "max": 190756.0,
-        "avg": 82225.16666666667,
+        "min": 37484.0,
+        "max": 190739.0,
+        "avg": 82234.5,
         "min-user": "@matteodotsui",
         "max-user": "@jiamigou"
       },
       "smart_followers": {
         "min": 339.0,
-        "max": 1695.0,
-        "avg": 787.0,
+        "max": 1696.0,
+        "avg": 787.6666666666666,
         "min-user": "@jiamigou",
         "max-user": "@stacy_muur"
       },
@@ -1354,18 +1354,18 @@
       "project": "boundless",
       "timeframe": "7D",
       "followers": {
-        "min": 1873.0,
-        "max": 10598.0,
-        "avg": 6081.666666666667,
+        "min": 1872.0,
+        "max": 41229.0,
+        "avg": 10169.375,
         "min-user": "@patricksartz_",
-        "max-user": "@reka_eth"
+        "max-user": "@kashvii"
       },
       "smart_followers": {
         "min": 63.0,
-        "max": 1265.0,
-        "avg": 322.8333333333333,
+        "max": 1547.0,
+        "avg": 479.25,
         "min-user": "@Tola_niii",
-        "max-user": "@reka_eth"
+        "max-user": "@kashvii"
       },
       "yaps": {
         "min": null,
@@ -1374,25 +1374,25 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 6,
+      "count": 8,
       "path": "lbyaps/boundless/boundless-7D.json"
     },
     {
       "project": "boundless",
       "timeframe": "30D",
       "followers": {
-        "min": 1873.0,
-        "max": 11962.0,
-        "avg": 6921.714285714285,
+        "min": 1872.0,
+        "max": 41229.0,
+        "avg": 10368.222222222223,
         "min-user": "@patricksartz_",
-        "max-user": "@emilianobonassi"
+        "max-user": "@kashvii"
       },
       "smart_followers": {
         "min": 63.0,
-        "max": 1352.0,
-        "avg": 469.85714285714283,
+        "max": 1547.0,
+        "avg": 576.2222222222222,
         "min-user": "@Tola_niii",
-        "max-user": "@emilianobonassi"
+        "max-user": "@kashvii"
       },
       "yaps": {
         "min": null,
@@ -1401,23 +1401,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 7,
+      "count": 9,
       "path": "lbyaps/boundless/boundless-30D.json"
     },
     {
       "project": "brevis",
       "timeframe": "7D",
       "followers": {
-        "min": 8898.0,
-        "max": 178210.0,
-        "avg": 63916.666666666664,
+        "min": 8900.0,
+        "max": 178222.0,
+        "avg": 63911.333333333336,
         "min-user": "@rtk17025",
         "max-user": "@hellosuoha"
       },
       "smart_followers": {
-        "min": 148.0,
+        "min": 149.0,
         "max": 975.0,
-        "avg": 475.1666666666667,
+        "avg": 475.5,
         "min-user": "@rtk17025",
         "max-user": "@zerokn0wledge_"
       },
@@ -1435,16 +1435,16 @@
       "project": "brevis",
       "timeframe": "30D",
       "followers": {
-        "min": 6915.0,
-        "max": 178210.0,
-        "avg": 44304.8,
+        "min": 6906.0,
+        "max": 178222.0,
+        "avg": 44298.7,
         "min-user": "@duoduo95920292",
         "max-user": "@hellosuoha"
       },
       "smart_followers": {
         "min": 33.0,
         "max": 975.0,
-        "avg": 341.1,
+        "avg": 341.3,
         "min-user": "@defikadic",
         "max-user": "@zerokn0wledge_"
       },
@@ -1462,44 +1462,17 @@
       "project": "bybit",
       "timeframe": "7D",
       "followers": {
-        "min": 9265.0,
-        "max": 9265.0,
-        "avg": 9265.0,
-        "min-user": "@0xCheeezzyyyy",
+        "min": 7229.0,
+        "max": 9262.0,
+        "avg": 8245.5,
+        "min-user": "@BeiDao_98",
         "max-user": "@0xCheeezzyyyy"
       },
       "smart_followers": {
-        "min": 458.0,
+        "min": 140.0,
         "max": 458.0,
-        "avg": 458.0,
-        "min-user": "@0xCheeezzyyyy",
-        "max-user": "@0xCheeezzyyyy"
-      },
-      "yaps": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "count": 1,
-      "path": "lbyaps/bybit/bybit-7D.json"
-    },
-    {
-      "project": "bybit",
-      "timeframe": "30D",
-      "followers": {
-        "min": 9265.0,
-        "max": 100337.0,
-        "avg": 54801.0,
-        "min-user": "@0xCheeezzyyyy",
-        "max-user": "@monkeyjiang"
-      },
-      "smart_followers": {
-        "min": 307.0,
-        "max": 458.0,
-        "avg": 382.5,
-        "min-user": "@monkeyjiang",
+        "avg": 299.0,
+        "min-user": "@BeiDao_98",
         "max-user": "@0xCheeezzyyyy"
       },
       "yaps": {
@@ -1510,6 +1483,33 @@
         "max-user": null
       },
       "count": 2,
+      "path": "lbyaps/bybit/bybit-7D.json"
+    },
+    {
+      "project": "bybit",
+      "timeframe": "30D",
+      "followers": {
+        "min": 7229.0,
+        "max": 100318.0,
+        "avg": 38936.333333333336,
+        "min-user": "@BeiDao_98",
+        "max-user": "@monkeyjiang"
+      },
+      "smart_followers": {
+        "min": 140.0,
+        "max": 458.0,
+        "avg": 301.6666666666667,
+        "min-user": "@BeiDao_98",
+        "max-user": "@0xCheeezzyyyy"
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 3,
       "path": "lbyaps/bybit/bybit-30D.json"
     },
     {
@@ -1597,18 +1597,18 @@
       "project": "camp",
       "timeframe": "30D",
       "followers": {
-        "min": 14327.0,
-        "max": 59720.0,
-        "avg": 37023.5,
+        "min": 14318.0,
+        "max": 14318.0,
+        "avg": 14318.0,
         "min-user": "@DoraiswamiRahul",
-        "max-user": "@grebby"
+        "max-user": "@DoraiswamiRahul"
       },
       "smart_followers": {
         "min": 40.0,
-        "max": 387.0,
-        "avg": 213.5,
+        "max": 40.0,
+        "avg": 40.0,
         "min-user": "@DoraiswamiRahul",
-        "max-user": "@grebby"
+        "max-user": "@DoraiswamiRahul"
       },
       "yaps": {
         "min": null,
@@ -1617,7 +1617,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 2,
+      "count": 1,
       "path": "lbyaps/camp/camp-30D.json"
     },
     {
@@ -2137,16 +2137,16 @@
       "project": "creatorbid",
       "timeframe": "30D",
       "followers": {
-        "min": 948.0,
-        "max": 21675.0,
-        "avg": 8498.6,
+        "min": 945.0,
+        "max": 21668.0,
+        "avg": 7455.25,
         "min-user": "@Lynx4300",
         "max-user": "@100xDarren"
       },
       "smart_followers": {
         "min": 14.0,
         "max": 304.0,
-        "avg": 174.0,
+        "avg": 175.25,
         "min-user": "@Lynx4300",
         "max-user": "@100xDarren"
       },
@@ -2157,7 +2157,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 5,
+      "count": 4,
       "path": "lbyaps/creatorbid/creatorbid-30D.json"
     },
     {
@@ -2326,18 +2326,18 @@
       "project": "cysic",
       "timeframe": "7D",
       "followers": {
-        "min": 9684.0,
-        "max": 48815.0,
-        "avg": 21535.14285714286,
-        "min-user": "@Doonbo_artist",
+        "min": 3706.0,
+        "max": 48735.0,
+        "avg": 16775.533333333333,
+        "min-user": "@AddyyyOnChain",
         "max-user": "@Baisircrypto"
       },
       "smart_followers": {
-        "min": 67.0,
-        "max": 286.0,
-        "avg": 183.0,
-        "min-user": "@smolgeeek",
-        "max-user": "@Baisircrypto"
+        "min": 56.0,
+        "max": 471.0,
+        "avg": 171.26666666666668,
+        "min-user": "@AddyyyOnChain",
+        "max-user": "@CryptoUsopp"
       },
       "yaps": {
         "min": null,
@@ -2346,23 +2346,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 7,
+      "count": 15,
       "path": "lbyaps/cysic/cysic-7D.json"
     },
     {
       "project": "cysic",
       "timeframe": "30D",
       "followers": {
-        "min": 3428.0,
-        "max": 228497.0,
-        "avg": 40299.6,
+        "min": 3421.0,
+        "max": 228460.0,
+        "avg": 31812.25,
         "min-user": "@gtofweb3",
         "max-user": "@wyckoffweb"
       },
       "smart_followers": {
         "min": 53.0,
-        "max": 1695.0,
-        "avg": 316.73333333333335,
+        "max": 1696.0,
+        "avg": 267.05,
         "min-user": "@gtofweb3",
         "max-user": "@stacy_muur"
       },
@@ -2373,7 +2373,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 15,
+      "count": 20,
       "path": "lbyaps/cysic/cysic-30D.json"
     },
     {
@@ -2461,9 +2461,9 @@
       "project": "defidotapp",
       "timeframe": "30D",
       "followers": {
-        "min": 280345.0,
-        "max": 280345.0,
-        "avg": 280345.0,
+        "min": 280339.0,
+        "max": 280339.0,
+        "avg": 280339.0,
         "min-user": "@hackapreneur",
         "max-user": "@hackapreneur"
       },
@@ -2542,16 +2542,16 @@
       "project": "doodles",
       "timeframe": "7D",
       "followers": {
-        "min": 1340.0,
+        "min": 1337.0,
         "max": 87128.0,
-        "avg": 19406.1,
+        "avg": 19403.5,
         "min-user": "@_mcnft11",
         "max-user": "@burnttoast"
       },
       "smart_followers": {
         "min": 74.0,
         "max": 2478.0,
-        "avg": 601.3,
+        "avg": 601.4,
         "min-user": "@_mcnft11",
         "max-user": "@burnttoast"
       },
@@ -2569,16 +2569,16 @@
       "project": "doodles",
       "timeframe": "30D",
       "followers": {
-        "min": 1340.0,
+        "min": 1337.0,
         "max": 87128.0,
-        "avg": 21479.666666666668,
+        "avg": 21478.5,
         "min-user": "@_mcnft11",
         "max-user": "@burnttoast"
       },
       "smart_followers": {
         "min": 74.0,
         "max": 2478.0,
-        "avg": 558.3333333333334,
+        "avg": 558.5,
         "min-user": "@_mcnft11",
         "max-user": "@burnttoast"
       },
@@ -2623,16 +2623,16 @@
       "project": "dydx",
       "timeframe": "30D",
       "followers": {
-        "min": 4430.0,
-        "max": 159326.0,
-        "avg": 44591.333333333336,
+        "min": 4433.0,
+        "max": 159333.0,
+        "avg": 44587.333333333336,
         "min-user": "@0xasrequired",
         "max-user": "@DefiIgnas"
       },
       "smart_followers": {
         "min": 166.0,
         "max": 3942.0,
-        "avg": 1168.5,
+        "avg": 1168.6666666666667,
         "min-user": "@nocoffeenobrain",
         "max-user": "@DefiIgnas"
       },
@@ -2704,9 +2704,9 @@
       "project": "edgen",
       "timeframe": "7D",
       "followers": {
-        "min": 5481.0,
-        "max": 5481.0,
-        "avg": 5481.0,
+        "min": 5485.0,
+        "max": 5485.0,
+        "avg": 5485.0,
         "min-user": "@mr_ferdiansah",
         "max-user": "@mr_ferdiansah"
       },
@@ -2731,9 +2731,9 @@
       "project": "edgen",
       "timeframe": "30D",
       "followers": {
-        "min": 5481.0,
-        "max": 5481.0,
-        "avg": 5481.0,
+        "min": 5485.0,
+        "max": 5485.0,
+        "avg": 5485.0,
         "min-user": "@mr_ferdiansah",
         "max-user": "@mr_ferdiansah"
       },
@@ -2759,15 +2759,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 1083.0,
-        "max": 731001.0,
-        "avg": 81858.41414141415,
+        "max": 730989.0,
+        "avg": 82750.41414141415,
         "min-user": "@scottmelker",
         "max-user": "@CryptoKaleo"
       },
       "smart_followers": {
-        "min": 76.0,
+        "min": 78.0,
         "max": 14220.0,
-        "avg": 1846.2525252525252,
+        "avg": 1884.2323232323233,
         "min-user": "@SAMALTCOIN_ETH",
         "max-user": "@VitalikButerin"
       },
@@ -2786,16 +2786,16 @@
       "timeframe": "30D",
       "followers": {
         "min": 1083.0,
-        "max": 591743.0,
-        "avg": 74979.18181818182,
+        "max": 591759.0,
+        "avg": 74738.85858585859,
         "min-user": "@scottmelker",
         "max-user": "@fundstrat"
       },
       "smart_followers": {
-        "min": 169.0,
+        "min": 78.0,
         "max": 14220.0,
-        "avg": 2265.070707070707,
-        "min-user": "@Nick_Researcher",
+        "avg": 2157.373737373737,
+        "min-user": "@SAMALTCOIN_ETH",
         "max-user": "@VitalikButerin"
       },
       "yaps": {
@@ -2866,17 +2866,17 @@
       "project": "falcon",
       "timeframe": "7D",
       "followers": {
-        "min": 7590.0,
-        "max": 10484.0,
-        "avg": 9037.0,
+        "min": 7605.0,
+        "max": 7605.0,
+        "avg": 7605.0,
         "min-user": "@yawaradoteth",
-        "max-user": "@Nick_Researcher"
+        "max-user": "@yawaradoteth"
       },
       "smart_followers": {
-        "min": 169.0,
+        "min": 226.0,
         "max": 226.0,
-        "avg": 197.5,
-        "min-user": "@Nick_Researcher",
+        "avg": 226.0,
+        "min-user": "@yawaradoteth",
         "max-user": "@yawaradoteth"
       },
       "yaps": {
@@ -2886,16 +2886,16 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 2,
+      "count": 1,
       "path": "lbyaps/falcon/falcon-7D.json"
     },
     {
       "project": "falcon",
       "timeframe": "30D",
       "followers": {
-        "min": 3986.0,
-        "max": 10484.0,
-        "avg": 7353.333333333333,
+        "min": 3989.0,
+        "max": 10470.0,
+        "avg": 7354.666666666667,
         "min-user": "@Lingersj",
         "max-user": "@Nick_Researcher"
       },
@@ -2920,16 +2920,16 @@
       "project": "ferra",
       "timeframe": "7D",
       "followers": {
-        "min": 1072.0,
-        "max": 148669.0,
-        "avg": 29308.571428571428,
+        "min": 1080.0,
+        "max": 291143.0,
+        "avg": 48745.944444444445,
         "min-user": "@FokLouis144",
-        "max-user": "@zhuanfgghjnb"
+        "max-user": "@Kylechasse"
       },
       "smart_followers": {
         "min": 11.0,
-        "max": 1695.0,
-        "avg": 240.21428571428572,
+        "max": 1696.0,
+        "avg": 277.44444444444446,
         "min-user": "@zhumeifu3",
         "max-user": "@stacy_muur"
       },
@@ -2940,23 +2940,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 14,
+      "count": 18,
       "path": "lbyaps/ferra/ferra-7D.json"
     },
     {
       "project": "ferra",
       "timeframe": "30D",
       "followers": {
-        "min": 1072.0,
-        "max": 148669.0,
-        "avg": 29308.571428571428,
+        "min": 1080.0,
+        "max": 291143.0,
+        "avg": 48745.944444444445,
         "min-user": "@FokLouis144",
-        "max-user": "@zhuanfgghjnb"
+        "max-user": "@Kylechasse"
       },
       "smart_followers": {
         "min": 11.0,
-        "max": 1695.0,
-        "avg": 240.21428571428572,
+        "max": 1696.0,
+        "avg": 277.44444444444446,
         "min-user": "@zhumeifu3",
         "max-user": "@stacy_muur"
       },
@@ -2967,7 +2967,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 14,
+      "count": 18,
       "path": "lbyaps/ferra/ferra-30D.json"
     },
     {
@@ -3028,16 +3028,16 @@
       "project": "flipster",
       "timeframe": "7D",
       "followers": {
-        "min": 5457.0,
-        "max": 172770.0,
-        "avg": 71118.3,
+        "min": 5454.0,
+        "max": 172859.0,
+        "avg": 67186.63636363637,
         "min-user": "@grownwhalee",
         "max-user": "@waleswoosh"
       },
       "smart_followers": {
         "min": 72.0,
         "max": 3827.0,
-        "avg": 638.2,
+        "avg": 591.8181818181819,
         "min-user": "@moon_bgb",
         "max-user": "@waleswoosh"
       },
@@ -3048,23 +3048,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 10,
+      "count": 11,
       "path": "lbyaps/flipster/flipster-7D.json"
     },
     {
       "project": "flipster",
       "timeframe": "30D",
       "followers": {
-        "min": 5457.0,
-        "max": 172770.0,
-        "avg": 71118.3,
+        "min": 5454.0,
+        "max": 172859.0,
+        "avg": 67186.63636363637,
         "min-user": "@grownwhalee",
         "max-user": "@waleswoosh"
       },
       "smart_followers": {
         "min": 72.0,
         "max": 3827.0,
-        "avg": 638.2,
+        "avg": 591.8181818181819,
         "min-user": "@moon_bgb",
         "max-user": "@waleswoosh"
       },
@@ -3075,24 +3075,24 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 10,
+      "count": 11,
       "path": "lbyaps/flipster/flipster-30D.json"
     },
     {
       "project": "fogo",
       "timeframe": "7D",
       "followers": {
-        "min": 1899.0,
-        "max": 9511.0,
-        "avg": 6023.75,
-        "min-user": "@dovvvveth",
+        "min": 5830.0,
+        "max": 9517.0,
+        "avg": 7126.25,
+        "min-user": "@smartcoded",
         "max-user": "@RobertSagurton"
       },
       "smart_followers": {
-        "min": 20.0,
+        "min": 98.0,
         "max": 577.0,
-        "avg": 212.5,
-        "min-user": "@dovvvveth",
+        "avg": 242.75,
+        "min-user": "@smartcoded",
         "max-user": "@RobertSagurton"
       },
       "yaps": {
@@ -3109,16 +3109,16 @@
       "project": "fogo",
       "timeframe": "30D",
       "followers": {
-        "min": 1899.0,
-        "max": 17713.0,
-        "avg": 8326.0,
+        "min": 1897.0,
+        "max": 17711.0,
+        "avg": 8036.142857142857,
         "min-user": "@dovvvveth",
         "max-user": "@SebMontgomery"
       },
       "smart_followers": {
         "min": 20.0,
         "max": 577.0,
-        "avg": 241.0,
+        "avg": 226.71428571428572,
         "min-user": "@dovvvveth",
         "max-user": "@RobertSagurton"
       },
@@ -3129,7 +3129,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 6,
+      "count": 7,
       "path": "lbyaps/fogo/fogo-30D.json"
     },
     {
@@ -3190,43 +3190,16 @@
       "project": "frax",
       "timeframe": "7D",
       "followers": {
-        "min": 2105.0,
-        "max": 43125.0,
-        "avg": 22615.0,
+        "min": 2095.0,
+        "max": 43120.0,
+        "avg": 20913.666666666668,
         "min-user": "@Ikebillion_",
         "max-user": "@samkazemian"
       },
       "smart_followers": {
         "min": 37.0,
         "max": 2858.0,
-        "avg": 1447.5,
-        "min-user": "@Ikebillion_",
-        "max-user": "@samkazemian"
-      },
-      "yaps": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "count": 2,
-      "path": "lbyaps/frax/frax-7D.json"
-    },
-    {
-      "project": "frax",
-      "timeframe": "30D",
-      "followers": {
-        "min": 2105.0,
-        "max": 43125.0,
-        "avg": 18862.666666666668,
-        "min-user": "@Ikebillion_",
-        "max-user": "@samkazemian"
-      },
-      "smart_followers": {
-        "min": 37.0,
-        "max": 2858.0,
-        "avg": 1033.6666666666667,
+        "avg": 1228.6666666666667,
         "min-user": "@Ikebillion_",
         "max-user": "@samkazemian"
       },
@@ -3238,6 +3211,33 @@
         "max-user": null
       },
       "count": 3,
+      "path": "lbyaps/frax/frax-7D.json"
+    },
+    {
+      "project": "frax",
+      "timeframe": "30D",
+      "followers": {
+        "min": 2095.0,
+        "max": 43120.0,
+        "avg": 18534.25,
+        "min-user": "@Ikebillion_",
+        "max-user": "@samkazemian"
+      },
+      "smart_followers": {
+        "min": 37.0,
+        "max": 2858.0,
+        "avg": 973.25,
+        "min-user": "@Ikebillion_",
+        "max-user": "@samkazemian"
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 4,
       "path": "lbyaps/frax/frax-30D.json"
     },
     {
@@ -3460,44 +3460,17 @@
       "project": "goatnetwork",
       "timeframe": "7D",
       "followers": {
-        "min": 14272.0,
-        "max": 77804.0,
-        "avg": 46526.2,
+        "min": 14258.0,
+        "max": 77546.0,
+        "avg": 43850.72727272727,
         "min-user": "@0x1164",
         "max-user": "@Baili1018"
       },
       "smart_followers": {
-        "min": 69.0,
+        "min": 45.0,
         "max": 666.0,
-        "avg": 220.9,
-        "min-user": "@0xYi666",
-        "max-user": "@Hercules_Defi"
-      },
-      "yaps": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "count": 10,
-      "path": "lbyaps/goatnetwork/goatnetwork-7D.json"
-    },
-    {
-      "project": "goatnetwork",
-      "timeframe": "30D",
-      "followers": {
-        "min": 14272.0,
-        "max": 81112.0,
-        "avg": 49670.36363636364,
-        "min-user": "@0x1164",
-        "max-user": "@vvickym2"
-      },
-      "smart_followers": {
-        "min": 69.0,
-        "max": 666.0,
-        "avg": 234.0909090909091,
-        "min-user": "@0xYi666",
+        "avg": 205.1818181818182,
+        "min-user": "@0008luna",
         "max-user": "@Hercules_Defi"
       },
       "yaps": {
@@ -3508,6 +3481,33 @@
         "max-user": null
       },
       "count": 11,
+      "path": "lbyaps/goatnetwork/goatnetwork-7D.json"
+    },
+    {
+      "project": "goatnetwork",
+      "timeframe": "30D",
+      "followers": {
+        "min": 14258.0,
+        "max": 80995.0,
+        "avg": 46946.083333333336,
+        "min-user": "@0x1164",
+        "max-user": "@vvickym2"
+      },
+      "smart_followers": {
+        "min": 45.0,
+        "max": 666.0,
+        "avg": 218.58333333333334,
+        "min-user": "@0008luna",
+        "max-user": "@Hercules_Defi"
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 12,
       "path": "lbyaps/goatnetwork/goatnetwork-30D.json"
     },
     {
@@ -3730,16 +3730,16 @@
       "project": "huma",
       "timeframe": "7D",
       "followers": {
-        "min": 1275.0,
-        "max": 55662.0,
-        "avg": 8618.666666666666,
+        "min": 1278.0,
+        "max": 55624.0,
+        "avg": 8621.055555555555,
         "min-user": "@taofen_boy",
         "max-user": "@AirdropAlchemis"
       },
       "smart_followers": {
         "min": 8.0,
         "max": 387.0,
-        "avg": 86.05555555555556,
+        "avg": 86.11111111111111,
         "min-user": "@LipeSolana",
         "max-user": "@DrPayFi"
       },
@@ -3757,16 +3757,16 @@
       "project": "huma",
       "timeframe": "30D",
       "followers": {
-        "min": 1275.0,
-        "max": 247528.0,
-        "avg": 15642.692307692309,
+        "min": 1278.0,
+        "max": 247532.0,
+        "avg": 15644.48717948718,
         "min-user": "@taofen_boy",
         "max-user": "@SolanaSensei"
       },
       "smart_followers": {
         "min": 8.0,
-        "max": 1213.0,
-        "avg": 119.12820512820512,
+        "max": 1214.0,
+        "avg": 119.2051282051282,
         "min-user": "@LipeSolana",
         "max-user": "@SolanaSensei"
       },
@@ -3784,9 +3784,9 @@
       "project": "humanity",
       "timeframe": "7D",
       "followers": {
-        "min": 3059.0,
-        "max": 21223.0,
-        "avg": 12141.0,
+        "min": 3068.0,
+        "max": 21226.0,
+        "avg": 12147.0,
         "min-user": "@xangle_intern",
         "max-user": "@zijing"
       },
@@ -3811,9 +3811,9 @@
       "project": "humanity",
       "timeframe": "30D",
       "followers": {
-        "min": 3059.0,
-        "max": 21223.0,
-        "avg": 12141.0,
+        "min": 3068.0,
+        "max": 21226.0,
+        "avg": 12147.0,
         "min-user": "@xangle_intern",
         "max-user": "@zijing"
       },
@@ -3946,9 +3946,9 @@
       "project": "inferencelabs",
       "timeframe": "7D",
       "followers": {
-        "min": 2668.0,
-        "max": 70496.0,
-        "avg": 28314.88888888889,
+        "min": 2681.0,
+        "max": 70223.0,
+        "avg": 28113.444444444445,
         "min-user": "@derrelreyhan",
         "max-user": "@Alaouicapital"
       },
@@ -3973,16 +3973,16 @@
       "project": "inferencelabs",
       "timeframe": "30D",
       "followers": {
-        "min": 788.0,
-        "max": 89369.0,
-        "avg": 19993.129032258064,
-        "min-user": "@ellagoldgal",
+        "min": 2681.0,
+        "max": 89383.0,
+        "avg": 20843.666666666668,
+        "min-user": "@derrelreyhan",
         "max-user": "@0xSammy"
       },
       "smart_followers": {
         "min": 13.0,
-        "max": 3307.0,
-        "avg": 264.19354838709677,
+        "max": 3310.0,
+        "avg": 298.9259259259259,
         "min-user": "@derrelreyhan",
         "max-user": "@0xSammy"
       },
@@ -3993,16 +3993,16 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 31,
+      "count": 27,
       "path": "lbyaps/inferencelabs/inferencelabs-30D.json"
     },
     {
       "project": "infinex",
       "timeframe": "7D",
       "followers": {
-        "min": 7694.0,
-        "max": 327129.0,
-        "avg": 167411.5,
+        "min": 7697.0,
+        "max": 327159.0,
+        "avg": 167428.0,
         "min-user": "@aibra",
         "max-user": "@gainzy222"
       },
@@ -4027,16 +4027,16 @@
       "project": "infinex",
       "timeframe": "30D",
       "followers": {
-        "min": 1406.0,
-        "max": 390470.0,
-        "avg": 95575.09090909091,
+        "min": 1408.0,
+        "max": 391078.0,
+        "avg": 95632.0,
         "min-user": "@0xEquinox_",
         "max-user": "@inversebrah"
       },
       "smart_followers": {
         "min": 78.0,
-        "max": 6393.0,
-        "avg": 2033.8181818181818,
+        "max": 6394.0,
+        "avg": 2034.1818181818182,
         "min-user": "@0xEquinox_",
         "max-user": "@inversebrah"
       },
@@ -4054,16 +4054,16 @@
       "project": "infinit",
       "timeframe": "7D",
       "followers": {
-        "min": 8657.0,
-        "max": 92314.0,
-        "avg": 40483.142857142855,
-        "min-user": "@kenodnb",
+        "min": 7653.0,
+        "max": 92297.0,
+        "avg": 36380.5,
+        "min-user": "@diegoxyz",
         "max-user": "@Flowslikeosmo"
       },
       "smart_followers": {
         "min": 261.0,
         "max": 1408.0,
-        "avg": 716.0,
+        "avg": 659.5,
         "min-user": "@kenodnb",
         "max-user": "@Flowslikeosmo"
       },
@@ -4074,23 +4074,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 7,
+      "count": 8,
       "path": "lbyaps/infinit/infinit-7D.json"
     },
     {
       "project": "infinit",
       "timeframe": "30D",
       "followers": {
-        "min": 1240.0,
-        "max": 92314.0,
-        "avg": 28040.722222222223,
+        "min": 1244.0,
+        "max": 92297.0,
+        "avg": 26951.157894736843,
         "min-user": "@DeFi_Blub",
         "max-user": "@Flowslikeosmo"
       },
       "smart_followers": {
         "min": 22.0,
         "max": 1408.0,
-        "avg": 477.6666666666667,
+        "avg": 466.4736842105263,
         "min-user": "@0xAmberCT",
         "max-user": "@Flowslikeosmo"
       },
@@ -4101,7 +4101,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 18,
+      "count": 19,
       "path": "lbyaps/infinit/infinit-30D.json"
     },
     {
@@ -4163,15 +4163,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 1856.0,
-        "max": 121038.0,
-        "avg": 26390.045454545456,
+        "max": 121020.0,
+        "avg": 25347.08695652174,
         "min-user": "@FurkanConsensus",
         "max-user": "@KongBTC"
       },
       "smart_followers": {
         "min": 8.0,
         "max": 822.0,
-        "avg": 157.0909090909091,
+        "avg": 150.8695652173913,
         "min-user": "@FurkanConsensus",
         "max-user": "@web3_honey"
       },
@@ -4182,23 +4182,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 22,
+      "count": 23,
       "path": "lbyaps/injective/injective-7D.json"
     },
     {
       "project": "injective",
       "timeframe": "30D",
       "followers": {
-        "min": 617.0,
-        "max": 121038.0,
-        "avg": 26059.354838709678,
+        "min": 619.0,
+        "max": 121020.0,
+        "avg": 26055.387096774193,
         "min-user": "@ShiviXBT",
         "max-user": "@KongBTC"
       },
       "smart_followers": {
         "min": 3.0,
         "max": 1695.0,
-        "avg": 251.74193548387098,
+        "avg": 251.90322580645162,
         "min-user": "@InjPedro",
         "max-user": "@stacy_muur"
       },
@@ -4216,9 +4216,9 @@
       "project": "integra",
       "timeframe": "7D",
       "followers": {
-        "min": 2683.0,
+        "min": 2703.0,
         "max": 9292.0,
-        "avg": 5987.5,
+        "avg": 5997.5,
         "min-user": "@Iam__Attracta",
         "max-user": "@seongmoolee"
       },
@@ -4243,16 +4243,16 @@
       "project": "integra",
       "timeframe": "30D",
       "followers": {
-        "min": 2442.0,
-        "max": 9607.0,
-        "avg": 4984.857142857143,
-        "min-user": "@bgv1806",
+        "min": 2703.0,
+        "max": 9688.0,
+        "avg": 5799.6,
+        "min-user": "@Iam__Attracta",
         "max-user": "@tienho_nyx"
       },
       "smart_followers": {
         "min": 28.0,
         "max": 163.0,
-        "avg": 65.71428571428571,
+        "avg": 78.6,
         "min-user": "@Cllickk",
         "max-user": "@seongmoolee"
       },
@@ -4263,7 +4263,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 7,
+      "count": 5,
       "path": "lbyaps/integra/integra-30D.json"
     },
     {
@@ -4324,9 +4324,9 @@
       "project": "iq",
       "timeframe": "7D",
       "followers": {
-        "min": 2519.0,
-        "max": 2519.0,
-        "avg": 2519.0,
+        "min": 2520.0,
+        "max": 2520.0,
+        "avg": 2520.0,
         "min-user": "@4Years1219",
         "max-user": "@4Years1219"
       },
@@ -4351,9 +4351,9 @@
       "project": "iq",
       "timeframe": "30D",
       "followers": {
-        "min": 2519.0,
-        "max": 2519.0,
-        "avg": 2519.0,
+        "min": 2520.0,
+        "max": 2520.0,
+        "avg": 2520.0,
         "min-user": "@4Years1219",
         "max-user": "@4Years1219"
       },
@@ -4378,18 +4378,18 @@
       "project": "irys",
       "timeframe": "7D",
       "followers": {
-        "min": 10100.0,
-        "max": 57333.0,
-        "avg": 30686.333333333332,
+        "min": 10141.0,
+        "max": 107620.0,
+        "avg": 49758.5,
         "min-user": "@beeman_nl",
-        "max-user": "@0xKingsKuan"
+        "max-user": "@thegreatola"
       },
       "smart_followers": {
         "min": 244.0,
-        "max": 314.0,
-        "avg": 279.0,
+        "max": 604.0,
+        "avg": 360.25,
         "min-user": "@Rita88",
-        "max-user": "@0xKingsKuan"
+        "max-user": "@thegreatola"
       },
       "yaps": {
         "min": null,
@@ -4398,25 +4398,25 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 3,
+      "count": 4,
       "path": "lbyaps/irys/irys-7D.json"
     },
     {
       "project": "irys",
       "timeframe": "30D",
       "followers": {
-        "min": 8152.0,
-        "max": 107346.0,
-        "avg": 45793.8,
+        "min": 8217.0,
+        "max": 107620.0,
+        "avg": 42059.555555555555,
         "min-user": "@fan128168",
         "max-user": "@thegreatola"
       },
       "smart_followers": {
         "min": 47.0,
-        "max": 3301.0,
-        "avg": 687.3,
+        "max": 1696.0,
+        "avg": 397.0,
         "min-user": "@BubbleBing_666",
-        "max-user": "@divine_economy"
+        "max-user": "@stacy_muur"
       },
       "yaps": {
         "min": null,
@@ -4425,7 +4425,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 10,
+      "count": 9,
       "path": "lbyaps/irys/irys-30D.json"
     },
     {
@@ -4459,9 +4459,9 @@
       "project": "kaia",
       "timeframe": "30D",
       "followers": {
-        "min": 71261.0,
-        "max": 71261.0,
-        "avg": 71261.0,
+        "min": 71272.0,
+        "max": 71272.0,
+        "avg": 71272.0,
         "min-user": "@0xTodd",
         "max-user": "@0xTodd"
       },
@@ -4486,16 +4486,16 @@
       "project": "kaio",
       "timeframe": "7D",
       "followers": {
-        "min": 3062.0,
-        "max": 86488.0,
-        "avg": 26717.0,
+        "min": 3056.0,
+        "max": 86452.0,
+        "avg": 28200.0,
         "min-user": "@DukeD_Defi",
         "max-user": "@HeathleyETH"
       },
       "smart_followers": {
-        "min": 48.0,
+        "min": 49.0,
         "max": 304.0,
-        "avg": 112.71428571428571,
+        "avg": 114.5,
         "min-user": "@bilalnst",
         "max-user": "@HeathleyETH"
       },
@@ -4506,7 +4506,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 7,
+      "count": 8,
       "path": "lbyaps/kaio/kaio-7D.json"
     },
     {
@@ -4514,15 +4514,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 1161.0,
-        "max": 143603.0,
-        "avg": 28504.510638297874,
+        "max": 143572.0,
+        "avg": 29044.021739130436,
         "min-user": "@krypt0kwack",
         "max-user": "@aidashutiaozi"
       },
       "smart_followers": {
         "min": 19.0,
         "max": 693.0,
-        "avg": 149.82978723404256,
+        "avg": 152.41304347826087,
         "min-user": "@krypt0kwack",
         "max-user": "@mkriak"
       },
@@ -4533,23 +4533,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 47,
+      "count": 46,
       "path": "lbyaps/kaio/kaio-30D.json"
     },
     {
       "project": "kaito",
       "timeframe": "7D",
       "followers": {
-        "min": 1072.0,
-        "max": 364944.0,
-        "avg": 48801.93939393939,
+        "min": 1080.0,
+        "max": 522180.0,
+        "avg": 54154.46464646464,
         "min-user": "@FokLouis144",
-        "max-user": "@Bitwux"
+        "max-user": "@Jihoz_Axie"
       },
       "smart_followers": {
         "min": 32.0,
         "max": 3827.0,
-        "avg": 512.5858585858585,
+        "avg": 548.5252525252525,
         "min-user": "@pietehao",
         "max-user": "@waleswoosh"
       },
@@ -4567,16 +4567,16 @@
       "project": "kaito",
       "timeframe": "30D",
       "followers": {
-        "min": 1072.0,
-        "max": 364944.0,
-        "avg": 44915.333333333336,
+        "min": 1080.0,
+        "max": 522180.0,
+        "avg": 49177.36363636364,
         "min-user": "@FokLouis144",
-        "max-user": "@Bitwux"
+        "max-user": "@Jihoz_Axie"
       },
       "smart_followers": {
         "min": 33.0,
-        "max": 4314.0,
-        "avg": 616.4545454545455,
+        "max": 4316.0,
+        "avg": 629.8282828282828,
         "min-user": "@MrCryptoPandaa",
         "max-user": "@beijingdou"
       },
@@ -4594,17 +4594,17 @@
       "project": "katana",
       "timeframe": "7D",
       "followers": {
-        "min": 1943.0,
-        "max": 304364.0,
-        "avg": 38147.232142857145,
+        "min": 1944.0,
+        "max": 304372.0,
+        "avg": 37670.142857142855,
         "min-user": "@0xfarmed",
         "max-user": "@thedefiedge"
       },
       "smart_followers": {
-        "min": 19.0,
-        "max": 3496.0,
-        "avg": 509.5892857142857,
-        "min-user": "@0xAhmadullah",
+        "min": 67.0,
+        "max": 3498.0,
+        "avg": 510.32142857142856,
+        "min-user": "@0xStudy",
         "max-user": "@thedefiedge"
       },
       "yaps": {
@@ -4621,16 +4621,16 @@
       "project": "katana",
       "timeframe": "30D",
       "followers": {
-        "min": 1943.0,
-        "max": 304364.0,
-        "avg": 37557.42424242424,
+        "min": 1944.0,
+        "max": 304372.0,
+        "avg": 36851.39705882353,
         "min-user": "@0xfarmed",
         "max-user": "@thedefiedge"
       },
       "smart_followers": {
         "min": 19.0,
-        "max": 3496.0,
-        "avg": 520.939393939394,
+        "max": 3498.0,
+        "avg": 508.9117647058824,
         "min-user": "@0xAhmadullah",
         "max-user": "@thedefiedge"
       },
@@ -4641,23 +4641,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 66,
+      "count": 68,
       "path": "lbyaps/katana/katana-30D.json"
     },
     {
       "project": "kindred",
       "timeframe": "7D",
       "followers": {
-        "min": 8922.0,
-        "max": 145912.0,
-        "avg": 33025.25,
+        "min": 8787.0,
+        "max": 146000.0,
+        "avg": 32881.75,
         "min-user": "@liyinjyun",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 71.0,
         "max": 293.0,
-        "avg": 139.0,
+        "avg": 139.125,
         "min-user": "@liyinjyun",
         "max-user": "@ausbro80"
       },
@@ -4675,16 +4675,16 @@
       "project": "kindred",
       "timeframe": "30D",
       "followers": {
-        "min": 8922.0,
-        "max": 145912.0,
-        "avg": 33025.25,
+        "min": 8787.0,
+        "max": 146000.0,
+        "avg": 32881.75,
         "min-user": "@liyinjyun",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 71.0,
         "max": 293.0,
-        "avg": 139.0,
+        "avg": 139.125,
         "min-user": "@liyinjyun",
         "max-user": "@ausbro80"
       },
@@ -5134,16 +5134,16 @@
       "project": "lombard",
       "timeframe": "7D",
       "followers": {
-        "min": 3806.0,
-        "max": 33159.0,
-        "avg": 13163.2,
+        "min": 3805.0,
+        "max": 33087.0,
+        "avg": 14125.818181818182,
         "min-user": "@gfon_wolf",
         "max-user": "@ProofOfTravis"
       },
       "smart_followers": {
         "min": 31.0,
-        "max": 593.0,
-        "avg": 215.8,
+        "max": 595.0,
+        "avg": 229.0909090909091,
         "min-user": "@nas_dotcom",
         "max-user": "@ProofOfTravis"
       },
@@ -5154,23 +5154,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 10,
+      "count": 11,
       "path": "lbyaps/lombard/lombard-7D.json"
     },
     {
       "project": "lombard",
       "timeframe": "30D",
       "followers": {
-        "min": 2469.0,
-        "max": 33159.0,
-        "avg": 12192.105263157895,
+        "min": 2477.0,
+        "max": 33087.0,
+        "avg": 12636.333333333334,
         "min-user": "@lucky66630",
         "max-user": "@ProofOfTravis"
       },
       "smart_followers": {
         "min": 31.0,
         "max": 1315.0,
-        "avg": 251.0,
+        "avg": 249.28571428571428,
         "min-user": "@nas_dotcom",
         "max-user": "@JacobPPhillips"
       },
@@ -5181,23 +5181,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 19,
+      "count": 21,
       "path": "lbyaps/lombard/lombard-30D.json"
     },
     {
       "project": "lumiterra",
       "timeframe": "7D",
       "followers": {
-        "min": 748.0,
-        "max": 4396.0,
-        "avg": 2559.8,
+        "min": 750.0,
+        "max": 7749.0,
+        "avg": 3425.6666666666665,
         "min-user": "@faf_animation",
-        "max-user": "@kujou_pro"
+        "max-user": "@MrArmstronggg"
       },
       "smart_followers": {
         "min": 3.0,
         "max": 83.0,
-        "avg": 28.6,
+        "avg": 27.166666666666668,
         "min-user": "@faf_animation",
         "max-user": "@JohnLumiterra"
       },
@@ -5208,23 +5208,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 5,
+      "count": 6,
       "path": "lbyaps/lumiterra/lumiterra-7D.json"
     },
     {
       "project": "lumiterra",
       "timeframe": "30D",
       "followers": {
-        "min": 748.0,
-        "max": 11301.0,
-        "avg": 5031.333333333333,
+        "min": 750.0,
+        "max": 11305.0,
+        "avg": 5302.2,
         "min-user": "@faf_animation",
         "max-user": "@aditya_rmurali"
       },
       "smart_followers": {
         "min": 3.0,
         "max": 83.0,
-        "avg": 42.55555555555556,
+        "avg": 40.3,
         "min-user": "@faf_animation",
         "max-user": "@JohnLumiterra"
       },
@@ -5235,7 +5235,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 9,
+      "count": 10,
       "path": "lbyaps/lumiterra/lumiterra-30D.json"
     },
     {
@@ -5350,18 +5350,18 @@
       "project": "mantle",
       "timeframe": "7D",
       "followers": {
-        "min": 4779.0,
-        "max": 337614.0,
-        "avg": 72698.34782608696,
-        "min-user": "@MeshClans",
+        "min": 8642.0,
+        "max": 337897.0,
+        "avg": 80869.05263157895,
+        "min-user": "@Nomaticcap",
         "max-user": "@cryptorand"
       },
       "smart_followers": {
         "min": 53.0,
-        "max": 2158.0,
-        "avg": 814.2608695652174,
+        "max": 1871.0,
+        "avg": 839.2631578947369,
         "min-user": "@0xgilllee",
-        "max-user": "@phtevenstrong"
+        "max-user": "@TheDeFinvestor"
       },
       "yaps": {
         "min": null,
@@ -5370,23 +5370,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 23,
+      "count": 19,
       "path": "lbyaps/mantle/mantle-7D.json"
     },
     {
       "project": "mantle",
       "timeframe": "30D",
       "followers": {
-        "min": 3305.0,
-        "max": 337614.0,
-        "avg": 67150.89285714286,
+        "min": 3298.0,
+        "max": 337897.0,
+        "avg": 71959.84615384616,
         "min-user": "@Gem3a",
         "max-user": "@cryptorand"
       },
       "smart_followers": {
         "min": 53.0,
         "max": 2158.0,
-        "avg": 825.25,
+        "avg": 868.3076923076923,
         "min-user": "@0xgilllee",
         "max-user": "@phtevenstrong"
       },
@@ -5397,23 +5397,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 28,
+      "count": 26,
       "path": "lbyaps/mantle/mantle-30D.json"
     },
     {
       "project": "mantra",
       "timeframe": "7D",
       "followers": {
-        "min": 720.0,
-        "max": 21417.0,
-        "avg": 5369.0,
+        "min": 721.0,
+        "max": 21410.0,
+        "avg": 5369.4375,
         "min-user": "@lady_in_crypto",
         "max-user": "@MANTRA_Intern"
       },
       "smart_followers": {
         "min": 6.0,
         "max": 197.0,
-        "avg": 29.75,
+        "avg": 29.8125,
         "min-user": "@lady_in_crypto",
         "max-user": "@Profoneur"
       },
@@ -5431,16 +5431,16 @@
       "project": "mantra",
       "timeframe": "30D",
       "followers": {
-        "min": 720.0,
-        "max": 21417.0,
-        "avg": 4695.894736842105,
+        "min": 721.0,
+        "max": 21410.0,
+        "avg": 4696.210526315789,
         "min-user": "@lady_in_crypto",
         "max-user": "@MANTRA_Intern"
       },
       "smart_followers": {
         "min": 6.0,
         "max": 197.0,
-        "avg": 27.31578947368421,
+        "avg": 27.36842105263158,
         "min-user": "@lady_in_crypto",
         "max-user": "@Profoneur"
       },
@@ -5459,8 +5459,8 @@
       "timeframe": "7D",
       "followers": {
         "min": 9292.0,
-        "max": 14943.0,
-        "avg": 12117.5,
+        "max": 14914.0,
+        "avg": 12103.0,
         "min-user": "@seongmoolee",
         "max-user": "@0xgilllee"
       },
@@ -5486,15 +5486,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 9292.0,
-        "max": 131439.0,
-        "avg": 41475.75,
+        "max": 131409.0,
+        "avg": 41465.25,
         "min-user": "@seongmoolee",
         "max-user": "@Hydraze420"
       },
       "smart_followers": {
         "min": 53.0,
-        "max": 1750.0,
-        "avg": 517.25,
+        "max": 1751.0,
+        "avg": 517.5,
         "min-user": "@0xgilllee",
         "max-user": "@Hydraze420"
       },
@@ -5512,16 +5512,16 @@
       "project": "megaeth",
       "timeframe": "7D",
       "followers": {
-        "min": 412.0,
-        "max": 302455.0,
-        "avg": 45264.57142857143,
+        "min": 413.0,
+        "max": 302283.0,
+        "avg": 46534.509090909094,
         "min-user": "@xnxswe",
         "max-user": "@Route2FI"
       },
       "smart_followers": {
         "min": 11.0,
         "max": 5872.0,
-        "avg": 1011.952380952381,
+        "avg": 1102.9818181818182,
         "min-user": "@xnxswe",
         "max-user": "@TrustlessState"
       },
@@ -5532,7 +5532,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 63,
+      "count": 55,
       "path": "lbyaps/megaeth/megaeth-7D.json"
     },
     {
@@ -5540,15 +5540,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 723.0,
-        "max": 400956.0,
-        "avg": 46966.80808080808,
+        "max": 400966.0,
+        "avg": 46734.19191919192,
         "min-user": "@0xyonathan",
         "max-user": "@Zeneca"
       },
       "smart_followers": {
         "min": 39.0,
-        "max": 6195.0,
-        "avg": 1270.2828282828282,
+        "max": 6196.0,
+        "avg": 1257.6565656565656,
         "min-user": "@themagic_trader",
         "max-user": "@Zeneca"
       },
@@ -5620,16 +5620,16 @@
       "project": "mememax",
       "timeframe": "7D",
       "followers": {
-        "min": 2668.0,
-        "max": 145916.0,
-        "avg": 44605.42857142857,
+        "min": 2681.0,
+        "max": 145980.0,
+        "avg": 44609.21428571428,
         "min-user": "@derrelreyhan",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 13.0,
         "max": 360.0,
-        "avg": 151.21428571428572,
+        "avg": 151.35714285714286,
         "min-user": "@derrelreyhan",
         "max-user": "@BagCalls"
       },
@@ -5647,16 +5647,16 @@
       "project": "mememax",
       "timeframe": "30D",
       "followers": {
-        "min": 2668.0,
-        "max": 145916.0,
-        "avg": 44605.42857142857,
+        "min": 2681.0,
+        "max": 145980.0,
+        "avg": 44609.21428571428,
         "min-user": "@derrelreyhan",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 13.0,
         "max": 360.0,
-        "avg": 151.21428571428572,
+        "avg": 151.35714285714286,
         "min-user": "@derrelreyhan",
         "max-user": "@BagCalls"
       },
@@ -5728,16 +5728,16 @@
       "project": "metawin",
       "timeframe": "7D",
       "followers": {
-        "min": 11547.0,
-        "max": 979391.0,
-        "avg": 233143.14285714287,
+        "min": 11544.0,
+        "max": 979749.0,
+        "avg": 233139.85714285713,
         "min-user": "@VenomWeb_3",
         "max-user": "@wallstreetbets"
       },
       "smart_followers": {
         "min": 58.0,
         "max": 2361.0,
-        "avg": 1048.857142857143,
+        "avg": 1049.142857142857,
         "min-user": "@VenomWeb_3",
         "max-user": "@wallstreetbets"
       },
@@ -5755,16 +5755,16 @@
       "project": "metawin",
       "timeframe": "30D",
       "followers": {
-        "min": 3748.0,
-        "max": 979391.0,
-        "avg": 190899.41666666666,
+        "min": 3747.0,
+        "max": 979749.0,
+        "avg": 194937.95833333334,
         "min-user": "@Evilhai88",
         "max-user": "@wallstreetbets"
       },
       "smart_followers": {
         "min": 58.0,
         "max": 2361.0,
-        "avg": 861.8333333333334,
+        "avg": 866.4583333333334,
         "min-user": "@VenomWeb_3",
         "max-user": "@wallstreetbets"
       },
@@ -5836,16 +5836,16 @@
       "project": "miden",
       "timeframe": "7D",
       "followers": {
-        "min": 1816.0,
-        "max": 145911.0,
-        "avg": 18856.54761904762,
+        "min": 1817.0,
+        "max": 146000.0,
+        "avg": 19029.159090909092,
         "min-user": "@alexanderlee314",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 13.0,
         "max": 2657.0,
-        "avg": 202.5,
+        "avg": 193.1590909090909,
         "min-user": "@derrelreyhan",
         "max-user": "@EliBenSasson"
       },
@@ -5856,23 +5856,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 42,
+      "count": 44,
       "path": "lbyaps/miden/miden-7D.json"
     },
     {
       "project": "miden",
       "timeframe": "30D",
       "followers": {
-        "min": 1418.0,
-        "max": 145911.0,
-        "avg": 17781.484536082473,
+        "min": 1412.0,
+        "max": 146000.0,
+        "avg": 17746.05,
         "min-user": "@Aira_meca",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 6.0,
         "max": 2657.0,
-        "avg": 186.38144329896906,
+        "avg": 184.08,
         "min-user": "@Crypto_SunnyS",
         "max-user": "@EliBenSasson"
       },
@@ -5883,7 +5883,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 97,
+      "count": 100,
       "path": "lbyaps/miden/miden-30D.json"
     },
     {
@@ -5917,17 +5917,17 @@
       "project": "mira",
       "timeframe": "30D",
       "followers": {
-        "min": 1406.0,
-        "max": 9629.0,
-        "avg": 6181.4,
-        "min-user": "@vletsuuu",
+        "min": 4176.0,
+        "max": 9688.0,
+        "avg": 7361.5,
+        "min-user": "@Cllickk",
         "max-user": "@tienho_nyx"
       },
       "smart_followers": {
-        "min": 18.0,
+        "min": 28.0,
         "max": 163.0,
-        "avg": 64.0,
-        "min-user": "@vletsuuu",
+        "avg": 75.5,
+        "min-user": "@Cllickk",
         "max-user": "@seongmoolee"
       },
       "yaps": {
@@ -5937,7 +5937,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 5,
+      "count": 4,
       "path": "lbyaps/mira/mira-30D.json"
     },
     {
@@ -5971,16 +5971,16 @@
       "project": "mitosis",
       "timeframe": "30D",
       "followers": {
-        "min": 8930.0,
-        "max": 8930.0,
-        "avg": 8930.0,
+        "min": 8940.0,
+        "max": 8940.0,
+        "avg": 8940.0,
         "min-user": "@Crypto_Zh0u",
         "max-user": "@Crypto_Zh0u"
       },
       "smart_followers": {
-        "min": 132.0,
-        "max": 132.0,
-        "avg": 132.0,
+        "min": 133.0,
+        "max": 133.0,
+        "avg": 133.0,
         "min-user": "@Crypto_Zh0u",
         "max-user": "@Crypto_Zh0u"
       },
@@ -6052,17 +6052,17 @@
       "project": "monad",
       "timeframe": "7D",
       "followers": {
-        "min": 3278.0,
-        "max": 479914.0,
-        "avg": 59742.153846153844,
+        "min": 3276.0,
+        "max": 479958.0,
+        "avg": 55115.92156862745,
         "min-user": "@petertherock",
         "max-user": "@AltCryptoGems"
       },
       "smart_followers": {
-        "min": 163.0,
+        "min": 139.0,
         "max": 5877.0,
-        "avg": 1046.3846153846155,
-        "min-user": "@seongmoolee",
+        "avg": 1046.235294117647,
+        "min-user": "@thisisfin_",
         "max-user": "@mert"
       },
       "yaps": {
@@ -6072,23 +6072,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 52,
+      "count": 51,
       "path": "lbyaps/monad/monad-7D.json"
     },
     {
       "project": "monad",
       "timeframe": "30D",
       "followers": {
-        "min": 3278.0,
-        "max": 479914.0,
-        "avg": 54758.16161616162,
+        "min": 3276.0,
+        "max": 479958.0,
+        "avg": 51288.020202020205,
         "min-user": "@petertherock",
         "max-user": "@AltCryptoGems"
       },
       "smart_followers": {
         "min": 68.0,
         "max": 5877.0,
-        "avg": 1086.6767676767677,
+        "avg": 1045.3131313131314,
         "min-user": "@kantianum",
         "max-user": "@mert"
       },
@@ -6106,16 +6106,16 @@
       "project": "moonbirds",
       "timeframe": "7D",
       "followers": {
-        "min": 1009.0,
-        "max": 720389.0,
-        "avg": 58918.2,
+        "min": 1002.0,
+        "max": 720333.0,
+        "avg": 59735.77142857143,
         "min-user": "@colossus0205",
         "max-user": "@crypto_birb"
       },
       "smart_followers": {
         "min": 14.0,
         "max": 5007.0,
-        "avg": 909.5714285714286,
+        "avg": 939.5714285714286,
         "min-user": "@colossus0205",
         "max-user": "@rektmando"
       },
@@ -6133,16 +6133,16 @@
       "project": "moonbirds",
       "timeframe": "30D",
       "followers": {
-        "min": 712.0,
-        "max": 720389.0,
-        "avg": 43580.32967032967,
+        "min": 713.0,
+        "max": 720333.0,
+        "avg": 45280.6091954023,
         "min-user": "@bigbiceps",
         "max-user": "@crypto_birb"
       },
       "smart_followers": {
         "min": 11.0,
         "max": 5007.0,
-        "avg": 850.7582417582418,
+        "avg": 852.6666666666666,
         "min-user": "@donlyree",
         "max-user": "@rektmando"
       },
@@ -6153,7 +6153,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 91,
+      "count": 87,
       "path": "lbyaps/moonbirds/moonbirds-30D.json"
     },
     {
@@ -6241,9 +6241,9 @@
       "project": "movement",
       "timeframe": "30D",
       "followers": {
-        "min": 2557.0,
-        "max": 9832.0,
-        "avg": 6517.333333333333,
+        "min": 2555.0,
+        "max": 9831.0,
+        "avg": 6513.333333333333,
         "min-user": "@obsrvgmi",
         "max-user": "@mer_q_tio"
       },
@@ -6268,9 +6268,9 @@
       "project": "msu",
       "timeframe": "7D",
       "followers": {
-        "min": 26315.0,
+        "min": 26330.0,
         "max": 172872.0,
-        "avg": 99593.5,
+        "avg": 99601.0,
         "min-user": "@Cheering_ChoCo",
         "max-user": "@yellowpantherx"
       },
@@ -6295,9 +6295,9 @@
       "project": "msu",
       "timeframe": "30D",
       "followers": {
-        "min": 3372.0,
+        "min": 3371.0,
         "max": 172872.0,
-        "avg": 44061.0,
+        "avg": 44064.666666666664,
         "min-user": "@nexpacetime",
         "max-user": "@yellowpantherx"
       },
@@ -6322,9 +6322,9 @@
       "project": "multibank",
       "timeframe": "7D",
       "followers": {
-        "min": 17791.0,
-        "max": 17791.0,
-        "avg": 17791.0,
+        "min": 17788.0,
+        "max": 17788.0,
+        "avg": 17788.0,
         "min-user": "@KierianV",
         "max-user": "@KierianV"
       },
@@ -6349,9 +6349,9 @@
       "project": "multibank",
       "timeframe": "30D",
       "followers": {
-        "min": 17787.0,
-        "max": 17787.0,
-        "avg": 17787.0,
+        "min": 17788.0,
+        "max": 17788.0,
+        "avg": 17788.0,
         "min-user": "@KierianV",
         "max-user": "@KierianV"
       },
@@ -6376,16 +6376,16 @@
       "project": "multipli",
       "timeframe": "7D",
       "followers": {
-        "min": 1943.0,
-        "max": 145912.0,
-        "avg": 33363.5,
+        "min": 1944.0,
+        "max": 146000.0,
+        "avg": 33373.75,
         "min-user": "@0xfarmed",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 7.0,
         "max": 1608.0,
-        "avg": 443.0,
+        "avg": 443.25,
         "min-user": "@Kevinscott912",
         "max-user": "@JaysonCrypto"
       },
@@ -6403,16 +6403,16 @@
       "project": "multipli",
       "timeframe": "30D",
       "followers": {
-        "min": 835.0,
-        "max": 145912.0,
-        "avg": 21797.3125,
+        "min": 836.0,
+        "max": 146000.0,
+        "avg": 21802.875,
         "min-user": "@lgrowingupl",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 7.0,
         "max": 1608.0,
-        "avg": 277.25,
+        "avg": 277.375,
         "min-user": "@Kevinscott912",
         "max-user": "@JaysonCrypto"
       },
@@ -6485,15 +6485,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 1083.0,
-        "max": 820296.0,
-        "avg": 104576.25,
+        "max": 820329.0,
+        "avg": 99918.4705882353,
         "min-user": "@scottmelker",
         "max-user": "@CryptoMichNL"
       },
       "smart_followers": {
         "min": 110.0,
         "max": 5877.0,
-        "avg": 1724.8125,
+        "avg": 1671.3529411764705,
         "min-user": "@zacodil",
         "max-user": "@mert"
       },
@@ -6504,7 +6504,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 16,
+      "count": 17,
       "path": "lbyaps/near/near-7D.json"
     },
     {
@@ -6512,15 +6512,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 1083.0,
-        "max": 820296.0,
-        "avg": 98180.45,
+        "max": 820329.0,
+        "avg": 94714.14285714286,
         "min-user": "@scottmelker",
         "max-user": "@CryptoMichNL"
       },
       "smart_followers": {
         "min": 110.0,
         "max": 5877.0,
-        "avg": 1646.0,
+        "avg": 1606.7619047619048,
         "min-user": "@zacodil",
         "max-user": "@mert"
       },
@@ -6531,25 +6531,25 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 20,
+      "count": 21,
       "path": "lbyaps/near/near-30D.json"
     },
     {
       "project": "nesa",
       "timeframe": "7D",
       "followers": {
-        "min": 5481.0,
-        "max": 44678.0,
-        "avg": 19817.0,
+        "min": 5485.0,
+        "max": 154496.0,
+        "avg": 53534.5,
         "min-user": "@mr_ferdiansah",
-        "max-user": "@Shuarix"
+        "max-user": "@Greta0086"
       },
       "smart_followers": {
         "min": 38.0,
-        "max": 163.0,
-        "avg": 110.66666666666667,
+        "max": 362.0,
+        "avg": 173.5,
         "min-user": "@mr_ferdiansah",
-        "max-user": "@seongmoolee"
+        "max-user": "@Greta0086"
       },
       "yaps": {
         "min": null,
@@ -6558,23 +6558,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 3,
+      "count": 4,
       "path": "lbyaps/nesa/nesa-7D.json"
     },
     {
       "project": "nesa",
       "timeframe": "30D",
       "followers": {
-        "min": 1346.0,
-        "max": 64271.0,
-        "avg": 21695.466666666667,
+        "min": 1343.0,
+        "max": 154496.0,
+        "avg": 29949.9375,
         "min-user": "@KhaleeYoung",
-        "max-user": "@FareaNFts"
+        "max-user": "@Greta0086"
       },
       "smart_followers": {
         "min": 19.0,
         "max": 800.0,
-        "avg": 167.4,
+        "avg": 179.625,
         "min-user": "@KhaleeYoung",
         "max-user": "@TimHaldorsson"
       },
@@ -6585,15 +6585,15 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 15,
+      "count": 16,
       "path": "lbyaps/nesa/nesa-30D.json"
     },
     {
       "project": "newton",
       "timeframe": "7D",
       "followers": {
-        "min": 4716.0,
-        "max": 12672.0,
+        "min": 4730.0,
+        "max": 12657.0,
         "avg": 8001.0,
         "min-user": "@coinshooot",
         "max-user": "@seanli"
@@ -6619,8 +6619,8 @@
       "project": "newton",
       "timeframe": "30D",
       "followers": {
-        "min": 4716.0,
-        "max": 12672.0,
+        "min": 4730.0,
+        "max": 12657.0,
         "avg": 8001.0,
         "min-user": "@coinshooot",
         "max-user": "@seanli"
@@ -6647,8 +6647,8 @@
       "timeframe": "7D",
       "followers": {
         "min": 9292.0,
-        "max": 43465.0,
-        "avg": 26378.5,
+        "max": 43464.0,
+        "avg": 26378.0,
         "min-user": "@seongmoolee",
         "max-user": "@chainyoda"
       },
@@ -6673,16 +6673,16 @@
       "project": "noble",
       "timeframe": "30D",
       "followers": {
-        "min": 787.0,
-        "max": 92314.0,
-        "avg": 15340.3,
-        "min-user": "@ellagoldgal",
-        "max-user": "@Flowslikeosmo"
+        "min": 2025.0,
+        "max": 75959.0,
+        "avg": 12383.933333333332,
+        "min-user": "@ChadPeter357",
+        "max-user": "@stacy_muur"
       },
       "smart_followers": {
         "min": 13.0,
         "max": 2821.0,
-        "avg": 400.45,
+        "avg": 399.6666666666667,
         "min-user": "@derrelreyhan",
         "max-user": "@chainyoda"
       },
@@ -6693,7 +6693,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 20,
+      "count": 15,
       "path": "lbyaps/noble/noble-30D.json"
     },
     {
@@ -6754,9 +6754,9 @@
       "project": "noya",
       "timeframe": "7D",
       "followers": {
-        "min": 2881.0,
+        "min": 2882.0,
         "max": 9292.0,
-        "avg": 6086.5,
+        "avg": 6087.0,
         "min-user": "@0xjacobzhao",
         "max-user": "@seongmoolee"
       },
@@ -6781,9 +6781,9 @@
       "project": "noya",
       "timeframe": "30D",
       "followers": {
-        "min": 2881.0,
+        "min": 2882.0,
         "max": 9292.0,
-        "avg": 6086.5,
+        "avg": 6087.0,
         "min-user": "@0xjacobzhao",
         "max-user": "@seongmoolee"
       },
@@ -6862,17 +6862,17 @@
       "project": "opengradient",
       "timeframe": "7D",
       "followers": {
-        "min": 1394.0,
-        "max": 145911.0,
-        "avg": 25145.469387755104,
+        "min": 1393.0,
+        "max": 146000.0,
+        "avg": 25969.76,
         "min-user": "@BlvckKunle",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
-        "min": 21.0,
-        "max": 639.0,
-        "avg": 147.6122448979592,
-        "min-user": "@Nonsokozen",
+        "min": 19.0,
+        "max": 642.0,
+        "avg": 145.52,
+        "min-user": "@0xAhmadullah",
         "max-user": "@KongBTC"
       },
       "yaps": {
@@ -6882,23 +6882,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 49,
+      "count": 50,
       "path": "lbyaps/opengradient/opengradient-7D.json"
     },
     {
       "project": "opengradient",
       "timeframe": "30D",
       "followers": {
-        "min": 1185.0,
-        "max": 228497.0,
-        "avg": 24496.666666666668,
+        "min": 1184.0,
+        "max": 228460.0,
+        "avg": 26031.238805970148,
         "min-user": "@kukac24",
         "max-user": "@wyckoffweb"
       },
       "smart_followers": {
         "min": 13.0,
         "max": 651.0,
-        "avg": 140.3913043478261,
+        "avg": 142.7910447761194,
         "min-user": "@derrelreyhan",
         "max-user": "@jgonzalezferrer"
       },
@@ -6909,7 +6909,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 69,
+      "count": 67,
       "path": "lbyaps/opengradient/opengradient-30D.json"
     },
     {
@@ -6917,8 +6917,8 @@
       "timeframe": "7D",
       "followers": {
         "min": 9292.0,
-        "max": 24867.0,
-        "avg": 17079.5,
+        "max": 24850.0,
+        "avg": 17071.0,
         "min-user": "@seongmoolee",
         "max-user": "@JaysonCrypto"
       },
@@ -6943,17 +6943,17 @@
       "project": "openledger",
       "timeframe": "30D",
       "followers": {
-        "min": 1406.0,
-        "max": 147600.0,
-        "avg": 16938.0,
-        "min-user": "@vletsuuu",
+        "min": 2025.0,
+        "max": 147615.0,
+        "avg": 20892.727272727272,
+        "min-user": "@ChadPeter357",
         "max-user": "@ericjackson"
       },
       "smart_followers": {
-        "min": 18.0,
+        "min": 27.0,
         "max": 1608.0,
-        "avg": 186.14285714285714,
-        "min-user": "@vletsuuu",
+        "avg": 228.0909090909091,
+        "min-user": "@HuevaToi",
         "max-user": "@JaysonCrypto"
       },
       "yaps": {
@@ -6963,25 +6963,25 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 14,
+      "count": 11,
       "path": "lbyaps/openledger/openledger-30D.json"
     },
     {
       "project": "openmind",
       "timeframe": "7D",
       "followers": {
-        "min": 1738.0,
-        "max": 382756.0,
-        "avg": 66050.54545454546,
+        "min": 1742.0,
+        "max": 382859.0,
+        "avg": 62864.48484848485,
         "min-user": "@HereComesKumar",
         "max-user": "@PhyrexNi"
       },
       "smart_followers": {
-        "min": 30.0,
-        "max": 9747.0,
-        "avg": 1176.6868686868686,
-        "min-user": "@biziyou888",
-        "max-user": "@brian_armstrong"
+        "min": 23.0,
+        "max": 7264.0,
+        "avg": 993.3131313131313,
+        "min-user": "@justicenwokedi5",
+        "max-user": "@jessepollak"
       },
       "yaps": {
         "min": null,
@@ -6997,17 +6997,17 @@
       "project": "openmind",
       "timeframe": "30D",
       "followers": {
-        "min": 1768.0,
-        "max": 455406.0,
-        "avg": 58369.878787878784,
+        "min": 1773.0,
+        "max": 455405.0,
+        "avg": 58624.181818181816,
         "min-user": "@brian_armstrong",
         "max-user": "@farokh"
       },
       "smart_followers": {
-        "min": 30.0,
-        "max": 9747.0,
-        "avg": 1385.6464646464647,
-        "min-user": "@biziyou888",
+        "min": 13.0,
+        "max": 9743.0,
+        "avg": 1351.3535353535353,
+        "min-user": "@derrelreyhan",
         "max-user": "@brian_armstrong"
       },
       "yaps": {
@@ -7024,16 +7024,16 @@
       "project": "orderly",
       "timeframe": "7D",
       "followers": {
-        "min": 11276.0,
-        "max": 11276.0,
-        "avg": 11276.0,
+        "min": 11275.0,
+        "max": 11275.0,
+        "avg": 11275.0,
         "min-user": "@ranyi1115",
         "max-user": "@ranyi1115"
       },
       "smart_followers": {
-        "min": 418.0,
-        "max": 418.0,
-        "avg": 418.0,
+        "min": 419.0,
+        "max": 419.0,
+        "avg": 419.0,
         "min-user": "@ranyi1115",
         "max-user": "@ranyi1115"
       },
@@ -7051,16 +7051,16 @@
       "project": "orderly",
       "timeframe": "30D",
       "followers": {
-        "min": 8368.0,
-        "max": 125089.0,
-        "avg": 52159.75,
+        "min": 8365.0,
+        "max": 125042.0,
+        "avg": 52147.75,
         "min-user": "@Artistkatty_",
         "max-user": "@momochenming"
       },
       "smart_followers": {
         "min": 150.0,
         "max": 809.0,
-        "avg": 462.5,
+        "avg": 462.75,
         "min-user": "@Artistkatty_",
         "max-user": "@ImNotTheWolf"
       },
@@ -7132,16 +7132,16 @@
       "project": "paradex",
       "timeframe": "7D",
       "followers": {
-        "min": 4430.0,
-        "max": 302455.0,
-        "avg": 59341.13636363636,
+        "min": 4433.0,
+        "max": 302283.0,
+        "avg": 59319.72727272727,
         "min-user": "@0xasrequired",
         "max-user": "@Route2FI"
       },
       "smart_followers": {
         "min": 74.0,
-        "max": 3358.0,
-        "avg": 618.9545454545455,
+        "max": 3359.0,
+        "avg": 619.1818181818181,
         "min-user": "@Muallimin_biri",
         "max-user": "@Route2FI"
       },
@@ -7159,16 +7159,16 @@
       "project": "paradex",
       "timeframe": "30D",
       "followers": {
-        "min": 4430.0,
-        "max": 302455.0,
-        "avg": 59341.13636363636,
+        "min": 4433.0,
+        "max": 302283.0,
+        "avg": 59319.72727272727,
         "min-user": "@0xasrequired",
         "max-user": "@Route2FI"
       },
       "smart_followers": {
         "min": 74.0,
-        "max": 3358.0,
-        "avg": 618.9545454545455,
+        "max": 3359.0,
+        "avg": 619.1818181818181,
         "min-user": "@Muallimin_biri",
         "max-user": "@Route2FI"
       },
@@ -7187,8 +7187,8 @@
       "timeframe": "7D",
       "followers": {
         "min": 9292.0,
-        "max": 9511.0,
-        "avg": 9401.5,
+        "max": 9517.0,
+        "avg": 9404.5,
         "min-user": "@seongmoolee",
         "max-user": "@RobertSagurton"
       },
@@ -7213,16 +7213,16 @@
       "project": "parti",
       "timeframe": "30D",
       "followers": {
-        "min": 1667.0,
-        "max": 10229.0,
-        "avg": 3945.1428571428573,
+        "min": 1668.0,
+        "max": 10246.0,
+        "avg": 3966.05,
         "min-user": "@AaronSamukes",
         "max-user": "@GpaAndy"
       },
       "smart_followers": {
         "min": 5.0,
         "max": 577.0,
-        "avg": 52.142857142857146,
+        "avg": 53.1,
         "min-user": "@Andy_chiky",
         "max-user": "@RobertSagurton"
       },
@@ -7233,24 +7233,24 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 21,
+      "count": 20,
       "path": "lbyaps/parti/parti-30D.json"
     },
     {
       "project": "peaq",
       "timeframe": "7D",
       "followers": {
-        "min": 6424.0,
-        "max": 167492.0,
-        "avg": 44396.625,
-        "min-user": "@Yaki_fomoArt",
+        "min": 2082.0,
+        "max": 167510.0,
+        "avg": 42603.76,
+        "min-user": "@SunshineGinGirl",
         "max-user": "@Defi_Rocketeer"
       },
       "smart_followers": {
-        "min": 66.0,
+        "min": 25.0,
         "max": 1892.0,
-        "avg": 367.7916666666667,
-        "min-user": "@Yaki_fomoArt",
+        "avg": 354.32,
+        "min-user": "@SunshineGinGirl",
         "max-user": "@0xNairolf"
       },
       "yaps": {
@@ -7260,24 +7260,24 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 24,
+      "count": 25,
       "path": "lbyaps/peaq/peaq-7D.json"
     },
     {
       "project": "peaq",
       "timeframe": "30D",
       "followers": {
-        "min": 6424.0,
-        "max": 167492.0,
-        "avg": 43730.730769230766,
-        "min-user": "@Yaki_fomoArt",
+        "min": 2082.0,
+        "max": 167510.0,
+        "avg": 42096.18518518518,
+        "min-user": "@SunshineGinGirl",
         "max-user": "@Defi_Rocketeer"
       },
       "smart_followers": {
-        "min": 66.0,
+        "min": 25.0,
         "max": 1892.0,
-        "avg": 421.96153846153845,
-        "min-user": "@Yaki_fomoArt",
+        "avg": 407.55555555555554,
+        "min-user": "@SunshineGinGirl",
         "max-user": "@0xNairolf"
       },
       "yaps": {
@@ -7287,25 +7287,25 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 26,
+      "count": 27,
       "path": "lbyaps/peaq/peaq-30D.json"
     },
     {
       "project": "pengu",
       "timeframe": "7D",
       "followers": {
-        "min": 1057.0,
-        "max": 730999.0,
-        "avg": 67854.3,
+        "min": 1053.0,
+        "max": 730989.0,
+        "avg": 63232.37777777778,
         "min-user": "@DayankBK2UK",
         "max-user": "@CryptoKaleo"
       },
       "smart_followers": {
-        "min": 27.0,
-        "max": 6047.0,
-        "avg": 1008.6,
-        "min-user": "@DayankBK2UK",
-        "max-user": "@LucaNetz"
+        "min": 23.0,
+        "max": 4475.0,
+        "avg": 866.2888888888889,
+        "min-user": "@Zoloto231",
+        "max-user": "@CryptoKaleo"
       },
       "yaps": {
         "min": null,
@@ -7314,23 +7314,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 40,
+      "count": 45,
       "path": "lbyaps/pengu/pengu-7D.json"
     },
     {
       "project": "pengu",
       "timeframe": "30D",
       "followers": {
-        "min": 1131.0,
-        "max": 730999.0,
-        "avg": 53630.04054054054,
-        "min-user": "@csizzolt",
+        "min": 1053.0,
+        "max": 730989.0,
+        "avg": 54120.36708860759,
+        "min-user": "@DayankBK2UK",
         "max-user": "@CryptoKaleo"
       },
       "smart_followers": {
         "min": 14.0,
         "max": 6047.0,
-        "avg": 889.081081081081,
+        "avg": 873.5696202531645,
         "min-user": "@csizzolt",
         "max-user": "@LucaNetz"
       },
@@ -7341,16 +7341,16 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 74,
+      "count": 79,
       "path": "lbyaps/pengu/pengu-30D.json"
     },
     {
       "project": "pip",
       "timeframe": "7D",
       "followers": {
-        "min": 2668.0,
+        "min": 2681.0,
         "max": 9292.0,
-        "avg": 5814.0,
+        "avg": 5819.333333333333,
         "min-user": "@derrelreyhan",
         "max-user": "@seongmoolee"
       },
@@ -7375,9 +7375,9 @@
       "project": "pip",
       "timeframe": "30D",
       "followers": {
-        "min": 2668.0,
+        "min": 2681.0,
         "max": 9292.0,
-        "avg": 5814.0,
+        "avg": 5819.333333333333,
         "min-user": "@derrelreyhan",
         "max-user": "@seongmoolee"
       },
@@ -7456,16 +7456,16 @@
       "project": "polkadot",
       "timeframe": "7D",
       "followers": {
-        "min": 1178.0,
-        "max": 18076.0,
-        "avg": 7277.2,
-        "min-user": "@byteboro",
+        "min": 4081.0,
+        "max": 18201.0,
+        "avg": 8834.0,
+        "min-user": "@lolmcshizz",
         "max-user": "@DeFiDecoder_"
       },
       "smart_followers": {
         "min": 49.0,
         "max": 95.0,
-        "avg": 70.2,
+        "avg": 74.5,
         "min-user": "@danicuki",
         "max-user": "@DeFiDecoder_"
       },
@@ -7476,16 +7476,16 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 5,
+      "count": 4,
       "path": "lbyaps/polkadot/polkadot-7D.json"
     },
     {
       "project": "polkadot",
       "timeframe": "30D",
       "followers": {
-        "min": 1178.0,
-        "max": 18076.0,
-        "avg": 8162.0,
+        "min": 1182.0,
+        "max": 18201.0,
+        "avg": 8179.375,
         "min-user": "@byteboro",
         "max-user": "@DeFiDecoder_"
       },
@@ -7511,15 +7511,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 1743.0,
-        "max": 710771.0,
-        "avg": 46766.78021978022,
+        "max": 710777.0,
+        "avg": 50647.42391304348,
         "min-user": "@abhinavsam4",
         "max-user": "@MartiniGuyYT"
       },
       "smart_followers": {
         "min": 13.0,
-        "max": 4665.0,
-        "avg": 705.5494505494505,
+        "max": 4663.0,
+        "avg": 714.2065217391304,
         "min-user": "@abhinavsam4",
         "max-user": "@sandeepnailwal"
       },
@@ -7530,7 +7530,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 91,
+      "count": 92,
       "path": "lbyaps/polygon/polygon-7D.json"
     },
     {
@@ -7538,15 +7538,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 1743.0,
-        "max": 710771.0,
-        "avg": 47380.77777777778,
+        "max": 710777.0,
+        "avg": 48383.606060606064,
         "min-user": "@abhinavsam4",
         "max-user": "@MartiniGuyYT"
       },
       "smart_followers": {
         "min": 13.0,
-        "max": 4665.0,
-        "avg": 869.3131313131313,
+        "max": 4663.0,
+        "avg": 849.3131313131313,
         "min-user": "@abhinavsam4",
         "max-user": "@sandeepnailwal"
       },
@@ -7645,18 +7645,18 @@
       "project": "portaltobitcoin",
       "timeframe": "30D",
       "followers": {
-        "min": 23105.0,
-        "max": 121173.0,
-        "avg": 67999.0,
+        "min": 23015.0,
+        "max": 121147.0,
+        "avg": 72081.0,
         "min-user": "@Dimiantreez",
         "max-user": "@geoburke"
       },
       "smart_followers": {
         "min": 146.0,
-        "max": 387.0,
-        "avg": 229.0,
+        "max": 154.0,
+        "avg": 150.0,
         "min-user": "@Dimiantreez",
-        "max-user": "@grebby"
+        "max-user": "@geoburke"
       },
       "yaps": {
         "min": null,
@@ -7665,7 +7665,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 3,
+      "count": 2,
       "path": "lbyaps/portaltobitcoin/portaltobitcoin-30D.json"
     },
     {
@@ -7726,9 +7726,9 @@
       "project": "pudgy-party",
       "timeframe": "7D",
       "followers": {
-        "min": 1057.0,
-        "max": 15326.0,
-        "avg": 7043.0,
+        "min": 1053.0,
+        "max": 15321.0,
+        "avg": 7042.0,
         "min-user": "@DayankBK2UK",
         "max-user": "@marcellovtv"
       },
@@ -7753,18 +7753,18 @@
       "project": "pudgy-party",
       "timeframe": "30D",
       "followers": {
-        "min": 1057.0,
-        "max": 18839.0,
-        "avg": 8795.818181818182,
+        "min": 1053.0,
+        "max": 18838.0,
+        "avg": 7838.8,
         "min-user": "@DayankBK2UK",
         "max-user": "@diegoarmandoAD"
       },
       "smart_followers": {
         "min": 21.0,
-        "max": 883.0,
-        "avg": 316.27272727272725,
+        "max": 616.0,
+        "avg": 259.7,
         "min-user": "@oleeeeeee_",
-        "max-user": "@sauciii"
+        "max-user": "@marcellovtv"
       },
       "yaps": {
         "min": null,
@@ -7773,7 +7773,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 11,
+      "count": 10,
       "path": "lbyaps/pudgy-party/pudgy-party-30D.json"
     },
     {
@@ -7807,18 +7807,18 @@
       "project": "puffpaw",
       "timeframe": "30D",
       "followers": {
-        "min": 7914.0,
-        "max": 21392.0,
-        "avg": 14738.333333333334,
+        "min": 7915.0,
+        "max": 21391.0,
+        "avg": 14753.0,
         "min-user": "@HenriLee92",
         "max-user": "@BQYouTube"
       },
       "smart_followers": {
         "min": 144.0,
-        "max": 324.0,
-        "avg": 263.6666666666667,
+        "max": 326.0,
+        "avg": 264.6666666666667,
         "min-user": "@HenriLee92",
-        "max-user": "@BQYouTube"
+        "max-user": "@r2Jamong"
       },
       "yaps": {
         "min": null,
@@ -7834,16 +7834,16 @@
       "project": "pyth",
       "timeframe": "7D",
       "followers": {
-        "min": 2466.0,
-        "max": 20017.0,
-        "avg": 8119.666666666667,
+        "min": 2464.0,
+        "max": 19866.0,
+        "avg": 8104.111111111111,
         "min-user": "@hopheycaptain",
         "max-user": "@DeFiOracle_"
       },
       "smart_followers": {
         "min": 72.0,
         "max": 627.0,
-        "avg": 342.44444444444446,
+        "avg": 342.55555555555554,
         "min-user": "@hopheycaptain",
         "max-user": "@mdomcahill"
       },
@@ -7861,16 +7861,16 @@
       "project": "pyth",
       "timeframe": "30D",
       "followers": {
-        "min": 2466.0,
-        "max": 20017.0,
-        "avg": 7516.25,
+        "min": 2464.0,
+        "max": 19866.0,
+        "avg": 7504.416666666667,
         "min-user": "@hopheycaptain",
         "max-user": "@DeFiOracle_"
       },
       "smart_followers": {
         "min": 72.0,
         "max": 627.0,
-        "avg": 372.9166666666667,
+        "avg": 373.0833333333333,
         "min-user": "@hopheycaptain",
         "max-user": "@mdomcahill"
       },
@@ -8050,9 +8050,9 @@
       "project": "rainbow",
       "timeframe": "7D",
       "followers": {
-        "min": 2888.0,
-        "max": 18190.0,
-        "avg": 10123.333333333334,
+        "min": 2891.0,
+        "max": 18188.0,
+        "avg": 10123.666666666666,
         "min-user": "@alexlaprade",
         "max-user": "@toady_hawk"
       },
@@ -8078,16 +8078,16 @@
       "timeframe": "30D",
       "followers": {
         "min": 812.0,
-        "max": 107234.0,
-        "avg": 23561.285714285714,
+        "max": 107216.0,
+        "avg": 23894.53846153846,
         "min-user": "@agrislis",
         "max-user": "@ZF_lab"
       },
       "smart_followers": {
-        "min": 25.0,
+        "min": 41.0,
         "max": 3813.0,
-        "avg": 587.7142857142857,
-        "min-user": "@rishuz321",
+        "avg": 603.0769230769231,
+        "min-user": "@0xDeviron",
         "max-user": "@mikedemarais"
       },
       "yaps": {
@@ -8097,7 +8097,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 28,
+      "count": 26,
       "path": "lbyaps/rainbow/rainbow-30D.json"
     },
     {
@@ -8428,16 +8428,16 @@
       "project": "sei",
       "timeframe": "7D",
       "followers": {
-        "min": 5129.0,
-        "max": 148672.0,
-        "avg": 34112.555555555555,
+        "min": 5133.0,
+        "max": 148328.0,
+        "avg": 33551.58823529412,
         "min-user": "@MrCampbell",
         "max-user": "@zhuanfgghjnb"
       },
       "smart_followers": {
         "min": 33.0,
         "max": 1460.0,
-        "avg": 359.3333333333333,
+        "avg": 349.6470588235294,
         "min-user": "@defikadic",
         "max-user": "@jayendra_jog"
       },
@@ -8448,23 +8448,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 18,
+      "count": 17,
       "path": "lbyaps/sei/sei-7D.json"
     },
     {
       "project": "sei",
       "timeframe": "30D",
       "followers": {
-        "min": 1260.0,
-        "max": 820298.0,
-        "avg": 54428.48387096774,
+        "min": 1259.0,
+        "max": 820329.0,
+        "avg": 54421.290322580644,
         "min-user": "@ChocoYining",
         "max-user": "@CryptoMichNL"
       },
       "smart_followers": {
         "min": 7.0,
         "max": 1608.0,
-        "avg": 462.61290322580646,
+        "avg": 462.96774193548384,
         "min-user": "@FenoXBT",
         "max-user": "@JaysonCrypto"
       },
@@ -8483,15 +8483,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 1540.0,
-        "max": 59718.0,
-        "avg": 17648.272727272728,
+        "max": 59719.0,
+        "avg": 18495.9,
         "min-user": "@mindkaito",
         "max-user": "@grebby"
       },
       "smart_followers": {
         "min": 25.0,
         "max": 664.0,
-        "avg": 183.36363636363637,
+        "avg": 185.7,
         "min-user": "@Golldyck",
         "max-user": "@0xsachi"
       },
@@ -8502,7 +8502,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 11,
+      "count": 10,
       "path": "lbyaps/sentient/sentient-7D.json"
     },
     {
@@ -8510,15 +8510,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 1540.0,
-        "max": 75960.0,
-        "avg": 18818.0,
+        "max": 75959.0,
+        "avg": 18816.941176470587,
         "min-user": "@mindkaito",
         "max-user": "@stacy_muur"
       },
       "smart_followers": {
         "min": 25.0,
         "max": 1695.0,
-        "avg": 273.94117647058823,
+        "avg": 274.1764705882353,
         "min-user": "@Golldyck",
         "max-user": "@stacy_muur"
       },
@@ -8590,16 +8590,16 @@
       "project": "sixr",
       "timeframe": "7D",
       "followers": {
-        "min": 2913.0,
-        "max": 390166.0,
-        "avg": 58261.09090909091,
+        "min": 2943.0,
+        "max": 390712.0,
+        "avg": 58382.27272727273,
         "min-user": "@ritzardxiii",
         "max-user": "@EvanLuthra"
       },
       "smart_followers": {
         "min": 25.0,
         "max": 827.0,
-        "avg": 217.8181818181818,
+        "avg": 218.1818181818182,
         "min-user": "@Qu3drix",
         "max-user": "@EvanLuthra"
       },
@@ -8617,16 +8617,16 @@
       "project": "sixr",
       "timeframe": "30D",
       "followers": {
-        "min": 2913.0,
-        "max": 390166.0,
-        "avg": 58261.09090909091,
+        "min": 2943.0,
+        "max": 390712.0,
+        "avg": 58382.27272727273,
         "min-user": "@ritzardxiii",
         "max-user": "@EvanLuthra"
       },
       "smart_followers": {
         "min": 25.0,
         "max": 827.0,
-        "avg": 217.8181818181818,
+        "avg": 218.1818181818182,
         "min-user": "@Qu3drix",
         "max-user": "@EvanLuthra"
       },
@@ -8860,18 +8860,18 @@
       "project": "somnia",
       "timeframe": "7D",
       "followers": {
-        "min": 5210.0,
-        "max": 172872.0,
-        "avg": 58556.36363636364,
+        "min": 5206.0,
+        "max": 281233.0,
+        "avg": 83642.72727272728,
         "min-user": "@world_invade",
-        "max-user": "@yellowpantherx"
+        "max-user": "@chooserich"
       },
       "smart_followers": {
         "min": 64.0,
-        "max": 1741.0,
-        "avg": 475.09090909090907,
+        "max": 4048.0,
+        "avg": 829.8181818181819,
         "min-user": "@numbernine_eth",
-        "max-user": "@yellowpantherx"
+        "max-user": "@chooserich"
       },
       "yaps": {
         "min": null,
@@ -8887,72 +8887,18 @@
       "project": "somnia",
       "timeframe": "30D",
       "followers": {
-        "min": 1943.0,
-        "max": 172872.0,
-        "avg": 53838.583333333336,
+        "min": 1944.0,
+        "max": 281233.0,
+        "avg": 71326.30769230769,
         "min-user": "@0xfarmed",
-        "max-user": "@yellowpantherx"
+        "max-user": "@chooserich"
       },
       "smart_followers": {
         "min": 64.0,
-        "max": 1741.0,
-        "avg": 442.0833333333333,
+        "max": 4048.0,
+        "avg": 719.6923076923077,
         "min-user": "@numbernine_eth",
-        "max-user": "@yellowpantherx"
-      },
-      "yaps": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "count": 12,
-      "path": "lbyaps/somnia/somnia-30D.json"
-    },
-    {
-      "project": "sonic",
-      "timeframe": "7D",
-      "followers": {
-        "min": 2086.0,
-        "max": 21564.0,
-        "avg": 11095.75,
-        "min-user": "@YankeeRuinX",
-        "max-user": "@gavinmclelland"
-      },
-      "smart_followers": {
-        "min": 28.0,
-        "max": 791.0,
-        "avg": 222.75,
-        "min-user": "@YankeeRuinX",
-        "max-user": "@Ceazor7"
-      },
-      "yaps": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "count": 8,
-      "path": "lbyaps/sonic/sonic-7D.json"
-    },
-    {
-      "project": "sonic",
-      "timeframe": "30D",
-      "followers": {
-        "min": 2086.0,
-        "max": 93355.0,
-        "avg": 19693.076923076922,
-        "min-user": "@YankeeRuinX",
-        "max-user": "@mr_pschmitt"
-      },
-      "smart_followers": {
-        "min": 28.0,
-        "max": 791.0,
-        "avg": 261.84615384615387,
-        "min-user": "@YankeeRuinX",
-        "max-user": "@Ceazor7"
+        "max-user": "@chooserich"
       },
       "yaps": {
         "min": null,
@@ -8962,24 +8908,78 @@
         "max-user": null
       },
       "count": 13,
+      "path": "lbyaps/somnia/somnia-30D.json"
+    },
+    {
+      "project": "sonic",
+      "timeframe": "7D",
+      "followers": {
+        "min": 2085.0,
+        "max": 21511.0,
+        "avg": 11341.714285714286,
+        "min-user": "@YankeeRuinX",
+        "max-user": "@gavinmclelland"
+      },
+      "smart_followers": {
+        "min": 28.0,
+        "max": 791.0,
+        "avg": 231.28571428571428,
+        "min-user": "@YankeeRuinX",
+        "max-user": "@Ceazor7"
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 7,
+      "path": "lbyaps/sonic/sonic-7D.json"
+    },
+    {
+      "project": "sonic",
+      "timeframe": "30D",
+      "followers": {
+        "min": 2085.0,
+        "max": 48602.0,
+        "avg": 13550.333333333334,
+        "min-user": "@YankeeRuinX",
+        "max-user": "@michaelfkong"
+      },
+      "smart_followers": {
+        "min": 28.0,
+        "max": 791.0,
+        "avg": 267.3333333333333,
+        "min-user": "@YankeeRuinX",
+        "max-user": "@Ceazor7"
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 12,
       "path": "lbyaps/sonic/sonic-30D.json"
     },
     {
       "project": "soon",
       "timeframe": "7D",
       "followers": {
-        "min": 10018.0,
-        "max": 37277.0,
-        "avg": 23647.5,
-        "min-user": "@ SOON (🔴,💊)📍🇺🇸 🗽(AI Arc)",
+        "min": 9999.0,
+        "max": 37223.0,
+        "avg": 23611.0,
+        "min-user": "@ SOON (🔴,💊)📍🇺🇸 🗽(AI 🦞Arc)",
         "max-user": "@0xYukiRabbit"
       },
       "smart_followers": {
-        "min": 228.0,
+        "min": 229.0,
         "max": 867.0,
-        "avg": 547.5,
+        "avg": 548.0,
         "min-user": "@0xYukiRabbit",
-        "max-user": "@ SOON (🔴,💊)📍🇺🇸 🗽(AI Arc)"
+        "max-user": "@ SOON (🔴,💊)📍🇺🇸 🗽(AI 🦞Arc)"
       },
       "yaps": {
         "min": null,
@@ -8995,18 +8995,18 @@
       "project": "soon",
       "timeframe": "30D",
       "followers": {
-        "min": 10018.0,
-        "max": 37277.0,
-        "avg": 23647.5,
-        "min-user": "@ SOON (🔴,💊)📍🇺🇸 🗽(AI Arc)",
+        "min": 9999.0,
+        "max": 37223.0,
+        "avg": 23611.0,
+        "min-user": "@ SOON (🔴,💊)📍🇺🇸 🗽(AI 🦞Arc)",
         "max-user": "@0xYukiRabbit"
       },
       "smart_followers": {
-        "min": 228.0,
+        "min": 229.0,
         "max": 867.0,
-        "avg": 547.5,
+        "avg": 548.0,
         "min-user": "@0xYukiRabbit",
-        "max-user": "@ SOON (🔴,💊)📍🇺🇸 🗽(AI Arc)"
+        "max-user": "@ SOON (🔴,💊)📍🇺🇸 🗽(AI 🦞Arc)"
       },
       "yaps": {
         "min": null,
@@ -9022,17 +9022,17 @@
       "project": "sophon",
       "timeframe": "7D",
       "followers": {
-        "min": 67111.0,
-        "max": 116466.0,
-        "avg": 91788.5,
-        "min-user": "@obchakevich_",
+        "min": 10754.0,
+        "max": 116455.0,
+        "avg": 64773.666666666664,
+        "min-user": "@Aabbhhz",
         "max-user": "@vohvohh"
       },
       "smart_followers": {
-        "min": 805.0,
+        "min": 609.0,
         "max": 2710.0,
-        "avg": 1757.5,
-        "min-user": "@obchakevich_",
+        "avg": 1375.3333333333333,
+        "min-user": "@Aabbhhz",
         "max-user": "@vohvohh"
       },
       "yaps": {
@@ -9042,23 +9042,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 2,
+      "count": 3,
       "path": "lbyaps/sophon/sophon-7D.json"
     },
     {
       "project": "sophon",
       "timeframe": "30D",
       "followers": {
-        "min": 4342.0,
-        "max": 116466.0,
-        "avg": 54137.5,
+        "min": 4343.0,
+        "max": 116455.0,
+        "avg": 45457.0,
         "min-user": "@spoilerbull",
         "max-user": "@vohvohh"
       },
       "smart_followers": {
         "min": 121.0,
         "max": 2710.0,
-        "avg": 1152.75,
+        "avg": 1044.4,
         "min-user": "@spoilerbull",
         "max-user": "@vohvohh"
       },
@@ -9069,7 +9069,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 4,
+      "count": 5,
       "path": "lbyaps/sophon/sophon-30D.json"
     },
     {
@@ -9077,8 +9077,8 @@
       "timeframe": "7D",
       "followers": {
         "min": 9292.0,
-        "max": 10577.0,
-        "avg": 9934.5,
+        "max": 10563.0,
+        "avg": 9927.5,
         "min-user": "@seongmoolee",
         "max-user": "@lilo_nft"
       },
@@ -9104,8 +9104,8 @@
       "timeframe": "30D",
       "followers": {
         "min": 9292.0,
-        "max": 133849.0,
-        "avg": 40986.75,
+        "max": 133711.0,
+        "avg": 40953.0,
         "min-user": "@seongmoolee",
         "max-user": "@charles48011843"
       },
@@ -9238,16 +9238,16 @@
       "project": "standx",
       "timeframe": "7D",
       "followers": {
-        "min": 1943.0,
-        "max": 145912.0,
-        "avg": 45915.31578947369,
+        "min": 1944.0,
+        "max": 146000.0,
+        "avg": 44877.756097560974,
         "min-user": "@0xfarmed",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 25.0,
         "max": 583.0,
-        "avg": 195.78947368421052,
+        "avg": 192.609756097561,
         "min-user": "@airdrop_nanhan",
         "max-user": "@maid_crypto"
       },
@@ -9258,23 +9258,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 38,
+      "count": 41,
       "path": "lbyaps/standx/standx-7D.json"
     },
     {
       "project": "standx",
       "timeframe": "30D",
       "followers": {
-        "min": 1943.0,
-        "max": 145912.0,
-        "avg": 45915.31578947369,
+        "min": 1944.0,
+        "max": 146000.0,
+        "avg": 44877.756097560974,
         "min-user": "@0xfarmed",
         "max-user": "@XNXX_EN"
       },
       "smart_followers": {
         "min": 25.0,
         "max": 583.0,
-        "avg": 195.78947368421052,
+        "avg": 192.609756097561,
         "min-user": "@airdrop_nanhan",
         "max-user": "@maid_crypto"
       },
@@ -9285,23 +9285,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 38,
+      "count": 41,
       "path": "lbyaps/standx/standx-30D.json"
     },
     {
       "project": "starknet",
       "timeframe": "7D",
       "followers": {
-        "min": 906.0,
-        "max": 52948.0,
-        "avg": 14196.777777777777,
+        "min": 905.0,
+        "max": 52950.0,
+        "avg": 14973.36,
         "min-user": "@Nacto1122",
         "max-user": "@andrewmoh"
       },
       "smart_followers": {
         "min": 25.0,
         "max": 3128.0,
-        "avg": 487.3703703703704,
+        "avg": 517.96,
         "min-user": "@Nacto1122",
         "max-user": "@ameensol"
       },
@@ -9312,7 +9312,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 27,
+      "count": 25,
       "path": "lbyaps/starknet/starknet-7D.json"
     },
     {
@@ -9320,15 +9320,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 408.0,
-        "max": 143634.0,
-        "avg": 20821.0,
+        "max": 143613.0,
+        "avg": 20817.64864864865,
         "min-user": "@vladezy_",
         "max-user": "@MingoAirdrop"
       },
       "smart_followers": {
         "min": 25.0,
         "max": 3128.0,
-        "avg": 466.86486486486484,
+        "avg": 466.97297297297297,
         "min-user": "@Nacto1122",
         "max-user": "@ameensol"
       },
@@ -9346,9 +9346,9 @@
       "project": "stbl",
       "timeframe": "7D",
       "followers": {
-        "min": 7918.0,
-        "max": 25813.0,
-        "avg": 13804.8,
+        "min": 7915.0,
+        "max": 25810.0,
+        "avg": 13802.4,
         "min-user": "@HenriLee92",
         "max-user": "@gemtoast"
       },
@@ -9373,16 +9373,16 @@
       "project": "stbl",
       "timeframe": "30D",
       "followers": {
-        "min": 3553.0,
-        "max": 54477.0,
-        "avg": 16257.333333333334,
+        "min": 3540.0,
+        "max": 54459.0,
+        "avg": 16252.333333333334,
         "min-user": "@huynh_tinh1604",
         "max-user": "@renksi"
       },
       "smart_followers": {
         "min": 34.0,
         "max": 262.0,
-        "avg": 158.22222222222223,
+        "avg": 158.33333333333334,
         "min-user": "@gemtoast",
         "max-user": "@MOODOO_Diary"
       },
@@ -9428,8 +9428,8 @@
       "timeframe": "30D",
       "followers": {
         "min": 9292.0,
-        "max": 92217.0,
-        "avg": 59156.333333333336,
+        "max": 92258.0,
+        "avg": 59169.666666666664,
         "min-user": "@seongmoolee",
         "max-user": "@DamiDefi"
       },
@@ -9454,9 +9454,9 @@
       "project": "succinct",
       "timeframe": "7D",
       "followers": {
-        "min": 6687.0,
-        "max": 23657.0,
-        "avg": 15172.0,
+        "min": 6688.0,
+        "max": 23668.0,
+        "avg": 15178.0,
         "min-user": "@ks_kulk",
         "max-user": "@pumatheuma"
       },
@@ -9481,9 +9481,9 @@
       "project": "succinct",
       "timeframe": "30D",
       "followers": {
-        "min": 6687.0,
-        "max": 23657.0,
-        "avg": 15172.0,
+        "min": 6688.0,
+        "max": 23668.0,
+        "avg": 15178.0,
         "min-user": "@ks_kulk",
         "max-user": "@pumatheuma"
       },
@@ -9562,16 +9562,16 @@
       "project": "surf",
       "timeframe": "7D",
       "followers": {
-        "min": 783.0,
-        "max": 102869.0,
-        "avg": 22475.2,
+        "min": 784.0,
+        "max": 102735.0,
+        "avg": 22315.56,
         "min-user": "@0x_dingus",
         "max-user": "@xueqiu88"
       },
       "smart_followers": {
         "min": 34.0,
-        "max": 3307.0,
-        "avg": 331.16,
+        "max": 3310.0,
+        "avg": 327.16,
         "min-user": "@Syu990",
         "max-user": "@0xSammy"
       },
@@ -9589,16 +9589,16 @@
       "project": "surf",
       "timeframe": "30D",
       "followers": {
-        "min": 783.0,
-        "max": 102869.0,
-        "avg": 22436.03125,
+        "min": 784.0,
+        "max": 102735.0,
+        "avg": 21919.21212121212,
         "min-user": "@0x_dingus",
         "max-user": "@xueqiu88"
       },
       "smart_followers": {
         "min": 34.0,
-        "max": 3307.0,
-        "avg": 313.1875,
+        "max": 3310.0,
+        "avg": 305.72727272727275,
         "min-user": "@Syu990",
         "max-user": "@0xSammy"
       },
@@ -9609,16 +9609,16 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 32,
+      "count": 33,
       "path": "lbyaps/surf/surf-30D.json"
     },
     {
       "project": "symphony",
       "timeframe": "7D",
       "followers": {
-        "min": 1247.0,
-        "max": 1247.0,
-        "avg": 1247.0,
+        "min": 1248.0,
+        "max": 1248.0,
+        "avg": 1248.0,
         "min-user": "@ChopinCadence",
         "max-user": "@ChopinCadence"
       },
@@ -9643,9 +9643,9 @@
       "project": "symphony",
       "timeframe": "30D",
       "followers": {
-        "min": 1247.0,
-        "max": 3845.0,
-        "avg": 2546.0,
+        "min": 1248.0,
+        "max": 3841.0,
+        "avg": 2544.5,
         "min-user": "@ChopinCadence",
         "max-user": "@Zuesthegods"
       },
@@ -9677,9 +9677,9 @@
         "max-user": "@stacy_muur"
       },
       "smart_followers": {
-        "min": 1695.0,
-        "max": 1695.0,
-        "avg": 1695.0,
+        "min": 1696.0,
+        "max": 1696.0,
+        "avg": 1696.0,
         "min-user": "@stacy_muur",
         "max-user": "@stacy_muur"
       },
@@ -9704,9 +9704,9 @@
         "max-user": "@stacy_muur"
       },
       "smart_followers": {
-        "min": 1695.0,
-        "max": 1695.0,
-        "avg": 1695.0,
+        "min": 1696.0,
+        "max": 1696.0,
+        "avg": 1696.0,
         "min-user": "@stacy_muur",
         "max-user": "@stacy_muur"
       },
@@ -9725,15 +9725,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 999.0,
-        "max": 177817.0,
-        "avg": 30635.72340425532,
+        "max": 177857.0,
+        "avg": 31669.980392156864,
         "min-user": "@_SmokinTed",
         "max-user": "@DeFi_Dad"
       },
       "smart_followers": {
         "min": 22.0,
-        "max": 4602.0,
-        "avg": 501.3829787234043,
+        "max": 4603.0,
+        "avg": 484.0,
         "min-user": "@0xAmberCT",
         "max-user": "@DeFi_Dad"
       },
@@ -9744,7 +9744,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 47,
+      "count": 51,
       "path": "lbyaps/theo/theo-7D.json"
     },
     {
@@ -9752,15 +9752,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 999.0,
-        "max": 177817.0,
-        "avg": 25720.016666666666,
+        "max": 177857.0,
+        "avg": 27577.854838709678,
         "min-user": "@_SmokinTed",
         "max-user": "@DeFi_Dad"
       },
       "smart_followers": {
         "min": 22.0,
-        "max": 4602.0,
-        "avg": 412.8,
+        "max": 4603.0,
+        "avg": 415.4193548387097,
         "min-user": "@0xAmberCT",
         "max-user": "@DeFi_Dad"
       },
@@ -9771,23 +9771,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 60,
+      "count": 62,
       "path": "lbyaps/theo/theo-30D.json"
     },
     {
       "project": "theoriq",
       "timeframe": "7D",
       "followers": {
-        "min": 2941.0,
-        "max": 172768.0,
-        "avg": 60307.55,
+        "min": 2947.0,
+        "max": 172859.0,
+        "avg": 58745.380952380954,
         "min-user": "@pietehao",
         "max-user": "@waleswoosh"
       },
       "smart_followers": {
         "min": 32.0,
         "max": 3827.0,
-        "avg": 547.7,
+        "avg": 527.8571428571429,
         "min-user": "@pietehao",
         "max-user": "@waleswoosh"
       },
@@ -9798,23 +9798,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 20,
+      "count": 21,
       "path": "lbyaps/theoriq/theoriq-7D.json"
     },
     {
       "project": "theoriq",
       "timeframe": "30D",
       "followers": {
-        "min": 2941.0,
-        "max": 172768.0,
-        "avg": 54764.0,
+        "min": 2947.0,
+        "max": 172859.0,
+        "avg": 53672.44,
         "min-user": "@pietehao",
         "max-user": "@waleswoosh"
       },
       "smart_followers": {
         "min": 32.0,
         "max": 3827.0,
-        "avg": 503.5833333333333,
+        "avg": 488.68,
         "min-user": "@pietehao",
         "max-user": "@waleswoosh"
       },
@@ -9825,7 +9825,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 24,
+      "count": 25,
       "path": "lbyaps/theoriq/theoriq-30D.json"
     },
     {
@@ -9940,43 +9940,16 @@
       "project": "tria",
       "timeframe": "7D",
       "followers": {
-        "min": 5380.0,
-        "max": 122735.0,
-        "avg": 54757.0,
+        "min": 5376.0,
+        "max": 122458.0,
+        "avg": 49871.1,
         "min-user": "@havelaw11",
         "max-user": "@useTria"
       },
       "smart_followers": {
         "min": 43.0,
         "max": 1090.0,
-        "avg": 332.77777777777777,
-        "min-user": "@mizuyoukan358",
-        "max-user": "@pukerrainbrow"
-      },
-      "yaps": {
-        "min": null,
-        "max": null,
-        "avg": null,
-        "min-user": null,
-        "max-user": null
-      },
-      "count": 9,
-      "path": "lbyaps/tria/tria-7D.json"
-    },
-    {
-      "project": "tria",
-      "timeframe": "30D",
-      "followers": {
-        "min": 5380.0,
-        "max": 122735.0,
-        "avg": 50647.4,
-        "min-user": "@havelaw11",
-        "max-user": "@useTria"
-      },
-      "smart_followers": {
-        "min": 43.0,
-        "max": 1090.0,
-        "avg": 317.2,
+        "avg": 313.6,
         "min-user": "@mizuyoukan358",
         "max-user": "@pukerrainbrow"
       },
@@ -9988,22 +9961,49 @@
         "max-user": null
       },
       "count": 10,
+      "path": "lbyaps/tria/tria-7D.json"
+    },
+    {
+      "project": "tria",
+      "timeframe": "30D",
+      "followers": {
+        "min": 5376.0,
+        "max": 122458.0,
+        "avg": 46575.27272727273,
+        "min-user": "@havelaw11",
+        "max-user": "@useTria"
+      },
+      "smart_followers": {
+        "min": 43.0,
+        "max": 1090.0,
+        "avg": 301.1818181818182,
+        "min-user": "@mizuyoukan358",
+        "max-user": "@pukerrainbrow"
+      },
+      "yaps": {
+        "min": null,
+        "max": null,
+        "avg": null,
+        "min-user": null,
+        "max-user": null
+      },
+      "count": 11,
       "path": "lbyaps/tria/tria-30D.json"
     },
     {
       "project": "turtleclub",
       "timeframe": "7D",
       "followers": {
-        "min": 6853.0,
-        "max": 8935.0,
-        "avg": 7894.0,
+        "min": 6844.0,
+        "max": 8940.0,
+        "avg": 7892.0,
         "min-user": "@_Jamisky",
         "max-user": "@Crypto_Zh0u"
       },
       "smart_followers": {
-        "min": 132.0,
+        "min": 133.0,
         "max": 134.0,
-        "avg": 133.0,
+        "avg": 133.5,
         "min-user": "@Crypto_Zh0u",
         "max-user": "@_Jamisky"
       },
@@ -10022,15 +10022,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 5487.0,
-        "max": 8935.0,
-        "avg": 7091.666666666667,
+        "max": 8940.0,
+        "avg": 7090.333333333333,
         "min-user": "@pedro_verdades",
         "max-user": "@Crypto_Zh0u"
       },
       "smart_followers": {
-        "min": 132.0,
+        "min": 133.0,
         "max": 165.0,
-        "avg": 143.66666666666666,
+        "avg": 144.0,
         "min-user": "@Crypto_Zh0u",
         "max-user": "@pedro_verdades"
       },
@@ -10102,9 +10102,9 @@
       "project": "uxlink",
       "timeframe": "7D",
       "followers": {
-        "min": 120596.0,
-        "max": 120596.0,
-        "avg": 120596.0,
+        "min": 120597.0,
+        "max": 120597.0,
+        "avg": 120597.0,
         "min-user": "@Paris13Jeanne",
         "max-user": "@Paris13Jeanne"
       },
@@ -10129,9 +10129,9 @@
       "project": "uxlink",
       "timeframe": "30D",
       "followers": {
-        "min": 120596.0,
-        "max": 120596.0,
-        "avg": 120596.0,
+        "min": 120597.0,
+        "max": 120597.0,
+        "avg": 120597.0,
         "min-user": "@Paris13Jeanne",
         "max-user": "@Paris13Jeanne"
       },
@@ -10426,16 +10426,16 @@
       "project": "verse8",
       "timeframe": "7D",
       "followers": {
-        "min": 3735.0,
-        "max": 13430.0,
-        "avg": 8086.714285714285,
+        "min": 3727.0,
+        "max": 16116.0,
+        "avg": 9084.5,
         "min-user": "@0xileri",
-        "max-user": "@ausbro80"
+        "max-user": "@uniquesingh__"
       },
       "smart_followers": {
         "min": 71.0,
         "max": 293.0,
-        "avg": 159.28571428571428,
+        "avg": 155.375,
         "min-user": "@0xileri",
         "max-user": "@ausbro80"
       },
@@ -10446,23 +10446,23 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 7,
+      "count": 8,
       "path": "lbyaps/verse8/verse8-7D.json"
     },
     {
       "project": "verse8",
       "timeframe": "30D",
       "followers": {
-        "min": 3735.0,
-        "max": 13430.0,
-        "avg": 8086.714285714285,
+        "min": 3727.0,
+        "max": 16116.0,
+        "avg": 9084.5,
         "min-user": "@0xileri",
-        "max-user": "@ausbro80"
+        "max-user": "@uniquesingh__"
       },
       "smart_followers": {
         "min": 71.0,
         "max": 293.0,
-        "avg": 159.28571428571428,
+        "avg": 155.375,
         "min-user": "@0xileri",
         "max-user": "@ausbro80"
       },
@@ -10473,25 +10473,25 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 7,
+      "count": 8,
       "path": "lbyaps/verse8/verse8-30D.json"
     },
     {
       "project": "virtual",
       "timeframe": "7D",
       "followers": {
-        "min": 1275.0,
-        "max": 379237.0,
-        "avg": 44332.54838709677,
+        "min": 1274.0,
+        "max": 379271.0,
+        "avg": 40103.929824561405,
         "min-user": "@RayAC1397",
         "max-user": "@JeffBooth"
       },
       "smart_followers": {
         "min": 25.0,
-        "max": 6121.0,
-        "avg": 639.983870967742,
+        "max": 2261.0,
+        "avg": 512.7894736842105,
         "min-user": "@FoFan_eth",
-        "max-user": "@laurashin"
+        "max-user": "@0xJeff"
       },
       "yaps": {
         "min": null,
@@ -10500,25 +10500,25 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 62,
+      "count": 57,
       "path": "lbyaps/virtual/virtual-7D.json"
     },
     {
       "project": "virtual",
       "timeframe": "30D",
       "followers": {
-        "min": 1275.0,
-        "max": 379238.0,
-        "avg": 42073.80722891566,
+        "min": 1274.0,
+        "max": 379271.0,
+        "avg": 44199.84523809524,
         "min-user": "@RayAC1397",
         "max-user": "@JeffBooth"
       },
       "smart_followers": {
         "min": 25.0,
-        "max": 6121.0,
-        "avg": 624.3373493975904,
+        "max": 7264.0,
+        "avg": 679.3690476190476,
         "min-user": "@FoFan_eth",
-        "max-user": "@laurashin"
+        "max-user": "@jessepollak"
       },
       "yaps": {
         "min": null,
@@ -10527,7 +10527,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 83,
+      "count": 84,
       "path": "lbyaps/virtual/virtual-30D.json"
     },
     {
@@ -10588,15 +10588,15 @@
       "project": "vultisig",
       "timeframe": "7D",
       "followers": {
-        "min": 787.0,
-        "max": 64614.0,
-        "avg": 18818.9,
+        "min": 788.0,
+        "max": 64649.0,
+        "avg": 18822.6,
         "min-user": "@PryvitKyle",
         "max-user": "@gf_256"
       },
       "smart_followers": {
         "min": 30.0,
-        "max": 956.0,
+        "max": 957.0,
         "avg": 337.8,
         "min-user": "@Zenonih",
         "max-user": "@gf_256"
@@ -10615,16 +10615,16 @@
       "project": "vultisig",
       "timeframe": "30D",
       "followers": {
-        "min": 787.0,
-        "max": 87758.0,
-        "avg": 24310.071428571428,
+        "min": 788.0,
+        "max": 88483.0,
+        "avg": 24363.0,
         "min-user": "@PryvitKyle",
         "max-user": "@raintures"
       },
       "smart_followers": {
         "min": 19.0,
-        "max": 956.0,
-        "avg": 326.42857142857144,
+        "max": 957.0,
+        "avg": 326.5,
         "min-user": "@FelisNorwegicus",
         "max-user": "@gf_256"
       },
@@ -10697,15 +10697,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 867.0,
-        "max": 85860.0,
-        "avg": 16346.714285714286,
+        "max": 85845.0,
+        "avg": 16396.714285714286,
         "min-user": "@MindfrogCrypto",
         "max-user": "@EmanAbio"
       },
       "smart_followers": {
         "min": 8.0,
-        "max": 1695.0,
-        "avg": 259.7142857142857,
+        "max": 1696.0,
+        "avg": 260.35714285714283,
         "min-user": "@phamlanthanh",
         "max-user": "@stacy_muur"
       },
@@ -10724,15 +10724,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 867.0,
-        "max": 89369.0,
-        "avg": 25379.904761904763,
+        "max": 89383.0,
+        "avg": 24358.31818181818,
         "min-user": "@MindfrogCrypto",
         "max-user": "@0xSammy"
       },
       "smart_followers": {
         "min": 8.0,
-        "max": 3307.0,
-        "avg": 420.0,
+        "max": 3310.0,
+        "avg": 402.1363636363636,
         "min-user": "@phamlanthanh",
         "max-user": "@0xSammy"
       },
@@ -10743,7 +10743,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 21,
+      "count": 22,
       "path": "lbyaps/walrus/walrus-30D.json"
     },
     {
@@ -10831,16 +10831,16 @@
       "project": "wayfinder",
       "timeframe": "30D",
       "followers": {
-        "min": 658.0,
-        "max": 89371.0,
-        "avg": 27815.6,
+        "min": 657.0,
+        "max": 89383.0,
+        "avg": 27802.8,
         "min-user": "@Arithmos0x",
         "max-user": "@0xSammy"
       },
       "smart_followers": {
         "min": 44.0,
-        "max": 3307.0,
-        "avg": 1332.4,
+        "max": 3310.0,
+        "avg": 1333.0,
         "min-user": "@Arithmos0x",
         "max-user": "@0xSammy"
       },
@@ -11020,9 +11020,9 @@
       "project": "xion",
       "timeframe": "7D",
       "followers": {
-        "min": 872.0,
-        "max": 13054.0,
-        "avg": 3289.75,
+        "min": 871.0,
+        "max": 13051.0,
+        "avg": 3289.125,
         "min-user": "@fweirdocat",
         "max-user": "@BurntBanksy"
       },
@@ -11047,16 +11047,16 @@
       "project": "xion",
       "timeframe": "30D",
       "followers": {
-        "min": 872.0,
-        "max": 13054.0,
-        "avg": 2872.625,
+        "min": 871.0,
+        "max": 13051.0,
+        "avg": 2989.133333333333,
         "min-user": "@fweirdocat",
         "max-user": "@BurntBanksy"
       },
       "smart_followers": {
         "min": 4.0,
         "max": 548.0,
-        "avg": 55.4375,
+        "avg": 58.86666666666667,
         "min-user": "@fweirdocat",
         "max-user": "@BurntBanksy"
       },
@@ -11067,7 +11067,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 16,
+      "count": 15,
       "path": "lbyaps/xion/xion-30D.json"
     },
     {
@@ -11129,15 +11129,15 @@
       "timeframe": "7D",
       "followers": {
         "min": 619.0,
-        "max": 182580.0,
-        "avg": 66046.11111111111,
+        "max": 182596.0,
+        "avg": 66038.66666666667,
         "min-user": "@DrPorny",
         "max-user": "@rektmando"
       },
       "smart_followers": {
         "min": 15.0,
         "max": 5007.0,
-        "avg": 1471.888888888889,
+        "avg": 1472.1666666666667,
         "min-user": "@DrPorny",
         "max-user": "@rektmando"
       },
@@ -11156,15 +11156,15 @@
       "timeframe": "30D",
       "followers": {
         "min": 619.0,
-        "max": 182580.0,
-        "avg": 52644.6,
+        "max": 182596.0,
+        "avg": 52641.04,
         "min-user": "@DrPorny",
         "max-user": "@rektmando"
       },
       "smart_followers": {
         "min": 15.0,
         "max": 5007.0,
-        "avg": 1173.04,
+        "avg": 1173.24,
         "min-user": "@DrPorny",
         "max-user": "@rektmando"
       },
@@ -11182,18 +11182,18 @@
       "project": "zcash",
       "timeframe": "7D",
       "followers": {
-        "min": 1099.0,
+        "min": 486.0,
         "max": 814469.0,
-        "avg": 92730.90277777778,
-        "min-user": "@tyler",
+        "avg": 87403.28205128205,
+        "min-user": "@zecrimoni",
         "max-user": "@CryptoWizardd"
       },
       "smart_followers": {
-        "min": 69.0,
-        "max": 5877.0,
-        "avg": 1143.0555555555557,
-        "min-user": "@PaceCrypto",
-        "max-user": "@mert"
+        "min": 19.0,
+        "max": 6394.0,
+        "avg": 1132.8461538461538,
+        "min-user": "@zecrimoni",
+        "max-user": "@inversebrah"
       },
       "yaps": {
         "min": null,
@@ -11202,7 +11202,7 @@
         "min-user": null,
         "max-user": null
       },
-      "count": 72,
+      "count": 78,
       "path": "lbyaps/zcash/zcash-7D.json"
     },
     {
@@ -11211,14 +11211,14 @@
       "followers": {
         "min": 1083.0,
         "max": 814469.0,
-        "avg": 86194.27272727272,
+        "avg": 84393.15151515152,
         "min-user": "@scottmelker",
         "max-user": "@CryptoWizardd"
       },
       "smart_followers": {
         "min": 38.0,
-        "max": 8513.0,
-        "avg": 1468.0707070707072,
+        "max": 8515.0,
+        "avg": 1411.3636363636363,
         "min-user": "@Anonymist",
         "max-user": "@balajis"
       },

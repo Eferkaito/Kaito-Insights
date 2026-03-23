@@ -104,9 +104,9 @@
   "allora": {
     "7D": {
       "smart_followers_min": [
-        33.0,
         35.0,
         35.0,
+        64.0,
         64.0,
         64.0,
         64.0,
@@ -118,7 +118,7 @@
       "smart_followers_min_users": [
         "jiangdifeng",
         "jiangdifeng",
-        "jiangdifeng",
+        "ChainlinkMongol",
         "ChainlinkMongol",
         "ChainlinkMongol",
         "ChainlinkMongol",
@@ -154,7 +154,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        33.0,
+        35.0,
         35.0,
         35.0,
         35.0,
@@ -256,7 +256,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        1002.0,
+        1004.0,
         1004.0,
         1004.0,
         1004.0,
@@ -359,7 +359,7 @@
     "30D": {
       "smart_followers_min": [
         696.0,
-        696.0,
+        1234.0,
         1234.0,
         1234.0,
         1234.0,
@@ -371,7 +371,7 @@
       ],
       "smart_followers_min_users": [
         "awasunyin",
-        "awasunyin",
+        "2lambro",
         "2lambro",
         "2lambro",
         "2lambro",
@@ -410,7 +410,7 @@
   "aptos": {
     "7D": {
       "smart_followers_min": [
-        15.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -422,11 +422,11 @@
         13.0
       ],
       "smart_followers_min_users": [
-        "thisttv",
         "MonsterCpgt",
         "MonsterCpgt",
         "MonsterCpgt",
         "MonsterCpgt",
+        "Ghosterx4x",
         "Ghosterx4x",
         "Ghosterx4x",
         "Ghosterx4x",
@@ -476,7 +476,7 @@
         "MonsterCpgt",
         "MonsterCpgt",
         "MonsterCpgt",
-        "MonsterCpgt",
+        "Ghosterx4x",
         "Ghosterx4x",
         "Ghosterx4x",
         "Ghosterx4x",
@@ -512,7 +512,6 @@
   "arbitrum": {
     "7D": {
       "smart_followers_min": [
-        33.0,
         19.0,
         21.0,
         21.0,
@@ -521,10 +520,11 @@
         24.0,
         24.0,
         24.0,
+        24.0,
         24.0
       ],
       "smart_followers_min_users": [
-        "defikadic",
+        "blockbyvlog",
         "blockbyvlog",
         "blockbyvlog",
         "blockbyvlog",
@@ -562,7 +562,6 @@
     },
     "30D": {
       "smart_followers_min": [
-        33.0,
         19.0,
         21.0,
         21.0,
@@ -571,10 +570,11 @@
         24.0,
         24.0,
         24.0,
+        24.0,
         24.0
       ],
       "smart_followers_min_users": [
-        "defikadic",
+        "blockbyvlog",
         "blockbyvlog",
         "blockbyvlog",
         "blockbyvlog",
@@ -716,7 +716,7 @@
   "billions": {
     "7D": {
       "smart_followers_min": [
-        226.0,
+        2.0,
         2.0,
         2.0,
         2.0,
@@ -728,7 +728,7 @@
         2.0
       ],
       "smart_followers_min_users": [
-        "zeuuss_01",
+        "Smolder_AR",
         "Smolder_AR",
         "Smolder_AR",
         "Smolder_AR",
@@ -766,7 +766,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        18.0,
+        2.0,
         2.0,
         2.0,
         2.0,
@@ -778,7 +778,7 @@
         2.0
       ],
       "smart_followers_min_users": [
-        "vletsuuu",
+        "Smolder_AR",
         "Smolder_AR",
         "Smolder_AR",
         "Smolder_AR",
@@ -819,10 +819,10 @@
     "7D": {
       "smart_followers_min": [
         42.0,
-        42.0,
         181.0,
         181.0,
         181.0,
+        180.0,
         180.0,
         180.0,
         180.0,
@@ -831,7 +831,7 @@
       ],
       "smart_followers_min_users": [
         "derparsel",
-        "derparsel",
+        "mchen8864",
         "mchen8864",
         "mchen8864",
         "mchen8864",
@@ -921,7 +921,7 @@
     "7D": {
       "smart_followers_min": [
         340.0,
-        340.0,
+        339.0,
         339.0,
         339.0,
         339.0,
@@ -971,7 +971,7 @@
     "30D": {
       "smart_followers_min": [
         340.0,
-        340.0,
+        339.0,
         339.0,
         339.0,
         339.0,
@@ -1124,7 +1124,7 @@
   "boundless": {
     "7D": {
       "smart_followers_min": [
-        62.0,
+        63.0,
         63.0,
         63.0,
         63.0,
@@ -1174,7 +1174,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        62.0,
+        63.0,
         63.0,
         63.0,
         63.0,
@@ -1226,11 +1226,11 @@
   "bybit": {
     "7D": {
       "smart_followers_min": [
-        457.0,
         455.0,
         458.0,
         458.0,
         458.0,
+        140.0,
         140.0,
         140.0,
         140.0,
@@ -1242,7 +1242,7 @@
         "0xCheeezzyyyy",
         "0xCheeezzyyyy",
         "0xCheeezzyyyy",
-        "0xCheeezzyyyy",
+        "BeiDao_98",
         "BeiDao_98",
         "BeiDao_98",
         "BeiDao_98",
@@ -1276,11 +1276,11 @@
     },
     "30D": {
       "smart_followers_min": [
-        305.0,
         307.0,
         307.0,
         307.0,
         307.0,
+        140.0,
         140.0,
         140.0,
         140.0,
@@ -1292,7 +1292,7 @@
         "monkeyjiang",
         "monkeyjiang",
         "monkeyjiang",
-        "monkeyjiang",
+        "BeiDao_98",
         "BeiDao_98",
         "BeiDao_98",
         "BeiDao_98",
@@ -1533,7 +1533,7 @@
     "7D": {
       "smart_followers_min": [
         159.0,
-        159.0,
+        160.0,
         160.0,
         160.0,
         160.0,
@@ -1634,7 +1634,6 @@
   "cysic": {
     "7D": {
       "smart_followers_min": [
-        53.0,
         65.0,
         67.0,
         67.0,
@@ -1643,14 +1642,15 @@
         56.0,
         56.0,
         56.0,
+        56.0,
         56.0
       ],
       "smart_followers_min_users": [
-        "gtofweb3",
         "smolgeeek",
         "smolgeeek",
         "smolgeeek",
         "smolgeeek",
+        "AddyyyOnChain",
         "AddyyyOnChain",
         "AddyyyOnChain",
         "AddyyyOnChain",
@@ -1786,7 +1786,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        248.0,
+        1669.0,
         1669.0,
         1669.0,
         1669.0,
@@ -1798,7 +1798,7 @@
         1669.0
       ],
       "smart_followers_min_users": [
-        "jcrew_eth",
+        "hackapreneur",
         "hackapreneur",
         "hackapreneur",
         "hackapreneur",
@@ -1839,9 +1839,9 @@
     "7D": {
       "smart_followers_min": [
         713.0,
-        713.0,
         1692.0,
         1692.0,
+        1695.0,
         1695.0,
         1695.0,
         1695.0,
@@ -1851,7 +1851,7 @@
       ],
       "smart_followers_min_users": [
         "charlesdhaussy",
-        "charlesdhaussy",
+        "stacy_muur",
         "stacy_muur",
         "stacy_muur",
         "stacy_muur",
@@ -2042,7 +2042,6 @@
   "ethereum": {
     "7D": {
       "smart_followers_min": [
-        164.0,
         90.0,
         93.0,
         76.0,
@@ -2051,12 +2050,13 @@
         78.0,
         78.0,
         78.0,
+        78.0,
         78.0
       ],
       "smart_followers_min_users": [
-        "Nick_Researcher",
         "JamesEastonUK",
         "JamesEastonUK",
+        "SAMALTCOIN_ETH",
         "SAMALTCOIN_ETH",
         "SAMALTCOIN_ETH",
         "SAMALTCOIN_ETH",
@@ -2092,11 +2092,11 @@
     },
     "30D": {
       "smart_followers_min": [
-        168.0,
         175.0,
         179.0,
         179.0,
         169.0,
+        78.0,
         78.0,
         78.0,
         78.0,
@@ -2107,8 +2107,8 @@
         "marilyn100x",
         "marilyn100x",
         "marilyn100x",
-        "marilyn100x",
         "Nick_Researcher",
+        "SAMALTCOIN_ETH",
         "SAMALTCOIN_ETH",
         "SAMALTCOIN_ETH",
         "SAMALTCOIN_ETH",
@@ -2246,11 +2246,11 @@
   "falcon": {
     "7D": {
       "smart_followers_min": [
-        164.0,
         166.0,
         168.0,
         168.0,
         169.0,
+        226.0,
         226.0,
         226.0,
         226.0,
@@ -2262,7 +2262,7 @@
         "Nick_Researcher",
         "Nick_Researcher",
         "Nick_Researcher",
-        "Nick_Researcher",
+        "yawaradoteth",
         "yawaradoteth",
         "yawaradoteth",
         "yawaradoteth",
@@ -2296,10 +2296,10 @@
     },
     "30D": {
       "smart_followers_min": [
-        164.0,
         166.0,
         168.0,
         168.0,
+        169.0,
         169.0,
         169.0,
         169.0,
@@ -2352,7 +2352,7 @@
         20.0,
         20.0,
         20.0,
-        20.0,
+        98.0,
         98.0,
         98.0,
         98.0,
@@ -2364,7 +2364,7 @@
         "dovvvveth",
         "dovvvveth",
         "dovvvveth",
-        "dovvvveth",
+        "smartcoded",
         "smartcoded",
         "smartcoded",
         "smartcoded",
@@ -2450,9 +2450,9 @@
   "frax": {
     "7D": {
       "smart_followers_min": [
-        2857.0,
         2858.0,
         2858.0,
+        37.0,
         37.0,
         37.0,
         37.0,
@@ -2464,7 +2464,7 @@
       "smart_followers_min_users": [
         "samkazemian",
         "samkazemian",
-        "samkazemian",
+        "Ikebillion_",
         "Ikebillion_",
         "Ikebillion_",
         "Ikebillion_",
@@ -2503,7 +2503,7 @@
         27.0,
         27.0,
         27.0,
-        27.0,
+        37.0,
         37.0,
         37.0,
         37.0,
@@ -2515,7 +2515,7 @@
         "Knight22122",
         "Knight22122",
         "Knight22122",
-        "Knight22122",
+        "Ikebillion_",
         "Ikebillion_",
         "Ikebillion_",
         "Ikebillion_",
@@ -2655,10 +2655,10 @@
     "7D": {
       "smart_followers_min": [
         80.0,
-        80.0,
         69.0,
         69.0,
         69.0,
+        45.0,
         45.0,
         45.0,
         45.0,
@@ -2667,10 +2667,10 @@
       ],
       "smart_followers_min_users": [
         "xiaoman1188",
-        "xiaoman1188",
         "0xYi666",
         "0xYi666",
         "0xYi666",
+        "0008luna",
         "0008luna",
         "0008luna",
         "0008luna",
@@ -2705,10 +2705,10 @@
     "30D": {
       "smart_followers_min": [
         80.0,
-        80.0,
         69.0,
         69.0,
         69.0,
+        45.0,
         45.0,
         45.0,
         45.0,
@@ -2717,10 +2717,10 @@
       ],
       "smart_followers_min_users": [
         "xiaoman1188",
-        "xiaoman1188",
         "0xYi666",
         "0xYi666",
         "0xYi666",
+        "0008luna",
         "0008luna",
         "0008luna",
         "0008luna",
@@ -2858,8 +2858,8 @@
   "huma": {
     "7D": {
       "smart_followers_min": [
-        19.0,
         7.0,
+        8.0,
         8.0,
         8.0,
         8.0,
@@ -2870,7 +2870,7 @@
         8.0
       ],
       "smart_followers_min_users": [
-        "0xFatih",
+        "LipeSolana",
         "LipeSolana",
         "LipeSolana",
         "LipeSolana",
@@ -2908,8 +2908,8 @@
     },
     "30D": {
       "smart_followers_min": [
-        5.0,
         7.0,
+        8.0,
         8.0,
         8.0,
         8.0,
@@ -2920,7 +2920,7 @@
         8.0
       ],
       "smart_followers_min_users": [
-        "Notfound599",
+        "LipeSolana",
         "LipeSolana",
         "LipeSolana",
         "LipeSolana",
@@ -2961,7 +2961,7 @@
     "7D": {
       "smart_followers_min": [
         273.0,
-        273.0,
+        158.0,
         158.0,
         158.0,
         158.0,
@@ -2973,7 +2973,7 @@
       ],
       "smart_followers_min_users": [
         "zijing",
-        "zijing",
+        "xangle_intern",
         "xangle_intern",
         "xangle_intern",
         "xangle_intern",
@@ -3011,7 +3011,7 @@
     "30D": {
       "smart_followers_min": [
         273.0,
-        273.0,
+        158.0,
         158.0,
         158.0,
         158.0,
@@ -3023,7 +3023,7 @@
       ],
       "smart_followers_min_users": [
         "zijing",
-        "zijing",
+        "xangle_intern",
         "xangle_intern",
         "xangle_intern",
         "xangle_intern",
@@ -3065,7 +3065,7 @@
         413.0,
         413.0,
         413.0,
-        413.0,
+        415.0,
         415.0,
         415.0,
         415.0,
@@ -3115,7 +3115,7 @@
         49.0,
         49.0,
         49.0,
-        49.0,
+        78.0,
         78.0,
         78.0,
         78.0,
@@ -3127,7 +3127,7 @@
         "Khaleesi_98",
         "Khaleesi_98",
         "Khaleesi_98",
-        "Khaleesi_98",
+        "0xEquinox_",
         "0xEquinox_",
         "0xEquinox_",
         "0xEquinox_",
@@ -3164,8 +3164,8 @@
   "infinit": {
     "7D": {
       "smart_followers_min": [
-        79.0,
         144.0,
+        261.0,
         261.0,
         261.0,
         261.0,
@@ -3176,8 +3176,8 @@
         261.0
       ],
       "smart_followers_min_users": [
-        "HarisEbrat",
         "BringMeCoins",
+        "kenodnb",
         "kenodnb",
         "kenodnb",
         "kenodnb",
@@ -3369,8 +3369,8 @@
     "7D": {
       "smart_followers_min": [
         3.0,
-        3.0,
         6.0,
+        8.0,
         8.0,
         8.0,
         8.0,
@@ -3381,8 +3381,8 @@
       ],
       "smart_followers_min_users": [
         "InjPedro",
-        "InjPedro",
         "ShiviXBT",
+        "FurkanConsensus",
         "FurkanConsensus",
         "FurkanConsensus",
         "FurkanConsensus",
@@ -3470,7 +3470,7 @@
   "iq": {
     "7D": {
       "smart_followers_min": [
-        55.0,
+        56.0,
         56.0,
         56.0,
         56.0,
@@ -3520,7 +3520,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        55.0,
+        56.0,
         56.0,
         56.0,
         56.0,
@@ -3572,7 +3572,7 @@
   "irys": {
     "7D": {
       "smart_followers_min": [
-        245.0,
+        244.0,
         244.0,
         244.0,
         244.0,
@@ -3622,7 +3622,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        46.0,
+        47.0,
         47.0,
         47.0,
         47.0,
@@ -3724,7 +3724,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        139.0,
+        746.0,
         746.0,
         746.0,
         746.0,
@@ -3736,7 +3736,7 @@
         746.0
       ],
       "smart_followers_min_users": [
-        "dcrypto",
+        "0xTodd",
         "0xTodd",
         "0xTodd",
         "0xTodd",
@@ -3778,7 +3778,7 @@
       "smart_followers_min": [
         33.0,
         33.0,
-        33.0,
+        32.0,
         32.0,
         32.0,
         32.0,
@@ -3790,7 +3790,7 @@
       "smart_followers_min_users": [
         "MrCryptoPandaa",
         "MrCryptoPandaa",
-        "MrCryptoPandaa",
+        "pietehao",
         "pietehao",
         "pietehao",
         "pietehao",
@@ -3882,7 +3882,7 @@
         19.0,
         19.0,
         19.0,
-        19.0,
+        67.0,
         67.0,
         67.0,
         67.0,
@@ -3894,7 +3894,7 @@
         "0xAhmadullah",
         "0xAhmadullah",
         "0xAhmadullah",
-        "0xAhmadullah",
+        "0xStudy",
         "0xStudy",
         "0xStudy",
         "0xStudy",
@@ -4490,7 +4490,7 @@
   "mavryk": {
     "7D": {
       "smart_followers_min": [
-        163.0,
+        53.0,
         53.0,
         53.0,
         53.0,
@@ -4502,7 +4502,7 @@
         53.0
       ],
       "smart_followers_min_users": [
-        "seongmoolee",
+        "0xgilllee",
         "0xgilllee",
         "0xgilllee",
         "0xgilllee",
@@ -4542,7 +4542,7 @@
       "smart_followers_min": [
         37.0,
         37.0,
-        37.0,
+        53.0,
         53.0,
         53.0,
         53.0,
@@ -4554,7 +4554,7 @@
       "smart_followers_min_users": [
         "huynh_tinh1604",
         "huynh_tinh1604",
-        "huynh_tinh1604",
+        "0xgilllee",
         "0xgilllee",
         "0xgilllee",
         "0xgilllee",
@@ -4592,8 +4592,8 @@
   "megaeth": {
     "7D": {
       "smart_followers_min": [
-        3.0,
         5.0,
+        11.0,
         11.0,
         11.0,
         11.0,
@@ -4605,7 +4605,7 @@
       ],
       "smart_followers_min_users": [
         "planetai",
-        "planetai",
+        "xnxswe",
         "xnxswe",
         "xnxswe",
         "xnxswe",
@@ -4644,7 +4644,7 @@
       "smart_followers_min": [
         29.0,
         29.0,
-        29.0,
+        39.0,
         39.0,
         39.0,
         39.0,
@@ -4656,7 +4656,7 @@
       "smart_followers_min_users": [
         "Finkded",
         "Finkded",
-        "Finkded",
+        "themagic_trader",
         "themagic_trader",
         "themagic_trader",
         "themagic_trader",
@@ -4850,7 +4850,7 @@
         18.0,
         18.0,
         18.0,
-        18.0,
+        28.0,
         28.0,
         28.0,
         28.0,
@@ -4862,7 +4862,7 @@
         "vletsuuu",
         "vletsuuu",
         "vletsuuu",
-        "vletsuuu",
+        "Cllickk",
         "Cllickk",
         "Cllickk",
         "Cllickk",
@@ -4949,10 +4949,10 @@
     "30D": {
       "smart_followers_min": [
         130.0,
-        130.0,
         132.0,
         132.0,
         132.0,
+        133.0,
         133.0,
         133.0,
         133.0,
@@ -5102,11 +5102,11 @@
   "monad": {
     "7D": {
       "smart_followers_min": [
+        163.0,
+        163.0,
+        163.0,
+        163.0,
         139.0,
-        163.0,
-        163.0,
-        163.0,
-        163.0,
         139.0,
         139.0,
         139.0,
@@ -5114,11 +5114,11 @@
         139.0
       ],
       "smart_followers_min_users": [
-        "dcrypto",
         "seongmoolee",
         "seongmoolee",
         "seongmoolee",
         "seongmoolee",
+        "thisisfin_",
         "thisisfin_",
         "thisisfin_",
         "thisisfin_",
@@ -5204,7 +5204,7 @@
   "moonbirds": {
     "7D": {
       "smart_followers_min": [
-        13.0,
+        14.0,
         14.0,
         14.0,
         14.0,
@@ -5356,7 +5356,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        65.0,
+        66.0,
         66.0,
         66.0,
         66.0,
@@ -5408,8 +5408,8 @@
   "msu": {
     "7D": {
       "smart_followers_min": [
-        134.0,
         205.0,
+        420.0,
         420.0,
         420.0,
         420.0,
@@ -5420,8 +5420,8 @@
         420.0
       ],
       "smart_followers_min_users": [
-        "ezeroho8245",
         "nexpacetime",
+        "Cheering_ChoCo",
         "Cheering_ChoCo",
         "Cheering_ChoCo",
         "Cheering_ChoCo",
@@ -5511,9 +5511,9 @@
     "7D": {
       "smart_followers_min": [
         1002.0,
-        1002.0,
         1006.0,
         1006.0,
+        1007.0,
         1007.0,
         1007.0,
         1007.0,
@@ -5561,9 +5561,9 @@
     "30D": {
       "smart_followers_min": [
         163.0,
-        163.0,
         1006.0,
         1006.0,
+        1007.0,
         1007.0,
         1007.0,
         1007.0,
@@ -5573,7 +5573,7 @@
       ],
       "smart_followers_min_users": [
         "seongmoolee",
-        "seongmoolee",
+        "KierianV",
         "KierianV",
         "KierianV",
         "KierianV",
@@ -5714,8 +5714,8 @@
   "near": {
     "7D": {
       "smart_followers_min": [
-        106.0,
         108.0,
+        110.0,
         110.0,
         110.0,
         110.0,
@@ -5764,8 +5764,8 @@
     },
     "30D": {
       "smart_followers_min": [
-        106.0,
         108.0,
+        110.0,
         110.0,
         110.0,
         110.0,
@@ -6070,9 +6070,9 @@
     },
     "30D": {
       "smart_followers_min": [
-        13.0,
         102.0,
         103.0,
+        163.0,
         163.0,
         163.0,
         163.0,
@@ -6082,9 +6082,9 @@
         163.0
       ],
       "smart_followers_min_users": [
-        "derrelreyhan",
         "GpaAndy",
         "GpaAndy",
+        "seongmoolee",
         "seongmoolee",
         "seongmoolee",
         "seongmoolee",
@@ -6176,7 +6176,7 @@
         18.0,
         18.0,
         18.0,
-        18.0,
+        27.0,
         27.0,
         27.0,
         27.0,
@@ -6188,7 +6188,7 @@
         "vletsuuu",
         "vletsuuu",
         "vletsuuu",
-        "vletsuuu",
+        "HuevaToi",
         "HuevaToi",
         "HuevaToi",
         "HuevaToi",
@@ -6224,7 +6224,6 @@
   "orderly": {
     "7D": {
       "smart_followers_min": [
-        152.0,
         417.0,
         417.0,
         417.0,
@@ -6233,10 +6232,11 @@
         419.0,
         419.0,
         419.0,
+        419.0,
         419.0
       ],
       "smart_followers_min_users": [
-        "Artistkatty_",
+        "ranyi1115",
         "ranyi1115",
         "ranyi1115",
         "ranyi1115",
@@ -6275,7 +6275,7 @@
     "30D": {
       "smart_followers_min": [
         152.0,
-        152.0,
+        150.0,
         150.0,
         150.0,
         150.0,
@@ -6326,7 +6326,7 @@
   "paradex": {
     "7D": {
       "smart_followers_min": [
-        212.0,
+        74.0,
         74.0,
         74.0,
         74.0,
@@ -6338,7 +6338,7 @@
         74.0
       ],
       "smart_followers_min_users": [
-        "0xasrequired",
+        "Muallimin_biri",
         "Muallimin_biri",
         "Muallimin_biri",
         "Muallimin_biri",
@@ -6376,7 +6376,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        129.0,
+        74.0,
         74.0,
         74.0,
         74.0,
@@ -6388,7 +6388,7 @@
         74.0
       ],
       "smart_followers_min_users": [
-        "NewPaguinfo",
+        "Muallimin_biri",
         "Muallimin_biri",
         "Muallimin_biri",
         "Muallimin_biri",
@@ -6428,11 +6428,11 @@
   "peaq": {
     "7D": {
       "smart_followers_min": [
-        98.0,
         66.0,
         66.0,
         66.0,
         66.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -6440,11 +6440,11 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "DeFiDecoder_",
         "Yaki_fomoArt",
         "Yaki_fomoArt",
         "Yaki_fomoArt",
         "Yaki_fomoArt",
+        "SunshineGinGirl",
         "SunshineGinGirl",
         "SunshineGinGirl",
         "SunshineGinGirl",
@@ -6478,11 +6478,11 @@
     },
     "30D": {
       "smart_followers_min": [
-        98.0,
         66.0,
         66.0,
         66.0,
         66.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -6490,11 +6490,11 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "DeFiDecoder_",
         "Yaki_fomoArt",
         "Yaki_fomoArt",
         "Yaki_fomoArt",
         "Yaki_fomoArt",
+        "SunshineGinGirl",
         "SunshineGinGirl",
         "SunshineGinGirl",
         "SunshineGinGirl",
@@ -6531,10 +6531,10 @@
     "7D": {
       "smart_followers_min": [
         13.0,
-        13.0,
         14.0,
         65.0,
         27.0,
+        23.0,
         23.0,
         23.0,
         23.0,
@@ -6544,9 +6544,9 @@
       "smart_followers_min_users": [
         "csizzolt",
         "csizzolt",
-        "csizzolt",
         "ChefJames_",
         "DayankBK2UK",
+        "Zoloto231",
         "Zoloto231",
         "Zoloto231",
         "Zoloto231",
@@ -6580,8 +6580,8 @@
     },
     "30D": {
       "smart_followers_min": [
-        11.0,
         13.0,
+        14.0,
         14.0,
         14.0,
         14.0,
@@ -6592,7 +6592,7 @@
         14.0
       ],
       "smart_followers_min_users": [
-        "remyboys_",
+        "csizzolt",
         "csizzolt",
         "csizzolt",
         "csizzolt",
@@ -6684,7 +6684,7 @@
       "smart_followers_min": [
         30.0,
         30.0,
-        30.0,
+        163.0,
         163.0,
         163.0,
         163.0,
@@ -6696,7 +6696,7 @@
       "smart_followers_min_users": [
         "bgv1806",
         "bgv1806",
-        "bgv1806",
+        "seongmoolee",
         "seongmoolee",
         "seongmoolee",
         "seongmoolee",
@@ -6734,7 +6734,7 @@
   "polkadot": {
     "7D": {
       "smart_followers_min": [
-        48.0,
+        49.0,
         49.0,
         49.0,
         49.0,
@@ -6784,7 +6784,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        48.0,
+        49.0,
         49.0,
         49.0,
         49.0,
@@ -6837,8 +6837,8 @@
     "7D": {
       "smart_followers_min": [
         13.0,
-        13.0,
         77.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -6849,8 +6849,8 @@
       ],
       "smart_followers_min_users": [
         "abhinavsam4",
-        "abhinavsam4",
         "Dnyelfy",
+        "abhinavsam4",
         "abhinavsam4",
         "abhinavsam4",
         "abhinavsam4",
@@ -6887,8 +6887,8 @@
     "30D": {
       "smart_followers_min": [
         13.0,
-        13.0,
         77.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -6899,8 +6899,8 @@
       ],
       "smart_followers_min_users": [
         "abhinavsam4",
-        "abhinavsam4",
         "Dnyelfy",
+        "abhinavsam4",
         "abhinavsam4",
         "abhinavsam4",
         "abhinavsam4",
@@ -6990,7 +6990,7 @@
       "smart_followers_min": [
         144.0,
         144.0,
-        144.0,
+        146.0,
         146.0,
         146.0,
         146.0,
@@ -7002,7 +7002,7 @@
       "smart_followers_min_users": [
         "HenriLee92",
         "HenriLee92",
-        "HenriLee92",
+        "Dimiantreez",
         "Dimiantreez",
         "Dimiantreez",
         "Dimiantreez",
@@ -7553,7 +7553,7 @@
         29.0,
         29.0,
         29.0,
-        29.0,
+        33.0,
         33.0,
         33.0,
         33.0,
@@ -7565,7 +7565,7 @@
         "danivaweb3",
         "danivaweb3",
         "danivaweb3",
-        "danivaweb3",
+        "defikadic",
         "defikadic",
         "defikadic",
         "defikadic",
@@ -7958,7 +7958,7 @@
   "sonic": {
     "7D": {
       "smart_followers_min": [
-        58.0,
+        28.0,
         28.0,
         28.0,
         28.0,
@@ -7970,7 +7970,7 @@
         28.0
       ],
       "smart_followers_min_users": [
-        "zethesx",
+        "YankeeRuinX",
         "YankeeRuinX",
         "YankeeRuinX",
         "YankeeRuinX",
@@ -8008,7 +8008,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        58.0,
+        28.0,
         28.0,
         28.0,
         28.0,
@@ -8020,7 +8020,7 @@
         28.0
       ],
       "smart_followers_min_users": [
-        "zethesx",
+        "YankeeRuinX",
         "YankeeRuinX",
         "YankeeRuinX",
         "YankeeRuinX",
@@ -8060,11 +8060,11 @@
   "soon": {
     "7D": {
       "smart_followers_min": [
-        226.0,
         227.0,
         228.0,
         228.0,
         228.0,
+        229.0,
         229.0,
         229.0,
         229.0,
@@ -8110,11 +8110,11 @@
     },
     "30D": {
       "smart_followers_min": [
-        226.0,
         227.0,
         228.0,
         228.0,
         228.0,
+        229.0,
         229.0,
         229.0,
         229.0,
@@ -8162,11 +8162,11 @@
   "sophon": {
     "7D": {
       "smart_followers_min": [
-        800.0,
         804.0,
         805.0,
         805.0,
         805.0,
+        609.0,
         609.0,
         609.0,
         609.0,
@@ -8178,7 +8178,7 @@
         "obchakevich_",
         "obchakevich_",
         "obchakevich_",
-        "obchakevich_",
+        "Aabbhhz",
         "Aabbhhz",
         "Aabbhhz",
         "Aabbhhz",
@@ -8212,10 +8212,10 @@
     },
     "30D": {
       "smart_followers_min": [
-        116.0,
         118.0,
         119.0,
         119.0,
+        121.0,
         121.0,
         121.0,
         121.0,
@@ -8314,8 +8314,8 @@
     },
     "30D": {
       "smart_followers_min": [
-        37.0,
         102.0,
+        103.0,
         103.0,
         103.0,
         103.0,
@@ -8326,7 +8326,7 @@
         103.0
       ],
       "smart_followers_min_users": [
-        "huynh_tinh1604",
+        "GpaAndy",
         "GpaAndy",
         "GpaAndy",
         "GpaAndy",
@@ -8366,9 +8366,9 @@
   "starknet": {
     "7D": {
       "smart_followers_min": [
-        29.0,
         33.0,
         33.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -8378,9 +8378,9 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "vladezy_",
         "defikadic",
         "defikadic",
+        "Nacto1122",
         "Nacto1122",
         "Nacto1122",
         "Nacto1122",
@@ -8418,7 +8418,7 @@
       "smart_followers_min": [
         29.0,
         29.0,
-        29.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -8430,7 +8430,7 @@
       "smart_followers_min_users": [
         "vladezy_",
         "vladezy_",
-        "vladezy_",
+        "Nacto1122",
         "Nacto1122",
         "Nacto1122",
         "Nacto1122",
@@ -8672,7 +8672,7 @@
   "surf": {
     "7D": {
       "smart_followers_min": [
-        33.0,
+        34.0,
         34.0,
         34.0,
         34.0,
@@ -8722,7 +8722,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        33.0,
+        34.0,
         34.0,
         34.0,
         34.0,
@@ -8774,7 +8774,7 @@
   "symphony": {
     "7D": {
       "smart_followers_min": [
-        80.0,
+        81.0,
         81.0,
         81.0,
         81.0,
@@ -8877,8 +8877,8 @@
     "7D": {
       "smart_followers_min": [
         251.0,
-        251.0,
         144.0,
+        32.0,
         32.0,
         32.0,
         32.0,
@@ -8889,8 +8889,8 @@
       ],
       "smart_followers_min_users": [
         "TheCryptoProfes",
-        "TheCryptoProfes",
         "edoweb3",
+        "pietehao",
         "pietehao",
         "pietehao",
         "pietehao",
@@ -8928,7 +8928,7 @@
       "smart_followers_min": [
         101.0,
         101.0,
-        101.0,
+        32.0,
         32.0,
         32.0,
         32.0,
@@ -8940,7 +8940,7 @@
       "smart_followers_min_users": [
         "dee_nftarmy",
         "dee_nftarmy",
-        "dee_nftarmy",
+        "pietehao",
         "pietehao",
         "pietehao",
         "pietehao",
@@ -9080,11 +9080,11 @@
   "turtleclub": {
     "7D": {
       "smart_followers_min": [
-        132.0,
         133.0,
         133.0,
         133.0,
         132.0,
+        133.0,
         133.0,
         133.0,
         133.0,
@@ -9095,7 +9095,7 @@
         "_Jamisky",
         "_Jamisky",
         "_Jamisky",
-        "_Jamisky",
+        "Crypto_Zh0u",
         "Crypto_Zh0u",
         "Crypto_Zh0u",
         "Crypto_Zh0u",
@@ -9131,10 +9131,10 @@
     "30D": {
       "smart_followers_min": [
         130.0,
-        130.0,
         132.0,
         132.0,
         132.0,
+        133.0,
         133.0,
         133.0,
         133.0,
@@ -9284,8 +9284,8 @@
   "uxlink": {
     "7D": {
       "smart_followers_min": [
-        136.0,
         404.0,
+        406.0,
         406.0,
         406.0,
         406.0,
@@ -9296,7 +9296,7 @@
         406.0
       ],
       "smart_followers_min_users": [
-        "dcrypto",
+        "Paris13Jeanne",
         "Paris13Jeanne",
         "Paris13Jeanne",
         "Paris13Jeanne",
@@ -9334,8 +9334,8 @@
     },
     "30D": {
       "smart_followers_min": [
-        139.0,
         404.0,
+        406.0,
         406.0,
         406.0,
         406.0,
@@ -9346,7 +9346,7 @@
         406.0
       ],
       "smart_followers_min_users": [
-        "dcrypto",
+        "Paris13Jeanne",
         "Paris13Jeanne",
         "Paris13Jeanne",
         "Paris13Jeanne",
@@ -9386,7 +9386,7 @@
   "virtual": {
     "7D": {
       "smart_followers_min": [
-        27.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -9398,7 +9398,7 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "CryptoKatze",
+        "FoFan_eth",
         "FoFan_eth",
         "FoFan_eth",
         "FoFan_eth",
@@ -9436,7 +9436,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        27.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -9448,7 +9448,7 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "CryptoKatze",
+        "FoFan_eth",
         "FoFan_eth",
         "FoFan_eth",
         "FoFan_eth",
@@ -9692,8 +9692,8 @@
   "wayfinder": {
     "7D": {
       "smart_followers_min": [
-        1823.0,
         1818.0,
+        1821.0,
         1821.0,
         1821.0,
         1821.0,
@@ -9795,7 +9795,7 @@
     "7D": {
       "smart_followers_min": [
         3.0,
-        3.0,
+        4.0,
         4.0,
         4.0,
         4.0,
@@ -9847,7 +9847,7 @@
         3.0,
         3.0,
         3.0,
-        3.0,
+        4.0,
         4.0,
         4.0,
         4.0,
@@ -9856,10 +9856,10 @@
         4.0
       ],
       "smart_followers_min_users": [
-        "rosabasir10",
         "fweirdocat",
         "rosabasir10",
         "rosabasir10",
+        "fweirdocat",
         "fweirdocat",
         "fweirdocat",
         "fweirdocat",
@@ -9896,8 +9896,8 @@
   "yeet": {
     "7D": {
       "smart_followers_min": [
-        15.0,
         18.0,
+        15.0,
         15.0,
         15.0,
         15.0,
@@ -9908,8 +9908,8 @@
         15.0
       ],
       "smart_followers_min_users": [
-        "DrPorny",
         "Zuesthegods",
+        "DrPorny",
         "DrPorny",
         "DrPorny",
         "DrPorny",
@@ -10000,9 +10000,9 @@
       "smart_followers_min": [
         38.0,
         38.0,
-        38.0,
         42.0,
         69.0,
+        19.0,
         19.0,
         19.0,
         19.0,
@@ -10012,9 +10012,9 @@
       "smart_followers_min_users": [
         "Anonymist",
         "Anonymist",
-        "Anonymist",
         "spartablock",
         "PaceCrypto",
+        "zecrimoni",
         "zecrimoni",
         "zecrimoni",
         "zecrimoni",
@@ -10100,7 +10100,7 @@
   "doodles": {
     "7D": {
       "smart_followers_min": [
-        83.0,
+        74.0,
         74.0,
         74.0,
         74.0,
@@ -10112,7 +10112,7 @@
         74.0
       ],
       "smart_followers_min_users": [
-        "0neLineWonder",
+        "_mcnft11",
         "_mcnft11",
         "_mcnft11",
         "_mcnft11",
@@ -10150,7 +10150,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        83.0,
+        74.0,
         74.0,
         74.0,
         74.0,
@@ -10162,7 +10162,7 @@
         74.0
       ],
       "smart_followers_min_users": [
-        "0neLineWonder",
+        "_mcnft11",
         "_mcnft11",
         "_mcnft11",
         "_mcnft11",
@@ -10203,7 +10203,7 @@
     "7D": {
       "smart_followers_min": [
         27.0,
-        27.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -10253,7 +10253,7 @@
     "30D": {
       "smart_followers_min": [
         27.0,
-        27.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -10406,7 +10406,7 @@
   "kindred": {
     "7D": {
       "smart_followers_min": [
-        133.0,
+        71.0,
         71.0,
         71.0,
         71.0,
@@ -10418,7 +10418,7 @@
         71.0
       ],
       "smart_followers_min_users": [
-        "Doonbo_artist",
+        "liyinjyun",
         "liyinjyun",
         "liyinjyun",
         "liyinjyun",
@@ -10456,7 +10456,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        18.0,
+        71.0,
         71.0,
         71.0,
         71.0,
@@ -10468,7 +10468,7 @@
         71.0
       ],
       "smart_followers_min_users": [
-        "vletsuuu",
+        "liyinjyun",
         "liyinjyun",
         "liyinjyun",
         "liyinjyun",
@@ -10610,11 +10610,11 @@
   "talus": {
     "7D": {
       "smart_followers_min": [
-        1680.0,
         1685.0,
         1692.0,
         1692.0,
         1695.0,
+        1696.0,
         1696.0,
         1696.0,
         1696.0,
@@ -10660,11 +10660,11 @@
     },
     "30D": {
       "smart_followers_min": [
-        1680.0,
         1685.0,
         1692.0,
         1692.0,
         1695.0,
+        1696.0,
         1696.0,
         1696.0,
         1696.0,
@@ -10712,11 +10712,11 @@
   "brevis": {
     "7D": {
       "smart_followers_min": [
-        143.0,
         144.0,
         147.0,
         147.0,
         148.0,
+        149.0,
         149.0,
         149.0,
         149.0,
@@ -10865,8 +10865,8 @@
     "30D": {
       "smart_followers_min": [
         2.0,
-        2.0,
         3.0,
+        5.0,
         5.0,
         5.0,
         5.0,
@@ -10877,8 +10877,8 @@
       ],
       "smart_followers_min_users": [
         "Andy_chiky",
-        "Andy_chiky",
         "yoyix1995",
+        "Andy_chiky",
         "Andy_chiky",
         "Andy_chiky",
         "Andy_chiky",
@@ -10916,7 +10916,7 @@
   "edgen": {
     "7D": {
       "smart_followers_min": [
-        111.0,
+        38.0,
         38.0,
         38.0,
         38.0,
@@ -10928,7 +10928,7 @@
         38.0
       ],
       "smart_followers_min_users": [
-        "xiaoyubtc",
+        "mr_ferdiansah",
         "mr_ferdiansah",
         "mr_ferdiansah",
         "mr_ferdiansah",
@@ -10966,7 +10966,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        112.0,
+        38.0,
         38.0,
         38.0,
         38.0,
@@ -10978,7 +10978,7 @@
         38.0
       ],
       "smart_followers_min_users": [
-        "xiaoyubtc",
+        "mr_ferdiansah",
         "mr_ferdiansah",
         "mr_ferdiansah",
         "mr_ferdiansah",
@@ -11120,11 +11120,11 @@
   "beldex": {
     "7D": {
       "smart_followers_min": [
-        98.0,
         95.0,
         95.0,
         95.0,
         95.0,
+        66.0,
         66.0,
         66.0,
         66.0,
@@ -11136,7 +11136,7 @@
         "DeFiDecoder_",
         "DeFiDecoder_",
         "DeFiDecoder_",
-        "DeFiDecoder_",
+        "Yaki_fomoArt",
         "Yaki_fomoArt",
         "Yaki_fomoArt",
         "Yaki_fomoArt",
@@ -11170,8 +11170,8 @@
     },
     "30D": {
       "smart_followers_min": [
-        55.0,
         57.0,
+        58.0,
         58.0,
         58.0,
         58.0,
@@ -11324,8 +11324,8 @@
   "rainbow": {
     "7D": {
       "smart_followers_min": [
-        116.0,
         117.0,
+        119.0,
         119.0,
         119.0,
         119.0,
@@ -11376,9 +11376,9 @@
       "smart_followers_min": [
         8.0,
         8.0,
-        8.0,
         25.0,
         25.0,
+        41.0,
         41.0,
         41.0,
         41.0,
@@ -11388,9 +11388,9 @@
       "smart_followers_min_users": [
         "iamthatweb3girl",
         "iamthatweb3girl",
-        "iamthatweb3girl",
         "rishuz321",
         "rishuz321",
+        "0xDeviron",
         "0xDeviron",
         "0xDeviron",
         "0xDeviron",
@@ -11477,7 +11477,7 @@
     "30D": {
       "smart_followers_min": [
         29.0,
-        29.0,
+        28.0,
         28.0,
         28.0,
         28.0,
@@ -11528,11 +11528,11 @@
   "kaio": {
     "7D": {
       "smart_followers_min": [
-        46.0,
         47.0,
         48.0,
         48.0,
         48.0,
+        49.0,
         49.0,
         49.0,
         49.0,
@@ -11630,7 +11630,7 @@
   "theo": {
     "7D": {
       "smart_followers_min": [
-        34.0,
+        22.0,
         22.0,
         22.0,
         22.0,
@@ -11642,7 +11642,7 @@
         22.0
       ],
       "smart_followers_min_users": [
-        "0xPhoenix77",
+        "0xAmberCT",
         "0xAmberCT",
         "0xAmberCT",
         "0xAmberCT",
@@ -11680,7 +11680,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        26.0,
+        22.0,
         22.0,
         22.0,
         22.0,
@@ -11692,7 +11692,7 @@
         22.0
       ],
       "smart_followers_min_users": [
-        "CJayFenty",
+        "0xAmberCT",
         "0xAmberCT",
         "0xAmberCT",
         "0xAmberCT",
@@ -11834,7 +11834,7 @@
   "noble": {
     "7D": {
       "smart_followers_min": [
-        139.0,
+        163.0,
         163.0,
         163.0,
         163.0,
@@ -11846,7 +11846,7 @@
         163.0
       ],
       "smart_followers_min_users": [
-        "dcrypto",
+        "seongmoolee",
         "seongmoolee",
         "seongmoolee",
         "seongmoolee",
@@ -11936,11 +11936,11 @@
   "openmind": {
     "7D": {
       "smart_followers_min": [
-        15.0,
         30.0,
         30.0,
         30.0,
         30.0,
+        23.0,
         23.0,
         23.0,
         23.0,
@@ -11948,11 +11948,11 @@
         23.0
       ],
       "smart_followers_min_users": [
-        "NekiWeb3",
         "biziyou888",
         "biziyou888",
         "biziyou888",
         "biziyou888",
+        "justicenwokedi5",
         "justicenwokedi5",
         "justicenwokedi5",
         "justicenwokedi5",
@@ -11987,10 +11987,10 @@
     "30D": {
       "smart_followers_min": [
         22.0,
-        22.0,
         30.0,
         30.0,
         30.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -11999,10 +11999,10 @@
       ],
       "smart_followers_min_users": [
         "cryptolinda777",
-        "cryptolinda777",
         "biziyou888",
         "biziyou888",
         "biziyou888",
+        "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
@@ -12191,7 +12191,7 @@
     "30D": {
       "smart_followers_min": [
         37.0,
-        37.0,
+        77.0,
         77.0,
         77.0,
         77.0,
@@ -12203,7 +12203,7 @@
       ],
       "smart_followers_min_users": [
         "huynh_tinh1604",
-        "huynh_tinh1604",
+        "MrQin_BTC",
         "MrQin_BTC",
         "MrQin_BTC",
         "MrQin_BTC",
@@ -12242,7 +12242,7 @@
   "stbl": {
     "7D": {
       "smart_followers_min": [
-        33.0,
+        34.0,
         34.0,
         34.0,
         34.0,
@@ -12295,7 +12295,7 @@
         27.0,
         27.0,
         27.0,
-        27.0,
+        34.0,
         34.0,
         34.0,
         34.0,
@@ -12307,7 +12307,7 @@
         "Knight22122",
         "Knight22122",
         "Knight22122",
-        "Knight22122",
+        "gemtoast",
         "gemtoast",
         "gemtoast",
         "gemtoast",
@@ -12344,10 +12344,10 @@
   "tria": {
     "7D": {
       "smart_followers_min": [
-        130.0,
         131.0,
         131.0,
         131.0,
+        43.0,
         43.0,
         43.0,
         43.0,
@@ -12359,7 +12359,7 @@
         "Shuarix",
         "Shuarix",
         "Shuarix",
-        "Shuarix",
+        "mizuyoukan358",
         "mizuyoukan358",
         "mizuyoukan358",
         "mizuyoukan358",
@@ -12394,10 +12394,10 @@
     },
     "30D": {
       "smart_followers_min": [
-        24.0,
         131.0,
         131.0,
         131.0,
+        43.0,
         43.0,
         43.0,
         43.0,
@@ -12406,10 +12406,10 @@
         43.0
       ],
       "smart_followers_min_users": [
-        "Qu3drix",
         "Shuarix",
         "Shuarix",
         "Shuarix",
+        "mizuyoukan358",
         "mizuyoukan358",
         "mizuyoukan358",
         "mizuyoukan358",
@@ -12447,8 +12447,8 @@
     "7D": {
       "smart_followers_min": [
         198.0,
-        198.0,
         251.0,
+        72.0,
         72.0,
         72.0,
         72.0,
@@ -12459,8 +12459,8 @@
       ],
       "smart_followers_min_users": [
         "periagoge1",
-        "periagoge1",
         "MEJ50749",
+        "moon_bgb",
         "moon_bgb",
         "moon_bgb",
         "moon_bgb",
@@ -12497,8 +12497,8 @@
     "30D": {
       "smart_followers_min": [
         91.0,
-        91.0,
         251.0,
+        72.0,
         72.0,
         72.0,
         72.0,
@@ -12509,8 +12509,8 @@
       ],
       "smart_followers_min_users": [
         "Mr_qiang777",
-        "Mr_qiang777",
         "MEJ50749",
+        "moon_bgb",
         "moon_bgb",
         "moon_bgb",
         "moon_bgb",
@@ -12548,7 +12548,7 @@
   "mememax": {
     "7D": {
       "smart_followers_min": [
-        97.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -12560,7 +12560,7 @@
         13.0
       ],
       "smart_followers_min_users": [
-        "GpaAndy",
+        "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
@@ -12598,7 +12598,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        101.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -12610,7 +12610,7 @@
         13.0
       ],
       "smart_followers_min_users": [
-        "GpaAndy",
+        "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
@@ -12650,7 +12650,7 @@
   "pip": {
     "7D": {
       "smart_followers_min": [
-        33.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -12662,7 +12662,7 @@
         13.0
       ],
       "smart_followers_min_users": [
-        "griffitXBT",
+        "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
@@ -12700,7 +12700,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        32.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -12712,7 +12712,7 @@
         13.0
       ],
       "smart_followers_min_users": [
-        "griffitXBT",
+        "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
@@ -12752,8 +12752,8 @@
   "sixr": {
     "7D": {
       "smart_followers_min": [
-        98.0,
         24.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -12764,7 +12764,7 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "DeFiDecoder_",
+        "Qu3drix",
         "Qu3drix",
         "Qu3drix",
         "Qu3drix",
@@ -12802,8 +12802,8 @@
     },
     "30D": {
       "smart_followers_min": [
-        98.0,
         24.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -12814,7 +12814,7 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "DeFiDecoder_",
+        "Qu3drix",
         "Qu3drix",
         "Qu3drix",
         "Qu3drix",
@@ -13059,10 +13059,10 @@
     "7D": {
       "smart_followers_min": [
         24.0,
-        24.0,
         21.0,
         21.0,
         21.0,
+        19.0,
         19.0,
         19.0,
         19.0,
@@ -13071,10 +13071,10 @@
       ],
       "smart_followers_min_users": [
         "mattdreams",
-        "mattdreams",
         "Nonsokozen",
         "Nonsokozen",
         "Nonsokozen",
+        "0xAhmadullah",
         "0xAhmadullah",
         "0xAhmadullah",
         "0xAhmadullah",
@@ -13210,7 +13210,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        11.0,
+        13.0,
         13.0,
         13.0,
         13.0,
@@ -13222,7 +13222,7 @@
         13.0
       ],
       "smart_followers_min_users": [
-        "zhumeifu3",
+        "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
         "derrelreyhan",
@@ -13312,7 +13312,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        37.0,
+        163.0,
         163.0,
         163.0,
         163.0,
@@ -13324,7 +13324,7 @@
         163.0
       ],
       "smart_followers_min_users": [
-        "huynh_tinh1604",
+        "seongmoolee",
         "seongmoolee",
         "seongmoolee",
         "seongmoolee",
@@ -13466,7 +13466,7 @@
   "standx": {
     "7D": {
       "smart_followers_min": [
-        57.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -13478,7 +13478,7 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "godfathda",
+        "airdrop_nanhan",
         "airdrop_nanhan",
         "airdrop_nanhan",
         "airdrop_nanhan",
@@ -13516,7 +13516,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        57.0,
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -13528,7 +13528,7 @@
         25.0
       ],
       "smart_followers_min_users": [
-        "godfathda",
+        "airdrop_nanhan",
         "airdrop_nanhan",
         "airdrop_nanhan",
         "airdrop_nanhan",
@@ -13670,7 +13670,7 @@
   "pudgy-party": {
     "7D": {
       "smart_followers_min": [
-        20.0,
+        21.0,
         21.0,
         21.0,
         21.0,
@@ -13720,7 +13720,7 @@
     },
     "30D": {
       "smart_followers_min": [
-        20.0,
+        21.0,
         21.0,
         21.0,
         21.0,
@@ -13772,8 +13772,8 @@
   "verse8": {
     "7D": {
       "smart_followers_min": [
-        89.0,
         69.0,
+        71.0,
         71.0,
         71.0,
         71.0,
@@ -13784,7 +13784,7 @@
         71.0
       ],
       "smart_followers_min_users": [
-        "KOO_YH",
+        "0xileri",
         "0xileri",
         "0xileri",
         "0xileri",
@@ -13822,8 +13822,8 @@
     },
     "30D": {
       "smart_followers_min": [
-        44.0,
         69.0,
+        71.0,
         71.0,
         71.0,
         71.0,
@@ -13834,7 +13834,7 @@
         71.0
       ],
       "smart_followers_min_users": [
-        "KuingBoy",
+        "0xileri",
         "0xileri",
         "0xileri",
         "0xileri",
